@@ -863,8 +863,7 @@ void do_quest( CHAR_DATA *ch, char *argument )
 	else if ( !str_cmp( arg3, "hold"   )) value = ITEM_WIELD;
 	else if ( !str_cmp( arg3, "face"   )) value = ITEM_WEAR_FACE;
 	else {
-	    send_to_char("Wear location can be from: Finger, Neck, Body, Head, Legs, Hands, Arms, 
-About, Waist, Wrist, Hold, Face.\n\r",ch); return;}
+	    send_to_char("Wear location can be from: Finger, Neck, Body, Head, Legs, Hands, Arms, About, Waist, Wrist, Hold, Face.\n\r",ch); return;}
 	if (IS_SET(obj->wear_flags,ITEM_TAKE) ) value += 1;
 	if (obj->wear_flags == value || obj->wear_flags == (value+1) )
 	{
