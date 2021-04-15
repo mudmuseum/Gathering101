@@ -1,0 +1,6 @@
+**/*.o
+tgpub/src/Gathering
+tgpub/player/*
+tgpub/player/**/*
+tgpub/log/*
+**/*.swp
