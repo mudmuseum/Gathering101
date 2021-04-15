@@ -16,3 +16,8 @@ merc: $(O_FILES)
 
 .c.o: merc.h
 	$(CC) -c $(C_FLAGS) $<
+
+clean :
+	rm -f *.o
+	rm -f Gathering
+	rm -f *.*~
