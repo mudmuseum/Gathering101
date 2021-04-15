@@ -1,0 +1,1126 @@
+#OBJECT
+Nest         0
+Name         collar~
+ShortDescr   a lamia collar~
+Description  A lamia collar is on the ground.~
+Vnum         5300
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         5324
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Dekar~
+ShortDescr   the sliced-off arm of Dekar~
+Description  The sliced-off arm of Dekar is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Brighteyes~
+ShortDescr   the sliced-off arm of Brighteyes~
+Description  The sliced-off arm of Brighteyes is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball Gamen~
+ShortDescr   the squidgy eyeball of Gamen~
+Description  The squidgy eyeball of Gamen rolls around on the floor.~
+Vnum         30006
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       1 0 30006 0
+End
+
+#OBJECT
+Nest         0
+Name         toadstool~
+ShortDescr   a toadstool~
+Description  A large toadstool grows nearby.~
+Vnum         6106
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         0
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3420
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        45
+Timer        0
+Cost         22770
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         windpipe mob~
+ShortDescr   the torn-out windpipe of the snail~
+Description  The torn-out windpipe of the snail lies broken on the floor.~
+Vnum         30013
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       5 0 30013 0
+End
+
+#OBJECT
+Nest         0
+Name         potion clear~
+ShortDescr   a clear potion~
+Description  A clear potion wrapped in leather is unnoticed placed here.~
+Vnum         311
+ExtraFlags   64
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         10
+Values       18 25 27 28
+Spell 1      'detect evil'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         7436
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3078
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves silvery~
+ShortDescr   a pair of silvery gloves~
+Description  You can see a pair of silvery gloves on the floor.~
+Vnum         7219
+ExtraFlags   3392
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       14
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         21620
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dagger~
+ShortDescr   a dagger~
+Description  A dagger with a long thin blade is here.~
+Questowner   Saria~
+Vnum         3020
+ExtraFlags   8192
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        8
+Timer        0
+Cost         504
+Values       0 9 15 11
+End
+
+#OBJECT
+Nest         0
+Name         dagger~
+ShortDescr   a dagger~
+Description  A dagger with a long thin blade is here.~
+Questowner   Saria~
+Vnum         3020
+ExtraFlags   8192
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         2002
+Values       0 9 10 11
+End
+
+#OBJECT
+Nest         0
+Name         dagger~
+ShortDescr   a dagger~
+Description  A dagger with a long thin blade is here.~
+Questowner   Saria~
+Vnum         3020
+ExtraFlags   8192
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        7
+Timer        0
+Cost         480
+Values       0 4 6 11
+End
+
+#OBJECT
+Nest         0
+Name         enchanted hammer~
+ShortDescr   enchanted hammer~
+Description  A hammer with runes etched in it is on the floor.~
+Questowner   Saria~
+Vnum         10238
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        42
+Timer        0
+Cost         17640
+Values       0 9 13 8
+End
+
+#OBJECT
+Nest         0
+Name         enchanted hammer~
+ShortDescr   enchanted hammer~
+Description  A hammer with runes etched in it is on the floor.~
+Questowner   Saria~
+Vnum         10238
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        15
+Timer        0
+Cost         2640
+Values       0 2 4 8
+End
+
+#OBJECT
+Nest         0
+Name         beak big bird bird's~
+ShortDescr   big Bird's beak~
+Description  A long yellow beak sits here.~
+Questowner   Saria~
+Vnum         24019
+ExtraFlags   4096
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        26
+Timer        0
+Cost         6075
+Values       0 2 4 9
+End
+
+#OBJECT
+Nest         0
+Name         beak big bird bird's~
+ShortDescr   big Bird's beak~
+Description  A long yellow beak sits here.~
+Questowner   Saria~
+Vnum         24019
+ExtraFlags   4096
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Quest        65536
+Level        7
+Timer        0
+Cost         490
+Values       0 6 8 9
+End
+
+#OBJECT
+Nest         0
+Name         plate ethereal suit~
+ShortDescr   a suit of ethereal plate~
+Description  A suit of shimmering plate rests here.~
+Vnum         2346
+ExtraFlags   513
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         6804
+Values       12 0 0 46
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         324
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rapier thin~
+ShortDescr   a whisper thin rapier~
+Description  A rapier is lying here.~
+Vnum         3414
+ExtraFlags   2
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         10240
+Values       0 6 12 11
+End
+
+#OBJECT
+Nest         0
+Name         blue keycard key~
+ShortDescr   a blue keycard~
+Description  A small piece of blue plastic lies on the floor here.~
+Vnum         9016
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     18
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         504
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rapier thin~
+ShortDescr   a whisper thin rapier~
+Description  A rapier is lying here.~
+Vnum         3414
+ExtraFlags   2
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8316
+Values       0 4 7 11
+End
+
+#OBJECT
+Nest         0
+Name         ring sapphire~
+ShortDescr   a sapphire ring~
+Description  A sapphire ring lies here.~
+Vnum         911
+ExtraFlags   1120
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         16641
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Chaos~
+ShortDescr   the severed hand of Chaos~
+Description  The severed hand of Chaos lies on the floor.~
+Vnum         30029
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         flute silver~
+ShortDescr   a silver flute~
+Description  A brilliant silver flute glimmers from beneath a rock.~
+Vnum         5217
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       16 1 1 11
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         10880
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         shirt~
+ShortDescr   a chequered shirt~
+Description  A chequered shirt lies here.~
+Vnum         6001
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         18060
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Demonskin~
+ShortDescr   demonskin~
+Description  A black scaley pile of demonskin lies here.~
+Vnum         10409
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         15200
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Demonskin~
+ShortDescr   demonskin~
+Description  A black scaley pile of demonskin lies here.~
+Vnum         10409
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6600
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         code box~
+ShortDescr   a code box~
+Description  A code box of indeterminate use is here.~
+Vnum         8005
+ExtraFlags   2
+WearFlags    16385
+WearLoc      -1
+ItemType     18
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         330
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         meat chicken~
+ShortDescr   a defeathered chicken~
+Description  A defeathered chicken is here on the floor.~
+Vnum         605
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       16 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of George the Butcher~
+Description  The corpse of George the Butcher is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 5311 1
+End
+
+#OBJECT
+Nest         1
+Name         side meat horse~
+ShortDescr   a side of horse~
+Description  A side of horse is here on the floor.~
+Vnum         604
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       30 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         side meat pork~
+ShortDescr   a side of pork~
+Description  A side of pork is here on the floor.~
+Vnum         603
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       23 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         side meat beef~
+ShortDescr   a side of beef~
+Description  A side of beef is here on the floor.~
+Vnum         602
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         venison chunk~
+ShortDescr   a chunk of venison~
+Description  A large chunk of venison sits here ready to be eaten.~
+Vnum         5219
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       24 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         meat chicken~
+ShortDescr   a defeathered chicken~
+Description  A defeathered chicken is here on the floor.~
+Vnum         605
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       16 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring solace~
+ShortDescr   the ring of Solace~
+Description  A shiny black ring with a gold symbol is here.~
+Vnum         10264
+ExtraFlags   8192
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1404
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Questowner   Saria~
+Vnum         3022
+ExtraFlags   8192
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         640
+Values       0 5 7 3
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         13680
+Values       57030 5 8 1
+End
+
+#OBJECT
+Nest         0
+Name         helm ethereal~
+ShortDescr   an ethereal helm~
+Description  A shimmering helm rests here.~
+Vnum         2347
+ExtraFlags   513
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         21296
+Values       5 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         scroll encrypted~
+ShortDescr   an encrypted scroll~
+Description  An encrypted scroll lies at your feet.~
+Vnum         5022
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     2
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         10912
+Values       23 19 56 22
+Spell 1      'cure blindness'
+Spell 2      'remove curse'
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         0
+Name         vallandar vallandars crown~
+ShortDescr   vallandar's crown~
+Description  A plain golden crown is lying here.~
+Vnum         30316
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       25
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2560
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7290
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1404
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         manual arts healing book~
+ShortDescr   a manual of healing arts~
+Description  A small book lies here.~
+Vnum         2322
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         12950
+Values       29 21 21 21
+Spell 1      'cure light'
+Spell 2      'cure light'
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         vallandar vallandars crown~
+ShortDescr   vallandar's crown~
+Description  A plain golden crown is lying here.~
+Vnum         30316
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       25
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9504
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         crown~
+ShortDescr   a kingly crown~
+Description  The crown of a long lost King lies forgotten here.~
+Vnum         2006
+ExtraFlags   256
+WearFlags    17
+WearLoc      -1
+ItemType     18
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7830
+Values       15 0 0 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

@@ -1,0 +1,741 @@
+#OBJECT
+Nest         0
+Name         template scroll~
+ShortDescr   a strange template~
+Description  A strange template made of an exotic green metal is placed here~
+Vnum         310
+OID          376810
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         560
+Values       14 60 4 37
+Spell 1      'sleep'
+Spell 2      'blindness'
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         hand Kitrina~
+ShortDescr   the severed hand of Kitrina~
+Description  The severed hand of Kitrina lies on the floor.~
+Vnum         30029
+OID          302135
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         bracelet silver~
+ShortDescr   a glinting silver bracelet~
+Description  A glinting hoop of silvery metal is here.~
+Vnum         1384
+OID          16567
+ExtraFlags   64
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         14652
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         fur cloak~
+ShortDescr   a fur cloak~
+Description  A large mound of fur is lying here.~
+Vnum         2276
+OID          16566
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         132
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         smock~
+ShortDescr   an artist's smock~
+Description  An artist's smock is lying here on the floor.~
+Vnum         3423
+OID          139667
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         144
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         blackberries~
+ShortDescr   some blackberries~
+Description  Some blackberries grow on a bush nearby.~
+Vnum         6010
+OID          40117
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         0
+Values       3 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         horns~
+ShortDescr   horns~
+Description  A set of horns lies here.~
+Vnum         2901
+OID          40121
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         350
+Values       0 10 19 7
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+OID          40127
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5400
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          551098
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         108
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         map~
+ShortDescr   an old, tattered map~
+Description  An old, tattered, and much faded map lies here.~
+Vnum         5013
+OID          553043
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     12
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         22500
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          551477
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         176
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          514029
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         810
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         crown~
+ShortDescr   a kingly crown~
+Description  The crown of a long lost King lies forgotten here.~
+Vnum         2006
+OID          546669
+ExtraFlags   256
+WearFlags    17
+WearLoc      -1
+ItemType     18
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         24010
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         nose mob~
+ShortDescr   the sliced off nose of an old doll~
+Description  The sliced off nose of an old doll lies on the floor.~
+Vnum         30026
+OID          142411
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30026 0
+End
+
+#OBJECT
+Nest         0
+Name         template scroll~
+ShortDescr   a strange template~
+Description  A strange template made of an exotic green metal is placed here~
+Vnum         310
+OID          498901
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9216
+Values       15 60 4 37
+Spell 1      'sleep'
+Spell 2      'blindness'
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         trident poseidon~
+ShortDescr   poseidon's Trident~
+Description  A huge three pronged spear lies here.~
+Vnum         906
+OID          579199
+ExtraFlags   1120
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       16
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         19866
+Values       0 7 9 2
+End
+
+#OBJECT
+Nest         0
+Name         ear mob~
+ShortDescr   the sliced off ear of an old doll~
+Description  The sliced off ear of an old doll lies on the floor.~
+Vnum         30025
+OID          580947
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30025 0
+End
+
+#OBJECT
+Nest         0
+Name         handkerchief hankie kerchief~
+ShortDescr   a morris handkerchief~
+Description  A white handkerchief is here.~
+Vnum         8601
+OID          40112
+ExtraFlags   0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         0
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         hand mob~
+ShortDescr   the severed hand of an old doll~
+Description  The severed hand of an old doll lies on the floor.~
+Vnum         30029
+OID          580939
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         rod devil~
+ShortDescr   the devil rod~
+Description  The mysterious devil rod lies on the floor.~
+Vnum         7200
+OID          603134
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         14652
+Values       0 7 11 5
+End
+
+#OBJECT
+Nest         0
+Name         scroll encrypted~
+ShortDescr   an encrypted scroll~
+Description  An encrypted scroll lies at your feet.~
+Vnum         5022
+OID          40111
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     2
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         1950
+Values       21 19 56 22
+Spell 1      'cure blindness'
+Spell 2      'remove curse'
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb timian~
+ShortDescr   a small dusk of timian herbs~
+Description  Some herbs are lying here, small green leaves and tiny pink flowers.~
+Vnum         300
+OID          40108
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rapier thin~
+ShortDescr   a whisper thin rapier~
+Description  A rapier is lying here.~
+Vnum         3414
+OID          40088
+ExtraFlags   2
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         14060
+Values       0 5 7 11
+End
+
+#OBJECT
+Nest         0
+Name         ear Basty~
+ShortDescr   the sliced off ear of Basty~
+Description  The sliced off ear of Basty lies on the floor.~
+Vnum         30025
+OID          904408
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       1 0 30025 0
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          66007
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         9251
+Values       57030 7 11 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          65747
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1584
+Values       57030 7 11 1
+End
+
+#OBJECT
+Nest         0
+Name         claw red redclaw~
+ShortDescr   a red dragon claw~
+Description  On the floor rests an enormous red claw.~
+Vnum         7216
+OID          1242379
+ExtraFlags   576
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       19
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5520
+Values       0 1 2 5
+End
+
+#OBJECT
+Nest         0
+Name         shackles chain~
+ShortDescr   some chain shackles~
+Description  Some chain shackles have been discarded here~
+Vnum         1356
+OID          1096641
+ExtraFlags   64
+WearFlags    4097
+WearLoc      -1
+ItemType     13
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5566
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Mandrax~
+ShortDescr   the sliced-off arm of Mandrax~
+Description  The sliced-off arm of Mandrax is lying here.~
+Vnum         14
+OID          904504
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+OID          1236790
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         1764
+Values       0 0 -1 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

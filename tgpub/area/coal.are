@@ -1,0 +1,173 @@
+#AREA	Coal    Coal's personal area~
+
+
+#MOBILES
+#50
+twilla~
+A sultry whore~
+Dressed in black PVC, a seductive woman stands here, holding a bullwhip.
+~
+What you looking at? This is Coal's girl! Go get you'r own!
+~
+2|64 0 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#50
+Black PVC Bikers Hat~
+black PVC Bikers Hat~
+Black PVC hat~
+~
+9 0 1|16
+15 1 6 0
+5 0 0
+#51
+Black PVC Bra~
+black PVC Push-Up Bra~
+Black PVC bra~
+~
+9 0 1|8
+0 1 6 0
+5 0 0
+#52
+Black PVC Corsette~
+black PVC Corsette~
+Black PVC corsette~
+~
+9 0 1|1024
+0 1 6 0
+5 0 0
+#53
+silk black g-string panties~
+black Silk G-String Panties~
+Black G-string~
+~
+9 0 1|2048
+0 1 6 0
+5 0 0
+#54
+Black Nylon Fishnet Stockings~
+black Nylon Fishnet Stockings~
+Black Stockings~
+~
+9 0 1|32
+0 1 6 0
+5 0 0
+#55
+Black PVC Elbow-Length Gloves~
+black PVC Elbow-Length Gloves~
+Black PVC gloves~
+~
+9 0 1|128
+0 1 6 0
+5 0 0
+#56
+5 inch black stiletto's~
+5 Inch Black Stiletto's~
+Black high heals~
+~
+9 0 1|64
+0 1 6 0
+5 0 0
+#57
+bull whip bullwhip~
+a long dominatrix Bullwhip~
+A long bullwhip~
+~
+5 0 1|8192
+0 1 6 4
+5 0 0
+#58
+generic bomb~
+a generic bomb~
+A generic lies here.~
+~
+40 0 1|16384
+0 0 0 0
+5 10 0
+#59
+balls arena intro introduction~
+#WBALLS ARENA#n introduction~
+A blood smeared wooden tablet lies here. Type #WLOOK TABLET#n to read it.~
+~
+12 0 1
+0 0 0 0
+5 0 0
+E
+tablet~
+#WBALLS ARENA#n INTRODUCTION:
+
+#WBALLS ARENA#n is a stage where two people (a challenger and a challengee) will step in, and duke it out, untill one is relieved of there head.  This is an arena where one can cap, for status, with no risk of paradox. This fight is held, where there is n
+o possibility of escape, and is monitored by the #WBALLS ARENA#n host.~
+#60
+sign~
+A Sign~
+There is a blood spattered wooden sign here, titled RULES. #WLOOK RULES#n to read.~
+~
+12 0 0
+0 0 0 0
+5 0 0
+E
+rules~
+        ....#WBALLS ARENA#n RULES....
+
+1) DO NOT FIGHT UNTILL THE HOST SHOUTS:
+     "LETS GET IT ON"
+2) NO FLEEING, RECALLING, MAGE CHANTING, or any 
+   other means of escape.
+3) FIGHT TO THE DEATH, a CAP must be made in
+   order for fight to end!
+4) NO LOOTING after (or anytime) cap!~
+#0
+
+
+#ROOMS
+#50
+Suspended in mid-animation~
+You have a strage feeling in your stomach, something is not right here. 
+Everything moves around you, while nothing moves at all. Directions here seem 
+oblivious. Your in a state of suspended animation, and yet you are not. This 
+is most definately a very powerful place.
+~
+0 4|1024|16384 0
+S
+#51
+Unescapale Infinity~
+You stand in a vast area, one of such great dimension, there seems absolutely no 
+escape. Bones, skulls, broken armor, pools of blood, dismemberd body parts, all 
+litter the ground here. This is obviously a very evil, and threatening place.
+~
+0 4|8192|16384 2
+S
+#52
+The main floor in #WBALLS ARENA#W~
+
+You have been summond to the #WBALLS ARENA#n!!
+This is the main floor, the stage if you will of the most notorious fighting game in all of The Gathering! Here people fight, and fight to the #Rdeath#n! There is a sign posted here. For those of you who are not exactly aware of the rules of #WBALLS ARENA#n, you should take a good close look at it.
+
+~
+0 4|8|2048|8192|16384 0
+S
+#0
+
+
+#RESETS
+*
+M 1 50 1 50			A sultry whore. to Suspended in mid-animation
+E 1 51 100 5
+E 1 50 100 6
+E 1 54 100 7
+E 1 56 100 8
+E 1 55 100 9
+E 1 52 100 12
+E 1 53 100 13
+E 1 57 100 16
+O 1 60 100 52			A Sign to The main floor in #WBALLS ARENA#W
+S
+
+
+#$

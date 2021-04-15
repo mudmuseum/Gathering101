@@ -1,0 +1,36 @@
+How to Make a demon lord ?
+
+
+How to Make A Champion :-
+act + PLR_CHAMPION
+act - PLR_DEMON
+Lord = demon lord name
+
+How to Make a demon:-
+act + PLR_DEMON
+Lord = demon lord name
+
+What demon command and powers are :-
+power name           command name
++++++++++++++++++++++++++++++++++++++++++++++++
+wings                wings          - produce wings on demon
+                     wings unfold   - unfolds ings
+                     wings fold     - puts them back 
+lifespan             lifespan       - extend the life of a head
+                     lifespan short - short life span(resume decay)
+                     lifespan long  - long life span(stop dead of headform)
+pact                 pact <victim>  - allow a victim to become a demon
+offersoul            offersoul      - allow self to made a demon
+weaponform           weaponform     - change self into a sword
+humanform            humanform      - change from weapon into human
+champions            champions      - demon who
+eyespy               eyespy         - rip out and eye and use it as
+                                      mini spy to run around the mud.
+travel               travel <victim> - all demons able to travel
+                                       to any other demon unless vicrim in
+				       combat.
+demonarmour          demonarmour     - create demonarmour
+inpart               inpart          - give out abilites to demonies
+
+Rotain
+

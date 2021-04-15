@@ -1,0 +1,1394 @@
+#AREA	Spawn   Doom~
+
+
+#MOBILES
+#9001
+zombie troop soldier~
+A zombified soldier~
+A zombified soldier stands here, scanning the area for food.
+~
+He glares back into your eyes.
+~
+4|32|64 512 -1000 S
+129 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9002
+imp brown creature~
+An imp~
+A large brown creature stands here, and begins fireing orbs of flame in your direction.
+~
+
+~
+4|32|64 8|32|512|524288 -1000 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#9003
+bull creature~
+A bull looking creature~
+A large bullish creature stands here and glances at you for only a second before he charges.
+~
+
+~
+32|64 512 -1000 S
+174 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9004
+alligator~
+A large alligator~
+A large creature swims around in a circle.
+~
+
+~
+2|32|64 512 -1000 S
+95 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9005
+Guard~
+A zombified guard~
+A large zombie stands before you, guarding his post.
+~
+
+~
+2|4|32|64 8|32|512 -1000 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9006
+guard commander~
+The zombified commander of the guards~
+A huge zombified guard stands before you, stopping your advance.
+~
+
+~
+2|4|32|64 8|32|512 -1000 S
+218 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9007
+space trooper~
+A space trooper~
+A space trooper stands here, apparently on a mission to clear out this foul place.
+~
+
+~
+4|64 512 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9008
+A space marine~
+A space marine~
+A space marine stands before you, shooting at demons and looking impressive.
+~
+
+~
+4|64|128 512 0 S
+253 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9009
+commander space marine~
+The space marine commander~
+The commander of the space marines stands here upon a pile of corpses.
+~
+
+~
+2|4|32|64 2|8|32|512|65536 0 S
+513 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9010
+horrific creature mutant~
+A horrific mutated creature~
+A horrificly mutated creature stumbles toward you and attacks!
+~
+
+~
+2|32|64 8|32|512|65536 -1000 S
+225 0 0 0d0+0 4d4+4
+0 0
+8 8 1
+#9011
+spiderlike spider android~
+A large spiderlike android~
+A large spider looking android is standing before you, firing his minigun.
+~
+
+~
+32|64 512 0 S
+145 0 0 0d0+0 5d5+5
+0 0
+8 8 1
+#9012
+small spider android~
+A small spiderlike android~
+A smaller replica of the larger spiders stands before you.
+~
+
+~
+32|64 512 0 S
+111 0 0 0d0+0 5d5+5
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#9001
+shotgun~
+an assault shotgun~
+A large caliber shotgun lies on the floor here.~
+~
+5 0 1|8192
+0 0 0 6 
+25 0 0
+A
+18 8
+A
+19 6
+#9002
+orb flame flying~
+a flying orb of flame~
+A large flaming orb floats in the air in front of you.~
+~
+5 0 1|8192
+0 0 0 6 
+0 0 0
+A
+19 9
+A
+18 11
+A
+17 80
+#9003
+pistol 9mm~
+a 9mm pistol~
+A pistol lies on the floor here.~
+~
+5 0 1|8192
+0 0 0 11 
+5 0 0
+A
+18 5
+A
+19 5
+#9004
+rifle plasma~
+a plasma rifle~
+A large humming rifle lies on the ground here.~
+~
+5 2 1|8192
+0 0 0 6 
+40 0 0
+A
+19 12
+A
+18 14
+#9005
+chainsaw~
+a large chainsaw~
+A giant vibrating saw lies here, burning fuel.~
+~
+5 0 1|8192
+0 0 0 1 
+20 0 0
+A
+18 -8
+A
+19 16
+#9006
+beret hat green~
+a green beret~
+A small green hat lies here.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+A
+19 3
+A
+18 3
+A
+17 -10
+#9007
+green kevlar vest~
+a green kevlar vest~
+A small green kevlar vest lies here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+18 3
+A
+19 3
+A
+17 -10
+#9008
+helmet blue~
+a protective blue helmet~
+A blue helmet lies on the ground.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+A
+17 -15
+A
+18 3
+A
+19 4
+#9009
+chestplate blue armor~
+an armored blue chestplate~
+A large piece of blue armor lies here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+19 4
+A
+18 3
+A
+17 -15
+#9010
+commando helmet red~
+a gleaming red commando helmet~
+A huge red helmet lies here.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+A
+17 -20
+A
+18 4
+A
+19 5
+#9011
+red combat armor~
+a suit of stunning red armor~
+A giant piece of red armor lies on the floor here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+19 5
+A
+18 5
+A
+17 -25
+#9012
+toxic waste piece~
+a piece of toxic material~
+A large hunk of glowing green material lies here.~
+~
+13 128 1
+0 0 0 0 
+-5 0 0
+A
+13 -10
+A
+5 -5
+A
+14 -10
+A
+12 -10
+#9013
+barrel toxic liquid~
+a barrel of toxic liquid~
+A large barrel filled with a toxic substance lies here.~
+~
+15 0 0
+0 0 0 0 
+5 0 0
+#9014
+keycard key green~
+a red keycard~
+A small piece of red plastic lies on the floor.~
+~
+18 0 1
+0 0 0 0 
+5 0 0
+#9015
+green key keycard~
+a green keycard~
+A small piece of green plastic lies on the floor.~
+~
+18 0 1
+0 0 0 0 
+5 0 0
+#9016
+blue keycard key~
+a blue keycard~
+A small piece of blue plastic lies on the floor here.~
+~
+18 0 1
+0 0 0 0 
+5 0 0
+#0
+
+
+#ROOMS
+#9001
+A large room~
+The door slams behind you.  All you see is
+darkness and walls that are splattered with bits
+of blood and gore.  A large green pool is in the
+center of the room, and you haven't the slightest
+idea what is inside. You just know you aren't in Kansas anymore.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 9002
+D2
+~
+~
+0 0 28572
+S
+#9002
+Above the large green pool~
+You are swimming on top of the green pool, which
+is so thick you cannot see anything more than one
+foot under its surface.
+~
+0 1|8 6
+D0
+~
+~
+0 -1 9003
+D1
+~
+~
+0 -1 9007
+D2
+~
+~
+0 -1 9001
+D3
+~
+~
+0 -1 9006
+D5
+~
+~
+0 -1 9015
+S
+#9003
+A large room~
+You are standing within a dark,blood splattered room.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 9005
+D2
+~
+~
+0 -1 9002
+D3
+~
+~
+0 -1 9004
+S
+#9004
+A large room~
+You are standing within a dark, blood splattered
+room.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 9003
+D2
+~
+~
+0 -1 9006
+S
+#9005
+A large room~
+You are standing within a dark, blood splattered
+room.
+~
+0 1 0
+D0
+~
+~
+0 -1 9016
+D2
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9003
+S
+#9006
+A large room~
+This room is none better than the ones you have
+seen before, still grotesquely splattered with
+gore and blood, but to your west you see a
+lighter room, and there seem to be people within
+it.
+~
+0 8 0
+D0
+~
+~
+0 -1 9004
+D1
+~
+~
+0 -1 9002
+D3
+~
+~
+0 -1 9008
+S
+#9007
+A large room~
+You are standing in the dank room, and out the
+windows to your east, you see a large arena,
+filled with what appear to be strange animals of
+some sort.
+~
+0 1 0
+D0
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9002
+S
+#9008
+A small passageway~
+As you get closer to the figures you saw before
+you see that they are in fact not human, at least 
+not anymore, and they appear to have one thought
+on their mind.  Lunch.
+~
+0 8 0
+D1
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9009
+S
+#9009
+A small room~
+There is a large set of stairs to your west,
+leading up to what appears to be an observation
+platform of some sort, and the hungry looking
+zombies around you appear to be trying to keep
+you from finding out what they are observing.
+~
+0 8 0
+D0
+~
+~
+0 -1 9011
+D1
+~
+~
+0 -1 9008
+D2
+~
+~
+0 -1 9010
+D3
+~
+~
+0 -1 9012
+S
+#9010
+A small room~
+More of the disgusting zombies are here, trying
+to get a bit of food.
+~
+0 1 0
+D0
+~
+~
+0 -1 9009
+S
+#9011
+A small room~
+More of the disgusting zombies are here, trying
+to get a bit of food.
+~
+0 1 0
+D2
+~
+~
+0 -1 9009
+S
+#9012
+The start of the stairs~
+You are standing at the foor of the stairs, and
+even more creatures are trying to block your
+further access.
+~
+0 8 0
+D1
+~
+~
+0 -1 9009
+D4
+~
+~
+0 -1 9013
+S
+#9013
+The top of the stairs~
+After your short run up the stairs, you are being
+greeted by what appear to be imps of some foul
+demon.
+~
+0 1 0
+D3
+~
+~
+0 -1 9014
+D5
+~
+~
+0 -1 9012
+S
+#9014
+A large observation platform~
+You are standing within a large, windowed room,
+which shows the outside of the facility, and
+appears to be here for security purposes.  There
+is a large container on the floor, which appears
+to be holding some kevlar body armor to be used
+by the "guards".
+~
+0 8|512 0
+D1
+~
+~
+0 -1 9013
+S
+#9015
+Within the muck~
+You are swimming inside the oozing green muck,
+and even though it is a bit easier to see here,
+you still cannot see clearly.  But you do see a
+few shapes swirling about you, and you believe
+you have a pretty good idea of what they might
+be.
+~
+0 1|8 6
+D4
+~
+~
+0 -1 9002
+S
+#9016
+A small hallway~
+You are inside a hallway that appears to be
+leading into the facility.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 9017
+D2
+~
+~
+0 -1 9005
+S
+#9017
+The guard post~
+This room appears to be a guard post, or at least
+it was, before these zombies took it over.
+~
+0 1|8 0
+D0
+~
+~
+1 -1 9018
+D3
+~
+~
+0 -1 9016
+S
+#9018
+The diagnostics lab~
+This room is LINED with computer monitors and
+equipment, and appears to be used for data
+analysis of some sort, or, at least it used to
+be.
+~
+0 8 0
+D0
+~
+~
+0 -1 9021
+D1
+~
+~
+0 -1 9020
+D2
+~
+~
+1 -1 9017
+D3
+~
+~
+0 -1 9019
+S
+#9019
+The diagnostics lab~
+This room is LINED with computer monitors and
+equipment, and appears to be used for data
+analysis of some sort, or, at least it used to
+be.
+~
+0 8 0
+D0
+~
+~
+0 -1 9023
+D1
+~
+~
+0 -1 9018
+S
+#9020
+The diagnostics lab~
+This room is LINED with computer monitors and
+equipment, and appears to be used for data
+analysis of some sort, or, at least it used to
+be.
+~
+0 8 0
+D0
+~
+~
+0 -1 9022
+D3
+~
+~
+0 -1 9018
+S
+#9021
+An examination lab~
+A large table sits in the center of this room,
+and upon it is an almost amusing dismembered
+corpse.  After all you have seen here thus far,
+this lifeless body is a relief.
+~
+0 8 0
+D2
+~
+~
+0 -1 9018
+S
+#9022
+A small corridor~
+This corridor seems to be used as a passageway to
+the rest of the facility.
+~
+0 8 0
+D0
+~
+~
+0 -1 9026
+D2
+~
+~
+0 -1 9020
+S
+#9023
+A small corridor~
+This corridor seems to be used as a passageway to
+the rest of the facility.
+~
+0 8 0
+D0
+~
+~
+0 -1 9024
+D2
+~
+~
+0 -1 9019
+S
+#9024
+A small corridor~
+This corridor seems to be used as a passageway to
+the rest of the facility.
+~
+0 8 0
+D1
+~
+~
+0 -1 9025
+D2
+~
+~
+0 -1 9023
+S
+#9025
+A small corridor~
+This corridor seems to be used as a passageway to
+the rest of the facility.
+~
+0 8 0
+D1
+~
+~
+0 -1 9026
+D3
+~
+~
+0 -1 9024
+S
+#9026
+A small corridor~
+This corridor seems to be used as a passageway to
+the rest of the facility.
+~
+0 8 0
+D0
+~
+~
+0 -1 9027
+D2
+~
+~
+0 -1 9022
+D3
+~
+~
+0 -1 9025
+S
+#9027
+A guard post~
+You are standing at what appears to be yet
+another guard post.  It is very similar to the one you were at before, another set of guards,
+and another gate that appears to be locked by a
+passkey stand before your advance.
+~
+0 8 0
+D0
+~
+~
+1 -1 9028
+D2
+~
+~
+0 -1 9026
+S
+#9028
+A long bridge~
+This bridge appears to span the entire length of
+a nasty pool, which appears to be filled with a
+highly corrosive substance.
+~
+0 8 0
+D0
+~
+~
+0 -1 9030
+D1
+~
+~
+0 -1 9029
+D2
+~
+~
+1 -1 9027
+S
+#9029
+The pool of acid~
+Sizzle, Pop, Sizzle, Pop.
+~
+0 4|8 0
+S
+#9030
+A long bridge~
+This bridge appears to span the entire length of
+a nasty pool, which appears to be filled with a
+highly corrosive substance.
+~
+0 8 0
+D0
+~
+~
+0 -1 9032
+D2
+~
+~
+0 -1 9028
+S
+#9031
+The pool of acid~
+Sizzle, Pop, Sizzle, Pop.
+~
+0 4|8 0
+S
+#9032
+The end of the bridge~
+You have reached the end of the bridge, and above 
+you is another guard post, and a small distance
+to the north is another security gateway.
+~
+0 8 0
+D0
+~
+~
+0 -1 9034
+D2
+~
+~
+0 -1 9030
+D4
+~
+~
+0 -1 9033
+S
+#9033
+The lookout post~
+This post appears to be a lookout for the next
+clearance gateway.
+~
+0 8 9
+D5
+~
+~
+0 -1 9032
+S
+#9034
+A long hallway~
+You are standing directly south of the next
+security gateway, which appears to be even more
+heavily guarded than the last two you passed
+thru.
+~
+0 8 0
+D0
+~
+~
+0 -1 9048
+D1
+~
+~
+1 -1 9035
+D2
+~
+~
+0 -1 9032
+S
+#9035
+A hidden passage~
+You are standing within a hidden passageway,
+which appears to lead to the large arena you saw
+thru the window earlier.
+~
+0 8 0
+D1
+~
+~
+0 -1 9036
+D3
+~
+~
+1 -1 9034
+S
+#9036
+A hidden passage~
+You are standing within a hidden passageway,
+which appears to lead to the large arena you saw
+thru the window earlier.
+~
+0 8 0
+D1
+~
+~
+0 -1 9037
+D3
+~
+~
+0 -1 9035
+S
+#9037
+A hidden passage~
+You are standing within a hidden passageway,
+which appears to lead to the large arena you saw
+thru the window earlier.  There are stairs
+leading up to the arena in this room.
+~
+0 8 0
+D3
+~
+~
+0 -1 9036
+D4
+~
+~
+0 -1 9038
+S
+#9038
+The entrence to the arena~
+You are standing within the gateway to the arena,
+which appears to be filled with an assortment of
+zombified creatures and hellish demonic figures.
+~
+0 8 0
+D1
+~
+~
+0 -1 9039
+D5
+~
+~
+0 -1 9037
+S
+#9039
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9040
+D1
+~
+~
+0 -1 9042
+D2
+~
+~
+0 -1 9041
+D3
+~
+~
+0 -1 9038
+S
+#9040
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D1
+~
+~
+0 -1 9043
+D2
+~
+~
+0 -1 9039
+S
+#9041
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9039
+D1
+~
+~
+0 -1 9044
+S
+#9042
+The center of the arena~
+You have found the biggest, baddest space marine
+of them all.  He is standing here upon a pile of
+corpses, and is smirking at you the moment you
+enter the room.  He looks like he is happy to see
+you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9043
+D1
+~
+~
+0 -1 9045
+D2
+~
+~
+0 -1 9044
+D3
+~
+~
+0 -1 9039
+S
+#9043
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D1
+~
+~
+0 -1 9046
+D2
+~
+~
+0 -1 9042
+D3
+~
+~
+0 -1 9040
+S
+#9044
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9042
+D1
+~
+~
+0 -1 9047
+D3
+~
+~
+0 -1 9041
+S
+#9045
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9046
+D2
+~
+~
+0 -1 9047
+D3
+~
+~
+0 -1 9042
+S
+#9046
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D2
+~
+~
+0 -1 9045
+D3
+~
+~
+0 -1 9043
+S
+#9047
+The arena~
+You are standing inside the large arena, and are
+slowly being surrounded by all creatures brave
+enough to attack you.
+~
+0 8 0
+D0
+~
+~
+0 -1 9045
+D3
+~
+~
+0 -1 9044
+S
+#9048
+The guard post~
+An even more heavily guarded post stands before
+you, guarded by seemingly posessed creatures.
+~
+0 8 0
+D0
+~
+~
+2 -1 9049
+D2
+~
+~
+0 -1 9034
+S
+#9049
+The containment area~
+You are standing in a room lined by caged walls,
+which contain almost hideous replicas of human
+beings.
+~
+0 8 0
+D0
+~
+~
+0 -1 9050
+D2
+~
+~
+2 -1 9048
+S
+#9050
+The containment area~
+You are standing in a room lined by caged walls,
+which contain almost hideous replicas of human
+beings.
+~
+0 8 0
+D0
+~
+~
+0 -1 9051
+D2
+~
+~
+0 -1 9049
+S
+#9051
+The end of the containment area~
+You managed to walk past the cages without being
+attacked thru the cage fencing, but the guards
+you walked right up to may be a bit more hostile.
+~
+0 8 0
+D0
+~
+~
+2 -1 9052
+D1
+~
+~
+0 -1 9055
+D2
+~
+~
+0 -1 9050
+D3
+~
+~
+0 -1 9053
+S
+#9052
+A small room~
+This room appears to be a closet of some sort,
+maybe an elevator even.  On the wall is a large
+switch, and above it some words are scribbled
+upon the wall.
+~
+0 8 0
+D2
+~
+~
+2 -1 9051
+E
+scribble writing wall~
+The writing reads as follows:
+Hope ya enjoyed it, this is the end of level 1..
+Of doom, if you hadn't guessed that already.. well if you hadn't you're an idiot anyway.. :p
+Spawn~
+S
+#9053
+The entrence to a cage~
+To the south is the latched door which holds this
+mortifying creature within its confinement.
+~
+0 8 0
+D1
+~
+~
+0 -1 9051
+D2
+~
+~
+1 -1 9054
+S
+#9054
+A cage~
+You are standing inside one of the large cages
+which only moments ago you were standing
+outside...  And right now outside seems like a
+great place to be.
+~
+0 8|512|8192 0
+D0
+~
+~
+1 -1 9053
+S
+#9055
+The entrence to a cage~
+To the south is the latched door which holds this
+mortifying creature within its confinement.
+~
+0 8 0
+D2
+~
+~
+1 -1 9056
+D3
+~
+~
+0 -1 9051
+S
+#9056
+A cage~
+You are standing inside one of the large cages
+which only moments ago you were standing
+outside...  And right now outside seems like a
+great place to be.
+~
+0 8|512|8192 0
+D0
+~
+~
+1 -1 9055
+S
+#0
+
+
+#RESETS
+*
+M 1 9004 8 9015			A large alligator to Within the muck
+O 1 9013 100 9003			A barrel of toxic liquid to A large room
+O 1 9012 100 9003			A piece of toxic material to A large room
+*
+M 1 9001 1 9003			A zombified soldier to A large room
+E 1 9001 100 16
+*
+M 1 9001 2 9008			A zombified soldier to A small passageway
+E 1 9001 100 16
+*
+M 1 9001 2 9010			A zombified soldier to A small room
+E 1 9001 100 16
+*
+M 1 9001 2 9011			A zombified soldier to A small room
+E 1 9001 100 16
+*
+M 1 9002 2 9013			An imp to The top of the stairs
+E 1 9002 100 16
+O 1 9007 100 9014			A green kevlar vest to A large observation platform
+*
+M 1 9007 4 9001			A space trooper to A large room
+E 1 9007 100 5
+E 1 9006 100 6
+E 1 9003 100 16
+*
+M 1 9005 1 9017			A zombified guard to The guard post
+E 1 9001 100 16
+G 1 9015 100
+*
+M 1 9003 1 9019			A bull looking creature to The diagnostics lab
+*
+M 1 9003 1 9020			A bull looking creature to The diagnostics lab
+*
+M 1 9008 2 9021			A space marine to An examination lab
+E 1 9009 100 5
+E 1 9008 100 6
+E 1 9004 100 16
+*
+M 1 9001 3 9025			A zombified soldier to A small corridor
+E 1 9001 100 16
+*
+M 1 9005 2 9027			A zombified guard to A guard post
+E 1 9001 100 16
+G 1 9016 100
+*
+*
+M 1 9001 4 9030			A zombified soldier to A long bridge
+E 1 9001 100 16
+*
+*
+M 1 9003 1 9030			A bull looking creature to A long bridge
+*
+M 1 9002 2 9033			An imp to The lookout post
+E 1 9002 100 16
+*
+M 1 9009 1 9042			The space marine commander to The center of the arena
+E 1 9011 100 5
+E 1 9010 100 6
+E 1 9005 100 16
+*
+M 1 9011 1 9045			A large spiderlike android to The arena
+*
+M 1 9011 1 9043			A large spiderlike android to The arena
+*
+M 1 9011 1 9039			A large spiderlike android to The arena
+*
+M 1 9011 1 9044			A large spiderlike android to The arena
+*
+M 1 9012 2 9047			A small spiderlike android to The arena
+*
+M 1 9012 2 9046			A small spiderlike android to The arena
+*
+M 1 9012 2 9040			A small spiderlike android to The arena
+*
+M 1 9012 2 9041			A small spiderlike android to The arena
+*
+M 1 9001 2 9036			A zombified soldier to A hidden passage
+E 1 9001 100 16
+*
+M 1 9006 1 9051			The zombified commander of the guards to The end of the containment area
+E 1 9004 100 16
+*
+M 1 9005 2 9051			A zombified guard to The end of the containment area
+E 1 9001 100 16
+G 1 9014 100
+*
+M 1 9010 1 9054			A horrific mutated creature to A cage
+*
+M 1 9010 1 9056			A horrific mutated creature to A cage
+*
+S
+
+
+#SPECIALS
+M  9001 spec_fido			A zombified soldier
+M  9002 spec_cast_undead			An imp
+M  9003 spec_fido			A bull looking creature
+M  9004 spec_fido			A large alligator
+M  9005 spec_guard			A zombified guardM  11008 spec_executioner			The space marine commander
+M  9010 spec_fido			A horrific mutated creature
+S
+
+
+#$

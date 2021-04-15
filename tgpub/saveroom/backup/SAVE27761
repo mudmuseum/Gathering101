@@ -1,0 +1,831 @@
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Flinker, DF Guardian~
+Description  The corpse of Flinker, DF Guardian is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       0 0 27851 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of DarkFang Cleric~
+Description  The corpse of DarkFang Cleric is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27850 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Demonic Cleric~
+Description  The corpse of Demonic Cleric is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27650 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of the Infernal Guardian~
+Description  The corpse of the Infernal Guardian is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27651 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Blue Talons Cleric~
+Description  The corpse of Blue Talons Cleric is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       0 0 27400 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of A Clan Guardian~
+Description  The corpse of A Clan Guardian is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27401 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Toreador Guardian~
+Description  The corpse of Toreador Guardian is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       0 0 27301 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Toreador Cleric~
+Description  The corpse of Toreador Cleric is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27300 1
+End
+
+#OBJECT
+Nest         0
+Name         bin arm~
+ShortDescr   a Bin of Sliced-off Arms~
+Description  A Bin of Sliced-off Arms is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Darkeye~
+ShortDescr   the sliced-off arm of Darkeye~
+Description  The sliced-off arm of Darkeye is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Jay~
+ShortDescr   the sliced-off arm of Jay~
+Description  The sliced-off arm of Jay is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Xiphias~
+ShortDescr   the sliced-off arm of Xiphias~
+Description  The sliced-off arm of Xiphias is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Cazzy~
+ShortDescr   the sliced-off arm of Cazzy~
+Description  The sliced-off arm of Cazzy is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Killtech~
+ShortDescr   the sliced-off arm of Killtech~
+Description  The sliced-off arm of Killtech is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Meriah~
+ShortDescr   the sliced-off arm of Meriah~
+Description  The sliced-off arm of Meriah is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Meriah~
+ShortDescr   the sliced-off arm of Meriah~
+Description  The sliced-off arm of Meriah is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Meriah~
+ShortDescr   the sliced-off arm of Meriah~
+Description  The sliced-off arm of Meriah is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Raelan~
+ShortDescr   the sliced-off arm of Raelan~
+Description  The sliced-off arm of Raelan is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm ZWarrior~
+ShortDescr   the sliced-off arm of ZWarrior~
+Description  The sliced-off arm of ZWarrior is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         1
+Name         arm Meriah~
+ShortDescr   the sliced-off arm of Meriah~
+Description  The sliced-off arm of Meriah is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         bin brain~
+ShortDescr   a Bin of Quivering Brains~
+Description  A Bin of Quivering Brains is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Falcoon~
+ShortDescr   the quivering brain of Falcoon~
+Description  The quivering brain of Falcoon wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Johnny~
+ShortDescr   the quivering brain of Johnny~
+Description  The quivering brain of Johnny wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Skorch~
+ShortDescr   the quivering brain of Skorch~
+Description  The quivering brain of Skorch wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Gromit~
+ShortDescr   the quivering brain of Gromit~
+Description  The quivering brain of Gromit wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Snowball~
+ShortDescr   the quivering brain of Snowball~
+Description  The quivering brain of Snowball wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Connor~
+ShortDescr   the quivering brain of Connor~
+Description  The quivering brain of Connor wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain Xiphias~
+ShortDescr   the quivering brain of Xiphias~
+Description  The quivering brain of Xiphias wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         1
+Name         brain mob~
+ShortDescr   the quivering brain of the weaponsmith~
+Description  The quivering brain of the weaponsmith wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         foot mob~
+ShortDescr   the severed foot of a raggedy anne doll~
+Description  The severed foot of a raggedy anne doll lies on the floor.~
+Vnum         30030
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Demonic Cleric~
+Description  The corpse of Demonic Cleric is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       0 0 27650 1
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of the Infernal Guardian~
+Description  The corpse of the Infernal Guardian is lying here.~
+Vnum         10
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       0 0 27651 1
+End
+
+#OBJECT
+Nest         0
+Name         bin leg~
+ShortDescr   a Bin of Sliced-off Legs~
+Description  A Bin of Sliced-off Legs is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        67584
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         leg Tombstone~
+ShortDescr   the sliced-off leg of Tombstone~
+Description  The sliced-off leg of Tombstone is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         1
+Name         leg Conan~
+ShortDescr   the sliced-off leg of Conan~
+Description  The sliced-off leg of Conan is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         1
+Name         leg Kalari~
+ShortDescr   the sliced-off leg of Kalari~
+Description  The sliced-off leg of Kalari is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 15 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

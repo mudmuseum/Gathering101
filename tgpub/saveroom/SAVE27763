@@ -1,0 +1,852 @@
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          204113
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          204153
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          204313
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         flute silver~
+ShortDescr   a silver flute~
+Description  A brilliant silver flute glimmers from beneath a rock.~
+Vnum         5217
+OID          243266
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         0
+Values       17 2 2 11
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         0
+Name         belt holster~
+ShortDescr   a holstered belt~
+Description  A holstered belt is here.~
+Vnum         1374
+OID          243204
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     15
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         330
+Values       20 0 -1 0
+End
+
+#OBJECT
+Nest         1
+Name         wand~
+ShortDescr   a blackened wand~
+Description  A blackened wand is here.~
+Vnum         1375
+OID          1612229
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2025
+Values       16 5 5 37
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         mail heavy banded~
+ShortDescr   heavy banded mail~
+Description  A large suit of heavy banded mail is here~
+Vnum         1520
+OID          96568
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6084
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Mandrax~
+ShortDescr   the sliced-off arm of Mandrax~
+Description  The sliced-off arm of Mandrax is lying here.~
+Vnum         14
+OID          71853
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Escape~
+ShortDescr   the sliced-off leg of Escape~
+Description  The sliced-off leg of Escape is lying here.~
+Vnum         15
+OID          123239
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         bone~
+ShortDescr   a large leg bone~
+Description  A large leg bone rests on the ground.~
+Vnum         5005
+OID          100966
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       0 6 8 7
+End
+
+#OBJECT
+Nest         0
+Name         mail heavy banded~
+ShortDescr   heavy banded mail~
+Description  A large suit of heavy banded mail is here~
+Vnum         1520
+OID          124133
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3420
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         buckler spiked~
+ShortDescr   a spiked buckler~
+Description  A small spiked buckler rests here.~
+Vnum         2342
+OID          216030
+ExtraFlags   0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1200
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm hercules~
+ShortDescr   the Titanic Arm plates of Hercules~
+Description  Arm plates of the Zodiac lie here.~
+Vnum         9302
+OID          88742
+ExtraFlags   1089
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         16641
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         silver sceptre~
+ShortDescr   a silver sceptre~
+Description  A short silver sceptre is lying here.~
+Vnum         30310
+OID          68399
+ExtraFlags   1
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         24500
+Values       30 2 2 57
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          231137
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          231116
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          231082
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          229622
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         foot mob~
+ShortDescr   the severed foot of Rasdan's white pegasus~
+Description  The severed foot of Rasdan's white pegasus lies on the floor.~
+Vnum         30030
+OID          22393
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         foot mob~
+ShortDescr   the severed foot of Rasdan's white pegasus~
+Description  The severed foot of Rasdan's white pegasus lies on the floor.~
+Vnum         30030
+OID          231364
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         foot mob~
+ShortDescr   the severed foot of Rasdan's white pegasus~
+Description  The severed foot of Rasdan's white pegasus lies on the floor.~
+Vnum         30030
+OID          243870
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         ring ruby~
+ShortDescr   a small ruby ring~
+Description  A small ruby ring lies in the dirt.~
+Vnum         5112
+OID          244537
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5819
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         foot mob~
+ShortDescr   the severed foot of the White Yeti~
+Description  The severed foot of the White Yeti lies on the floor.~
+Vnum         30030
+OID          267488
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         manual arts healing book~
+ShortDescr   a manual of healing arts~
+Description  A small book lies here.~
+Vnum         2322
+OID          269767
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         4968
+Values       29 21 21 21
+Spell 1      'cure light'
+Spell 2      'cure light'
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          217373
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb timian~
+ShortDescr   a small dusk of timian herbs~
+Description  Some herbs are lying here, small green leaves and tiny pink flowers.~
+Vnum         300
+OID          236448
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb timian~
+ShortDescr   a small dusk of timian herbs~
+Description  Some herbs are lying here, small green leaves and tiny pink flowers.~
+Vnum         300
+OID          236424
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb timian~
+ShortDescr   a small dusk of timian herbs~
+Description  Some herbs are lying here, small green leaves and tiny pink flowers.~
+Vnum         300
+OID          236226
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          211953
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          205581
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          206860
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          206883
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          206919
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          206958
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wild flowers~
+ShortDescr   wild flowers~
+Description  A bunch of pretty wild flowers is here.~
+Vnum         304
+OID          205780
+ExtraFlags   1024
+WearFlags    16401
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

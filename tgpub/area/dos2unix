@@ -1,0 +1,13 @@
+#!/bin/sh
+tmp=tmptmp.$$
+trap "rm -f $tmp" 0 1 2 3 15
+action=DOS
+[ `basename $0` = "dos2unix" ] && action=Unix
+for i
+    do
+mv $i $tmp
+if [ $action = DOS ]
+then gawk 'BEGIN {ORS = "\r\n"};1' $tmp > $i
+else tr -d '\r' < $tmp > $i
+fi
+    done

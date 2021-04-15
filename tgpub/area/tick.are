@@ -1,0 +1,3422 @@
+#AREA   Ceivar  The City (The Tick)~
+
+
+#MOBILES
+#22200
+tick hero~
+The Tick~
+The Tick, mighty blue protector of The City, stands before you.
+~
+Towering over you is an enormous man in a blue suit, with little antennae.
+He is the defender of justice in this fair City, and all evildoers must be
+prepared to face him.  He is nigh-invulnerable, and as courageous as
+they come.  He is The Tick!!!
+~
+2|64 8|32|128|512|8192 1000 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22201
+arthur sidekick~
+Arthur~
+A man in an odd-looking white costume.
+~
+A small, chubby man in a little white suit is walking down the street.  The
+white suit is an odd-looking costume, perhaps a bunny?  No, wait.  It's a
+moth.
+~
+4|64|128 8|32|512|524288 800 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22202
+american maid heroine~
+American Maid~
+American Maid, The City's most patriotic superperson, stands here proudly.
+~
+She is dressed in a red, white, and blue domestic's uniform.  Besides being
+the most patriotic superperson in The City,  she's the most competent (or at
+least one of the most competent).
+~
+2|64 128 900 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22203
+die fledermaus hero~
+Die Fledermaus~
+Die Fledermaus reminds you of Batman, but not in any of the good ways.
+~
+One thing can be said of Die Fledermaus:  of The City's superheroes, he has
+the worst attendance record.
+~
+2|64|128 0 500 S
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22204
+sewer urchin hero~
+Sewer Urchin~
+Sewer Urchin listens to Die Fledermaus, and says, 'Definitely, definitely bad'.
+~
+Sewer Urchin smells terrible.  But, then again, when's the last time you
+washed?  Although you don't exactly hang out in the sewers.  (With this
+issue still undecided, you move on.)  He's wearing a surprisingly clean
+purple spiny uniform.  He's actually very impressive, except for his
+sidekickesque manner.
+~
+2|64 0 600 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22205
+clone arthur~
+a clone of Arthur~
+The blue-faced creature in the white costume says, "I Arthur."
+~
+A closer look reveals that this creature is not Arthur at all, but instead
+it is a rather stupid clone of him.
+~
+2|4|64 0 -400 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22206
+clone tick mucous~
+a clone of the Tick, made of mucous~
+A towering green gooey form, the mucous clone is a horrible sight to see.
+~
+This monster looks exactly like the Tick, except that it's green and made of
+mucous.  And it leaves a slime trail.  And it's attacking you.  And...and...
+Okay, so it doesn't look _exactly_ like the Tick.  It does kind of resemble
+him, though.
+~
+2|32|64 8|32|128|512 -500 S
+57 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22207
+thrakkorzog alien villain~
+Thrakkorzog~
+Thrakkorzog, a massive alien from Dimension 14B, makes evil plans here.
+~
+You're confused by the pronunciation of this creature's name.  Whatchamazog?
+Laxativelog?  Four-yaks-and-a-dog?  Sapsuckerfrog?  Maybe you can just
+call it Susan.
+
+Thrakkorzog's tongue screams, 'BRAINS!!!' as Thrakkorzog smiles.  The alien
+reveals its evil plan to conquer the world with a clone army.
+~
+2|32|64 8|32|128|512 -1000 S
+57 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22208
+roommate thrakkorzog's~
+Thrakkorzog's roommate~
+Thrakkorzog's roommate wanders into the room.
+~
+The roommate is as completely uninterested as a person can be.  He
+walks in and out, looking at the alien's evil machines with (perhaps) a mild
+interest.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22209
+dinosaur neil mutant~
+Dinosaur Neil~
+A gigantic green mutant dinosaur, Neil runs amok (or, more often, walks amok).
+~
+Dinosaur Neil has become a major hazard.  Over 50 feet tall, the towering
+monstrosity could destroy The City easily.  And what of his moustache?
+He has the moustache of a Titan!
+~
+2|64 128 0 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22210
+el seed villain~
+El Seed~
+A man? dressed like a matador stands on a raised platform--El Seed!
+~
+El Seed is making a speech (with a Spanish accent).
+'SOLDIERS OF CORN, LEND ME YOUR EARS!' he yells.
+He mumbers something to himself, laughs, then says, 'You are the glorious
+army of El Seed (that's me).  I am on a big power trip, and you are coming
+with me!  My assistants, the lovely Bee Twins, will pass out medical waiver
+forms, and ball-point pens.  PLEASE PRINT CLEARLY!'
+You think to yourself that he reminds you of a sunflower.
+~
+2|64 0 -900 S
+58 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22211
+yank monkey~
+a monkey~
+Yank, the space monkey, now a supergenius.
+~
+Yank could be a regular monkey, except he's dressed in an astronaut uniform,
+and he's speaking three languages.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22212
+pineapple pokopo villain~
+Pineapple Pokopo~
+The dictator of Pokoponesia is an enormous ox of a man.
+~
+Pineapple Pokopo is a huge man, with a pineapple for a head. (?)  He's busy,
+looking very regal and important (and not very bright).
+~
+2|64 0 -800 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22213
+mayor blank~
+Mayor Blank~
+Mayor Blank cowers behind his desk, unable to face the Terror.
+~
+If it weren't for all these supervillains popping up, Mayor Blank would be
+just another in a long line of mayors who were just there, filling the office.
+~
+2|64|128 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22214
+ottoman villainess~
+the Ottoman~
+A very regal woman rides about in a crowd of mobile furniture.
+~
+The Ottoman is planning to conquer The City, but first, she needs two things:
+an army of furniture, and a wedding gown, for her marriage to Die Fledermaus.
+(Naturally, Die Fledermaus isn't aware of this upcoming marriage.)
+~
+2|64 128|524288 -700 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22215
+feral boy hero~
+Feral Boy~
+A wild-looking kid, probably Feral Boy.
+~
+Feral Boy is one of the Civic-Minded Five.  He's wearing nothing but a
+pair of cutoffs, and his hair is long and unkempt.
+~
+64 0 600 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22216
+angry red herring milton rowe villain~
+the Angry Red Herring~
+The Angry Red Herring roams the rooftops of The City.
+~
+Milton Rowe, now the Angry Red Herring, is committed to a life of crime.
+~
+2|32|64 0 -550 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22217
+terror villain~
+the Terror~
+The Terror looks awfully old to be a supervillain.
+~
+Dressed in black, with the letter 'T' on his chest, the Terror used to be the
+most intimidating of adversaries.  Now, he's more like the most intimidating
+of old men.  He coughs, and wheezes.
+~
+2|64 0 -1000 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22218
+ton villain human~
+the Human Ton~
+The Human Ton is big.  BIG.
+~
+He's physically dominant, but depends entirely on a hand puppet (Handy)
+for any intellectual decisions.
+~
+2|64 0 -700 S
+58 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22219
+handy puppet hand~
+Handy~
+Handy makes a literary reference, then shouts, 'READ A BOOK!'
+~
+Handy is a green hand puppet, attached to the Human Ton's large meaty hand.
+You have a feeling that Handy could hold his own in a fight.
+~
+2|64 0 -950 S
+56 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22220
+jungle janet heroine~
+Jungle Janet~
+Jungle Janet is almost a female version of Tarzan.
+~
+She appears to be quite a bit more sophisticated than Tarzan could ever
+hope to be, though.
+~
+64 0 700 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22221
+stalin joe villain~
+Joe Stalin~
+Often mistaken for the Soviet leader, Joe Stalin isn't such a bad guy.
+~
+Joe Stalin was grabbed up by the Terror in order to impose a reign of terror
+(what else) on The City.  He thought (rightly so) that a powerful deadly
+evil dictator would be a major aid to his conquest.
+~
+2|64 0 -100 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22222
+cow~
+the Man-Eating Cow~
+The Man-Eating Cow is just a regular cow.
+~
+You wouldn't even know it was a 'man-eating' cow, except that you saw
+it eat a couple guys.  You wonder what sort of toppings cattle like on their
+prey.  Are the humans called hamburgers if they're chopped up and put on buns?
+Why is beef called hamburgers?  There's no ham in it.  Hmm...
+~
+64 0 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22223
+living doll hero~
+the Living Doll~
+An elderly man, the Living Doll still has some fire left.
+~
+He looks at you and says, 'I'm full of tinier men!!'
+It seems that this is true.  The top half of his body comes off, to reveal a
+smaller duplicate of him.  How long can this go on?
+~
+2|64 128 800 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22224
+visual eye hero~
+the Visual Eye~
+The Visual Eye croaks, 'Rocket from the socket!'
+~
+The Visual Eye is no longer in the prime of his life.  However, he is still
+trying to foght for justice...when he's not napping.
+~
+2|64 0 750 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22225
+4-legged man hero leg~
+4-Legged Man~
+The leader of The Civic-Minded Five, 4-Legged Man, stands here proudly.
+~
+One of the fastest heros in The City, 4-Legged Man can run for help (The
+Tick) more adeptly than anyone else.
+~
+2|64|128 0 900 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22226
+carpeted man hero~
+the Carpeted Man~
+The Carpeted Man wanders The City, sweating in his famous costume.
+~
+The Carpeted Man, dressed in full shag carpet, looks very uncomfortable as
+he shuffles his feet, building up a static charge to zap his enemies.
+~
+64 0 800 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22227
+captain mucilage~
+Captain Mucilage~
+Armed with adhesive justice, Captain Mucilage stands before you.
+~
+Captain Mucilage, another member of the Civic-Minded Five, stands here in a
+uniform that looks like a couple of glue bottles' tops have been stuck on his
+hands, and another on his head.
+~
+64 0 800 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22228
+chairface chippendale villain~
+Chairface Chippendale~
+The kingpin of crime, and the birthday boy, Chairface Chippendale!
+~
+Chairface (called this for obvious reasons) looks like he's enjoying his
+birthday immensely.  He motions for you to sit down, and have some cake.
+~
+2|64 128 -900 S
+58 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22229
+professor chromedome~
+Professor Chromedome~
+Professor Chromedome is talking to Chairface.
+~
+Professor Chromedome has arranged the entire birthday party without Chairface
+being aware of it.  He's now enjoying his achievement, and eating some cake.
+~
+2|64 0 -800 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22230
+furniture table~
+the table~
+A table advances toward you.  Wait a minute?!?
+~
+A large oak table is circling you, with a very aggressive posture, at least
+for a piece of furniture.
+~
+2|64 0 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22231
+sofa couch furniture~
+the sofa~
+A large Chesterfield sofa charges across the room.
+~
+The sofa is mindlessly obeying the Ottoman, and is bound to move up in
+the ranks of her furniture army.  It doesn't seem to like you very much.
+~
+2|64 0 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22232
+footstool furniture~
+the footstool~
+A footstool is sneaking up behind you for a better shot.
+~
+The footstool has slipped into the shadows, and is planning a treacherous
+assault from behind.
+~
+2|64 32768|65536 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22233
+vatos eureka scientist~
+J. J. "Eureka" Vatos~
+The long-lost scientist, J. J. "Eureka" Vatos, sits in Blowhole's belly.
+~
+An elderly gentleman, Vatos is fairly at home here in the belly of a giant whale.
+You wonder why he never tried to get out, but assume (correctly) that he hasn't
+tried.  He sits on the 'floor' and does a lot of thinking.
+~
+2|64 0 0 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22234
+idea man villain~
+the Idea Man~
+The Idea Man sulks in the Evil Eye, because his latest plan failed.
+~
+The Idea Man is busy drowning his sorrows in hard liquor, and planning to
+acquire yet another blimp, for his next evil plan, when he gets around to
+making said plan.
+~
+2|64 0 -850 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22235
+ants swarm~
+the swarm of ants~
+A swarm of angry ants charges down the anthill toward you.
+~
+Ants.
+Lots of ants.  All over the place.  They're swarming out of a trench coat.
+You had not realized that a trench coat could hold so much.
+~
+64 32768 -390 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22236
+ant queen villain~
+the Ant Queen~
+The queen of the ants assaults you furiously.
+~
+The Ant Queen stands here, planning her revenge on mankind, for all the cruel
+injustices it has dealt her people.
+~
+2|64 0 -450 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22237
+swiss klaus spy villain~
+Klaus, a Swiss industrial spy~
+Klaus looks like he's in pain.  He must have fallen off the roof.
+~
+Klaus appears to have pulled out the wrong attachment on his Swiss army
+knife.  Instead of the helicopter, he got the corkscrew, and fell.  It looks like
+he's done some serious damage to himself.
+~
+2|64 256 -500 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22238
+bernard swiss spy villain~
+Bernard, leader of the Swiss industrial spies~
+An older Swiss gentleman, Bernard is the leader of the spies.
+~
+Bernard leads the Swiss industrial spies, and is quick to point out that
+their actions in no way reflect the policies and beliefs of the nation
+of Switzerland.
+~
+2|64 0 -550 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22239
+franz swiss spy villain~
+Franz, a Swiss industrial spy~
+Franz looks off the rooftop, wincing at Klaus's terrible fall.
+~
+Franz sees his fellow 'grunt', Klaus, fall to earth with a thud.  He turns
+to the elderly man, Bernard, as if wondering whether anything can be done.
+~
+2|64 0 -450 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22240
+hilda villainess villain swiss spy~
+Hilda, a Swiss industrial spy~
+After watching Klaus fall, Hilda looks to Bernard for orders.
+~
+The only female among the Swiss industrial spies, Hilda follows Bernard's
+orders swiftly, and accurately.  She's a credit to whoever trained her.
+~
+2|64 0 -475 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22241
+dot sister~
+Dot, Arthur's sister~
+Dot is waiting here for Arthur and the Tick to return from their rounds.
+~
+Arthur's sister has enough common sense to avoid the superhero business as
+much as she can.  She's sitting here, enjoying a cold beverage, and waiting
+for her brother to return from patrol.
+~
+2|64 0 250 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22242
+king mole-man~
+the king of the mole-men~
+The king of the mole-men steps out of his hole, and looks around the room.
+~
+The king of the mole-men is visiting his friends on the surface, The Tick and 
+Arthur.  He's hanging out in the basement, since the bright light hurts
+his eyes.
+~
+2|64|128 512 300 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22243
+father dad~
+Charles's father~
+A model 50's father figure, Charles's father sits here, drinking coffee.
+~
+Charles' father is relaxing in the kitchen, having breakfast and reading
+the newspaper.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22244
+mother mom~
+Charles's mother~
+An average housewife, nobody would expect her son to be the Brainchild!
+~
+She hurries about the kitchen, doing some cleaning up after breakfast.  She
+looks out back at the treehouse, and smiles happily.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22245
+skippy robot dog~
+Skippy~
+Skippy may once have been a regular dog, but Charles has 'enhanced' him.
+~
+Skippy is perhaps the most dangerous watchdog you have ever beheld.  In
+his robotic exoskeleton, he is deadly dangerous.
+~
+2|32|64 8|32|128|512|524288 0 S
+56 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22246
+nanny brunch miriam robot~
+Miriam Brunch, the Mad Nanny~
+Miriam Brunch mindlessly wreaks havoc upon The City in a huge robot suit.
+~
+Miriam Brunch has apparently been taken over by Charles, the Brainchild.  She
+is being forced to ravage The City.  She looks like a regular nanny, except
+for the giant metal suit.
+~
+64 8|32|128|512 0 S
+56 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22247
+charles brainchild villain~
+Charles~
+Charles is scratching down evil ideas in a notebook.
+~
+Charles has removed the top of his skull, revealing his brain to the world.
+He has a glass globe over it, and is very proud of his achievements.
+~
+2|64 0 -1000 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22248
+sister~
+Charles's sister~
+Charles' sister is acting as his henchman, er, henchperson.
+~
+A regular little girl, Charles' sister is playing along with his 'evil phase'.
+She thinks of it as an interesting game.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22249
+caped crusading chameleon hero~
+the Caped/Crusading Chameleon~
+The Caped/Crusading Chameleon shakes violently, muttering 'Can't...do...plaid'
+~
+The Chameleon is quivering uncontrollably, unable to turn himself to plaid.
+He gasps for breath, and appears to be about to pass out.
+~
+2|64 256 700 S
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22250
+barry~
+Barry~
+Barry stands here, furious that the Tick has 'his' name.
+~
+Barry feels that he is the Tick, and nobody should take his name.  He's more
+than willing to fight for it (and for many other things as well).
+~
+2|32|64 0 300 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22251
+bulb deadly villain pigleg~
+Pigleg~
+Pigleg, once the Deadly Bulb, has been captured.
+~
+A man with a pig on the end of his right leg sits in the cell, feeding and
+comforting the leg/pig.  Beside him is a bright glowing helmet, which is shaped
+like a lightbulb.
+~
+2|64 0 -300 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22252
+breadmaster bread villain baker~
+the Breadmaster~
+The Breadmaster sulks in a corner, over a half-baked loaf.
+~
+The Breadmaster has failed, and is crying in a loaf of bread.  This,
+naturally, results in a soggy loaf of bread.
+~
+2|64 0 -500 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22253
+bee twin~
+the Bee Twin~
+One of the Bee Twins is checking the Corn Soldiers over.
+~
+The Bee Twin says in a buzzy sort of voice, 'Here's your medical waiver form.'
+~
+2|64 524288 -250 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22254
+bee twin~
+the Bee Twin~
+A Bee Twin stands by El Seed, smiling and buzzing.
+~
+The Bee Twin eyes you suspiciously, and says, 'What kind of Corn Soldier are
+you?'
+~
+2|64 524288 -300 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22255
+corn soldier~
+the Corn Soldier~
+A Corn Soldier stands in the ranks, saluting El Seed.
+~
+An animate cornstalk, it stands in the ranks and salutes El Seed.
+~
+64 0 -100 S
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22256
+corn soldier colonel~
+the Corn Soldier~
+A high-ranking Corn Soldier.  Must be a colonel.
+~
+This Corn Soldier is quite important.  He's the leader of what appears to be
+this entire section of the field, and he reports directly to El Seed.
+~
+64 0 -150 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22257
+carmella vatos daughter~
+Carmella Vatos~
+A rather attractive girl in a moth suit--Carmella, daughter of J. J. "Eureka" Vatos.
+~
+Carmella is enjoying a peaceful conversation with Dot, while waiting for
+Arthur to return.
+~
+2|64 524288 700 S
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22258
+son boy~
+the Human Bullet's son~
+A young boy is preparing to fire the enormous cannon.
+~
+The boy does some last minute checks on the enormous cannon, then prepares to
+fire it.
+~
+2|64 0 450 S
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22259
+human bullet hero~
+the Human Bullet~
+The Human Bullet is in a cannon, yelling down, 'FIRE ME, BOY!!'
+~
+The Human Bullet has leapt from the picnic table, charged to the giant
+cannon, climbed in, and prepared to hurtle through the air.
+~
+2|64 0 750 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22260
+tick's head~
+the Tick's mind~
+The Tick's head is flying around with little wings.
+~
+An object that looks like the Tick's head with wings is flying around here,
+asking existential questions.
+~
+64 524288 0 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22261
+midget fish~
+the midget with a fish~
+A little blue midget is chasing you, with a fish!!
+~
+Why do midgets keep hitting you with fish?
+~
+32|64 128 0 S
+58 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22262
+midget fish~
+the midget with a fish~
+Another blue midget with a fish is chasing you!
+~
+This is definitely the strangest dream you have ever had.
+~
+32|64 128 0 S
+58 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22263
+bomber~
+The Evil Midnight Bomber What Bombs at Midnight~
+A man looks at you, with a wild look in his eyes.
+~
+The Evil Midnight Bomber is pretty talkative.  He looks at you, surprised
+that you've found him, and says, 'You'll never prove a thing, copper.  I'm just
+a part time electrician..I..I..I..BAD IS GOOD, BABY!! DOWN WITH GOVERNMENT!!'
+
+He rushes around, cackling maniacally and shouting, 'BOOM, BABY, BOOM!!!'
+~
+2|64 8|32|128|512|32768|65536 -1000 S
+72 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22264
+blowhole whale~
+Blowhole~
+Blowhole, the cross-country whale, is jogging down the road.
+~
+An enormous whale, in the process of duplicating his feat from ten years
+ago.  Blowhole is running across the country again.  His footsteps rock
+the area.  Spectators cheer him on.  Nothing stops him.
+
+     *BOOM*     *BOOM*     *BOOM*     *BOOM*
+
+Blowhole leans forward as he runs, and he swallows you whole.
+~
+2|64 8|32|128|512 0 S
+98 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22265
+clown proto-clown villain~
+Proto-Clown~
+An enormous furious clown is smashing everything.
+~
+You find yourself face to face with the most hilarious danger Mother Nature
+(and Father Science?) ever thought of.  A gigantic, monstrous clown.  Yep,
+it's a clown.  Floppy shoes, big red nose.  Everything checks.  And he's funny.
+
+You giggle in Proto-Clown's presence.
+
+Proto-Clown shouts, 'CLOWN SMASH!!!'
+
+He charges you!  You see an enormous clown fist smash into you.
+
+Everything goes black.
+
+After a few minutes, you start to see color again.
+~
+2|64 8|32|512 -300 S
+98 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22266
+owner shopkeeper furniture bob vila~
+the furniture store's owner, Bob~
+A guy who looks a lot like Bob Vila is standing here.
+~
+You realize that this man, whose name is (oddly enough) Bob, owns the furniture
+store.  Maybe you can get him to take your useless furniture off your hands.
+He's taking the robbery of his store pretty badly.  He's kind of shaken up.
+~
+2|64 0 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22267
+santa clone~
+the Santa clone~
+A clone of Santa is ruining Christmas for everyone.
+~
+The clone looks just like all the rest of the Santa clones.  They're all over
+the place, wearing red suits, and causing trouble.
+~
+64 0 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22268
+multiple santa villain~
+Multiple Santa~
+The evil Multiple Santa himself is pumping himself full of electricity.
+~
+This is the mastermind behind the Santa scheme.  He's electrically creating
+clones of himself, to take over The City.  This jolly fat evildoer must be
+stopped.  Right now, he's plugged into the generator.  You don't know how
+many megavolts are running through him.
+~
+2|64 0 -600 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22269
+waitress fran~
+Fran, the waitress~
+The waitress looks at you and mumbles, 'May I help you?'
+~
+Fran looks like the kind of waitress who doesn't take crap from anyone.  She's
+had to throw some of The City's toughest heros out of this establishment, and
+she can probably do the same with you.
+~
+2|64 8|32 200 S
+98 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22270
+sid bartender~
+Sid, the bartender~
+The bartender here is into some serious lurking.
+~
+Sid leans on the wall behind the bar, smiling an evil smile, and possibly
+even willing to serve you a drink, if you're polite...
+~
+2|64 0 -200 S
+98 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22271
+big shot hero~
+Big Shot~
+Big Shot is relaxing here in the Comet Club.
+~
+You remember Big Shot from the news.  As you recall, he does a lot of shooting
+people.  But he looks surprisingly relaxed and in control of himself.
+~
+2|64 0 0 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#22200
+key arthur~
+a key to Arthur's apartment~
+A key to Arthur's apartment lies here.~
+~
+18 0 1
+0 1 6 11 
+0 0 0
+#22201
+key chairface~
+a key to Chairface's mansion~
+A very intricate golden key lies here.~
+~
+18 0 1
+0 1 6 11 
+0 0 0
+#22202
+key 14b~
+a key to apartment 14B~
+A key to apartment 14B.  You know this because it says so.~
+~
+18 0 1
+0 1 6 11 
+0 0 0
+#22203
+key prison~
+the key to The City's prison~
+A heavy iron key.~
+~
+18 0 1
+0 1 6 11 
+0 0 0
+#22204
+little wooden boy burning remains~
+the burning remains of Little Wooden Boy~
+The flaming remains of Little Wooden Boy.  Perhaps the smoke will force Blowhole to release you?~
+~
+18 1 1|16384
+0 1 6 11 
+4 0 0
+A
+19 6
+#22205
+box happy~
+the Happy Box~
+This is a trick the Tick taught Big Shot.  'Put it in the Happy Box,' he said.~
+~
+15 1|32|64|1024 1|16384
+100 1 -1 0 
+5 0 0
+A
+4 2
+A
+17 -20
+A
+23 -3
+A
+24 -3
+A
+12 50
+#22206
+suit santa red~
+a battle-scarred Santa suit~
+A Santa suit that has been horribly abused.~
+~
+9 512|2048 1|8
+12 0 0 0 
+10 0 0
+A
+23 -4
+A
+24 -4
+#22207
+santa hat red~
+a Santa hat~
+A red hat, like Santa wears.~
+~
+9 512|2048 1|16
+10 0 0 0 
+4 0 0
+A
+13 20
+A
+17 -10
+A
+5 2
+#22208
+evil eye cocktail drink~
+an Evil Eye cocktail~
+A drink that'll put your 'Eye' out.~
+~
+17 1 1
+3 3 7 0 
+1 0 0
+#22209
+mug cafe finest drink~
+a mug of the Cafe's finest~
+A huge mug full of a dark bubbling drink.~
+~
+17 2 1
+12 12 8 0 
+3 0 0
+#22210
+beer bottle~
+a regular beer~
+A regular bottle of beer.~
+~
+17 0 1
+3 3 1 1 
+1 0 0
+#22211
+bacon eggs biscuit breakfast~
+a plate of food (bacon, eggs, and a biscuit)~
+A delicious-looking breakfast, consisting of bacon, eggs, and a biscuit.~
+~
+19 0 1
+5 0 0 0 
+1 0 0
+#22212
+milk glass~
+a tall glass of milk~
+A tall, refreshing glass of milk.~
+~
+17 0 1
+5 5 10 0 
+1 0 0
+#22213
+burger dinner~
+a burger from The Diner~
+Dinner is served, and Fran's burgers are the best around.~
+~
+19 0 1
+12 0 0 0 
+1 0 0
+#22214
+nose clown proto-clown red~
+a big red nose~
+Proto-Clown's big, funny, red nose.~
+~
+9 0 1|16
+12 0 0 0 
+5 0 0
+A
+3 -5
+A
+4 -5
+#22215
+shoes floppy clown proto-clown~
+a pair of floppy shoes~
+Proto-Clown's big floppy shoes.~
+~
+9 0 1|64
+12 0 0 0 
+14 0 0
+A
+3 -5
+A
+4 -5
+#22216
+running shoes whale-sized~
+a HUGE pair of shoes~
+A whale-sized pair of running shoes.~
+~
+9 32|64|4096 1|64
+12 0 0 0 
+15 0 0
+A
+14 50
+#22217
+fish~
+a vicious fish~
+An incredibly unpleasant-looking fish.~
+~
+5 0 1|8192
+0 1 6 0 
+7 0 0
+A
+19 5
+A
+18 5
+A
+1 2
+#22218
+deadly bulb helm lightbulb~
+the Deadly Bulb helm~
+A lightbulb with a skull painted on it.~
+~
+1 1|2|128|512|2048 1|16
+12 0 20 0 
+5 0 0
+A
+12 25
+A
+13 -10
+#22219
+pigleg pig~
+a pig~
+A large pink pig, possibly the world's oddest birth defect.~
+~
+9 64|4096 1|64
+12 0 0 0 
+5 0 0
+A
+13 25
+A
+14 -75
+A
+5 1
+A
+1 2
+A
+2 -2
+#22220
+trench coat~
+a trench coat~
+A genuine trench coat (you can hide anything under this).~
+~
+15 128|512 1|1024
+100 1 -1 0 
+10 0 0
+A
+13 50
+#22221
+moth suit~
+a moth suit~
+An incredible white suit, a bunny?  No, a moth.~
+~
+27 1024|2048 1|8
+0 1 6 11 
+5 0 0
+A
+3 2
+A
+4 1
+A
+12 25
+A
+14 50
+A
+17 -20
+#22222
+maid outfit red white blue~
+a patriotic maid's outfit~
+A red, white, and blue maid's outfit--the uniform of American Maid!~
+~
+9 1024|2048 1|8
+12 0 0 0 
+5 0 0
+#22223
+heels shoes~
+a pair of combat heels~
+A pair of shoes, with the sharpest heels you've ever seen.~
+~
+5 1024|2048 1|64
+0 1 6 11 
+4 0 0
+A
+2 2
+A
+14 50
+A
+18 1
+A
+19 1
+#22224
+antennae tick's blue~
+a pair of antennae~
+A pair of blue antennae, exactly like those of certain arachnids...~
+~
+9 1024|2048 1|16
+12 0 0 0 
+10 0 0
+A
+17 -20
+A
+1 1
+A
+18 3
+A
+19 3
+A
+5 1
+#22225
+spoon~
+a Spoooooooon!!~
+A simple spoon, nothing of great consequence, or is it?~
+~
+5 64|1024|2048 1|16384
+0 1 6 0 
+3 0 0
+A
+19 4
+A
+18 4
+A
+1 2
+#22226
+gate gateway dimensional machine~
+a dimensional gate~
+A complicated machine, used as a dimensional gateway.~
+~
+4 2|16|64|512|2048 1|16384
+70 42 42 2 
+10 0 0
+#22227
+moustache titan~
+a moustache~
+A gigantic black moustache--the moustache of a Titan.~
+~
+9 4096 1|16
+0 1 6 9 
+20 0 0
+A
+1 3
+A
+3 -2
+A
+25 -2
+A
+19 3
+A
+18 5
+#22228
+matador's pants~
+a pair of matador's pants~
+A pair of very flashy pants, like a matador would wear.~
+~
+9 512|2048 1|32
+12 0 0 0 
+5 0 0
+A
+18 2
+A
+19 -2
+A
+1 2
+A
+13 15
+#22229
+intellect~
+a radioactively heightened intellect~
+You can't quite see it--it's as if it were pure thought.~
+~
+9 1|32|64|1024 1|16
+12 0 0 0 
+1 0 0
+A
+3 2
+A
+12 25
+A
+4 1
+A
+13 -20
+A
+17 -1
+#22230
+bracer pineapple~
+a pineapple bracer~
+A bracer covered with the outside of a pineapple.~
+~
+9 512|2048 1|4096
+12 0 0 0 
+6 0 0
+A
+18 4
+A
+19 4
+A
+5 1
+#22231
+sharkskin cape~
+a sharkskin cape~
+A cape made of sharkskin; it's rough to the touch.~
+~
+9 512|2048 1|4
+12 0 0 0 
+8 0 0
+A
+19 5
+A
+17 10
+#22232
+chair comfortable comfy~
+the World's Most Comfortable Chair~
+A chair.  The World's Most Comfortable Chair.~
+~
+12 64|128|4096 1|8
+0 0 0 0 
+40 0 0
+A
+14 -50
+A
+1 -2
+#22233
+pants cutoffs shorts~
+a pair of cutoffs~
+A pair of pants, cut off into ragged shorts.~
+~
+9 1024|2048 1|32
+12 0 0 0 
+4 0 0
+#22234
+herring suit slippery red~
+a slippery red suit~
+A slippery red suit that looks like a herring.~
+~
+9 512|2048 1|8
+12 0 0 0 
+15 0 0
+A
+19 3
+A
+17 -50
+#22235
+plans evil notepad~
+a notepad~
+A notepad filled with evil plans.~
+~
+2 16|32 1
+40 24 0 0
+2 0 0
+#22236
+second set legs~
+a second set of legs~
+A second set of legs, close behind the first set.~
+~
+9 64|1024|2048|4096 1|32
+12 0 0 0 
+20 0 0
+A
+2 4
+A
+14 25
+#22237
+glue helmet~
+a glue-shooting helmet~
+A helmet used to shoot glue at enemies.~
+~
+9 128|1024|2048|4096 1|16
+12 0 0 0 
+9 0 0
+A
+18 1
+A
+2 -2
+A
+14 -10
+A
+17 1
+#22238
+glue gloves~
+a pair of glue-shooting gloves~
+A pair of gloves used to fire an adhesive substance at enemies.~
+~
+9 128|1024|2048|4096 1|128
+12 0 0 0 
+6 0 0
+A
+18 2
+A
+2 -2
+A
+17 2
+#22239
+carpet suit~
+a carpet suit~
+A suit made of shag carpeting.~
+~
+9 1024|2048 1|8
+12 0 0 0 
+25 0 0
+A
+5 -2
+A
+2 -1
+A
+17 -20
+A
+19 2
+#22240
+ring chairface~
+chairface's signet ring~
+A ring with Chairface Chippendale's insignia on it.~
+~
+9 16|512 1|2
+12 0 0 0 
+1 0 0
+A
+17 -10
+A
+18 3
+A
+19 1
+A
+2 1
+A
+12 10
+A
+24 -5
+#22241
+swiss army knife giant~
+a giant Swiss army knife~
+A giant multi-purpose Swiss army knife.~
+~
+4 0 1|16384
+60 45 45 56 
+7 0 0
+A
+19 3
+A
+18 2
+#22242
+bullet helmet~
+a bullet helm~
+A helmet shaped like a bullet.~
+~
+9 1024|2048 1|16
+12 0 0 0 
+6 0 0
+A
+19 3
+A
+1 2
+A
+4 -4
+A
+17 25
+#22243
+bag bombs~
+a bag that says 'BOMBS'~
+A black bag that says 'BOMBS' on it.~
+~
+15 16|512|2048 1|16384
+75 1 -1 0 
+5 0 0
+A
+23 -1
+A
+24 -1
+#22244
+bomb~
+a really big bomb~
+A huge round black bomb.~
+~
+4 16|512|2048 1|16384
+75 1 1 26 
+11 0 0
+A
+19 2
+#22245
+cake~
+a piece of birthday cake~
+A piece of Chairface's birthday cake.~
+~
+26 0 1
+55 28 28 28 
+2 0 0
+#22246
+key charles~
+a key to Charles' house~
+A key to the house of the evil little mastermind himself.~
+~
+18 16 1
+0 1 6 11 
+1 0 0
+#22247
+legs~
+evil Legs!~
+You've got LEGS, BABY!  You're all over the place!~
+~
+9 16|512|2048 1|32
+12 0 0 0 
+5 0 0
+A
+2 2
+A
+17 -20
+A
+5 1
+A
+1 1
+A
+13 25
+A
+12 10
+A
+14 20
+#22248
+key~
+a nondescript key~
+A standard key, there are probably hundreds like it.~
+~
+18 16|32 1
+0 1 6 11 
+1 0 0
+#0
+
+
+#ROOMS
+#22200
+The Highway to The City~
+This is a long stretch of roadway.  It continues majestically east, toward...
+The City!  A place where evildoers must ever cower in fear of...THE TICK!!!
+There is a signpost at the side of the road.
+~
+0 4 1
+D1
+~
+~
+0 -1 22219
+D3
+~
+~
+0 -1 22013
+E
+signpost~
+THE CITY---2 miles
+
+(There is some fine print that you can't quite read.  Maybe a closer look?)~
+E
+fine print~
+Levels 50-67
+
+Created by Ceivar
+
+Based on The Tick, by Ben Edlund.
+Converted from Envy to Anon by Yaegar for AnonyMud.
+~
+S
+#22201
+An Intersection~
+The streetlights are smashed, there is a demolished car lying halfway in a
+cracked building, and it's more than likely that the reason is the giant
+clown smashing everything in sight.
+To the north, a road continues to the center of The City.  To the south there
+are some stores, and further on, some apartments.  The highway continues to
+the east and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 22225
+D1
+~
+~
+0 -1 22202
+D2
+~
+~
+0 -1 22226
+D3
+~
+~
+0 -1 22222
+S
+#22202
+The Highway~
+The highway continues through the heart of The City, and to the south you see
+the headquarters of the marginally famous Civic-Minded Five.
+~
+0 0 1
+D1
+~
+~
+0 -1 22203
+D2
+~
+~
+1 -1 22250
+D3
+~
+~
+0 -1 22201
+S
+#22203
+The Highway~
+The highway continues for a while, then turns abruptly north.  A sign by the
+roadside indicates that the highway comes to an end not far ahead.
+~
+0 0 1
+D0
+~
+~
+0 -1 22204
+D3
+~
+~
+0 -1 22202
+S
+#22204
+An Intersection~
+The highway ends here, intersecting with Main Street, which runs east-west.
+To the northwest you see City Hall.  You are in the heart of The City, and
+Main Street continues both ways for quite a distance.
+~
+0 0 1
+D1
+~
+~
+0 -1 22214
+D2
+~
+~
+0 -1 22203
+D3
+~
+~
+0 -1 22205
+S
+#22205
+Main Street~
+Main Street is beautiful this time of year.  You can see City Hall to the
+northeast, and there is apparently some sort of enormous black spiderlike
+machine climbing on top of the building.
+~
+0 0 1
+D1
+~
+~
+0 -1 22204
+D3
+~
+~
+0 -1 22206
+S
+#22206
+In Front of City Hall~
+To the north is City Hall, apparently taken over by the villain in the black
+machine.  A relaxing park in south of you.  The street is full of policemen,
+hurrying to and fro, upset at their inability to save the mayor.
+~
+0 0 1
+D0
+~
+~
+0 -1 22209
+D1
+~
+~
+0 -1 22205
+D2
+~
+~
+0 -1 22210
+D3
+~
+~
+0 -1 22207
+S
+#22207
+Main Street~
+Main Street continues for several blocks, with buildings to the north and
+south, but nothing interesting.
+~
+0 0 1
+D1
+~
+~
+0 -1 22206
+D3
+~
+~
+0 -1 22208
+S
+#22208
+Intersection of Main and Heroic~
+Main Street runs east into town, and west to the suburbs.  Heroic Avenue runs
+south from here.
+~
+0 0 1
+D1
+~
+~
+0 -1 22207
+D2
+~
+~
+0 -1 22223
+D3
+~
+~
+0 -1 22211
+S
+#22209
+City Hall~
+City Hall is a shambles.  Some master criminal has run through the place,
+destroying all kinds of things.  Perhaps the villain came through the hole in
+the ceiling.  The ladder leading up into the hole may be a hint.
+~
+0 8 0
+D2
+~
+~
+0 -1 22206
+D4
+~
+~
+0 -1 22294
+S
+#22210
+The Park~
+The park is a lovely relaxing place, away from all the power-hungry villains,
+and the grand exploits of the heroes (or, in some cases, not-so-grand exploits).
+~
+0 1024 2
+D0
+~
+~
+0 -1 22206
+S
+#22211
+Main Street~
+To the west, Main Street becomes Millard Fillmore Drive, at The City's city
+limits.  You are entering the suburbs now.
+~
+0 0 1
+D1
+~
+~
+0 -1 22208
+D3
+~
+~
+0 -1 22212
+S
+#22212
+Millard Fillmore Drive~
+To the south you see what looks like a regular home, complete with an
+unusually large cannon in the yard.
+~
+0 0 1
+D1
+~
+~
+0 -1 22211
+D2
+~
+~
+0 -1 22298
+D3
+~
+~
+0 -1 22213
+S
+#22213
+The End of Millard Fillmore Drive~
+Millard Fillmore Drive comes to an end here, and intersects with a small
+friendly-looking suburb street.
+~
+0 0 1
+D0
+~
+~
+0 -1 22243
+D1
+~
+~
+0 -1 22212
+S
+#22214
+Main Street~
+The road continues for about a block, with nothing but businesses and office
+buildings.
+~
+0 0 1
+D1
+~
+~
+0 -1 22215
+D3
+~
+~
+0 -1 22204
+S
+#22215
+Intersection of Main and an Alleyway~
+To the south is possibly the most sinister dark alley you've ever seen.
+~
+0 0 1
+D1
+~
+~
+0 -1 22216
+D2
+~
+~
+0 -1 22229
+D3
+~
+~
+0 -1 22214
+S
+#22216
+Main Street~
+Main Street continues, and you enter a high class area of town.  There are
+mansions spotting the area.
+~
+0 0 1
+D1
+~
+~
+0 -1 22217
+D3
+~
+~
+0 -1 22215
+S
+#22217
+Main Street~
+South of you a great, elaborate mansion.  It's obviously the dwelling of the
+master criminal and mob boss Chairface Chippendale.  The place is decked out
+with elaborate signs and decorations.  Apparently it's Chairface's birthday.
+~
+0 0 1
+D1
+~
+~
+0 -1 22218
+D2
+~
+~
+1 22201 22272
+D3
+~
+~
+0 -1 22216
+S
+#22218
+An Intersection~
+Main Street intersects with a major highway here.
+~
+0 0 1
+D0
+~
+~
+0 -1 22233
+D2
+~
+~
+0 -1 22295
+D3
+~
+~
+0 -1 22217
+S
+#22219
+The Highway~
+The highway continues on toward The City, but there is also a turn.  There's a
+large billboard on the roadside.
+~
+0 0 1
+D1
+~
+~
+0 -1 22220
+D2
+~
+~
+0 -1 22268
+D3
+~
+~
+0 -1 22200
+E
+billboard~
+The billboard has a lovely rendition of a tyrannosaurus fighting a somewhat
+less powerful (and more mangled) dinosaur.  At the bottom, in large print,
+it says, 'COME TO DINOSAUR GROTTO.'~
+S
+#22220
+The Highway~
+The highway continues, with absolutely no interesting features.
+~
+0 0 1
+D1
+~
+~
+0 -1 22221
+D3
+~
+~
+0 -1 22219
+S
+#22221
+The Highway, Near Blowhole~
+Traffic is stopped here.  The reason is obvious.  Blowhole, the cross-country
+whale, is jogging down the highway, and nobody wants to get stepped on.
+~
+0 0 1
+D1
+~
+~
+0 -1 22222
+D3
+~
+~
+0 -1 22220
+S
+#22222
+The Highway~
+And so, the road drags on for about another mile.  You appear to be getting
+close to The City.
+~
+0 0 1
+D1
+~
+~
+0 -1 22201
+D3
+~
+~
+0 -1 22221
+S
+#22223
+Heroic Avenue~
+Heroic Avenue has recently been given this new name, due to the fact that
+the diner that all The City's heros hang out in is on this street.
+~
+0 0 1
+D0
+~
+~
+0 -1 22208
+D2
+~
+~
+0 -1 22224
+S
+#22224
+In Front of The Diner~
+The Diner is to the west.  It looks like a friendly place for a meal, or just
+a cup of coffee or a snack.
+~
+0 0 1
+D0
+~
+~
+0 -1 22223
+D2
+~
+~
+0 -1 22225
+D3
+~
+~
+1 -1 22256
+S
+#22225
+Heroic Avenue~
+The famous Diner is to the northwest, and south of you, you can hear shouts
+of, 'CLOWN SMASH!'  Perhaps that psychotic (or maybe just misunderstood)
+killer clown won't come this way.
+~
+0 0 1
+D0
+~
+~
+0 -1 22224
+D2
+~
+~
+0 -1 22201
+S
+#22226
+Heroic Avenue~
+To your east is the headquarters of the Civic-Minded Five.  Heroic Avenue
+continues north and south, and there are even a few monuments now.
+~
+0 0 1
+D0
+~
+~
+0 -1 22201
+D1
+~
+~
+1 -1 22250
+D2
+~
+~
+0 -1 22227
+S
+#22227
+In Front of Some Stores~
+To the east is a furniture store, Bob's Furniture Emporium.  West, there is
+the single largest store you've ever seen.  It must be one of those
+Mega-Stores.  Heroic Avenue continues south.
+~
+0 0 1
+D0
+~
+~
+0 -1 22226
+D1
+~
+~
+0 -1 22259
+D2
+~
+~
+0 -1 22228
+D3
+~
+~
+0 -1 22261
+S
+#22228
+The End of Heroic Avenue~
+Heroic Avenue is closed for construction beyond this point.  However, there is
+a parking lot to the east.  It must be for the apartment complex ahead.
+~
+0 0 1
+D0
+~
+~
+0 -1 22227
+D1
+~
+~
+0 -1 22244
+S
+#22229
+A Sinister-Looking Alleyway~
+It's a dark alley, filled with the kind of people you don't want to meet in
+a dark alley.  It continues south, and gets darker.
+~
+0 0 1
+D0
+~
+~
+0 -1 22215
+D2
+~
+~
+0 -1 22230
+S
+#22230
+In Front of The Evil Eye Cafe~
+The trademark sign of the Evil Eye Cafe hangs here, in its full neon
+brilliance.  Supervillains enter and exit the cafe in a constant stream.
+~
+0 0 1
+D0
+~
+~
+0 -1 22229
+D1
+~
+~
+1 -1 22255
+D2
+~
+~
+0 -1 22231
+S
+#22231
+End of the Alley~
+The alley comes to an end, but it looks like you can continue south on a path
+that hasn't seen much use.  You wonder if you really want to, though.  It
+doesn't look like there's much there.
+~
+0 4 1
+D0
+~
+~
+0 -1 22230
+D2
+~
+~
+0 -1 22232
+S
+#22232
+The Base of the Anthill~
+The path has led you to the base of the largest anthill you've ever seen.
+~
+0 0 1
+D0
+~
+~
+0 -1 22231
+D1
+~
+~
+0 -1 22257
+S
+#22233
+The Highway~
+To the northeast you see the hydroelectric dam.  To the south is Main
+Street, and most of The City.
+~
+0 4 1
+D0
+~
+~
+0 -1 22234
+D2
+~
+~
+0 -1 22218
+S
+#22234
+The Highway~
+The hydroelectric dam is down a lane to the east.  What looks like a flood
+of red is moving down the river from the dam.
+~
+0 0 1
+D0
+~
+~
+0 -1 22235
+D1
+~
+~
+0 -1 22263
+D2
+~
+~
+0 -1 22233
+S
+#22235
+The Highway~
+The luxurious Comet Club is to the immediate west.  You can't wait to check
+it out.
+~
+0 4 1
+D0
+~
+~
+0 -1 22236
+D2
+~
+~
+0 -1 22234
+D3
+~
+~
+1 -1 22269
+S
+#22236
+The Highway~
+The highway moves steadily away from The City.  Ahead of you, you can see some
+cornfields.  Further on, there is a building of some kind.
+~
+0 0 1
+D0
+~
+~
+0 -1 22237
+D2
+~
+~
+0 -1 22235
+S
+#22237
+The Highway~
+The cornfields to the east look more and more sinister the closer you get.
+Odd, what can be so evil about a cornfield?
+~
+0 4 1
+D0
+~
+~
+0 -1 22238
+D1
+~
+~
+0 -1 22265
+D2
+~
+~
+0 -1 22236
+S
+#22238
+The Highway~
+It looks as if the building up ahead is a prison of some kind.  It's probably
+full of supervillains.
+~
+0 0 1
+D0
+~
+~
+0 -1 22239
+D2
+~
+~
+0 -1 22237
+S
+#22239
+The Highway~
+The prison to the west looks like a busy place.  It appears to be one of the
+fullest prisons in the area, courtesy of The Tick!
+~
+0 0 1
+D0
+~
+~
+0 -1 22240
+D2
+~
+~
+0 -1 22238
+D3
+~
+~
+2 22203 22267
+S
+#22240
+The Highway~
+The highway continues away from The City.  You can see an ocean ahead to
+the east.  It looks a little rough, but still crossable.
+~
+0 0 1
+D0
+~
+~
+0 -1 22241
+D2
+~
+~
+0 -1 22239
+S
+#22241
+The Highway~
+You catch a glimpse of a shiny object falling to earth out over the ocean.
+It looks like it landed pretty far out at sea.
+~
+0 0 1
+D0
+~
+~
+0 -1 22242
+D1
+~
+~
+0 -1 22245
+D2
+~
+~
+0 -1 22240
+S
+#22242
+The Highway~
+The road is getting rougher, as it gets further from civilization.  Frankly,
+it's pretty rough now.  The City's a long way away.
+~
+0 4 1
+D2
+~
+~
+0 -1 22241
+S
+#22243
+In Front of a Suburban Home~
+You are now in the suburbs of The City.  The house directly in front of you
+looks much like all the others.  It's very nice.  There's a treehouse out
+back, and a station wagon parked in the driveway.  A wholesome family home.
+~
+0 0 1
+D0
+~
+~
+1 22246 22251
+D2
+~
+~
+0 -1 22213
+S
+#22244
+A Parking Lot~
+There are quite a few cars here.  It's a regular parking lot, and there's
+nothing out of the ordinary.  Arthur's sister's car is parked here.
+~
+0 0 1
+D1
+~
+~
+0 -1 22274
+D3
+~
+~
+0 -1 22228
+S
+#22245
+The Ocean~
+You've left the highway, and taken the first step on a long ocean voyage.
+~
+0 0 7
+D1
+~
+~
+0 -1 22246
+D3
+~
+~
+0 -1 22241
+S
+#22246
+The Ocean~
+The high seas.
+The ocean is getting rough.  You can see a shiny glowing thing crashing to
+the ground further east.
+~
+0 0 7
+D1
+~
+~
+0 -1 22247
+D3
+~
+~
+0 -1 22245
+S
+#22247
+Approaching an Island~
+You finally found the place where the shiny object landed.  There's an island
+to the southeast.  Odd, the number of sharks in the area seems to be growing
+quite large.
+~
+0 0 7
+D1
+~
+~
+0 -1 22248
+D3
+~
+~
+0 -1 22246
+S
+#22248
+Near an Island~
+If you can manage to evade the sharks, you might be able to get to the island
+to the south.  Perhaps you'll be able to find out what that falling object was.
+~
+0 0 7
+D2
+~
+~
+0 -1 22249
+D3
+~
+~
+0 -1 22247
+S
+#22249
+The Surf Near Pokoponesia~
+You're having a great deal of difficulty keeping the sharks off of you, let
+alone actually getting to the beach.
+~
+0 0 6
+D0
+~
+~
+0 -1 22248
+D2
+~
+~
+0 -1 22283
+S
+#22250
+The Civic-Minded Five's Headquarters~
+This really isn't as impressive as you had hoped.  There is a pool table, and
+a bar, and a few soft comfortable easy chairs.  However, the bar isn't even
+stocked.
+~
+0 8 0
+D0
+~
+~
+1 -1 22202
+D3
+~
+~
+1 -1 22226
+S
+#22251
+The Living Room~
+The living room is that of a model home.  It's very clean, and there are
+knick-knacks on the mantle, and on tables scattered about the room.  You
+hear Charles' parents talking in the kitchen.
+~
+0 8 0
+D0
+~
+~
+0 -1 22252
+D2
+~
+~
+1 -1 22243
+S
+#22252
+The Kitchen~
+The kitchen it a relaxing place.  Charles' parents keep a lovely home,
+and this room is no exception.  The sliding glass door opens into the
+backyard, where you see Charles' treehouse.
+~
+0 8 0
+D0
+~
+~
+1 -1 22253
+D2
+~
+~
+0 -1 22251
+S
+#22253
+Charles' Backyard~
+A large tree stands in the middle of the yard.  You can see a treehouse in the
+branches, and a rope ladder hanging down.  You hear voices from the treehouse,
+and frequent evil laughter.
+~
+0 0 2
+D2
+~
+~
+1 -1 22252
+D4
+~
+~
+0 -1 22254
+S
+#22254
+Charles' Treehouse~
+This treehouse is very high-tech on the inside.  There are all sorts of
+computer terminals, and electronic equipment.
+~
+0 8 0
+D5
+~
+~
+0 -1 22253
+S
+#22255
+The Evil Eye Cafe~
+This place is absolutely perfect for lurking, and about ninety-nine percent
+of the people here are taking advantage of this.  The air here reeks of evil.
+~
+0 8 0
+D3
+~
+~
+1 -1 22230
+S
+#22256
+The Diner~
+The Diner is a small, comfortable diner.  The prices are reasonable, which is
+good, since being a superhero doesn't pay too well.  Several of the stools
+at the counter are occupied by hero types on a regular basis.
+~
+0 8 0
+D1
+~
+~
+1 -1 22224
+S
+#22257
+The Anthill~
+You're about halfway up the anthill, and the climb is very tedious.  To make
+it worse, the ants don't want you up there.
+~
+0 0 5
+D3
+~
+~
+0 -1 22232
+D4
+~
+~
+0 -1 22258
+S
+#22258
+The Top of the Anthill~
+You've reached the top of the anthill, and it was quite a trek.  Before you,
+you see the dangerous magnifying glass that the ants threaten The City with.
+Not too far beyond that, you can see the ant queen's people farm.
+~
+0 0 4
+D5
+~
+~
+0 -1 22257
+E
+people farm~
+This is an enormous construction, an obvious duplicate of an ant farm, but
+for use on people instead.~
+E
+magnifying glass~
+This magnifying glass stands at least 30 feet high, and is positioned so that
+the sun at noon will shine through it, incinerating The City.~
+S
+#22259
+Entry to Bob's Furniture Emporium~
+The entryway to Bob's Furniture Emporium is way too crowded.  It must have
+something to do with the woman who seems to be leading an army of furniture
+out of the store.
+~
+0 8 0
+D1
+~
+~
+0 -1 22260
+D3
+~
+~
+0 -1 22227
+S
+#22260
+Bob's Furniture Emporium~
+It really is a cozy little store, if it weren't a wreck because of the
+sinister Ottoman.
+~
+0 8 0
+D3
+~
+~
+0 -1 22259
+S
+#22261
+The Mega-Store Entrance~
+Stretching before you in all it's glory is the biggest store you've ever seen
+in your life.  You can't see the far wall, the store is so large.  You
+suppose you'll never find anything useful, although you'd be bound to
+get a good price on it if you did.
+~
+0 8 10
+D1
+~
+~
+0 -1 22227
+D2
+~
+~
+0 -1 22262
+S
+#22262
+The Mega-Store~
+You're standing in front of a large sign, with a map of the store.  On the
+map you see the words, 'You are here'.  It occurs to you that being 'here'
+is quite a lot like being lost.
+~
+0 8 10
+D0
+~
+~
+0 -1 22261
+S
+#22263
+The Hydroelectric Dam~
+What's going on here?  The dam is full of Santas!
+~
+0 8 0
+D1
+~
+~
+0 -1 22264
+D3
+~
+~
+0 -1 22234
+S
+#22264
+The Hydroelectric Dam~
+A man in a Santa suit has taken control of the dam.  Apparently he's cloning
+himself.  A flood of Santas is pushing you back out of the room.
+~
+0 0 0
+D3
+~
+~
+0 -1 22263
+S
+#22265
+The Cornfields of Evil~
+The fields are moving!  You hear someone speaking to the north.  Rows
+of stalks move in unison, as if saluting.
+~
+0 0 2
+D0
+~
+~
+0 -1 22266
+D3
+~
+~
+0 -1 22237
+S
+#22266
+El Seed's Evil Den~
+The regimented rows of corn stalks are listening to El Seed's speech.
+El Seed paces back and forth in front of them, making a driving oratory.
+~
+0 0 2
+D2
+~
+~
+0 -1 22265
+S
+#22267
+The Prison~
+The prison is fairly dismal.  However, it is bright.  Most of the light is
+coming from a nearby cell.  You can see the occupant now.
+~
+0 8 0
+D1
+~
+~
+2 -1 22239
+S
+#22268
+Dinosaur Grotto~
+Dinosaur Grotto is a lovely place, carefully set up.  There are several
+digs open, and many helpful tours, guides, and signs.  There is also
+a giant green mutant dinosaur.
+~
+0 0 3
+D0
+~
+~
+0 -1 22219
+S
+#22269
+The Comet Club's Parking Lot~
+The parking lot's size indicates that the Comet Club usually gets about
+twenty to thirty-five people.  All the way across the lot, to the north,
+is a small building, perhaps for sidekicks.  The Comet Club is to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 22271
+D1
+~
+~
+1 -1 22235
+D2
+~
+~
+0 -1 22270
+S
+#22270
+The Comet Club~
+The Comet Club is booming.  Famous and influential superheros are laughing
+and drinking.  The atmosphere here is almost as joyous as Chairface's party.
+~
+0 8 0
+D0
+~
+~
+0 -1 22269
+S
+#22271
+The Comet Club's Sidekicks Shack~
+There are several sidekicks here, looking miserable.  You don't blame them,
+this place looks miserable.
+~
+0 0 0
+D2
+~
+~
+0 -1 22269
+D3
+~
+~
+1 -1 22299
+S
+#22272
+Chairface's Mansion~
+The size of the entry hall is amazing in and of itself.  Chairface is one
+rich guy.  On the wall, there are several expensive paintings.  You hear
+laughter from the south.
+~
+0 8 0
+D0
+~
+~
+1 -1 22217
+D2
+~
+~
+0 -1 22273
+S
+#22273
+Chairface's Mansion~
+The party is going full-force in here.  Dozens of mobsters are toasting
+to the health of Chairface.  People are laughing, drinking, and generally
+having a good time.
+~
+0 8 0
+D0
+~
+~
+0 -1 22272
+S
+#22274
+The Entrance to the Apartments~
+You stand in front of a medium-sized apartment building.  It doesn't look
+much different from any of the others, but you sense a certain something.
+~
+0 0 1
+D1
+~
+~
+1 -1 22275
+D3
+~
+~
+0 -1 22244
+S
+#22275
+The Hallway~
+The hallway is well-lit.  There are several rooms, both to the north and
+south.  They all appear to be locked.
+~
+0 8 0
+D0
+~
+~
+1 22202 22276
+D2
+~
+~
+1 22200 22277
+D3
+~
+~
+1 -1 22274
+S
+#22276
+Apartment 14B~
+As you enter the apartment, you realize that there is an enormous disgusting
+alien living here.  Hints to this fact include pictures of its family, lots
+of alien machines, and (of course) the enormous evil monster itself.
+~
+0 8 0
+D2
+~
+~
+1 -1 22275
+S
+#22277
+Arthur's Apartment~
+Arthur and the Tick don't appear to be here right now.  You see crime-fighting
+equipment scattered across the room, along with a macaroni duck.
+~
+0 8 0
+D0
+~
+~
+1 -1 22275
+D4
+~
+~
+1 -1 22279
+D5
+~
+~
+0 -1 22278
+S
+#22278
+Arthur's Basement~
+The basement is fairly full.  There isn't much room to move around, with the
+washine machine, the dryer, the mole-man, the pile of dirt from his hole
+in the floor, and the dirty laundry.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 22277
+S
+#22279
+The Rooftops~
+You emerge onto the rooftops.  The roofs to the north, east, and west all
+appear to be within jumping distance.  There is also a large wooden tower
+on this roof.  You hear someone up there.
+~
+0 0 4
+D0
+~
+~
+0 -1 22281
+D1
+~
+~
+0 -1 22282
+D3
+~
+~
+0 -1 22280
+D4
+~
+~
+0 -1 22293
+D5
+~
+~
+1 -1 22277
+S
+#22280
+Rooftops, Overlooking The Diner~
+Below you, you can see The Diner.  You can also see the cracks in the
+concrete below, where the Tick has often leapt down from here.
+Looking back, you realize that the edges of many of the rooftops are
+also cracked.
+~
+0 0 4
+D1
+~
+~
+0 -1 22279
+D5
+~
+~
+0 -1 22224
+S
+#22281
+Rooftops, Overlooking City Hall~
+Ahead of you, you see City Hall, and on top of it, the enormous black
+spider machine of The Terror.  The street below is crowded, buy you can
+surely leap down into an empty area, if that's what it takes to save
+the day.
+~
+0 0 4
+D2
+~
+~
+0 -1 22279
+D5
+~
+~
+0 -1 22206
+S
+#22282
+Rooftops, Overlooking the Evil Eye Cafe~
+Below you, you see the dreaded Evil Eye Cafe, hangout of The City's most
+notorious supervillains.  The Tick keeps close watch on this establishment.
+~
+0 0 4
+D3
+~
+~
+0 -1 22279
+D5
+~
+~
+0 -1 22230
+S
+#22283
+A Pokoponesian Beach~
+The beach is empty, except for pineapple trees.  You remember hearing
+one thing about Pokoponesia, that they don't have much, but what they
+have, they have lots of.  And they have sharks and pineapples.
+~
+0 0 2
+D0
+~
+~
+0 -1 22249
+D3
+~
+~
+1 -1 22285
+D4
+~
+~
+0 -1 22284
+S
+#22284
+The Cliffs~
+You can see the beach below you.  The entire island, in fact.  And it's
+all covered with pineapple trees.
+~
+0 0 5
+D5
+~
+~
+0 -1 22283
+S
+#22285
+Pineapple Pokopo's Palace~
+The throne room isn't much, but then Pokoponesia doesn't have a lot
+to export.
+~
+0 8 0
+D1
+~
+~
+1 -1 22283
+D5
+~
+~
+0 -1 22286
+S
+#22286
+Pineapple Pokopo's Basement~
+This room is some sort of lab.  Apparently Pineapple Pokopo found the
+space monkey, Yank, and has him imprisoned here.
+~
+0 8 0
+D4
+~
+~
+0 -1 22285
+S
+#22287
+The Tick's Mind~
+You find yourself in the middle of a vast, empty plain.  It extends as
+far as you can see, in all directions.  You think you see something on
+the eastern horizon, but you can't be sure.  To the north, you see the
+Tick's pleasure center.  You manage to resist your urge to enter.
+~
+0 4 10
+D1
+~
+~
+0 -1 22288
+S
+#22288
+At the Statue~
+A great statue stands in the sand here.  It looks exactly like the
+Tick's head.  There's another statue not too far from it, of a hand
+giving a thumbs up.
+~
+0 0 2
+D2
+~
+~
+0 -1 22289
+D3
+~
+~
+0 -1 22287
+S
+#22289
+The Elevator~
+An elevator stands out in the middle of this plain.  It looks like it
+goes up.  You hope it hurries, before the midgets come back.
+~
+0 0 2
+D0
+~
+~
+0 -1 22288
+D4
+~
+~
+0 -1 22290
+S
+#22290
+The Escalator of Enlightenment~
+You ride up the escalator in peace, until suddenly the steps collapse into
+a ramp, and the ramp starts moving down!
+~
+0 4 4
+D2
+~
+~
+0 -1 22291
+D5
+~
+~
+0 -1 22289
+S
+#22291
+A Platform~
+You've finally gotten to the top of the escalator.  A few precious seconds
+of relaxation, then you must leap from this platform.
+~
+0 0 1
+D0
+~
+~
+0 -1 22290
+D5
+~
+~
+0 -1 22292
+S
+#22292
+Falling~
+You're falling...
+
+
+         ...falling...
+
+
+     ...falling...
+
+                                   ...falling...
+
+
+  ...endlessly downward...
+
+
+                           ...you're starting to feel hot...
+
+
+             ...falling...
+
+
+                      ...why ARE you here?...
+
+
+     ...falling...
+
+
+                   ...WAIT!  You remember!  A BIG CLOWN HIT YOU!!
+
+The heat must be reentry.
+
+<<<<<THUD>>>>>  You hit the ground.  Hard.  Ouch.
+~
+0 0 9
+D5
+~
+~
+0 -1 22201
+S
+#22293
+The Tick's Crime Tower~
+The Tick has cleaned up his crime tower since his fight with Arthur.  It is
+now a great fortress against evil.  You can plainly see that The City has
+spent some money to make this tower a bit more sturdy, probably instead of
+giving a reward to the Tick.  You can see the moon clearly through the
+window of the crime tower.  It's been completely abused.  It looks like
+somebody has taken a bite out of it,  and it also has the letters
+'HA' carved into it.
+~
+0 8 1
+D5
+~
+~
+0 -1 22279
+S
+#22294
+The Terror's Machine~
+As you enter the black machine, you see some sort of alien flying away.
+
+So, this is the headquarters of the greatest criminal mind of the
+twentieth century (and possibly part of the nineteenth).  The machine IS
+quite an impressive technological feat.
+~
+0 8 0
+D5
+~
+~
+0 -1 22209
+S
+#22295
+The Highway~
+The highway heads south, to parts unknown.  To the east is a retirement
+home.
+~
+0 4 1
+D0
+~
+~
+0 -1 22218
+D1
+~
+~
+0 -1 22296
+S
+#22296
+A Rest Home~
+This looks just like a regular rest home, except for the fact that everyone
+except for the staff is wearing some sort of superhero outfit.  There's a lot
+of reminiscing going on.  'Ah, the good old days!' says one of the patients.
+~
+0 8 0
+D3
+~
+~
+0 -1 22295
+S
+#22297
+Blowhole's Belly~
+Well, you've never been inside a whale before.  Frankly, it's disgusting.
+It's sticky and moist, and there are all kinds of odd sounds.
+~
+0 1|8 0
+D4
+~
+~
+2 22204 22221
+S
+#22298
+The Human Bullet's Yard~
+The yard is just as normal as can be.  There's a picnic table, and a gas grill.
+Also, there's an enormous cannon aimed into the sky toward The City.
+~
+0 0 2
+D0
+~
+~
+0 -1 22212
+E
+cannon gun~
+The cannon is aimed in the general direction of The City.  It is a
+not-so-sophisticated apparatus, designed for a single purpose--to send the
+Human Bullet to the scene of the crime as quickly as possible.~
+S
+#22299
+Bomber's Hideout~
+A small dark place behind the Comet Club, the perfect place for evil to
+hide.  Especially perfect for THE EVIL MIDNIGHT BOMBER WHAT BOMBS AT MIDNIGHT!!
+~
+0 16384 1
+D1
+~
+~
+1 -1 22271
+S
+#0
+
+
+#RESETS
+D 1 22274 1 1			; The Entrance to the Apartments Lock East
+D 1 22275 0 1			; The Hallway Lock North
+D 1 22275 2 1			; The Hallway Lock South
+*
+M 1 22205 1 22275			a clone of Arthur to Hallway
+G 1 22202 100
+*
+M 1 22206 1 22279			a clone of The Tick, made of mucous to Roof (Tick's)
+*
+M 1 22207 1 22276			Thrakkorzog to Apmt 14B
+E 1 22226 100 17
+*
+M 1 22208 1 22276			Thrakkorzog's roommate to Apmt 14B
+G 1 22202 100
+*
+M 1 22209 1 22268			Dinosaur Neil to Dinosaur Grotto
+E 1 22227 100 6
+*
+M 1 22210 1 22266			El Seed to El Seed's HQ
+E 1 22228 100 7
+*
+M 1 22211 1 22286			a monkey to Pokoponesia (Pokopo's palace--Yank)
+E 1 22229 100 6
+*
+M 1 22212 1 22285			Pineapple Pokopo to Pokoponesia (Pineapple Pokopo's Palace)
+E 1 22231 100 3
+E 1 22230 100 14
+E 1 22230 100 15
+*
+M 1 22213 1 22209			Mayor Blank to City Hall
+G 1 22203 100
+*
+M 1 22214 1 22259			The Ottoman to Furniture Store-Entry
+E 1 22232 100 5
+*
+M 1 22215 1 22250			Feral Boy to Civic Minded Five's HQ
+E 1 22233 100 7
+*
+M 1 22217 1 22294			The Terror to The Terror's Machine
+*
+M 1 22218 1 22206			the Human Ton to Road 1--Intrsxn (CH & Park)
+*
+M 1 22219 1 22206			Handy to Road 1--Intrsxn (CH & Park)
+*
+M 1 22220 1 22250			Jungle Janet to Civic Minded Five's HQ
+*
+M 1 22221 1 22294			Joe Stalin to The Terror's Machine
+*
+M 1 22222 1 22294			the Man-Eating Cow to The Terror's Machine
+*
+M 1 22223 1 22296			The Living Doll to Old Superheroes Home
+*
+M 1 22224 1 22296			The Visual Eye to Old Superheroes Home
+D 1 22243 0 2			; In Front of a Suburban Home Lock North
+*
+M 1 22225 1 22202			4-Legged Man to Highway
+E 1 22236 100 7
+*
+M 1 22226 1 22203			The Carpeted Man to Highway
+E 1 22239 100 5
+*
+M 1 22227 1 22202			Captain Mucilage to Highway
+E 1 22237 100 6
+E 1 22238 100 9
+*
+M 1 22228 1 22273			Chairface to Chairface's Mansion
+E 1 22240 100 1
+G 1 22201 100
+G 1 22245 100
+*
+M 1 22229 1 22273			Professor Chromedome to Chairface's Mansion
+G 1 22245 100
+*
+M 1 22216 1 22280			the Angry Red Herring to Roof (Overlooking Diner)
+E 1 22234 100 5
+*
+M 1 22230 1 22259			the table to Furniture Store-Entry
+*
+M 1 22231 1 22259			the sofa to Furniture Store-Entry
+*
+M 1 22232 1 22259			the footstool to Furniture Store-Entry
+*
+M 1 22233 1 22297			J. J. "Eureka" Vatos to Blowhole's Belly
+G 1 22204 100
+*
+M 1 22234 1 22255			the Idea Man to The Evil Eye Cafe
+G 1 22201 100
+*
+M 1 22235 1 22257			the swarm of ants to The Anthill
+E 1 22220 100 12
+*
+M 1 22235 1 22257			the swarm of ants to The Anthill
+E 1 22220 100 12
+*
+M 1 22236 1 22258			the Ant Queen to The Top of the Anthill
+*
+M 1 22235 1 22258			the swarm of ants to The Top of the Anthill
+E 1 22220 100 12
+*
+M 1 22237 1 22230			Klaus, a Swiss industrial spy to Road 3-Intrsxn (Evil Eye)
+E 1 22241 100 17
+*
+M 1 22238 1 22282			Bernard, leader of the Swiss industrial spies to Roof (Overlooking Evil Eye)
+E 1 22241 100 17
+*
+M 1 22240 1 22282			Hilda, a Swiss industrial spy to Roof (Overlooking Evil Eye)
+E 1 22241 100 17
+*
+M 1 22239 1 22282			Franz, a Swiss industrial spy to Roof (Overlooking Evil Eye)
+E 1 22241 100 17
+*
+M 1 22241 1 22277			Dot, Arthur's sister to Arthur's Apmt
+*
+M 1 22242 1 22278			the King of the Mole-men to Basement (Arthur's)
+*
+M 1 22243 1 22252			Charles's father to The Kitchen
+*
+M 1 22244 1 22252			Charles's mother to The Kitchen
+*
+M 1 22245 1 22253			Skippy to Charles' Backyard
+*
+M 1 22246 1 22251			Miriam Brunch, the Mad Nanny to The Living Room
+G 1 22246 100
+*
+M 1 22247 1 22254			Charles to Charles' Treehouse
+G 1 22235 100
+*
+M 1 22248 1 22254			Charles's sister to Charles' Treehouse
+*
+M 1 22249 1 22262			the Caped/Crusading Chameleon to The Enormous Store
+*
+M 1 22250 1 22270			Barry to The Comet Club
+*
+M 1 22251 1 22267			The Deadly Bulb to Prison
+E 1 22219 100 8
+G 1 22218 100
+*
+M 1 22252 1 22255			the Breadmaster to The Evil Eye Cafe
+*
+M 1 22253 1 22265			the Bee Twin to The Cornfields of Evil
+*
+M 1 22254 1 22266			the Bee Twin to El Seed's Evil Den
+*
+M 1 22255 1 22265			the Corn Soldier to The Cornfields of Evil
+*
+M 1 22255 1 22265			the Corn Soldier to The Cornfields of Evil
+*
+M 1 22256 1 22265			the Corn Soldier to The Cornfields of Evil
+*
+M 1 22257 1 22277			Carmella Vatos to Arthur's Apmt
+E 1 22221 100 5
+*
+M 1 22258 1 22298			the Human Bullet's son to The Human Bullet's Yard
+*
+M 1 22259 1 22298			the Human Bullet to The Human Bullet's Yard
+E 1 22242 100 6
+*
+M 1 22260 1 22288			the Tick's mind to Tick's mind (Statue)
+*
+M 1 22261 1 22288			the midget with a fish to Tick's mind (Statue)
+E 1 22217 100 16
+*
+M 1 22262 1 22288			the midget with a fish to Tick's mind (Statue)
+E 1 22217 100 16
+*
+M 1 22264 1 22221			Blowhole to Highway (BLOWHOLE!)
+E 1 22216 100 8
+*
+M 1 22265 1 22201			Proto-Clown to A Major Intersection
+E 1 22214 100 6
+E 1 22215 100 8
+D 1 22224 3 0			; In Front of The Diner Open West
+D 1 22202 2 1			; The Highway Close South
+D 1 22226 1 1			; Heroic Avenue Close East
+*
+M 1 22266 1 22260			the furniture store's owner, Bob to Furniture Store
+*
+M 1 22267 1 22264			the Santa clone to Hydroelectric Dam
+*
+M 1 22267 1 22264			the Santa clone to Hydroelectric Dam
+*
+M 1 22267 1 22264			the Santa clone to Hydroelectric Dam
+*
+M 1 22267 1 22263			the Santa clone to Hydroelectric Dam
+*
+M 1 22267 1 22263			the Santa clone to Hydroelectric Dam
+*
+M 1 22267 1 22263			the Santa clone to Hydroelectric Dam
+*
+M 1 22268 1 22264			Multiple Santa to Hydroelectric Dam
+E 1 22206 100 5
+E 1 22207 100 6
+D 1 22235 3 1			; The Highway Close West
+D 1 22239 3 2			; The Highway Lock West
+D 1 22297 4 2			; Blowhole's Belly Lock Up
+D 1 22252 0 0			; The Kitchen Open North
+*
+M 1 22269 1 22256			Fran, the waitress to The Diner
+G 1 22211 100
+G 1 22212 100
+G 1 22213 100
+*
+M 1 22203 1 22256			Die Fledermaus to The Diner
+*
+M 1 22204 1 22256			Sewer Urchin to The Diner
+D 1 22217 2 2			; Main Street Lock South
+D 1 22283 3 1			; A Pokoponesian Beach Close West
+*
+M 1 22202 1 22224			American Maid to In Front of The Diner
+E 1 22222 100 5
+E 1 22223 100 8
+*
+M 1 22201 1 22228			Arthur to Road 2-Intrsxn (To Tick's)
+E 1 22221 100 5
+G 1 22200 100
+*
+M 1 22200 1 22293			The Tick to The Tick's Crime Tower
+E 1 22224 100 6
+E 1 22225 100 17
+G 1 22200 100
+D 1 22230 1 0			; In Front of The Evil Eye Cafe Open East
+*
+M 1 22270 1 22255			Sid, the bartender to The Evil Eye Cafe
+G 1 22208 100
+G 1 22210 100
+G 1 22209 100
+*
+M 1 22271 1 22270			Big Shot to The Comet Club
+E 1 22205 100 17
+*
+M 1 22263 1 22299			The Evil Midnight Bomber What Bombs at Midnight to Bomber's Hideout
+E 1 22243 100 17
+E 1 22247 100 7
+P 1 22243 0 22244
+D 1 22271 3 2			; The Comet Club's Sidekicks Shack Lock West
+O 1 22248 100 22255			a nondescript key to The Evil Eye Cafe
+S
+
+
+#SHOPS
+22266 12 0 0 0 0 125 75 7 21			Bob
+22269 0 0 0 0 0 125 75 0 23			Fran
+22270 8 23 5 0 0 140 60 0 23			Sid
+0
+
+
+#SPECIALS
+M  22200 spec_guard			The Tick
+M  22201 spec_guard			Arthur
+M  22202 spec_guard			American Maid
+M  22204 spec_poison			Sewer Urchin
+M  22205 spec_thief			a clone of Arthur
+M  22206 spec_poison			a clone of the Tick, made of mucous
+M  22207 spec_fido			Thrakkorzog
+M  22209 spec_fido			Dinosaur Neil
+M  22211 spec_cast_mage			a monkey
+M  22215 spec_guard			Feral Boy
+M  22220 spec_guard			Jungle Janet
+M  22223 spec_guard			the Living Doll
+M  22224 spec_guard			the Visual Eye
+M  22225 spec_guard			4-Legged Man
+M  22226 spec_breath_lightning			the Carpeted Man
+M  22227 spec_guard			Captain Mucilage
+M  22246 spec_cast_judge			Miriam Brunch, the Mad Nanny
+M  22263 spec_cast_judge			The Evil Midnight Bomber What Bombs at Midnight
+M  22268 spec_breath_lightning			Multiple Santa
+M  22269 spec_cast_judge			Fran, the waitress
+M  22270 spec_cast_judge			Sid, the bartender
+M  22271 spec_cast_judge			Big Shot
+S
+
+
+#$
+
+

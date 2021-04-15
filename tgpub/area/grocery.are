@@ -1,0 +1,3303 @@
+#AREA   Mack    Grocery Store~
+
+
+#MOBILES
+#22000
+Shopper boy kid~
+A lost boy~
+A boy seems to be lost in the crowded grocery store here.
+~
+The little boy looks up to you and asks if you have seen his mommy.
+He seems to be completely lost and could be trampled upon if his
+mother doesn't find him soon.
+~
+1|64|128 0 350 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22001
+Shopper girl kid~
+A little girl~
+A little girl is wandering around the store aimlessly.
+~
+The little girl smiles at you and then, as if she didn't even
+notice you, her face becomes clueless again and she wanders off
+down the aisles.
+~
+1|64|128 0 350 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22002
+Shopper man father dad~
+A father~
+Someone's dad is shopping here wonderin which brand to buy.
+~
+The man looks at the shopping list and then compares two items to
+see which is better.  He doesn't seem to understand why his wife
+asked him to get a specific brand of each food type.
+~
+1|64|128 0 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22003
+Shopper woman mother mom~
+A mother~
+Somebody's mother is speeding down the aisles picking up foods.
+~
+The woman zips through the aisle and passes you by faster than a
+speeding bullet.  She certainly has the hang of this!  You wonder
+if her husband will find the 5 items on his grocery list before she
+completes the 50 on hers.
+~
+1|64|128 0 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22004
+Truck driver~
+A truck driver~
+The driver waits while they load his truck with illegal drugs.
+~
+The truck driver looks pretty stupid but he's got enough muscle to
+make up for the loss in the intelligence department.  One punch
+from him and you'd probably be knocked out for quite a while.
+~
+1|2 128|8192 -500 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22005
+Spider~
+A furry spider~
+A spider crawls up your leg and sinks it's teeth in.
+~
+The spider is covered with black fur, in fact it looks a little
+like a Black Widow.  Even if you like spiders and/or keep them as
+pets, this one sure isn't the type to be friendly with and pet!
+~
+1|32|128 0 -500 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22006
+Snake python~
+An enormous python~
+You tense up as you watch the huge python wrap around your legs.
+~
+The python is incredibly huge!  It most likely survives eating the
+furry spiders down here and whatever else may stop by for lunch
+(other brainless toads like you).  The snake is so thick it's
+probably bigger around than your waist is.  Right now would be a
+great time to have worn your biker jacket with the metal spikes in
+them.
+~
+1|2|32 8|128|8192 -1000 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22007
+Gang member boy~
+A gang member~
+The gang member is here stealing boxes of food from the store.
+~
+The teenage boy is dressed all in black so as to not grab any
+attention while he runs in and out of the storage room.  The
+stockboy must be helping him because he keeps watch at the door to
+make sure nobody enters.
+~
+1|32 8192 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22008
+Oscar man~
+Mr. Oscar Mayer~
+Oscar is here checking out his competition in the hotdog market.
+~
+You wonder how someone could become so rich on selling hot dogs to
+the world...lots of companies name things after their presidents
+and owners, maybe this company did too.  Then you take a glance at
+the King of Weiners himself and can't hold back your laughter.
+~
+1|2|128 8192 350 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22009
+pharmacist~
+The Pharmacist~
+The pharmacist is here organizing the bottles of medicines.
+~
+She looks at you with an evil grin on her face and then quickly
+smiles.  You wonder what she's got up her sleeve, or perhaps the
+markings from needles she's hiding underneath her sleeves.
+~
+1|64|128 128|8192 -350 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22010
+Hakeem~
+Hakeem~
+Hakeem looks at you and glares into your eyes...better leave quick!
+~
+"Did I not tell you to get out of here?  This place not for
+customers!  You stay in line and give me doctor note, then I give
+you medicine.  Okie dokie?"
+~
+1|2|32 8192 -350 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22011
+Monk Buddha~
+A monk~
+A monk who looks like Buddha is meditating and preaching here.
+~
+"Shhh, peace be with you grasshopper.  We are praying to the holy
+gods for our health.  Any interruptions may cause grave danger to
+you in the near future.  Come..sit down with us and let us pray."
+~
+1|2 8|128|8192 1000 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22012
+Stockboy boy~
+A stockboy~
+The stockboy is here making sure that you don't walk in.
+~
+"Hey, stay out of this area...it's off limits to the customers.
+That means Employees only, got it bud?!"  He tries to shove you out
+with his scrawny little arms.
+~
+1|64|128 0 -350 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22013
+Lobster~
+A lobster~
+The lobster snaps at you with its claws and pinches hard.
+~
+It looks bright red but don't get too close or it'll pinch of your
+nose.  Perhaps it's red because it is blushing when you stare at
+it.
+~
+1|2|32 8|8192 -500 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22014
+Lady~
+A confused lady~
+A lady is standing here trying to figure out her prescription.
+~
+She looks at the note and stares, trying to decipher that chicken
+scratch that doctor's call handwriting.  How in the world do the
+pharmacists read that junk!?  It's amazing what people can do
+nowadays...first we invent the wheel, then we put a man on the
+moon, and now we have people who can actually read that!  Kinda
+makes you wonder...what's next?
+~
+1|2 8|8192 500 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22015
+Giant rat~
+A giant rat~
+A giant rat, the size of a german shepard, runs over your foot.
+~
+You shudder with fear, and partly from shock, as you realize that
+what you thought was a dog running right by you was actually a rat.
+How the heck do they get so big!?  And what kind of trap could you
+possibly use to trap that thing?
+~
+1|4|64 0 -500 S
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22016
+Beggar man~
+A beggar~
+A beggar is sleeping here in his cardboard box shelter.
+~
+He shivers in his bed which is made up of torn newspapers and boxes
+which have been thrown out over the years from the store.  The
+giant rats that crawl over him and nibble on his ears don't seem to
+wake him from his sleep at all.  Maybe you should tell him that
+they are about to eat off his earlobe.
+~
+1|2|4 128|8192 -350 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22017
+Old Lady~
+An old lady~
+An old lady is penny-pinching as she searches the reduced items.
+~
+She pulls out her calculator and her reading glasses then proceeds
+to search through the aisle full of reduced items.  One by one she
+looks over each damaged or spoiled item and checks the price to see
+if it's a good deal.  It's true that pennies do add up but this is
+ridiculous.
+~
+1|2 8192 -350 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22018
+Woman~
+A woman~
+A woman is here trying on different shades of lipstick.
+~
+She turns to you and opens up her hands which hold 10 different
+shades of red lipstick.  Then she asks you which one you think
+looks best on her.  Do you really want to wait around while she
+tries them all on?
+~
+1|64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22019
+Homer~
+Homer Simpson~
+Homer screams "D'oh!!!!" as he fails to grab the last Butterfinger.
+~
+He falls to his knees and starts crying loudly, having failed to
+reach his goal and get the last remaining Butterfinger in the
+display stand.
+~
+1|2 8192 0 S
+29 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22020
+Bart~
+Bart Simpson~
+Bart cackles gleefully as he grabs the last Butterfinger.
+~
+Bart looks at you and says "What's up man?"  Then he unwraps his
+candy bar and takes a bite.  "Nobody better lay a finger on MY
+Butterfinger."  *Crunch*
+~
+1|2 128|8192 0 S
+29 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22021
+Debbie~
+Little Debbie~
+Little Debbie is here passing out samples of her newest snack.
+~
+Little Debbie hands you a sample of her snack, which looks
+disgusting.  But you never know, all those other snacks she has
+made so far are delicious.  It's tempting, but is it worth that
+extra mile you'll have to run the next morning?
+~
+1|64|128 0 350 S
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22022
+Boy~
+A little boy~
+A little boy is here throwing a bowl of salad.  Food Fight!!
+~
+He looks at you and grins evilly as he picks up the tomatoes and
+tosses them at you.  Better duck quick, he'll splatter your new
+equipment with that gooey french dressing.
+~
+1|2 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22023
+Lady~
+A young lady~
+A young lady is here testing out all the hair sprays.
+~
+A cloud of smoke surrounds her as she sprays can after can onto her
+head of hair.  Then she complains that each can doesn't seem to
+work as the oils drip from her chemical-soaked hair.
+~
+1|2 0 350 S
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22024
+Frat guy~
+A frat guy~
+A frat guy is here checking out the local liquors for a party.
+~
+He turns to you and asks you what you think of each brand.  Then he
+begins to tell you a story about each time he's had a different
+brand of beer or liquor.
+~
+1|2|128 0 -350 S
+26 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22025
+Snowman~
+A snowman~
+A snowman is here guarding the ice cream from intruders.
+~
+GRRRRR!!!!  He snatches at your arm and almost claws it off when
+you reach for a carton of ice cream.  Some people really need to
+learn how to share, don't you think?
+~
+1|32|64 8|128|8192 -1000 S
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22026
+Couch Potato Man~
+A couch potato~
+A couch potato sits here eating chips and watching television.
+~
+The couch potato lays back in the sofa and relaxes while watching
+some sports event on the big screen television here.  You wonder
+who the lucky wife is to have met this guy...
+~
+1|2 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22027
+Child~
+A child~
+A child is here searching through piles of school supplies.
+~
+She is desperately looking for a pair of scissors for her school
+project.  She seems to be very unhappy and frustrated about the
+unorganized piles of supplies laying on the floor.
+~
+1|64|128 0 1000 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22028
+Info Lady Helper~
+An Information Desk Helper~
+A lady is here filing her nails as she waits to help a customer.
+~
+She files her nails as if it were the most important thing to do at
+the moment.  When a customer walks up to her she completely ignores
+them and acts as if they never said a word to her.
+~
+1|2 8|8192 500 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22029
+Little boy~
+A little boy~
+A little boy is here begging his mom to buy him some candy.
+~
+He looks up to you and smiles wide when he notices the candy bar in
+your shopping cart.  Maybe he thinks you're going to buy it for
+him?
+~
+1|64|128 0 1000 S
+19 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22030
+Teen Teenager Girl~
+A teenage girl~
+A teenage girl looks through her fashion magazine as she waits.
+~
+There are piles on the floor around her and she is reading through
+all the famous teenage girl magazines.  You take a peek at the page
+she is reading and notice the headlines: "This Months Quiz: Are You
+Taking the Right Steps to Get a Date?".  'How pathetic,' you think
+to yourself and then you pick up the magazine for yourself to take
+the quiz in the privacy of your home.
+~
+1|2 0 0 S
+21 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22031
+Impatient Customer~
+An impatient customer~
+An impatient customer is screaming because the checker is slow.
+~
+The customer looks at you and screams in your face, as if it were
+your fault that he has to wait in line all day to buy groceries.
+~
+1|2|32 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22032
+Customer Lady~
+A customer~
+A customer is here trying to push the cart with only 3 wheels.
+~
+She keeps pushing with all her might but the shopping cart won't
+budge.  Don't you just hate it when you get a cart with a wheel
+that is stuck or missing?  It sure does take all the fun out of
+grocery shopping..
+~
+1|64|128 0 800 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22033
+Checker~
+A checker~
+The grocery store checker scans the items one by one.
+~
+The checker doesn't appear to be having a good time at work today.
+Maybe because the scanner isn't reading the upc codes as well and
+it takes two or three swipes to catch the price.  Do those really
+save much time and can we trust them?
+~
+1|2|4 8192 500 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22034
+Construction worker man~
+A construction worker~
+A construction worker is pounding nails into the new wall.
+~
+He is sweaty all over and you can tell that he is having a hard day
+at work.  You look at your watch quickly, hoping that his lunch
+break is soon.  Drats!...you just missed it.  Guess you'll have to
+wait another day for that Diet Coke Break (tm).
+~
+1|2 8192 350 S
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22035
+Idiot Man~
+The idiot~
+Some idiot has illegally parked his car in the handicap zone.
+~
+The idiot is arguing with the cop over his illegal parking ticket.
+He has no chance but he continues to try and bribe the cop with a
+box of donuts he just bought from the store.
+~
+1|2 0 -500 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22036
+Cop~
+The cop~
+The cop is here listening to the idiot complain about his ticket.
+~
+The cop is tempted to pull out his handcuffs and just lock this man
+up to his bumper and take a spin down the highway.  He doesn't seem
+to be happy with the arguments the idiot is making.  But then again
+he's staring at those box of donuts in the man's car.
+~
+1|2 8|128|8192 1000 S
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22037
+Bagger~
+A bagger~
+A bagger throws each item into the bags, including the eggs...
+~
+The baggers don't care if you wind up with a dozen cracked eggs or
+an empty milk carton in a soaked bag.  All they want is the tip you
+are going to give them and to send as many customers away as
+quickly as possible.
+~
+1|2|4 8 500 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22038
+Angry man~
+An angry man~
+An angry man is here yelling because he missed the parking spot.
+~
+He is screaming at the top of his lungs because he drove by this
+parking spot and didn't see the opening.  Because of that he had to
+walk 1/2 a mile from his parking spot trying to avoid other people
+zooming down the rows of cars looking for an opening.
+~
+1|2 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22039
+Member gang~
+A gang member~
+A gang member sits here with a bottle of beer in his hand.
+~
+You look at him in disgust as you see a filthy looking teenage boy
+who has no care in life but to drink, smoke and party.  Dressed in
+all black, he doesn't want to get mistaken for being part of the
+other gang (which wears red).  It sure would be hard for a color-
+blind teenager to be in a gang.
+~
+1|2|128 32768 -350 S
+23 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22040
+Burly Guard~
+A burly gang member~
+A burly gang member guards the door to the leader's office.
+~
+These gang members look a little older, and perhaps wiser (if
+that's at all possible) then the others here.  They are bigger
+physically and that's probably why they are stuck with the job of
+guarding the leader's office.
+~
+1|2 0 -500 S
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22041
+Gang leader~
+The Gang Leader~
+The gang leader sits at his desk playing with his switchblade.
+~
+He is the typical gang member: teenage boy, dropped out of school
+in 7th grade, wears a sweatshirt with a hood and baseball cap
+turned backwards, sunglasses to shade those baby eyes...you get the
+picture.  He plays with his switchblade and tries to act cool as
+you watch him.
+~
+1|2|32 8|128|8192 -1000 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22042
+Manager~
+The store manager~
+The store manager relaxes at his desk watching his television.
+~
+He relaxes in his luxurious office and reclines in his E-Z-boy
+chair behind the desk.  You turn and look at the television and
+notice the game show that he's currently watching.  Must be an
+incredibly hard job to do....what a sacrifice this man puts in for
+his company.
+~
+1|2 8|128|8192 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22043
+Secretary~
+The secretary~
+The secretary is here stuffing envelopes with employee paychecks.
+~
+She asks you if you need any assistance without stopping her
+pattern of folding the paychecks, stuffing the envelope, licking
+it, then putting it neatly in the pile with the others.  And she is
+also talking into the phone with a customer.  Whoa!  She's typing
+a letter for the boss on the computer next to her too.  You shake
+your head in amazement..how many arms does this lady have?
+~
+1|2 128 1000 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22044
+Employee~
+An employee~
+A store employee is taking a lunch break and lounging around.
+~
+The employee is playing a game of poker and drinking a can of soda
+in the breakroom.  The worn cushions on the seats show just how
+much they spend in here compared to being on-duty.  If the manager
+wasn't in his office watching game shows all day they probably
+wouldn't be in here all day either.
+~
+1|2 0 500 S
+31 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#22000
+Can Coke Soda~
+a can of Coca-cola~
+A can of Coke spills onto the ground here with ants crawling in it.
+~
+~
+17 0 1
+3 3 15 0 
+1 0 0
+#22001
+Paycheck~
+a paycheck~
+Looks like you are in luck!  A signed paycheck waits to be cashed.
+~
+~
+8 0 1
+0 0 0 0 
+1 0 0
+#22002
+Suspenders~
+the manager's suspenders~
+Someone left their suspenders here for you to hold your pants up.
+~
+~
+9 0 1|1024
+0 0 0 0 
+3 0 0
+A
+2 2
+A
+14 50
+E
+suspenders~
+The suspenders look like they are pretty sturdy and could hold up
+your pants well while you fight.  They increase your ability to
+dodge a hit since you don't have to worry about pulling your pants
+up each time you dive to the ground.
+~
+#22003
+Shades Sunglasses~
+a pair of shades~
+The gang leader must have gotten in a fight and dropped his shades.
+~
+~
+9 1|512 1|16
+0 0 0 0 
+3 0 0
+A
+18 1
+A
+19 2
+#22004
+Switchblade Knife Blade~
+a switchblade~
+The gang leader apparently dropped his switchblade here and ran.
+~
+~
+5 1|2|512 1|8192
+0 0 0 2 
+5 0 0
+A
+2 1
+A
+19 3
+#22005
+Brass Knuckles~
+brass knuckles~
+A pair of shiny brass knuckles shimmer in the sunlight.
+~
+~
+9 2|512 1|128
+0 0 0 0 
+5 0 0
+A
+1 2
+A
+3 -1
+A
+13 15
+#22006
+Grocery bag~
+a grocery bag~
+A beat up grocery bag is thrown on the ground here.
+~
+~
+15 32 1|16384
+100 5 0 0 
+1 0 0
+#22007
+Handcuffs Cuffs~
+a pair of handcuffs~
+A pair of handcuffs dangle here in front of you..where's the key?
+~
+~
+9 128|1024|4096 1|4096
+0 0 0 0 
+4 0 0
+A
+1 -1
+A
+18 -3
+#22008
+Parking Ticket~
+a parking ticket~
+A parking ticket floats in the air and is blown away.
+~
+~
+2 64 1|16384
+20 17 33 68 
+1 0 0
+#22009
+Wooden Hammer Mallet~
+a wooden hammer~
+A wooden hammer has been dropped here..hopefully not on your foot.
+~
+~
+5 0 1|8192
+0 0 0 7 
+2 0 0
+A
+1 1
+A
+19 1
+#22010
+Magazine~
+a magazine~
+A magazine for teenage girls is open to the Horoscope section.
+~
+~
+2 0 1|16384
+15 3 81 81 
+1 0 0
+#22011
+Bottle Nail Polish~
+a bottle of nail polish~
+A bottle of nail polish tips over and spills on the ground.
+~
+~
+13 0 1
+0 0 0 0 
+1 0 0
+#22012
+Klondike Bar Icecream~
+a Klondike Bar~
+What would you do for a Klondike Bar?  Nothing.  Just pick it up.
+~
+~
+26 0 1
+20 28 0 0 
+1 0 0
+#22013
+Can HairSpray Spray~
+a can of hair spray~
+A can of hair spray pollutes the air each time you use it.
+~
+~
+3 0 1|16384
+20 5 5 4 
+1 0 0
+#22014
+Butterfinger Candy Bar~
+a Butterfinger candy bar~
+A tasty, chocolatey, yummy Butterfinger bar is melting here.
+~
+~
+19 0 1
+6 0 0 0 
+1 0 0
+#22015
+Lobster claws pinchers~
+lobster claws~
+The lobster's claws were chopped off and dropped here.
+~
+~
+5 0 1|8192
+0 0 0 5 
+1 0 0
+#22016
+Beads String~
+a string of beads~
+The meditating monk forgot to take his string of beads with him.
+~
+~
+4 1|1024|2048 1|16384
+20 10 10 34 
+1 0 0
+#22017
+Wreath Dandelions Flower~
+a flower wreath~
+A beautiful wreath made of dandelions floats in the breeze.
+~
+~
+9 1024 1|16
+0 0 0 0 
+1 0 0
+A
+12 50
+A
+3 1
+#22018
+Shopping cart~
+a shopping cart~
+A shopping cart has been left here in the middle of the aisle.
+~
+~
+13 0 0
+0 0 0 0 
+5 0 0
+#22019
+Tomato~
+a ripe tomato~
+A ripe tomato looks perfect to be used in a food fight.
+~
+~
+19 0 1
+3 0 0 0 
+1 0 0
+#22020
+Grape~
+a juicy grape~
+A juicy grape looks perfect for a food fight.
+~
+~
+19 0 1
+3 0 0 0 
+1 0 0
+#22021
+Strawberry~
+a tasty strawberry~
+A delicious looking strawberry is waiting to be eaten.
+~
+~
+19 0 1
+3 0 0 0 
+1 0 0
+#22022
+Tictac Mint Tic-tac~
+a Tic-Tac~
+A Tic-Tac breath mint waits for someone to freshen their breath.
+~
+~
+26 0 1
+20 3 43 81 
+1 0 0
+#22023
+Toy Truck~
+a Mack Truck~
+A little toy truck has been taken out of its package.
+~
+~
+8 0 1|16384
+0 0 0 0 
+1 0 0
+A
+19 2
+E
+truck toy~
+The truck is made by Mack Enterprises, Inc.  It is made of sturdy
+plastic and has a little mini-figure driver inside.  When pushed
+around on the floor it honks its horn automatically.
+~
+#22024
+Donuts Box~
+a box of donuts~
+A box of donuts will be devoured soon if you don't pick them up.
+~
+~
+15 0 1
+5 5 0 0 
+5 0 0
+#22025
+Donut~
+a donut~
+A fresh donut rolls away from you.  Hurry before the cops get it!
+~
+~
+19 0 1
+3 0 0 0 
+1 0 0
+E
+donut~
+The donut is the regular honey glazed kind that comes in a box of
+a dozen.  Too bad there are no Dunkin' Donuts with the fancy creme
+filling.
+~
+#22026
+Coupon~
+a grocery store coupon~
+A coupon slipped out of someone's purse and fell here.
+~
+~
+2 0 1|16384
+20 1 39 17 
+1 0 0
+#22027
+Lipstick~
+lipstick~
+Some lipstick is left here being squished into the ground.
+~
+~
+13 0 1
+0 0 0 0 
+1 0 0
+#22028
+Calculator~
+a calculator~
+An ancient looking calculator beeps and prints out random numbers.
+~
+~
+8 0 1|16384
+0 0 0 0 
+1 0 0
+A
+3 2
+#22029
+Note Prescription~
+a doctor's note (prescription)~
+Some piece of paper with incredibly messy handwriting is here.
+~
+~
+2 0 1
+20 3 14 61 
+1 0 0
+E
+note prescription~
+The writing is illegible!  You can't make out what it says.  There
+is a weird looking smiley face at the bottom near the signature
+which looks like this however: *8)   Must be a note from Dr. Mack.
+~
+#22030
+Amber Key~
+an amber key~
+The key to the pharmacy lies here.
+~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#22031
+Indigo Key~
+an indigo key~
+The key to the gang leader's office lies here.
+~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#22032
+frozen teal key~
+a teal key (frozen)~
+The key to the manager's office lies here.
+~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+E
+teal frozen key~
+The key appears to be frozen as you see the mist rise from its contact with
+the warm air of the room.  Using the hidden Merc skill known as investigate,
+which all players are given at level 1 with 100% efficiency, you examine the
+key carefully and find the fingerprints to match those of the manager.  He
+must have snuck in for a nice dessert one day and dropped his key.  Good job
+Sherlock Holmes...you've solved the quest of the missing key!  (Nope, you do
+not win a prize...it's not a real quest).
+~
+#0
+
+
+#ROOMS
+#22000
+Under the Grocery Store~
+The steps creak as you crawl down into the dark pit.  A terrible
+odor comes from all directions.
+~
+0 1|8 0
+D1
+You can't see down here in the darkness.
+~
+~
+0 0 22001
+D4
+You see a latch to open up the grate.
+~
+latch~
+1 0 22023
+S
+#22001
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D2
+You can't see down here in the darkness.
+~
+~
+0 0 22002
+D3
+You can't see down here in the darkness.
+~
+~
+0 0 22000
+S
+#22002
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D0
+You can't see down here in the darkness.
+~
+~
+0 0 22001
+D2
+You can't see down here in the darkness.
+~
+~
+0 0 22005
+D3
+You can't see down here in the darkness.
+~
+~
+0 0 22007
+S
+#22003
+Loading Zone~
+Hiding in the shadows you watch as they load cartons of boxes
+coming out of the prescription drug storage room.  This could be
+your chance to be a hero and stop a drug deal.  Go for it!
+~
+0 1|8 0
+D2
+The door leads back into the prescription drug storage room.
+~
+door~
+1 0 22013
+S
+#22004
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D0
+You can't see down here in the darkness.
+~
+~
+0 0 22006
+S
+#22005
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D0
+You can't see down here in the darkness.
+~
+~
+0 0 22002
+D3
+You can't see down here in the darkness.
+~
+~
+0 0 22006
+S
+#22006
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D0
+You can't see down here in the darkness.
+~
+~
+0 0 22007
+D1
+You can't see down here in the darkness.
+~
+~
+0 0 22005
+D2
+You can't see down here in the darkness.
+~
+~
+0 0 22004
+S
+#22007
+Underground Area~
+You hear water dripping here beneath the store.  A terrible odor
+comes from all directions.
+~
+0 1|8 0
+D1
+You can't see down here in the darkness.
+~
+~
+0 0 22002
+D2
+You can't see down here in the darkness.
+~
+~
+0 0 22006
+D3
+You can't see down here in the darkness.
+~
+~
+0 0 22008
+S
+#22008
+Dead End~
+You've come to a dead end beneath the store.  In the darkness you
+hear a hissing sound and feel the slimy skin of something crawling
+over your feet.
+~
+0 1|8 0
+D1
+You can't see down here in the darkness.
+~
+~
+0 0 22007
+S
+#22009
+Back of the Grocery Store~
+Gang members pull box after box from the grocery store's storage
+area.  You wonder if this food is fresh compared to the spoiled and
+rotten food sold on the shelves.
+~
+0 1|8 0
+D2
+The door leads back into the storage area.
+~
+door~
+1 0 22019
+S
+#22010
+Meats~
+Steak meat, prime rib, t-bone, and other meats are spoiling in
+their containers.  The temperature is not properly set low enough
+so they are not frozen well.
+~
+0 8 0
+D1
+The pork and chicken meats are in that section.
+~
+~
+0 0 22011
+D2
+A lobster splashes in it's tank waiting to snap at you.
+~
+~
+0 0 22020
+S
+#22011
+Meats~
+Different slices of pork and chicken pieces are sold from this
+area.  Some flies are hovering above an open package of chicken
+legs.
+~
+0 8 0
+D1
+Luncheon meats and hot dogs and hamburger meat.
+~
+~
+0 0 22012
+D3
+The steak meats and other assorted meats are kept there.
+~
+~
+0 0 22010
+S
+#22012
+Luncheon Meats~
+Special deli meats and other luncheon meats including hot dogs and
+hamburgers are kept fresh here.  The manager has a special display
+here for a new brand of hot dogs.
+~
+0 8 0
+D2
+A store directory hangs up above with information.
+~
+~
+0 0 22022
+D3
+The chicken and pork meats are stored on those shelves.
+~
+~
+0 0 22011
+E
+display hotdogs~
+'Are sick of buying hot dogs in a package of 10 and buns in a
+package of 8?  Well...worry no more, it's the new 8-Ball hotdogs
+sold exclusively by this store!  You won't have to eat those
+remaining two hot dogs without a bun because this package only has
+8 hotdogs.  --Manager'  Strange...it still costs the same price for
+2 less hotdogs.
+~
+S
+#22013
+Pharmacy Storeroom~
+As you walk into the storeroom you can't believe your eyes.  It
+seems like a drug dealing center, but it's legal.  Looking around
+on the shelves you realize that some of these drugs aren't intended
+to be sold to customers in the store.
+~
+0 8 0
+D0
+A door leads out to the loading area.
+~
+door~
+1 0 22003
+D1
+The door opens up into the store and counter area.
+~
+door~
+1 22030 22014
+D3
+~
+~
+0 0 22200
+S
+#22014
+Pharmacy/Health Center~
+"Hey! You're not supposed to be back here..go away!"  Hakeem pushes
+you back behind the counter where you are supposed to stand in line
+for your medicine.
+~
+0 8 0
+D1
+There is some strange guy preaching some junk to people.
+~
+counter~
+1 0 22015
+D3
+The door leads into the storage room for the medicine.
+~
+door~
+1 22030 22013
+S
+#22015
+A Gathering~
+People are gathering around and sitting on the floor to listen to
+this strange looking man talk about some far away lands.  He
+probably just got out of the insane asylum.
+~
+0 8 0
+D1
+There are flowers and greeting cards on carousel displays.
+~
+~
+0 0 22016
+D2
+That area looks a little bit less crowded than this room.
+~
+~
+0 0 22025
+D3
+Hakeem pushes you back saying, 'No come back here! Employee only!"
+~
+counter~
+1 0 22014
+S
+#22016
+Flowers & Greeting Cards~
+The annoying sounds of the musical greeting cards gets on your
+nerves here and the smell of dying flowers is also making you sick.
+~
+0 8 0
+D2
+Fresher looking flowers...probably because they are plastic.
+~
+~
+0 0 22026
+D3
+A crazy man preaching to a bunch of hypnotized people.
+~
+~
+0 0 22015
+S
+#22017
+Storage Room~
+"Get out of here!," screams a stockboy as you walk into the room.
+You're not supposed to come in here, didn't you read the sign on
+the door saying 'Employees Only'?
+~
+0 1|8 0
+D1
+The darkness of the storage room make you shiver in fear.
+~
+~
+0 0 22018
+D2
+The door leads back out into the grocery store.
+~
+door~
+1 0 22027
+S
+#22018
+Storage Room~
+Something huge runs over your foot and brushes against your leg and
+terrifies you.  What in the world was that thing!?
+~
+0 1|8 0
+D1
+You see a bunch of boxes kept in the storage area.
+~
+~
+0 0 22019
+D2
+A small path through the boxes leads to another part of the area.
+~
+~
+0 0 22028
+D3
+A little bit of light seeps through the window to the store.
+~
+~
+0 0 22017
+S
+#22019
+Storage Room~
+There is a door going out to the back of the store here.  You hide
+behind the boxes and notice some of the gang members earlier
+walking out with boxes of food.
+~
+0 1|8 0
+D0
+The door leads out back.
+~
+door~
+1 0 22009
+D2
+The sounds of snoring come from that direction.
+~
+~
+0 0 22029
+D3
+Your eyes haven't adjusted enough to the darkness yet.
+~
+~
+0 0 22018
+S
+#22020
+Lobster Tank~
+You walk past the fresh lobster tank and a lobster snaps at you.
+Come take a closer look, it doesn't appear as if the pinchers are
+tied together very well.
+~
+0 8 0
+D0
+The seafood section blends into the meat section.
+~
+~
+0 0 22010
+D1
+There are a bunch of shopping carts left there.
+~
+~
+0 0 22021
+D2
+The other seafood, supposably already dead, are put there.
+~
+~
+0 0 22030
+S
+#22021
+Loading Area~
+Many shopping carts, half filled, are left here in the middle of
+the store for no apparent reason.  People walk off and get their
+foods then bring it back to their cart because they are too tired
+or weak to push the cart around the store themselves.
+~
+0 8 0
+D1
+A store directory with item listings and their aisles hangs there.
+~
+~
+0 0 22022
+D2
+Something is spilling off of the reduced items shelf.
+~
+~
+0 0 22031
+D3
+A lobster tank has fresh lobster snapping their claws in it.
+~
+~
+0 0 22020
+S
+#22022
+Store Directory~
+You try to jump up in the air to read the directory but it's too
+high to read.  What's the use of those things if you can't even see
+what's written on it?
+~
+0 8 0
+D0
+Packages of hot dogs and luncheon meat fill the shelves.
+~
+~
+0 0 22012
+D1
+The red arrow on the ground curves around towards the next aisle.
+~
+~
+0 0 22023
+D2
+Aisle 1 contains all the canned foods and soups.
+~
+~
+0 0 22032
+D3
+Shopping carts fill up the area and you cannot get past them.
+~
+~
+0 0 22021
+S
+#22023
+Aisle~
+The floor rattles a little when you walk over it and you turn
+around to see that there is a grate here.  The red arrow conceals
+it but there is a latch that you can hold onto and pull up on.
+~
+0 8 0
+D1
+The counter for the prescriptions drugs.
+~
+~
+0 0 22024
+D2
+A kid is trying to light some lipstick with a match.
+~
+~
+0 0 22033
+D3
+A store directory hangs above to help guide your way.
+~
+~
+0 0 22022
+D5
+A concealed latch leads down into a secret area.
+~
+latch~
+1 0 22000
+E
+latch~
+The red arrow hides the latch but you can see it if you look
+closely.  There is a keyhole but you're not sure who would have the
+key to the latch.
+~
+S
+#22024
+Prescription Drug Counter~
+People wait in line to get their prescribed drugs here.  Some of
+them stare at the doctor's notes they have trying to figure out
+what the handwriting says.
+~
+0 8 0
+D1
+It appears to be an open area you can rest in.
+~
+~
+0 0 22025
+D2
+Some people are checking over the soaps and medicines there.
+~
+~
+0 0 22034
+D3
+The red arrow on the ground is faded away there.
+~
+~
+0 0 22023
+S
+#22025
+Open Area~
+This area is open and nobody seems to be walking or pushing their
+cart through here.  Perhaps it's a good place to rest from this
+heavy duty grocery shopping.
+~
+0 8|1024 1
+D0
+There is some old man who looks like a monk preaching there.
+~
+~
+0 0 22015
+D1
+You see a bunch of flowers and greeting cards.
+~
+~
+0 0 22026
+D2
+Looks like some kid and his father fighting over a candy bar.
+~
+~
+0 0 22035
+D3
+The prescription drug counter looks busy.
+~
+~
+0 0 22024
+S
+#22026
+Flowers & Greeting Cards~
+Racks of plastic flowers and greeting cards are here.  There are
+real flowers here also but they seem to be dying due to lack of
+water.
+~
+0 8 0
+D0
+Looks like some more flowers and cards.
+~
+~
+0 0 22016
+D1
+You don't know what's there since the directory was smeared.
+~
+~
+0 0 22027
+D2
+Some underage kids are looking for some beer to get drunk with.
+~
+~
+0 0 22036
+D3
+It looks like a nice, safe area to rest in.
+~
+~
+0 0 22025
+S
+#22027
+Entrance to Storage~
+Store employees walk in and out of the door to your north with
+boxes and boxes of new foods.  Most likely they are the stockboys
+and that is the storage area.  A sign on the door reads: Employees
+Only.
+~
+0 8 0
+D0
+The door leads to the storage room.
+~
+door~
+1 0 22017
+D2
+A stockboy bumps you over before you get a chance to look.
+~
+~
+0 0 22037
+D3
+The plastic flowers look real from this distance.
+~
+~
+0 0 22026
+S
+#22028
+Storage Area~
+This place gives you the creeps.  Pipes that are steaming hang low
+overhead and boxes are opened and thrown all over the room.  Was
+that a huge rat that just ran by in the corner of your eye?  It
+look more like the size of a dog but you could be wrong.
+~
+0 1|8 0
+D0
+There is a small path through the boxes in the storage room.
+~
+~
+0 0 22018
+D1
+It's too dark in here to see.
+~
+~
+0 0 22029
+S
+#22029
+Storage Area~
+Home Sweet Home!  At least that's what it is to the person sleeping
+amidst the boxes here.  Better not disturb the poor man and wake
+him up.
+~
+0 1|8 0
+D0
+It's too dark for you to see anything here.
+~
+~
+0 0 22019
+D3
+Boxes, boxes and more boxes.
+~
+~
+0 0 22028
+S
+#22030
+Seafood~
+There are packages of crabmeat, lots of fish, and other assorted
+seafoods here to buy.  Out of the corner of your eye you see
+something crawl over a fish and then scurry beneath it.  Maybe it's
+just your imagination.  But in this store who knows what could
+happen.
+~
+0 8 0
+D0
+There are live lobsters in a holding tank.
+~
+~
+0 0 22020
+D1
+Reduced items for sale because of damage or expiration.
+~
+~
+0 0 22031
+D2
+You see the clouds of cold air rising from the frozen foods.
+~
+~
+0 0 22040
+S
+#22031
+Reduced Items~
+There appears to be some food here that is spilling all over the
+place.  Better watch your step before your shoes get covered with
+that spoiled junk.
+~
+0 8 0
+D0
+Looks like the arrow turns around towards the next aisle.
+~
+~
+0 0 22021
+D2
+The reduced items shelf continues on.
+~
+~
+0 0 22041
+D3
+The smell of the rotting seafood makes you seasick.
+~
+~
+0 0 22030
+S
+#22032
+Aisle 1 - Canned Foods~
+Cans are dropping all over the place and rolling down the aisle.
+You have to tip-toe your way through the aisle to avoid slipping on
+them and falling on your bottom.
+~
+0 8 0
+D0
+A store directory listing all the items is hanging there.
+~
+~
+0 0 22022
+D2
+There are many different types of soups to buy in this aisle.
+~
+~
+0 0 22042
+S
+#22033
+Aisle 2 - Makeup/Cosmetics~
+Lipstick and eye shadow and eye liner and everything else that
+people put on their faces to look more beautiful.  A kid is here
+trying to see if lipstick is flammable or not.
+~
+0 8 0
+D0
+The red lines point towards you telling you it's the wrong way.
+~
+~
+0 0 22023
+D2
+You see some women trying out the new brands of lipstick.
+~
+~
+0 0 22043
+S
+#22034
+Aisle 3 - Beauty Products~
+There are different varities of soaps and detergents here.
+Bandages, braces, and other injury related items are also here on
+the shelves.
+~
+0 8 0
+D0
+Not too far away you can see the prescription drug counter.
+~
+~
+0 0 22024
+D2
+Shampoos and conditioners and other assorted items.
+~
+~
+0 0 22044
+S
+#22035
+Aisle 4 - Candy~
+There are rows and rows of seasonal candy here with rows and rows
+of people pushing to get to it.  You notice a peculiar looking
+display stand in the middle of the aisle.
+~
+0 8 0
+D0
+You cannot see through the crowd of people fighting for candy.
+~
+~
+0 0 22025
+D2
+You cannot see through the mob surrounding you.
+~
+~
+0 0 22045
+E
+display stand~
+The display stand is a special sale for Butterfinger (tm) candy
+bars.  It seems to be almost empty.
+~
+S
+#22036
+Aisle 5 - Soft Drinks/Alcohol~
+Wines and liquor and displays of new brands of wines fill the
+aisles as you try to walk through it and all the underage kids
+trying to purchase it.
+~
+0 8 0
+D0
+Flowers and greeting cards.
+~
+~
+0 0 22026
+D2
+Soft drinks and varities of sodas grab your attention.
+~
+~
+0 0 22046
+S
+#22037
+Aisle 6 - Chips & Snacks~
+As you walk through the aisle and look into the customer's shopping
+carts you notice only 2 different types of items.  They have candy
+filled to the top and then a layer of bags of chips and snacks
+covering the candy.  It's great how everyone eats so healthy.
+~
+0 8 0
+D0
+The red arrow is too faded away to see where to go next.
+~
+~
+0 0 22027
+D2
+A bag of chips must've popped open and scattered over the floor.
+~
+~
+0 0 22047
+S
+#22038
+Salad Bar~
+Fresh lettuce and vegetables look very tasty and if you didn't
+bring some of your pot pies from the grocer you'd probably want to
+buy a salad.  Someone sneezes and everyone looks disgusted at him
+but it's a good thing they have the protection glass above it here.
+~
+0 8 0
+D1
+The humungous salad bar continues...looks like a food fight.
+~
+~
+0 0 22039
+D2
+Some fresh bread would go great with a salad.
+~
+~
+0 0 22048
+S
+#22039
+Salad Bar - Food Fight!!~
+You quickly duck as a squished cherry tomato flies right where you
+face would have been.  Things are getting out of hand here and
+there is a major food fight with the salad bar items.  Join in the
+fun!
+~
+0 8 0
+D3
+The more peaceful and quiet side of the salad bar looks boring.
+~
+~
+0 0 22038
+S
+#22040
+Frozen Foods~
+The cold air blowing from the freezer type containers sends a chill
+up your spine.  Your body covers with goose bumps and you shiver
+uncontrollably.
+~
+0 8 0
+D0
+You see little icicles hanging from the top of the shelves.
+~
+~
+0 0 22030
+D1
+There is a reduced-price items shelf there.
+~
+~
+0 0 22041
+S
+#22041
+Reduced Items~
+There is a shelf here full of items that have been dropped,
+damaged, or just reduced for being old.  It's probably a good idea
+to check the expiration date before you purchase anything from
+here.
+~
+0 8 0
+D0
+The shelf has more reduced items.
+~
+~
+0 0 22031
+D2
+The red arrow is faded there, which way should you go?
+~
+~
+0 0 22051
+D3
+The frozen foods section looks like a very cold place.
+~
+~
+0 0 22040
+S
+#22042
+Aisle 1 - Canned Foods~
+The stretch of canned foods goes on and on as far as your eyes can
+see.  They seem to be overstocked on many items and you begin to
+wonder if some of the food here has spoiled already.  But then you
+hit yourself and realize it doesn't spoil...it's canned foods. Duh.
+~
+0 8 0
+D0
+You'll never guess...it's more canned foods.
+~
+~
+0 0 22032
+D2
+The security camera above you faces you and you quickly turn away.
+~
+~
+0 0 22052
+S
+#22043
+Aisle 2 - Makeup/Cosmetics~
+There are a few school supplies here that have been misplaced but
+otherwise this area is filled with lots of makeup.  Every different
+celebrity has their brand for sale here giving you the choice of
+over 1,000 varieties of lipstick.
+~
+0 8 0
+D0
+The makeup and lipstick racks and shelves continue.
+~
+~
+0 0 22033
+D2
+The school supplies become more abundant there.
+~
+~
+0 0 22053
+S
+#22044
+Aisle 3 - Beauty Products~
+A little boy laughs at you as you step on a tube of toothpaste and
+it squirts all over the floor.  Better be more careful when you
+walk through this aisle next time.
+~
+0 8 0
+D0
+It's a bird...it's a plane...no...it's more beauty products.
+~
+~
+0 0 22034
+D2
+A cloud of hairspray permits you from seeing anything there.
+~
+~
+0 0 22054
+S
+#22045
+Aisle 4 - Candy~
+Chocolates galore!  It's a chocoholics heaven here.  You can't
+believe your eyes as you turn from side to side and see the shelves
+full of chocolate bars.
+~
+0 8 0
+D0
+Your eyes are glued on the chocolate right here.
+~
+~
+0 0 22035
+D2
+People are fighting over a bag of pixie stix.
+~
+~
+0 0 22055
+S
+#22046
+Aisle 5 - Soft Drinks/Alcohol~
+To your left is row after row of brand name colas and soft drinks.
+On your right is a shelf with all the latest beer stunts.  They
+went through draft, light, and ice beer....what's next?
+~
+0 8 0
+D0
+You go in a daze when you look down the long aisle of drinks.
+~
+~
+0 0 22036
+D2
+For some reason you find the urge to go to the bathroom now.
+~
+~
+0 0 22056
+S
+#22047
+Aisle 6 - Chips & Snacks~
+Looks like the Little Debbie (tm) stockboy came through today.  All
+the assorted snack cakes are bulging out of the shelves tempting
+you to buy them.  You want to buy all of them but stop yourself
+when you think about all the exercise you'd have to do to keep the
+weight off.
+~
+0 8 0
+D0
+Potato chips, cheeze curls, pretzels, and other munchies.
+~
+~
+0 0 22037
+D2
+Some homeless person is eating chips and relaxing in the aisle.
+~
+~
+0 0 22057
+S
+#22048
+Aisle 7 - Breads/Bakery~
+The bread here seems to be growing mold on it and it disgusts you.
+After seeing the worms crawling through the apples and bugs
+infesting the vegetables you thought nothing else would make you
+sick..you were wrong.  There is a freezer to your east with ice
+cream stored in it.
+~
+0 8 0
+D0
+You see the edge of the salad bar and bakery section of the store.
+~
+~
+0 0 22038
+D1
+The ice cream looks tasty and you start drooling over the sight.
+~
+freezer~
+1 0 22049
+D2
+The breads there look fresher than these old, moldy ones.
+~
+~
+0 0 22058
+S
+#22049
+Ice Cream Freezer~
+As you walk in you start to shiver but it doesn't bother you.  You
+are surrounded by gallons and gallons of delicious ice cream.  If
+you had a spoon you could dig right in and enjoy!
+~
+0 8 0
+D3
+The door leads back out to the bakery and the grocery store.
+~
+freezer~
+1 0 22048
+S
+#22050
+Fresh Fruits~
+There are more fresh fruits here against the wall.  You have seen
+so many different kinds you never want to see a fruit again in your
+life.  These fruits don't seem as fresh and have probably been
+sitting here on the shelves for a few weeks.
+Mack (invisible) is here...juggling pineapples and oranges.
+~
+0 8 0
+D1
+The red arrow helps you along your shopping trail.
+~
+~
+0 0 22051
+D2
+The fresher, but not necessarily better, fruit.
+~
+~
+0 0 22060
+E
+Mack~
+He smiles at you and loses his concentration so a pineapple falls
+and hits him on the head.  *BONK*  Mack rubs his head and frowns.
+"Now look what you made me do!!"  He picks up the pineapple and
+starts juggling again.
+~
+S
+#22051
+Walking through the Store~
+The red arrow that guides you through the grocery store seems to
+have faded here.  Now you are unsure which direction to go in.
+~
+0 8 0
+D0
+You look there and see the reduced price items.
+~
+~
+0 0 22041
+D2
+There is a directory to help you find your way in the store.
+~
+~
+0 0 22061
+D3
+The old, rotting fruits hang on the shelves.
+~
+~
+0 0 22050
+S
+#22052
+Aisle 1 - Canned Foods~
+There are many different flavors of soups hung here on the shelves.
+So many new brands and flavors that sound disgusting and would
+probably make you sick.  Who would want to eat the new "Broccoli,
+Tomato, and Clam Chowder" soup?  Who's the genius who came up with
+that combination of taste?
+~
+0 8 0
+D0
+More canned foods and delicious flavored soups.
+~
+~
+0 0 22042
+D2
+Aisle 1 continues with racks full of canned foods.
+~
+~
+0 0 22062
+S
+#22053
+Aisle 2 - School Supplies~
+Some kids must have run through this aisle because there are papers
+scattered all over the floor and many different school supplies in
+a messy pile.
+~
+0 8 0
+D0
+More school supplies for the children.
+~
+~
+0 0 22043
+D2
+The red arrow points in that direction to lead you around.
+~
+~
+0 0 22063
+S
+#22054
+Aisle 3 - Beauty Products~
+There are millions of different brands of shampoos, soaps,
+conditioners, hair sprays, toothpastes, and other beauty products.
+People stand here reading the labels and trying to decide which
+items are best for them.
+~
+0 8 0
+D0
+The beauty products aisle stretches for miles and miles.
+~
+~
+0 0 22044
+D1
+That aisle seems to be filled with tons of people...must be candy.
+~
+~
+0 0 22055
+S
+#22055
+Aisle 4 - Candy~
+Many people are pushing and shoving each other trying to get the
+last candy bars or bags of candy.  There must be millions of them
+screaming and kicking, fighting for the chocolate they crave.
+~
+0 8 0
+D0
+More candy and more mobs of people fighting over it.
+~
+~
+0 0 22045
+D2
+The magazine and candy rack for the express lane looks busy also.
+~
+~
+0 0 22065
+S
+#22056
+Aisle 5 - Soft Drinks/Alcohol~
+One side of the aisle has every type of soft drink you ever thought
+imaginable...and then more of the no-name brands that you have
+never seen before.  The cheaper brands don't look as appealing but
+people buy them anyways to save those extra few pennies...probably
+to buy more candy and chocolate.
+~
+0 8 0
+D0
+The aisle continues with more soft drinks and beer.
+~
+~
+0 0 22046
+D2
+There is a magazine/candy rack leading to the quickie line.
+~
+~
+0 0 22066
+S
+#22057
+Aisle 6 - Chips & Snacks~
+As if the candy aisle wasn't enough there is an aisle devoted
+entirely to potato chips, pretzels, and other snacks.  This is like
+heaven for a couch potato.  Just bring in the tv and couch, sit
+back, and munch away.
+~
+0 8 0
+D0
+More and more chips to munch on.
+~
+~
+0 0 22047
+D1
+The freshly baked breads are in that aisle.
+~
+~
+0 0 22058
+D2
+There are people sitting around reading magazines.
+~
+~
+0 0 22067
+S
+#22058
+Aisle 7 - Breads/Bakery~
+The racks are full of fresh bread and different bakery products.
+Boxes of donuts and garlic breads and specialty breads are also for
+sale here.
+~
+0 8 0
+D0
+The smell of freshly baked breads lure you down the aisle.
+~
+~
+0 0 22048
+D1
+The long line to the slow checkout is full of angry customers.
+~
+~
+0 0 22059
+D2
+There are people waiting in line even though it's closed.
+~
+~
+0 0 22068
+D3
+Chips and snacks of all varities grab your attention.
+~
+~
+0 0 22057
+S
+#22059
+Slow Checkout Line~
+You cannot believe how long this checkout line is.  It stretches
+all the way back and there are numerous people standing in line,
+too many to count.  People grumble when they get in line and wonder
+if it's really worth waiting to buy their groceries.
+~
+0 8 0
+D2
+The checkout line barely moves and you can hear people yelling.
+~
+~
+0 0 22069
+D3
+The line continues to wrap around the grocery store.
+~
+~
+0 0 22058
+S
+#22060
+Fresh Fruits~
+As you walk along the grocery store you see more and more fruits
+waiting to be purchased.  If you look close enough you can see the
+worms crawling in and out of the apples and the little grubs eating
+the other fruits.
+~
+0 8 0
+D0
+More delicious fruits with bugs crawling in them.
+~
+~
+0 0 22050
+D1
+There is a directory hanging up above the store aisle.
+~
+~
+0 0 22061
+D2
+You see the other assorted fruits.
+~
+~
+0 0 22070
+S
+#22061
+A Directory of the store~
+For those of you who missed the information desk coming through the
+entrance to your right there is a hanging directory up above your
+head with information about the items and their whereabouts in the
+store.
+~
+0 8 0
+D0
+An aisle towards the seafood, frozen foods, and meat sections.
+~
+~
+0 0 22051
+D1
+The beginning of the canned foods aisle.
+~
+~
+0 0 22062
+D2
+There are people rushing by the vegetable section.
+~
+~
+0 0 22071
+D3
+Fresh fruits of all assorted shapes and sizes.
+~
+~
+0 0 22060
+S
+#22062
+Aisle 1 - Canned Foods~
+You have come to the beginning of the first aisle in the grocery
+store...canned foods.  There are many different types here
+including soups, baby food, canned vegetables and many others.
+~
+0 8 0
+D0
+An arrow on the floor helps you walk along the grocery store.
+~
+~
+0 0 22052
+D1
+You see the beginning of the second aisle.
+~
+~
+0 0 22063
+D3
+The directory of the store hangs up above you.
+~
+~
+0 0 22061
+S
+#22063
+Aisle 2 - School Supplies~
+Kids are walking up and down the aisle searching for specific
+school supplies they need for their projects.  You often wonder why
+they don't call this place a convenience mart instead of a grocery
+store.
+~
+0 8 0
+D0
+Oops, you're going the wrong way..the arrow points towards you.
+~
+~
+0 0 22053
+D3
+Looking over your shoulder you see the first aisle - canned foods.
+~
+~
+0 0 22062
+S
+#22064
+Information Desk~
+This is the information desk where you can find out little tidbits
+about the store.  The store has made a directory to help you find
+your way through the store easier, but someone has spilled a soda
+on it and you can no longer read it.
+~
+0 8 0
+D2
+The only exit out of here...back to the coupons and bulletin board.
+~
+~
+0 0 22074
+E
+directory~
+You try hard but cannot read the stained directory.  A little post-
+it note is attached at the bottom.
+~
+E
+note post-it~
+The handwriting is barely legible but you seem to make out the
+words:  We're sorry for the inconvenience.  A new directory is
+being made at the moment and should be here for our customers soon.
+--The Manager
+~
+S
+#22065
+Magazine/Candy Rack~
+As if you didn't get enough candy when you walked through the candy
+aisle they put out individually wrapped candy bars here.  Little
+kids beg there mothers to buy them something to eat on the way
+home.
+~
+0 8 0
+D0
+Aisle 4 is crowded with lots of people...must be the candy aisle.
+~
+~
+0 0 22055
+D1
+There is another magazine and candy rack to browse through.
+~
+~
+0 0 22066
+D2
+The express lane checker is working like a speed demon.
+~
+~
+0 0 22075
+S
+#22066
+Magazine/Candy Rack~
+There are many people here complaining about the slow checker in
+the quickie lane.  If they didn't have too many items they could
+have gone through the express lane and been out of here an hour
+ago.
+~
+0 8 0
+D0
+Some teenagers are looking over the beers for a cheap six-pack.
+~
+~
+0 0 22056
+D1
+There is another magazine rack there with many people around it.
+~
+~
+0 0 22067
+D2
+A checker is holding up the line by counting each person's items.
+~
+~
+0 0 22076
+D3
+The other candy and magazine rack looks just as busy as this one.
+~
+~
+0 0 22065
+S
+#22067
+Magazine/Candy Rack~
+There are many people gathered around reading magazines here since
+the checkout is closed.  People just sit here all day and read
+their favorite magazines so they don't have to waste their money
+and buy it.
+~
+0 8 0
+D0
+There is an aisle full of chips, crackers, pretzels, and more junk.
+~
+~
+0 0 22057
+D2
+A closed checkout line looks pretty empty to you.
+~
+~
+0 0 22077
+D3
+Yet another magazine and candy rack full of people.
+~
+~
+0 0 22066
+S
+#22068
+Closing Checkout Line~
+There are people standing here thinking that they will be able to
+get their groceries bought.  But little do they realize that the
+checker has closed the line and put up a sign on the conveyor belt
+saying : 'Closed - Next Line Please'.
+~
+0 8 0
+D0
+Some smart people realize the line is closing and walk away.
+~
+~
+0 0 22058
+D2
+The checker is closing her cash register and finishing up her job.
+~
+~
+0 0 22078
+S
+#22069
+Slow Checkout Line~
+This is the only line open for anyone who has more than 10 items
+and can't get into the express or quickie line.  There is a long
+line of people waiting impatiently and yelling up ahead to the
+cashier.  This store could probably make more money if they opened
+up another line to get more customers through.
+~
+0 8 0
+D0
+The long line of groaning customers continues.
+~
+~
+0 0 22059
+D2
+The cashier seems to take forever and slowly scans the items.
+~
+~
+0 0 22079
+S
+#22070
+Fresh Fruits~
+Assorted fruits and exotic fruits are placed along the walls and in
+baskets here.  You can see many people tapping them, shaking them,
+squeezing them, listening to them and anything else imaginable to
+see if they are fresh and ripe.
+~
+0 8 0
+D0
+You see more fruits.  There are some normal people there also.
+~
+~
+0 0 22060
+D1
+The vegetable section of the grocery store looks tasty.
+~
+~
+0 0 22071
+S
+#22071
+Vegetables~
+There are many different types of vegetables here.  Although they
+are fresh and look tasty many people are passing them by quickly
+and moving on to the junk food sections of the store.
+~
+0 8 0
+D0
+The grocery store splits up into aisles there.
+~
+~
+0 0 22061
+D1
+More vegetables of all shapes and sizes.
+~
+~
+0 0 22072
+D3
+The fresh fruits section starts there.
+~
+~
+0 0 22070
+S
+#22072
+Vegetables~
+As you walk into the grocery store the first things that show up
+are the vegetables.  You wonder if they are strategically placed
+here so that people will buy more of them.  It doesn't seem to work
+though as everyone just pushes their carts by without even looking.
+~
+0 8 0
+D1
+The grocery store entrance is packed with people being shoved in.
+~
+~
+0 0 22073
+D3
+More vegetables for people to walk by and ignore.
+~
+~
+0 0 22071
+S
+#22073
+Baskets and Carts~
+This is where the baskets and shopping carts are supposed to be
+returned.  But with the new loading zone recently put in nobody
+takes the time and courtesy to return the carts inside.  Little
+arrows on the floor point to the west but there is a bulletin board
+and coupons east of here.
+~
+0 8 0
+D1
+You see the bulletin board with things for sale and coupons on it.
+~
+~
+0 0 22074
+D3
+You look up and see your worst nightmare...tons of vegetables.
+~
+~
+0 0 22072
+S
+#22074
+Bulletin Board~
+The bulletin board is full of papers and brochures tacked on with
+things for sale.  You look through a couple of them but nothing
+looks all that great.  There isn't enough money in your pocket to
+buy anything anyways.  While you're here pick up a couple coupons
+to save money on some strange foods that you have never eaten but
+will buy anyways since it's "buy one - get one free".
+~
+0 8 0
+D0
+There is an information desk up ahead with a bored employee.
+~
+~
+0 0 22064
+D3
+People are picking up shopping baskets and carts.
+~
+~
+0 0 22073
+S
+#22075
+Express Lane~
+The checker here is working incredibly fast and zipping right
+through all the items people are buying.  You wonder if he is
+ripping some people off, either intentionally or by mistake, when
+he enters the prices of the foods into his register.
+~
+0 8 0
+D0
+A magazine and candy rack lures customers to buy more junk.
+~
+~
+0 0 22065
+D2
+The express lane bagger works just as quickly as the checker does.
+~
+~
+0 0 22085
+S
+#22076
+Quickie Line~
+This line is supposed to be for people with 10 items or less.  The
+checker actually stops each person and counts the number of items
+they are buying, which completely ruins the idea of a quicker
+checkout line.
+~
+0 8 0
+D0
+People are waiting in line impatiently to purchase their food.
+~
+~
+0 0 22066
+D2
+The bagger is trying to work as fast the express lane bagger.
+~
+~
+0 0 22086
+S
+#22077
+Closed Checkout Line~
+The conveyor belt continues to move but the chain prevents anyone
+from going through this line.  The employee seems to be on a short
+lunch break.
+~
+0 8 0
+D0
+The only way out to go to another checkout line.
+~
+~
+0 0 22067
+S
+#22078
+Closed Checkout Line~
+The checker is wrapping up the last customer and has turned off the
+light to let people know the line is open.  She takes her time and
+doesn't seem to know exactly how to operate the cash register.
+It's a good thing they are closing this line, they may lose a lot
+of money from her mistakes.
+~
+0 8 0
+D0
+People stand in line and then realize that it's closed and leave.
+~
+~
+0 0 22068
+S
+#22079
+Checkout Line~
+Besides the express lane and quickie line this is the only checkout
+line open.  The line seems to go on forever and people wait for
+this slow checker to add up the total for their food.
+~
+0 8 0
+D0
+The people are falling asleep on their carts waiting to go.
+~
+~
+0 0 22069
+D2
+The bagger for this line is getting tired of packing all the food.
+~
+~
+0 0 22089
+S
+#22080
+Construction Area~
+People with hardhats and jackhammers are digging up the parking lot
+here and putting up steel beams.  They may be making an addition to
+the grocery store but nobody is sure about it.  Be careful or you
+might get hit on the head with a hammer.
+~
+0 0 1
+D1
+The people are arguing with the cop about a parking ticket.
+~
+~
+0 0 22081
+D2
+Construction continues to the south.
+~
+~
+0 0 22090
+S
+#22081
+Handicap Zone~
+There is a car parked here without a handicap license plate.  On
+the windshield you see a ticket with a court summons for illegal
+parking.  Good thing you didn't park your car there!
+~
+0 0 1
+D1
+Another handicap parking area.
+~
+~
+0 0 22082
+D2
+A parking lot in use with a car whose lights are still on.
+~
+~
+0 0 22091
+D3
+There is some kind of construction work happening there.
+~
+~
+0 0 22080
+S
+#22082
+Handicap Zone~
+There is a handicap only parking zone here.  You look around and
+check the license plate and sure enough it has a wheelchair symbol
+on it.  An annoyed customer walks by and mumbles about not getting
+a close parking spot.
+~
+0 0 1
+D1
+The entrance to the grocery store lies to the east.
+~
+~
+0 0 22083
+D2
+A non-handicapped parking lot area waits for a car to park there.
+~
+~
+0 0 22092
+D3
+Some kind of argument is being fought there.
+~
+~
+0 0 22081
+S
+#22083
+Grocery Store Entrance~
+People are pushing and shoving trying to get into the grocery store
+and little kids are crying and jumping in and out of the shopping
+carts.  To the north is the entrance and west is the parking lot
+area.
+~
+0 0 1
+D0
+The automatic door leads into the grocery store.
+~
+entrance door~
+0 0 22073
+D3
+The parking area is being filled by customers.
+~
+~
+0 0 22082
+S
+#22084
+Grocery Store Exit~
+A big red sign flashes the word "EXIT" here.  People are rushing to
+get out of the store as if it were going to explode soon.
+~
+0 8 0
+D1
+The express lane bagger whistles happily as he works.
+~
+~
+0 0 22085
+D2
+The automatic doors open up and lead out to the path.
+~
+exit door~
+0 0 22094
+S
+#22085
+Express Lane Bagging Area~
+They don't call it the express lane for nothing.  The lane spits
+out customer after customer as if it were an assembly line.
+~
+0 8 0
+D0
+The checker for the express lane is working at a furious pace.
+~
+~
+0 0 22075
+D1
+The quickie line bagger is trying to keep pace with this lane.
+~
+~
+0 0 22086
+D3
+You see the exit out of the grocery store.
+~
+~
+0 0 22084
+S
+#22086
+Quickie Line Bagging Area~
+The line here moves quick, hence the name "Quickie Line".  It is
+supposed to be for people with 10 items or less but many people try
+to sneak in with more items.
+~
+0 8 0
+D0
+The quickie line checker is working hard on the job.
+~
+~
+0 0 22076
+D1
+The checkout line don't seem as busy as this one.
+~
+~
+0 0 22087
+D3
+The express lane bagger works as fast as possible.
+~
+~
+0 0 22085
+S
+#22087
+Bagging Area~
+The line has been closed and the employees are taking a break.
+~
+0 8 0
+D1
+Another closed checkout line with no activity.
+~
+~
+0 0 22088
+D3
+The quickie line bagger is working hard and efficiently.
+~
+~
+0 0 22086
+S
+#22088
+Bagging Area~
+This checkout line is closed so there isn't much activity here.
+Steps lead up to the employee offices to the south.
+~
+0 8 0
+D1
+There is a bagger stuffing food into paper bags.
+~
+~
+0 0 22089
+D2
+The employee offices are up the steps.
+~
+office door~
+1 0 22098
+D3
+Another bagging area where the checkout line is closed.
+~
+~
+0 0 22087
+S
+#22089
+Bagging Area~
+Paper and plastic bags lie about on the floor and clutter up the
+area.  An open walkway leads south to the employee breakroom where
+you see some checkers and baggers relaxing and playing cards.
+~
+0 8 0
+D0
+You see a busy checker quickly trying to type in prices of foods.
+~
+~
+0 0 22079
+D2
+An employee smiles at you and invites you in to play cards.
+~
+~
+0 0 22099
+D3
+Another bagger twiddles his thumbs looking for something to do.
+~
+~
+0 0 22088
+S
+#22090
+Construction Area~
+A barricade blocks you from going any further and as you look to
+the west you see the construction work they are doing.  Perhaps
+they are building an addition to this already large grocery store.
+~
+0 0 1
+D0
+The construction area continues to the north.
+~
+~
+0 0 22080
+D1
+You see the solid ground of the parking lot where you should be.
+~
+~
+0 0 22091
+S
+#22091
+Parking Lot~
+Someone has just recently parked their car here and you can smell
+the smoke coming from the engine.  They seemed to have forgotten to
+turn off their headlights though...you wonder if the battery will
+die before they return.
+~
+0 4 1
+D0
+There appears to be some sort of argument.
+~
+~
+0 0 22081
+D1
+The empty parking lot still waits for someone to pull up.
+~
+~
+0 0 22092
+D2
+a well-paved road
+~
+~
+0 0 22146
+D3
+There is some kind of construction work going on there.
+~
+~
+0 0 22090
+E
+car headlights~
+As you inspect the car you notice that not only did the driver
+forget to turn off the headlights but he left the keys in the car
+also!  Looks like maybe you should go get one of the gang members
+to pick the door lock.
+~
+S
+#22092
+Parking Lot~
+There is an empty parking space here close to the grocery store.
+It's amazing that someone didn't drive around for hours until this
+spot opened up for them.
+~
+0 0 1
+D0
+To the north you see a handicap parking zone.
+~
+~
+0 0 22082
+D1
+There are people loading their cars with groceries.
+~
+~
+0 0 22093
+D3
+Another parking spot for this popular grocery store.
+~
+~
+0 0 22091
+S
+#22093
+Loading Zone~
+A sign here says, "NO PARKING!  Loading Zone Only  Maximum Time :
+5 minutes".  It may have seemed like a good idea but with the
+loading area people just drive away without returning the shopping
+carts inside the store.  You have to find your way through the maze
+of carts to get to the store.
+~
+0 0 1
+D1
+It's the path you walked on to get here.
+~
+~
+0 0 22094
+D3
+People are parking their cars in the parking lot.
+~
+~
+0 0 22092
+E
+carts maze~
+You can't believe your eyes!  This place is absolutely a mess with
+all these shopping carts.  How will you ever get through the maze?
+~
+S
+#22094
+Path to the grocery store~
+You walk along the path and come to a grocery store.  Big neon
+lights blink although some of them appear to be broken.  A huge
+parking lot lies to the west and a strange odor comes from the
+east.  An automatic door is to the north but is an exit only.
+~
+0 0 2
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 22095
+D3
+Shopping carts lie scattered about in the loading area.
+~
+~
+0 0 22093
+S
+#22095
+Hangout~
+You walk carelessly into the darkness and come upon a little
+hangout for a teenage gang.  The room is filled with smoke and
+reeks of alcohol.  Two burly guys stand guarding a heavy metal door
+to the east.  As soon as your eyes adjust to the darkness you see
+the end of a baseball bat swinging right at your face!
+~
+0 1|8 2
+D1
+It appears to be some sort of office for the gang members.
+~
+metal door~
+1 22031 22096
+D3
+A path to the grocery store looks well-traveled.
+~
+~
+0 0 22094
+E
+metal door~
+The door has a peculiar symbol on it which you can't really see
+clearly in all the smoke.  And also for the fact that the two
+"guards" are standing in front of it doesn't help you much.
+~
+S
+#22096
+Gang Leader's "Office"~
+The room is full of stolen property and goods from the store.
+Behind an old desk there are shelves covered wall to wall with cans
+of assorted beers, whiskey, and liquors.  A large radio plays
+loudly and you can barely see anything else in the room.
+~
+0 1|8 0
+D3
+Several teenagers are sitting around smoking and getting drunk.
+~
+metal door~
+1 22031 22095
+E
+desk~
+The desk is an old beat up one that was probably the grocery store
+manager's desk until he chose the "rich" life.  They must've taken
+it from the storeroom one day during a food raid.
+~
+E
+shelves~
+There are too many different cans to list them all but of course
+you catch a glimpse of some popular brands that grab your attention:
+Budweiser, Zima, Coors, Milwaukee's Best, etc.
+~
+S
+#22097
+Manager's Office~
+As you enter the office you lose are enraptured in the luxury of
+the room.  Antique lamps, vases, and assorted knick-knacks decorate
+the office and a comfortable looking sofa is set against the wall
+for guests.  You notice a little plaque situated above the
+manager's desk.
+~
+0 8|512|8192 0
+D1
+You see the door leading back to the rather dull grocery store.
+~
+door~
+1 22032 22098
+E
+plaque~
+It reads "The buck stops here."  ...As if it weren't obvious enough
+by the drastic difference of the store and the office..."
+~
+E
+sofa~
+The sofa appears to be very comfortable.  The material looks like
+it is made of a silky fabric, although that would be strange for a
+sofa, especially in a grocery store office.  Of course, this office
+is not any ordinary grocery store office so who knows.
+~
+E
+lamp vase knick-knacks~
+There are different items from all over the world.  The manager
+must be some antique art collector and surely he knows the value of
+the objects he has obtained.  You'd better not take any of them,
+wouldn't want to get him angry now would we?
+~
+S
+#22098
+Employees' Office~
+The employee office looks just like the store except there is a
+desk here and many papers thrown about.  There is a large door
+leading to the west with the words "Manager's Office" written on it
+with a magic marker.
+~
+0 8 0
+D0
+Small steps lead down to the bagging area.
+~
+office door~
+1 0 22088
+D3
+The door leads to the Manager's Office.
+~
+door~
+1 22032 22097
+E
+door sign~
+The sign on the door is written with a magic marker.  Perhaps it is
+a present from his child or something.  It says: "MaNAgeRS' ofFIcE"
+on it in a child's handwriting.
+~
+S
+#22099
+Employee Breakroom~
+Several employees are taking a break here and have probably been
+here all day long.  Snack machines and soda machines line the wall
+and a long table with chairs along it fill the room.
+~
+0 8 0
+D0
+You don't see anything much...just a grocery store.
+~
+~
+0 0 22089
+E
+soda snack machine~
+The snack and soda machines are almost empty because the employees
+have taken them all during their short break periods.  The only
+soda left now is some new flavor called Choco-lemon Lite.  What an
+appealing sound it has.
+~
+S
+#0
+
+
+#RESETS
+* Grocery Store originally written by Mack : June 1994.
+* Bugs/Typos/Suggestions/Comments to Mack : mproctor@connected.com
+*
+R 1 22000 4                    Randomize Underground Maze
+R 1 22001 4
+R 1 22002 4
+R 1 22004 4
+R 1 22005 4
+R 1 22006 4
+R 1 22007 4
+*
+M 1 22044 2 22099             Load an Employee
+G 1 22000 0                  Give him a Coke
+M 1 22044 2 22099
+*
+M 1 22043 1 22098             Load the Secretary
+G 1 22001 0                  Give her the paycheck
+*
+M 1 22042 1 22097             Load the Store Manager
+E 1 22002 0 12               Equip with Suspenders
+*
+M 1 22041 1 22096             Load the Gang Leader
+E 1 22003 0 6                Equip with Shades
+E 1 22004 0 16               Wield switchblade
+*
+M 1 22040 2 22095             Load a Burly Gang Member
+E 1 22005 0 9                Equip with Brass Knuckles
+M 1 22040 2 22095
+G 1 22031 0                  Give him key to leader's office
+*
+M 1 22039 2 22095             Load a Gang Member
+M 1 22039 2 22095
+*
+M 1 22038 1 22092             Load the Angry Man (Parking)
+*
+M 1 22037 3 22089             Load a Bagger
+M 1 22037 3 22086
+M 1 22037 3 22085
+G 1 22006 0                  Give him a Grocery Bag
+*
+M 1 22036 1 22081             Load the Police Officer
+E 1 22007 0 14               Equip with Handcuffs
+*
+M 1 22035 1 22081             Load Man Who Illegally Parked
+E 1 22024 0 17               Hold the box of donuts
+G 1 22008 0                  Give him the Parking Ticket
+P 1 22025 0 22024             Put a Donut in the Box
+P 1 22025 0 22024
+*
+M 1 22034 1 22080             Load Construction Worker
+E 1 22009 0 17               Wield a Wooden Mallet/Hammer
+*
+M 1 22033 4 22079             Load a Checker
+M 1 22033 4 22078
+M 1 22033 4 22076
+G 1 22022 0                  Give a Tic-Tac
+M 1 22033 4 22075
+*
+M 1 22032 1 22072             Load Lady With Broken Shopping Cart
+*
+O 1 22018 0 22073             Load a Shopping Cart
+O 1 22018 0 22021
+*
+M 1 22031 2 22069             Load Impatient Customer in Line
+M 1 22031 2 22059
+*
+M 1 22030 1 22067             Load Teenage Girl Reading Magazine
+G 1 22010 0                  Give her a Magazine
+*
+M 1 22029 3 22065             Load Little Boy Begging for Candy
+M 1 22029 3 22055
+M 1 22029 3 22035
+*
+M 1 22028 1 22064             Load Info Desk Attendant
+G 1 22011 0                  Give her Nail Polish
+G 1 22026 0                  Give her a coupon
+*
+M 1 22027 1 22063             Load Girl at School Supplies
+*
+M 1 22026 1 22057             Load Couch Potato
+*
+M 1 22025 1 22049             Load Snowman
+G 1 22012 0                  Give him a Klondike Bar
+G 1 22032 0                  Give him key to manager's office
+*
+M 1 22024 2 22046             Load Fraternity Brother
+M 1 22024 2 22046
+*
+M 1 22023 1 22044             Load Girl at Hair Spray
+G 1 22013 0                  Give her a Can of Hair Spray
+*
+M 1 22022 2 22039             Load Boy Having Food Fight
+G 1 22021 0                  Give him a Strawberry
+M 1 22022 2 22039
+G 1 22019 0                  Give him a tomato
+G 1 22020 0                  Give him a grape
+*
+M 1 22021 1 22037             Load Little Debbie
+*
+M 1 22020 1 22035             Load Bart Simpson
+G 1 22014 0                  Give him a Butterfinger Candy Bar
+*
+M 1 22019 1 22035             Load Homer Simpson
+*
+M 1 22018 1 22033             Load Lady Trying on Lipsticks
+G 1 22027 0                  Give her lipstick
+*
+M 1 22017 1 22031             Load Old Lady At Reduced Items
+E 1 22028 0 17               Hold a Calculator
+*
+M 1 22016 1 22029             Load Beggar Eaten by Rats
+*
+M 1 22015 3 22028             Load a Giant Rat
+M 1 22015 3 22019
+M 1 22015 3 22017
+*
+M 1 22014 1 22024             Load Lady Reading Doctor's Note
+G 1 22029 0                  Give her the Prescription Note
+*
+M 1 22013 2 22020             Load a Lobster
+M 1 22013 2 22020
+E 1 22015 0 16               Wield Lobster Claws
+*
+M 1 22012 1 22017             Load the Stockboy
+*
+M 1 22011 1 22015             Load Buddha the Meditating Monk
+E 1 22017 0 6                Equip with Dandelion Wreath
+G 1 22016 0                  Give him a String of Beads
+*
+M 1 22010 1 22014             Load Hakeem at Pharmacy Counter
+G 1 22030 0                  Give him key to storage room
+*
+M 1 22009 1 22013             Load Lady in Pharmacy Storage
+*
+M 1 22008 1 22012             Load Mr. Oscar Mayer at Hot Dogs
+*
+M 1 22007 1 22009             Load Gang Member Stealing Food
+*
+M 1 22006 1 22008             Load Huge Python
+*
+M 1 22005 5 22000             Load a Furry Spider
+M 1 22005 5 22001
+M 1 22005 5 22004
+M 1 22005 5 22005
+M 1 22005 5 22007
+*
+M 1 22004 1 22003             Load Truck Driver at Loading Zone
+*
+M 1 22003 2 22010             Load Mother Shopper
+M 1 22003 2 22074
+*
+M 1 22002 2 22085             Load Father Shopper
+M 1 22002 2 22050
+*
+M 1 22001 2 22034             Load Girl Shopper
+M 1 22001 2 22038
+*
+M 1 22000 2 22061             Load Boy Shopper
+M 1 22000 2 22047
+G 1 22023 0                  Give him a Toy Truck
+*
+D 1 22003 2 1                   ; Loading Zone Close South
+D 1 22009 2 1                   ; Back of the Grocery Store Close South
+D 1 22013 0 1                   ; Pharmacy Storeroom Close North
+D 1 22013 1 2                   ; Pharmacy Storeroom Lock East
+D 1 22014 3 2                   ; Pharmacy/Health Center Lock West
+D 1 22014 1 1                   ; Pharmacy/Health Center Close East
+D 1 22015 3 1                   ; A Gathering Close West
+D 1 22019 0 1                   ; Storage Room Close North
+D 1 22023 5 1                   ; Aisle Close Down
+D 1 22000 4 1                   ; Under the Grocery Store Close Up
+D 1 22017 2 1                   ; Storage Room Close South
+D 1 22027 0 1                   ; Entrance to Storage Close North
+D 1 22048 1 1                   ; Aisle 7 - Breads/Bakery Close East
+D 1 22049 3 1                   ; Ice Cream Freezer Close West
+D 1 22095 1 2                   ; Hangout Lock East
+D 1 22096 3 2                   ; Gang Leader's "Office" Lock West
+D 1 22097 1 2                   ; Manager's Office Lock East
+D 1 22098 3 2                   ; Employees' Office Lock West
+*
+S
+
+
+#SPECIALS
+M  22005 spec_poison                    A furry spider
+M  22009 spec_cast_cleric                       The Pharmacist
+M  22011 spec_cast_adept                        A monk
+S
+
+
+#$

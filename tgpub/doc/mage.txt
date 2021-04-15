@@ -1,0 +1,39 @@
+How to make a mage off line:-
+
+Set ch level to 4 = mage 5 = archmage
+also need to set ch trust to same as ch level in order for mage bit to
+take affect :P
+
+6  Arch Mage
+5  Mage
+4  Apprentice
+ 
+Set first field in runes to 0 - 4 depening on magic color
+
+Magic Colors
+
+0 Purple Mage
+1 Red Mage
+2 Blue Mage
+3 Green Mage
+4 Yellow Mage
+
+Runes field - arch mage
+ value 1 -  color of mage
+ value 2 -  2047 
+ value 3 -  1023
+ value 4 -  15
+
+Runes 			Glyph's			Sigil's
+
+FIRE	      1		CREATION	1	SELF	      1
+AIR	      2		DESTRUCTION     2	TARGETING     2
+EARTH	      4		SUMMONING	4	AREA	      4
+WATER	      8		TRANSFORMATION  8	OBJECT	      8
+DARK	      16	TRANSPORTATION  16
+LIGHT	      32	ENHANCEMENT     32
+LIFE	      64	REDUCTION	64
+DEATH	      128	CONTROL	       128
+MIND	      256	PROTECTION     256
+SPIRIT	      512	INFORMATION    512
+MASTER	      1024

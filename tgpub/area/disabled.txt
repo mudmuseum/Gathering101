@@ -1,0 +1,5 @@
+ghoul 12 Puck
+serpent 12 Puck
+command 12 Puck
+order 12 Jord
+END

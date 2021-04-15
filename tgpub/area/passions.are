@@ -1,0 +1,1649 @@
+#AREA	Icehrt  Steps to Heaven~
+
+
+#MOBILES
+#25104
+drake~
+A Drake servant~
+A Drake stands here guarding his master.
+~
+This is a rather large Drake, standing about eight feet
+tall. It dwarfs most mortals, and is a match for anyone.
+As it will give its life, for its cause of protecting
+its master.
+~
+2|8 8|32 0 S
+61 0 0 5d10+1000 0d0+0
+0 0
+8 8 0
+#25107
+icewing dragon~
+Icewing~
+IceWing the Dragon guards the gates to heaven.
+~
+IceWing is flying here, guarding the gates to heaven.
+This great dragon is huge, and makes any humanoid 
+being look tiny. He has lived for many years, and
+is blessed by the Passions to always return.
+~
+2|8 8|32|8192|524288 200 S
+63 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25110
+mountain shadow dragon~
+Mountain Shadow~
+Mountain Shadow the great dragon is here.
+~
+Mountain shadow, the great dragon is flying here. He is
+guarding the gates to heaven. Dare you cross his path.
+As he makes you and any other humanoid look tiny, compared
+with himself.
+~
+2|8 8|32|8192|524288 200 S
+63 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25113
+drake~
+A Drake servant~
+A Drake stands here guarding his master.
+~
+This is a rather large Drake, standing about eight 
+feet tall. It dwarfs most mortals, and is a match for
+any. And it will give its life for its cause, of
+protecting its master.
+~
+2|8 8|32 0 S
+61 0 0 5d10+1000 0d0+0
+0 0
+8 8 0
+#25117
+hate horror human~
+Hate~
+(glowing) Well-Proportioned human, known as HATE.
+~
+The horror Hate is here. It looks almost human, a
+well-proportioned male. Although twelve multi-jointed
+limbs sprout from his back, and extend in front of
+him.
+~
+2|8|32|4096 8 -500 S
+65 0 0 10d10+1500 0d0+0
+0 0
+8 8 1
+#25121
+taint horror~
+Taint~
+A taint fills the air, is this a horror's work.
+~
+Taint exists solely as a huge bodiless head, floating
+amid swirls of polluted astral energy. The face has 
+four huge dark eyes, a pair on either side. Its mouth
+can stretch to impossibly large dimensions, enabling
+it to swallow almost any prey.
+~
+2|8|32 8|16|32|524288 -750 S
+65 0 0 10d10+1500 0d0+0
+0 0
+8 8 0
+#25125
+verjigorm horror~
+Verjigorm~
+Verjigorm, Killer of dragons is here.
+~
+The great dragon killer himself is here, VERJIGORM. This
+thing, is all evil and corrupts all around. Even immortals
+cower as this horror. It stands over twenty feet tall.
+~
+2|8|32|4096 4|8|16|32|512 -1000 S
+67 0 0 12d15+1500 0d0+0
+0 0
+8 8 0
+#25129
+ysrthgrathe horror mage~
+Ysrthgrathe~
+Ysrthgrathe the combat mage is here.
+~
+The Grand mage of horror's is here, Ysrthgrathe.
+A tall figure, with a snake like lower half and a 
+well-muscled torso for the upper. Its face is a long
+elongated skull with black eyes, and long yellow
+teeth line its mouth.
+~
+2|8|32 8|32 -750 S
+65 0 0 10d10+1500 0d0+0
+0 0
+8 8 1
+#25133
+giftbringer horror gift~
+Giftbringer~
+A man bearing gifts, this can't be right?
+~
+As you thought this can't be right, the image of the 
+man fades and you are left with a image of a "mass of
+seething knots of energy". They seem all to scream out
+at once, even this is pain full to you.
+~
+2|32 8|32 -500 S
+65 0 0 10d10+1500 0d0+0
+0 0
+8 8 1
+#25136
+mad passion dis man~
+Dis~
+A skinny man stands here wrapped in chains.
+~
+Dis is manifested here in the form of a thin, sickly
+looking male man. He looks deprived of sunlight and
+exercise, but how appearances can deceive a lower
+being of this world. After all Dis is a passion, even
+if he is mad.
+~
+2|8 8|32|128|8192 -251 S
+68 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25141
+astendar passion woman~
+Astendar~
+A woman is carrying a musical instrument.
+~
+Astendar stands here, a well built woman is the choice
+for its manifest. She is lightly clothed and is carrying
+a musical instrument, it would appear to be a harp.
+~
+2|8 8|128|512 500 S
+68 0 0 10d12+1500 0d0+0
+0 0
+8 8 2
+#25144
+chorrolis passion man dwarf~
+Chorrolis~
+A young dwarf male trader is here.
+~
+Chorrolis has decided to manifest as a dwarf trader.
+He is well dressed and carry's a fare deal of cash.
+He looks rather jovial, and is viewing your gear.
+~
+2|8 8|32|128|512 500 S
+69 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25147
+floranuus fire humanoid passion~
+Floranuss~
+(Glowing) A humanoid form of fire is before you.
+~
+A humanoid form, made of fire stands here. It seems 
+strange as it neither gives off heat, nor burns any
+object it comes into contact with. This is the 
+manifest of Floranuus.
+~
+2|8 8|32|128|512|524288 251 S
+69 0 0 10d12+1500 0d0+0
+0 0
+8 8 0
+#25149
+upandal elven passion man craftsman~
+Upandal~
+A elven craftsman stands here.
+~
+Upandal stands here, he has manifested as a elven 
+craftsman. Dressed in dirty work clothes he seems 
+a bit out of place for a craftsman, but after all 
+this is a passion.
+~
+2|8 8|32|128|512|8192 500 S
+70 0 0 12d15+1500 0d0+0
+0 0
+8 8 1
+#25151
+thystonius passion man Human~
+Thystonius~
+A well built human man is here.
+~
+This is a well built human, he's well armored and 
+his weapon's seem to beyond this world. But dont 
+believe what you seen on a manifestation of a passion.
+This is Thystonius, passion of conflict.
+~
+2|8 8|32|128|512 251 S
+69 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25155
+lochost passion form~
+Lochost~
+A form is here, though its body keep's changing.
+~
+This is Lochost, passion of freedom and change. Its body 
+consistently changes, from one race to another, and from
+male to female. Although his body is surrounded in a vortex
+of energy holding it aloft.
+~
+2|8 8|32|128|512|524288 0 S
+69 0 0 10d12+1500 0d0+0
+0 0
+8 8 0
+#25158
+jaspree passion male animal~
+Jaspree~
+A half animal, half man form is here.
+~
+Jaspree is here. He has manifested as a half human male,
+and half horse. He carries a vine covered wooden staff.
+He is the passion of growth and the wilderness.
+~
+2|8|131072 8|32|128|512 500 S
+68 0 0 10d12+1500 0d0+0
+0 0
+8 8 1
+#25164
+raggok passion mad man ram~
+Raggok~
+A large man is here, with a rams head.
+~
+This is Raggok one of the mad passions. He has manifested
+in his common form. A large man, with a head of a ram. He
+also has scores of open wounds that continuously appear, 
+heal, and reappear on the manifests bloody flesh.
+~
+2|32 8|32|128|512 -1000 S
+69 0 0 10d15+1500 0d0+0
+0 0
+8 8 1
+#25166
+mynbruje man passion human judge~
+Mynbruje~
+A human man stands here, dress like a judge.
+~
+A old human stands  here, dress in long robes, and he holds
+a star and a set of scales. His weapon is a executioner's
+axe.  He is the passion of balance, and truth. And he looks
+like a judge. This is Mynbruje.
+~
+2|8 8|32|128|512 0 S
+69 0 0 10d15+1500 0d0+0
+0 0
+8 8 1
+#25168
+vestrial mad passion humanoid~
+Vestrial~
+A dark humanoid form is here, dress in robes.
+~
+This is a dark robed man, the hood of the cloak covers
+nearly all of his face. Of what you can see, you see a
+figure build of muscle and wielding a assassin's dagger.
+This is Vestrial, mad passion of Deceit.
+~
+2|8|32 1|4|32|128|512 -1000 S
+69 0 0 10d15+1500 0d0+0
+0 0
+8 8 0
+#25171
+garlen passion healer woman human~
+Garlen~
+(glowing) A human woman healer is here.
+~
+A female healer is here, her arms spread wide in
+acceptance and invitation. She is voluptuous and
+makes any mortal drool. This is Garlen, passion
+of hearth and healing.
+~
+2|8|2048 8|32|128|8192|524288 1000 S
+75 0 0 12d15+2000 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#25172
+scales dragon armor~
+the Dragon scale armor of Icewing~
+Scales of Icewing the Dragon are here.~
+~
+9 1024 1|8
+0 0 0 0
+30 0 0
+A
+13 50
+A
+17 -25
+E
+scales~
+These are the scales of Icewing the dragon, you would
+expect them to provide good armor.
+~
+#25173
+fruit cake~
+a small, old looking fruit cake~
+A small looking fruit cake is here.~
+~
+26 2|128 1|16384
+65 1 23 34
+20 0 0
+#25174
+astral staff~
+a small Astral staff~
+A small Astral staff is here.~
+~
+18 1|32|64 1|16384
+0 0 0 0
+5 0 0
+E
+key~
+This is small, its very small not much larger than a key.
+~
+#25175
+chains body~
+Chains of Dis~
+The body chains of Dis are here.~
+~
+9 128|4096 1024
+0 0 0 0
+50 0 0
+A
+25 3
+A
+17 10
+A
+24 5
+#25176
+papers work pile~
+Pile of Work~
+A pile of work papers is here.~
+~
+13 128 1
+0 0 0 0
+10 0 0
+E
+pile~
+This is a pile of work papers and what you can see
+of them, they are total unnecessary to any cause.
+~
+#25177
+harp~
+Musical Harp~
+A small musical harp is here.~
+~
+18 1 1
+0 0 0 0
+5 0 0
+E
+key~
+This is a small musical harp, about the size of a key.
+Wonder if this is a key, and if so where does it fit?
+~
+#25178
+caravan~
+Ornamental Caraven~
+A small ornamental caravan is here.~
+~
+18 0 1
+0 0 0 0
+5 0 0
+E
+key~
+This is a small ornamental caravan, about the size of
+a key. The wheels seem to form the teeth of a key too.
+~
+#25179
+bag coin~
+Bag of coins~
+There is a small bag of coins here.~
+~
+15 128 1|16384
+50 1 0 0
+1 0 0
+#25180
+party banner~
+Party Banner~
+A small party banner is here.~
+~
+18 0 1
+0 0 0 0
+5 0 0
+E
+key~
+There is a small party banner here, looks like
+Floranuus liked to have a good time, wonder if
+this banner is of any use at all.
+~
+#25181
+belt of werewolf skin~
+A thick belt of Werewolf skin~
+A Thick, Long flab of skin rots here in the dirt~
+~
+9 1|64|512|1024 1|2048
+0 0 0 0
+25 0 0
+A
+5 2
+A
+25 2
+A
+12 25
+A
+13 25
+A
+17 -10
+A
+18 8
+A
+19 8
+E
+belt~
+This is Upandels Support belt, it is worn around the
+waist. And provides the most amazing armor and protection
+from those killer blows. It also has an aura about it that
+draws you close.
+~
+#25182
+pennant battle~
+A Pennant~
+A small battle pennant is here.~
+~
+18 0 1
+0 0 0 0
+5 0 0
+E
+key~
+You see a small battle pennant here, it has a picture
+of a battle going on in the centre. Nice little trinket.
+~
+#25183
+charm tree~
+A Charm~
+A small charm is here, of a tree.~
+~
+18 0 1
+0 0 0 0
+5 0 0
+E
+key~
+You look at this small charm, its of a uprooted tree.
+Though the image is always changing, and you cant fix
+your eyes on it. The branches though seem to make teeth
+like on a key.
+~
+#25184
+pendant seed~
+A Seed Pendant~
+A small seed pendant is here.~
+~
+18 0 1
+0 0 0 0
+5 0 0
+E
+key~
+There is a small pendant here, it resembles a seed. To
+which plant you can not tell, but it seems strange all
+in the same, but you are not sure why.
+~
+#25185
+staff vine wood~
+Jaspree's staff~
+A tall wooden staff is here, covered in vines.~
+~
+4 2|64|1024 1|16384
+50 5 5 81
+15 0 0
+E
+staff~
+A tall wooden staff is here, covered in vines.
+You look closely at this long wooden staff. The vines
+wind all the way down the shaft to the base, and wrap
+around and go back to the top. No matter what though 
+the vine always seems to be healthy.
+~
+#25186
+axe executioners~
+An Axe~
+A Well-crafted Executioners axe lays here.~
+~
+5 2|32|64|256|512|1024|4096|8192 1|8192
+0 0 0 1
+45 0 0
+A
+18 10
+A
+19 10
+#25187
+star~
+a Small Star~
+A Small Star Ring, twinkles with light here.~
+~
+9 1024|4096 1|2
+0 0 0 0
+5 0 0
+A
+5 1
+A
+12 50
+#25188
+balance scales~
+a set of Balance Scales~
+There is a set of balance scales are here.~
+~
+9 1|2|64|512|1024 1|16384
+0 0 0 0
+25 0 0
+A
+3 1
+A
+4 1
+A
+17 -5
+E
+balance~
+There is a set of balance scales here. Though for some
+reason, they wont balance just any object. As you look
+closer at them you notice a word on each side.
+   On the left is    "GUILTY"
+   on the right is   "NOT-GUILTY"
+~
+#25189
+dagger assassins~
+a small Assassins Dagger~
+A small deadly assassins dagger, is here~
+~
+5 4|512|262144 1|8192
+0 0 0 11
+15 0 0
+A
+1 1
+A
+18 10
+A
+19 10
+#25190
+passion path~
+the Passions Path~
+The Passions Path beams with the energy of life here~
+~
+1 1|2|32|64|512|1024 1
+0 0 -1 0
+5 0 0
+A
+3 2
+A
+4 2
+A
+12 30
+A
+13 20
+A
+17 -3
+A
+18 4
+A
+19 5
+E
+path~
+This is a small round tablet, made of some unknown metal.
+It has twelve small star patterns on its, six one side,
+six the other. It glows with  the most unearthly light.
+~
+#25191
+coins money gold pile~
+a pile of gold~
+A small pile of gold is here.~
+~
+20 0 1
+100000 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#25101
+The path to the Steps~
+You have come to the entrance of a temple. It looks very
+old, but it seems to be in perfect condition. As if a 
+magical force is protecting these walls. There is also an
+engraving on the wall to the left. You really feel you 
+should READ it.
+~
+0 4 1
+D0
+~
+~
+0 -1 1482
+D2
+~
+~
+0 -1 25102
+E
+engraving~
+This is REMORT area. Enter at own risk, although rewards 
+are great and worth completing the area for. Be brave and
+you will prosper. Be foolish and you will DIE.
+
+NB.
+
+  When i say this area is hard i mean it, even for the
+  best remorts.
+                   { SO BEWARE }
+
+Iceheart.
+~
+S
+#25102
+The temples Entrance hall.~
+You are in the entrance hall to this huge temple. There
+are exits to the east and west. The roof towers further
+and further up into the heavens. Maybe it goes to the 
+heavens and the Passions are watching you now.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 25101
+D1
+~
+~
+0 -1 25112
+D3
+~
+~
+0 -1 25103
+S
+#25103
+Drakes guard room~
+You have entered one of the two Drakes guards rooms 
+of this temple. The drakes are here to guard there 
+master Dragon's. For which they swore an oath at birth.
+The room has no armor or weapons around, as the drakes
+relay on there tough skin for armor and there lethal 
+claws as weapons. In addition they can use magic.
+~
+0 8 0
+D1
+~
+~
+0 -1 25102
+D2
+~
+~
+0 -1 25105
+S
+#25105
+The Dragons waiting room.~
+You have passed into a large room, which is void from
+life. The main reason for this you know is that, although
+the drakes serve there masters with there life. They are
+not permitted to see there master. There is exits to    
+north and south. The north leads to the Dragons den.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 25103
+D2
+~
+~
+0 -1 25106
+S
+#25106
+IceWing's Den~
+You stand in Icewings Den. Decorated in the most finest
+carvings and paintings. This place almost holds you in
+awe. Magic is very present around here you can feel it
+in your bones. If the  dragon is present, it maybe a 
+idea to go. Before you make him angry, as he is probably
+"reading".
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25105
+D1
+~
+~
+0 -1 25108
+S
+#25108
+Gate to the Second step~
+You have entered the gateway to the second step to heaven.
+Although all does not seem well, you can feel some sort of
+taint in the air. Maybe you will find out what is causing it
+if you carry on. Then again maybe you will regret it too. 
+To the east and west are the Dragon guards rooms.
+~
+0 8 0
+D1
+~
+~
+0 -1 25109
+D3
+~
+~
+0 -1 25106
+D4
+~
+~
+0 -1 25114
+S
+#25109
+Mountains Shadows Den~
+You have entered into the dragon Mountain Shadow's Den.
+As you would expect from a dragon the walls are well 
+decorated with carvings and paintings. Even a few scrolls
+are hung on the wall. The magic as you would expect from
+a great dragon is great in this area.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25111
+D3
+~
+~
+0 -1 25108
+S
+#25111
+The Dragon's waiting room~
+You have entered Mountain Shadows waiting room, it very 
+spars from life, as the dragons servants are not allow to 
+see the dragon itself. You wonder if it is wise to proceed 
+yourself. If you do, beware you may not return. As dragons
+aren't the easiest of foes.
+~
+0 8 0
+D0
+~
+~
+0 -1 25112
+D2
+~
+~
+0 -1 25109
+S
+#25112
+The Drakes guard room~
+You stand in a reasonable sized room, this is a drakes 
+room. The is little in the room, no armor no weapons. As
+the drake relays on its tough skin for armor and its claws
+as weapons. Although they are known to have magic, due to
+who there masters are. This room belongs to Mountain Shadows
+drake.
+~
+0 8 0
+D2
+~
+~
+0 -1 25111
+D3
+~
+~
+0 -1 25102
+S
+#25114
+The Second step to Heaven~
+You have moved on to the second step towards heaven.
+The taint in the air is so noticeable here that you
+feel sick.  And it seems to get worse as you carry on.
+Is it wise to carry on you begin to wonder. And can 
+you deal with what will confront you.
+~
+0 4|8|8192 0
+D2
+~
+~
+0 -1 25115
+D5
+~
+~
+0 -1 25108
+S
+#25115
+Horror infested second step~
+You have moved onto the second step of the, steps to
+heaven. The air is full of taint around here. And it
+is hard to breath. The evil is so high that you really
+wonder how safe it is to stay here. There are screams
+coming from down each of the corridors.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25114
+D1
+~
+~
+0 -1 25132
+D3
+~
+~
+0 -1 25116
+S
+#25116
+A place of total HATE~
+Your body feels really odd, your mind seems to wander
+into feeling of pure hate towards others. Its almost
+unbearable to be here. There are corpses on the fall,
+each on with a face of pain.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 25115
+D3
+~
+~
+0 -1 25118
+S
+#25118
+A tainted zone~
+You are in a room, the air is so tainted you begin 
+to choke. Maybe you should hurry on, before you really
+begin to feel the effects and can't get out of here 
+alive.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 25116
+D2
+~
+~
+0 -1 25119
+S
+#25119
+A mind numbing taint~
+You have moved further into this world of evil and corruption.
+The air is getting thicker and harder to breath. You wonder
+if you can even live just walking around this place, not knowing
+what is going to be around the next bend.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25118
+D2
+~
+~
+0 -1 25120
+S
+#25120
+An Astral Gateway~
+You stand in a vortex of space. This is a small gateway
+into astral space, opened by one of the most evil horror.
+Reason for this is probably to catch victims, so it can
+feed on there pain and suffering. Taint is at its peak
+here as this is the horror TAINT's lair.
+~
+0 8|128|8192 0
+D0
+~
+~
+0 -1 25119
+D2
+~
+~
+0 -1 25122
+S
+#25122
+A mind numbing taint~
+You have moved further into this world of evil and corruption.
+The air is getting thicker and harder to breath. You wonder
+if you can even live just walking around this place, not knowing
+what is going to be around the next bend.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25120
+D1
+~
+~
+0 -1 25123
+S
+#25123
+An area of twisted Magic~
+This place is beyond all you have known in evil. This
+is part of a horror's lair, it is so big. It taints
+and disturbs the surrounding so much, that no magic
+apart from that which the horror controls maybe cast.
+~
+0 8|128|8192 0
+D1
+~
+~
+0 -1 25124
+D3
+~
+~
+0 -1 25122
+S
+#25124
+Verjigorm's Lair~
+This is the Lair of the great Dragon killer himself.
+                   "VERJIGORM"
+This place is beyond all known evil. The taint caused
+by this king of horror's prevents any magic at all.
+Rumours say he even corrupted some of the passions.
+And turned them mad, and into opposite forms of their
+original-selfs.
+~
+0 8|128|8192 0
+D1
+~
+~
+0 -1 25126
+D3
+~
+~
+0 -1 25123
+D4
+~
+door~
+1 25174 25134
+S
+#25126
+An Area of twisted Magic~
+This place is beyond all you have known in evil. This
+is part of a horror's lair, it is so big. It taints
+and disturbs the surrounding so much, that no magic
+apart from that which the horror controls maybe cast.
+~
+0 8|128|8192 0
+D1
+~
+~
+0 -1 25127
+D3
+~
+~
+0 -1 25124
+S
+#25127
+The mage's corridor~
+You stand in the mage's corridor, although these mage's
+are not your normal mage's. From the pictures, you see
+twisted forms of beings. That have been corrupted by
+their evil magic. You feel the evil around here twisting
+you mind, and the air is nearly impossible to breath.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25128
+D3
+~
+~
+0 -1 25126
+S
+#25128
+A Mage's hide-away~
+You are in a small dark covern, dark images fly by.
+Twisted forms of humans ghosts, and all other name
+giver races. The walls are lined with books, probably
+grimores. They seem to be of all magic disciplines.
+This mage must be very powerful, and with the evil
+in the air probably a horror.
+~
+0 8|128|8192 0
+D0
+~
+~
+0 -1 25130
+D2
+~
+~
+0 -1 25127
+S
+#25130
+A mage's corridor~
+You stand in the mage's corridor, although these mage's
+are not your normal mage's. From the pictures, you see
+twisted forms of beings. That have been corrupted by
+their evil magic. You feel the evil around here twisting
+you mind, and the air is nearly impossible to breath.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25131
+D2
+~
+~
+0 -1 25128
+S
+#25131
+A mage's corridor~
+You stand in the mage's corridor, although these mage's
+are not your normal mage's. From the pictures, you see
+twisted forms of beings. That have been corrupted by
+their evil magic. You feel the evil around here twisting
+you mind, and the air is nearly impossible to breath.
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 25130
+D3
+~
+~
+0 -1 25132
+S
+#25132
+An Astral Grotto~
+You stand in what seems to be a very perverted santa's
+grotto. Maybe its Satans grotto, its seems evil enough.
+But wait someone here, must bear gifts to people, the
+question is, are they good or bad gifts. As this would
+seem to be a horror's lair.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 25131
+D3
+~
+~
+0 -1 25115
+S
+#25134
+The third step to heaven~
+You have moved onto the third step of the, steps to
+heaven. The air seems to have reduced of taint around
+here. And it is much easier to breath now. But The
+evil is still pretty high around here for some reason.
+And you thought the passions would be good. You wonder
+how safe it is to stay here.
+~
+0 8 0
+D2
+~
+~
+0 -1 25135
+D5
+~
+door~
+1 25174 25124
+S
+#25135
+A paper covered study~
+You stand in a messed up study. There are piles of
+paper work all over the room. As you look closer you
+notice that nearly all, if not all is totally useless.
+The point of this study seems to be none existent,
+well Dis is said to be one of the corrupted Passion's.
+And you would say this was his place.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 25134
+D1
+~
+~
+0 -1 25161
+D3
+~
+~
+0 -1 25137
+S
+#25137
+Northern lights~
+An area almost free from the taint of the second step.
+Magic is normal here again, and it feels almost good
+to be here. But you never know whats around the next
+corner. As you look around you notice the walls glow
+with a strange magical force, just like a aurora.
+~
+0 8 0
+D1
+~
+~
+0 -1 25135
+D3
+~
+~
+0 -1 25138
+S
+#25138
+Northern lights~
+An area almost free from the taint of the second step.
+Magic is normal here again, and it feels almost good
+to be here. But you never know whats around the next
+corner. As you look around you notice the walls glow
+with a strange magical force, just like a aurora.
+~
+0 8 0
+D1
+~
+~
+0 -1 25137
+D3
+~
+~
+0 -1 25139
+S
+#25139
+Passions Path~
+You stand on the Passions Path, this is the most western
+point of the "temple". Although you can not be sure how
+far west you are. Magic is pure and clear here, and you
+mind hum's. You get the feeling this place is of the arts
+and wealth.
+~
+0 8 0
+D1
+~
+~
+0 -1 25138
+D2
+~
+~
+0 -1 25140
+S
+#25140
+The Opera house~
+This opera house, has a red interior which is a tradition of 
+Opera Houses. The stage is covered in a huge red and gold 
+curtain. Also a huge chandelier hangs from the ceiling, you
+would say it has more than 1500 flames. There is a special 
+box seat for the Passion himself, who is Astendar, passion 
+of the Arts and music. This place would be the ideal place
+to put on performances like the Nutcracker, Carmen, and 
+The Phantom of the Opera.
+~
+0 8 0
+D0
+~
+~
+0 -1 25139
+D2
+~
+~
+0 -1 25142
+S
+#25142
+Passions Path~
+You stand on the Passions Path, this is the most western
+point of the "temple". Although you can not be sure how
+far west you are. Magic is pure and clear here, and you
+mind hum's. You get the feeling this place is of the arts
+and wealth.
+~
+0 8 0
+D0
+~
+~
+0 -1 25140
+D1
+~
+~
+0 -1 25169
+D2
+~
+~
+0 -1 25143
+S
+#25143
+The Trading Post~
+You could swear that you just left the temple, as you moved
+into this room. Its just like your normal, every day trading
+post. But as you look north and south the distance blurs into
+non-existence, just like two portals. The trading post itself
+is full of strange and wonderful items. Even to you they are
+probably well beyond your dreams. This is a Passions place
+after all, and Chorrolis' at that, passion of trade and wealth.
+~
+0 8 0
+D0
+~
+~
+0 -1 25142
+D2
+~
+~
+0 -1 25145
+S
+#25145
+Passions Path~
+You stand on the Passions Path, this is the most western
+point of the "temple". Although you can not be sure how
+far west you are. Magic is pure and clear here, and you
+mind hum's. You get the feeling this place is of the arts
+and wealth.
+~
+0 8 0
+D0
+~
+~
+0 -1 25143
+D1
+~
+~
+0 -1 25192
+S
+#25192
+Due south~
+You are standing in what is know as Due south, the
+southern most point on the steps. Its still indoors
+just like a temple, but the south wall fades into
+nothing, its almost like a cliff into nothingness.
+~
+0 8 0
+D1
+~
+~
+0 -1 25146
+D3
+~
+~
+0 -1 25145
+S
+#25146
+A party wrecked war office~
+You have entered the war office. This place has been
+wrecked by one huge party of celebration. The people
+in here must have won a big battle of some kind, or
+someone must have, after all this is Floranuus' room.
+And he is the passion of victory and motion.
+~
+0 8 0
+D1
+~
+door~
+1 25177 25148
+D3
+~
+~
+0 -1 25192
+S
+#25148
+A construction zone~
+Here you are, stood in the middle of a construction zone.
+The sound of building comes from all around, and there is
+bricks and other building things layed around. You get the
+feeling that this place will never be finished. This is
+after all Upandles place, of favor. Upandle is also the
+passion of building.
+~
+0 8 0
+D1
+~
+door~
+1 25184 25150
+D3
+~
+door~
+1 25177 25146
+S
+#25150
+Training Arena~
+You stand in vest training arena, contructed by Thystonius
+the Passion. To help people train beyond their normal selfs.
+This when active once invite only. But the passion now
+manifests here to see the mortals off this land. And
+sometimes he rewards people here. Being the passion of
+battle.
+~
+0 8 0
+D1
+~
+~
+0 -1 25152
+D3
+~
+door~
+1 25184 25148
+S
+#25152
+Due south~
+You are standing in what is know as Due south, the
+southern most point on the steps. Its still indoors
+just like a temple, but the south wall fades into
+nothing, its almost like a cliff into nothingness.
+~
+0 8 0
+D1
+~
+~
+0 -1 25153
+D3
+~
+~
+0 -1 25150
+S
+#25153
+Passions Alley~
+You stand on the eastern side of the third step. This is
+Passions Alley. Magic is high here, and you can feel you
+skin tingle as you move around. You get the feelings in
+your head that this is a place of Freedom and nature.
+~
+0 8 0
+D0
+~
+~
+0 -1 25154
+D3
+~
+~
+0 -1 25152
+S
+#25154
+A broken prison~
+You have entered a old prison, all the shackles lay
+around the room broken. As if someone has released all
+the people from here. The person was probably the
+Passion of freedom and change, Lochost. This building
+does not look like it will last, but seems very stable.
+Must be MAGIC.
+~
+0 8 0
+D0
+~
+~
+0 -1 25156
+D2
+~
+~
+0 -1 25153
+S
+#25156
+Passions Alley~
+You stand on the eastern side of the third step. This is
+Passions Alley. Magic is high here, and you can feel you
+skin tingle as you move around. You get the feelings in
+your head that this is a place of Freedom and nature.
+~
+0 8 0
+D0
+~
+~
+0 -1 25157
+D2
+~
+~
+0 -1 25154
+D3
+~
+~
+0 -1 25162
+S
+#25157
+A step back outside~
+You think you have stepped back outside again. But then again
+there is a roof, its clear as glass but there is a roof above
+your head. This place though is like a wilderness, flowers and
+tree's are all around. And you can hear birds in the distance.
+To the north and south the images blur back into the temple,
+like two swirling portals. This is the place of the Passion
+Jaspree, passion of nature.
+~
+0 8 0
+D0
+~
+~
+0 -1 25159
+D2
+~
+~
+0 -1 25156
+S
+#25159
+Passions Alley~
+You stand on the eastern side of the third step. This is
+Passions Alley. Magic is high here, and you can feel you
+skin tingle as you move around. You get the feelings in
+your head that this is a place of Freedom and nature.
+~
+0 8 0
+D2
+~
+~
+0 -1 25157
+D3
+~
+~
+0 -1 25160
+S
+#25160
+Northern lights~
+An area almost free from the taint of the second step.
+Magic is normal here again, and it feels almost good
+to be here. But you never know whats around the next
+corner. As you look around you notice the walls glow
+with a strange magical force, just like a aurora.
+~
+0 8 0
+D1
+~
+~
+0 -1 25159
+D3
+~
+~
+0 -1 25161
+S
+#25161
+Northern lights~
+An area almost free from the taint of the second step.
+Magic is normal here again, and it feels almost good
+to be here. But you never know whats around the next
+corner. As you look around you notice the walls glow
+with a strange magical force, just like a aurora.
+~
+0 8 0
+D1
+~
+~
+0 -1 25160
+D3
+~
+~
+0 -1 25135
+S
+#25162
+A heavenly gate to ?~
+You are in a reasonable sized room, there is little
+here. It is very plain, but what do the Passions
+need with trinkets. To the west is a door, it seems
+to glow intently, you wonder if you can find out
+what is beyond the door.
+~
+0 8 0
+D1
+~
+~
+0 -1 25156
+D3
+~
+door~
+1 25182 25163
+S
+#25163
+Worshipping Shrine~
+You stand in the most evil Worshipping Shire, you have
+ever had the misforturn to enter. To have this power
+the being must have many followers. And that is so, this
+is Raggok's place. He was one of the biggest passions
+before the horror's corrupted him, and his followers
+where corrupted along with him. You better watch you step
+here, he could kill you with a single blow.
+~
+0 8|128|8192 0
+D1
+~
+door~
+1 25182 25162
+D3
+~
+door~
+1 25183 25165
+S
+#25165
+A court of Justice~
+You stand in the inner sanctuary of the third step to
+heaven. This looks almost like a court. There is the 
+bench to your front, and the jury is to your left. This
+jury however is made of angels. You guess if you were
+guilty of something and you came to this court, no matter
+how good your law team, you would not get off.
+~
+0 8 0
+D1
+~
+door~
+1 25183 25163
+D3
+~
+door~
+1 25178 25167
+D4
+~
+~
+0 -1 25170
+S
+#25167
+A time of madness~
+You are in a room, taint is in the air again. Surely 
+this can not be right. A Passion so corrupt, that evil
+hoards the air. All you can feel is your mind being
+manipulated by a unknown force, and the unbelievable 
+urge to deceive anyone around you.
+~
+0 4|128|8192 0
+D1
+~
+door~
+1 25178 25165
+D3
+~
+door~
+1 25182 25169
+S
+#25169
+A heavenly gate to ?~
+You are in a reasonable sized room, there is little
+here. It is very plain, but what do the Passions
+need with trinkets. To the east is a door, it seems
+to glow intently, you wonder if you can find out
+what is beyond the door.
+~
+0 8 0
+D1
+~
+door~
+1 25180 25167
+D3
+~
+~
+0 -1 25142
+S
+#25170
+The healers sanctuary~
+You have come to a peaceful place. No taint at all appears 
+to be in this room. In fact you feel rather warm and at 
+peace. Stars go up further, but did you really think the
+passions would let you actually pass into heaven.
+~
+0 8 0
+D5
+~
+~
+0 -1 25165
+S
+#0
+
+
+#RESETS
+M 1 25136 1 25135
+M 1 25141 1 25140			Astendar to The Opera house
+G 1 25177 100
+M 1 25144 1 25143			Chorrolis to The Trading Post
+E 1 25179 100 17
+G 1 25178 100
+M 1 25147 1 25146			Floranuss to A party wrecked war office
+G 1 25180 100
+M 1 25151 1 25150			Thystonius to Training Arena
+G 1 25182 100
+M 1 25155 1 25154			Lochost to A broken prison
+G 1 25183 100
+M 1 25164 1 25163			Raggok to Worshipping Shrine
+M 1 25166 1 25165			Mynbruje to A court of Justice
+E 1 25187 100 1
+G 1 25186 100
+E 1 25188 100 17
+M 1 25168 1 25167			Vestrial to A time of madness
+E 1 25189 100 16
+M 1 25171 1 25170			Garlen to The healers sanctuary
+G 1 25190 100
+M 1 25158 1 25157			Jaspree to A step back outside
+E 1 25185 100 17
+G 1 25184 100
+M 1 25104 1 25103			A Drake servant to Drakes guard room
+M 1 25104 1 25112		A Drake servant to The Drakes guard room
+M 1 25107 1 25106			Icewing to IceWing's Den
+E 1 25172 100 5
+M 1 25110 1 25109	         Mountain Shadow to Mountains Shadows Den
+E 1 25173 100 17
+M 1 25117 1 25116			Hate to A place of total HATE
+M 1 25121 1 25120    			Taint to Taint
+M 1 25133 1 25132			Giftbringer to An Astral Grotto
+M 1 25129 1 25128			Ysrthgrathe to A Mage's hide-away
+M 1 25125 1 25124			Verjigorm to Verjigorm's Lair
+G 1 25174 100
+* doors
+D 0 25124 4 1
+D 0 25134 5 1
+D 0 25146 1 1
+D 0 25148 1 1
+D 0 25148 3 1
+D 0 25150 3 1
+D 0 25162 3 1
+D 0 25163 1 1
+D 0 25163 3 1
+D 0 25165 1 1
+D 0 25165 3 1
+D 0 25167 1 1
+D 0 25167 3 1
+D 0 25169 1 1
+S
+
+#SPECIALS
+M  25104 spec_breath_fire
+M  25107 spec_breath_fire
+M  25110 spec_cast_mage
+M  25113 spec_cast_mage
+M  25117 spec_rogue
+M  25121 spec_cast_mage
+M  25125 spec_cast_mage
+M  25129 spec_rogue
+M  25133 spec_cast_mage
+M  25136 spec_cast_mage
+M  25141 spec_cast_cleric
+M  25144 spec_rogue
+M  25147 spec_cast_cleric
+M  25149 spec_cast_judge
+M  25151 spec_cast_cleric
+M  25155 spec_rogue
+M  25158 spec_cast_cleric
+M  25164 spec_cast_mage
+M  25166 spec_cast_judge
+M  25168 spec_cast_mage
+M  25171 spec_cast_mage
+S
+#$

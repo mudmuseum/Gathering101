@@ -1,0 +1,1136 @@
+#OBJECT
+Nest         0
+Name         bll~
+ShortDescr   an object~
+Description  An object lies here collecting dust.~
+Vnum         27751
+ExtraFlags   0
+WearFlags    0
+WearLoc      -1
+ItemType     12
+Weight       500
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         24500
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         oju~
+ShortDescr   an object~
+Description  An object lies here collecting dust.~
+Vnum         27752
+ExtraFlags   0
+WearFlags    0
+WearLoc      -1
+ItemType     12
+Weight       500
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         22500
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         4968
+Values       13 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         dispenser candy land~
+ShortDescr   a Dispenser of Candy Land Quest Items~
+Description  A Dispenser of Candy Land Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         11664
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         11220
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         6318
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         jujyfruit jacket~
+ShortDescr   a Jujyfruit jacket~
+Description  The jacket belonging to a Jujyfruit has been left here.~
+Vnum         28518
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         25872
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         jujyfruit jacket~
+ShortDescr   a Jujyfruit jacket~
+Description  The jacket belonging to a Jujyfruit has been left here.~
+Vnum         28518
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2160
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         jujyfruit jacket~
+ShortDescr   a Jujyfruit jacket~
+Description  The jacket belonging to a Jujyfruit has been left here.~
+Vnum         28518
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1210
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         21285
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         3800
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         640
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dispenser htos high tower sorcery~
+ShortDescr   a Dispenser of High Tower of Sorcery (HTOS) Quest Items~
+Description  A Dispenser of High Tower of Sorcery (HTOS) Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         25872
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7840
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         9889
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2145
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dispenser galaxy~
+ShortDescr   a Dispenser of Galaxy Quest Items~
+Description  A Dispenser of Galaxy Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         hoof taurus~
+ShortDescr   the Titanic Hoof of Taurus~
+Description  A hoof of the Zodiac lies here.~
+Vnum         9307
+ExtraFlags   1089
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         19800
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         scale libra~
+ShortDescr   the Titanic Scale of Libra~
+Description  A shield of the Zodiac lies here.~
+Vnum         9313
+ExtraFlags   66
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         9000
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         scale libra~
+ShortDescr   the Titanic Scale of Libra~
+Description  A shield of the Zodiac lies here.~
+Vnum         9312
+ExtraFlags   1089
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         20700
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         bracelet virgo~
+ShortDescr   the Titanic Bracelet of Virgo~
+Description  A bracelet of the Zodiac lies here.~
+Vnum         9311
+ExtraFlags   1089
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         16400
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dispenser mahn-tor~
+ShortDescr   a Dispenser of Mahn-tor Quest Items~
+Description  A Dispenser of Mahn-tor Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+ExtraFlags   64
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6000
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         ring key multi colored multi-colored~
+ShortDescr   a multi-colored key ring~
+Description  A ring of multi-colored keys rests here.~
+Vnum         2382
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     15
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1320
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         160
+Values       31 8 8 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         1
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         8700
+Values       31 9 9 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         1
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         8700
+Values       29 8 8 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         1
+Name         ring key multi colored multi-colored~
+ShortDescr   a multi-colored key ring~
+Description  A ring of multi-colored keys rests here.~
+Vnum         2382
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     15
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6500
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         ring key multi colored multi-colored~
+ShortDescr   a multi-colored key ring~
+Description  A ring of multi-colored keys rests here.~
+Vnum         2382
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     15
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        45
+Timer        0
+Cost         22264
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+ExtraFlags   64
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         4389
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dispenser solace~
+ShortDescr   a Dispenser of Solace Quest Items~
+Description  A Dispenser of Solace Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         travellers spellbook~
+ShortDescr   travellers spellbook~
+Description  A leather bound book with an arcane symbol is laying here.~
+Vnum         10284
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       45
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         81
+Values       13 6 6 38
+Spell 3      'flamestrike'
+End
+
+#OBJECT
+Nest         1
+Name         travellers spellbook~
+ShortDescr   travellers spellbook~
+Description  A leather bound book with an arcane symbol is laying here.~
+Vnum         10284
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       45
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2100
+Values       14 6 6 38
+Spell 3      'flamestrike'
+End
+
+#OBJECT
+Nest         1
+Name         travellers spellbook~
+ShortDescr   travellers spellbook~
+Description  A leather bound book with an arcane symbol is laying here.~
+Vnum         10284
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       45
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         11664
+Values       13 5 5 38
+Spell 3      'flamestrike'
+End
+
+#OBJECT
+Nest         1
+Name         travellers spellbook~
+ShortDescr   travellers spellbook~
+Description  A leather bound book with an arcane symbol is laying here.~
+Vnum         10284
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       45
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         720
+Values       14 4 4 38
+Spell 3      'flamestrike'
+End
+
+#OBJECT
+Nest         1
+Name         travellers spellbook~
+ShortDescr   travellers spellbook~
+Description  A leather bound book with an arcane symbol is laying here.~
+Vnum         10284
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       45
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1100
+Values       13 5 5 38
+Spell 3      'flamestrike'
+End
+
+#OBJECT
+Nest         0
+Name         dispenser ofcol~
+ShortDescr   a Dispenser of Ofcol Quest Items~
+Description  A Dispenser of OfCol Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         orb dragonorb~
+ShortDescr   the Gold Dragon Orb~
+Description  A very large pearl-like sphere is in the center of this room.~
+Vnum         663
+ExtraFlags   3136
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         16720
+Values       14 10 10 43
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         66
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1100
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         23030
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dispenser thalos~
+ShortDescr   a Dispenser of Thalos Quest Items~
+Description  A Dispenser of Thalos Quest Items is here.~
+Questmaker   OutKaSt~
+Questowner   OutKaSt~
+Vnum         30037
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   10
+Quest        79872
+Level        25
+Timer        0
+Cost         1000
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         cloak green~
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+ExtraFlags   576
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9300
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         chest plate~
+ShortDescr   an imperial chest plate~
+Description  You see an imperial chest plate here.~
+Vnum         5319
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         8008
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flute silver~
+ShortDescr   a silver flute~
+Description  A brilliant silver flute glimmers from beneath a rock.~
+Vnum         5217
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         0
+Values       17 1 1 11
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         0
+Values       12 3 3 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Name         flute silver~
+ShortDescr   a silver flute~
+Description  A brilliant silver flute glimmers from beneath a rock.~
+Vnum         5217
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         0
+Values       17 1 1 11
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         0
+Values       12 3 3 20
+Spell 3      'cure critical'
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

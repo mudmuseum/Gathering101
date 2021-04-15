@@ -1,0 +1,798 @@
+#OBJECT
+Nest         0
+Name         cloak green~
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+OID          115368
+ExtraFlags   576
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        45
+Timer        0
+Cost         17424
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          40100
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         14760
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         tickler~
+ShortDescr   a nightgaunt's tickler~
+Description  A nightgaunt's tickler has been left here.~
+Vnum         3402
+OID          40113
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         270
+Values       0 2 3 5
+End
+
+#OBJECT
+Nest         0
+Name         tickler~
+ShortDescr   a nightgaunt's tickler~
+Description  A nightgaunt's tickler has been left here.~
+Vnum         3402
+OID          40107
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         9792
+Values       0 5 7 5
+End
+
+#OBJECT
+Nest         0
+Name         blue keycard key~
+ShortDescr   a blue keycard~
+Description  A small piece of blue plastic lies on the floor here.~
+Vnum         9016
+OID          604106
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     18
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         11664
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         bracelet silver~
+ShortDescr   a glinting silver bracelet~
+Description  A glinting hoop of silvery metal is here.~
+Vnum         1384
+OID          85232
+ExtraFlags   64
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         15498
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Ashen~
+ShortDescr   the severed hand of Ashen~
+Description  The severed hand of Ashen lies on the floor.~
+Vnum         30029
+OID          633612
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Ashen~
+ShortDescr   the severed hand of Ashen~
+Description  The severed hand of Ashen lies on the floor.~
+Vnum         30029
+OID          633704
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Ashen~
+ShortDescr   the severed hand of Ashen~
+Description  The severed hand of Ashen lies on the floor.~
+Vnum         30029
+OID          633882
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          627413
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         2880
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          648437
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         16800
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          620884
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9300
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         foot Allard~
+ShortDescr   the severed foot of Allard~
+Description  The severed foot of Allard lies on the floor.~
+Vnum         30030
+OID          727455
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         nose Allard~
+ShortDescr   the sliced off nose of Allard~
+Description  The sliced off nose of Allard lies on the floor.~
+Vnum         30026
+OID          727394
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       1 0 30026 0
+End
+
+#OBJECT
+Nest         0
+Name         ear Allard~
+ShortDescr   the sliced off ear of Allard~
+Description  The sliced off ear of Allard lies on the floor.~
+Vnum         30025
+OID          727302
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30025 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Allard~
+ShortDescr   the severed hand of Allard~
+Description  The severed hand of Allard lies on the floor.~
+Vnum         30029
+OID          727221
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         foot Allard~
+ShortDescr   the severed foot of Allard~
+Description  The severed foot of Allard lies on the floor.~
+Vnum         30030
+OID          727093
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         ear Allard~
+ShortDescr   the sliced off ear of Allard~
+Description  The sliced off ear of Allard lies on the floor.~
+Vnum         30025
+OID          727067
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30025 0
+End
+
+#OBJECT
+Nest         0
+Name         foot Allard~
+ShortDescr   the severed foot of Allard~
+Description  The severed foot of Allard lies on the floor.~
+Vnum         30030
+OID          727004
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         foot Allard~
+ShortDescr   the severed foot of Allard~
+Description  The severed foot of Allard lies on the floor.~
+Vnum         30030
+OID          726893
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         ear Allard~
+ShortDescr   the sliced off ear of Allard~
+Description  The sliced off ear of Allard lies on the floor.~
+Vnum         30025
+OID          726902
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30025 0
+End
+
+#OBJECT
+Nest         0
+Name         template scroll~
+ShortDescr   a strange template~
+Description  A strange template made of an exotic green metal is placed here~
+Vnum         310
+OID          824022
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         9610
+Values       14 60 4 37
+Spell 1      'sleep'
+Spell 2      'blindness'
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         rapier thin~
+ShortDescr   a whisper thin rapier~
+Description  A rapier is lying here.~
+Vnum         3414
+OID          821966
+ExtraFlags   2
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         15210
+Values       0 4 5 11
+End
+
+#OBJECT
+Nest         0
+Name         helm dragon~
+ShortDescr   a helm of dragon kind~
+Description  A helm made of a dragon's skull is lying on the ground.~
+Vnum         2275
+OID          839859
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         4840
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt holster~
+ShortDescr   a holstered belt~
+Description  A holstered belt is here.~
+Vnum         1374
+OID          906938
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     15
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1100
+Values       20 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         blade ethereal~
+ShortDescr   an ethereal blade~
+Description  A shimmering blade lies here.~
+Vnum         2348
+OID          882231
+ExtraFlags   513
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         15600
+Values       52034 3 5 3
+End
+
+#OBJECT
+Nest         0
+Name         nose Kard~
+ShortDescr   the sliced off nose of Kard~
+Description  The sliced off nose of Kard lies on the floor.~
+Vnum         30026
+OID          891801
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30026 0
+End
+
+#OBJECT
+Nest         0
+Name         foot Amaterasu~
+ShortDescr   the severed foot of Amaterasu~
+Description  The severed foot of Amaterasu lies on the floor.~
+Vnum         30030
+OID          902870
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30030 0
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          67416
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2890
+Values       57030 3 6 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          153272
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7830
+Values       57030 3 6 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          150272
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         3990
+Values       57030 9 18 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          153590
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         324
+Values       57030 2 3 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          247075
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         648
+Values       57030 10 19 1
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

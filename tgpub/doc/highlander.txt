@@ -1,0 +1,8 @@
+How to make a highlander:-
+
+first set players extra bit + 262144
+
+then oload them a 29695
+
+Rotain
+

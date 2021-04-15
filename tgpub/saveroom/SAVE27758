@@ -1,0 +1,1189 @@
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1382561
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         15048
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1408031
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         11988
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1429961
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8624
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1485181
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7830
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1382274
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         0
+Values       13 2 2 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1382986
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         0
+Values       12 4 4 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1384058
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         0
+Values       14 4 4 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1384214
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         0
+Values       13 3 3 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1430822
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         0
+Values       13 2 2 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1435065
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         0
+Values       14 4 4 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1409760
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         4752
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1426884
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         10890
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1431138
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         10560
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1435014
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5520
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1486358
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         12250
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1486042
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         0
+Values       13 3 3 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1518548
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         3969
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1509479
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2464
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1535517
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         9504
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398753
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398751
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398635
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398634
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398633
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398630
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398622
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398598
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398482
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1399894
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1399887
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1399859
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398475
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398474
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1392472
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1399036
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398839
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398838
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398837
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398836
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398759
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1398757
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mandolin~
+ShortDescr   a mandolin~
+Description  A mandolin lies against the wall.~
+Vnum         5250
+OID          1531162
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         0
+Values       13 3 3 20
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1521430
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1521431
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1521432
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1522176
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1522401
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1532491
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         herbs herb gyvel~
+ShortDescr   a small dusk of black gyvel~
+Description  Some black gyvel is lying here, dark green with black leaves and tiny
+blood red flowers.~
+Vnum         301
+OID          1534837
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         0
+Values       1 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rod devil~
+ShortDescr   the devil rod~
+Description  The mysterious devil rod lies on the floor.~
+Vnum         7200
+OID          1787319
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4620
+Values       0 5 7 5
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

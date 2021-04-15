@@ -1,0 +1,1111 @@
+#OBJECT
+Nest         0
+Name         scale libra~
+ShortDescr   the Titanic Scale of Libra~
+Description  A shield of the Zodiac lies here.~
+Vnum         9312
+ExtraFlags   1089
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2475
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         560
+Values       30 7 7 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         pink skirt~
+ShortDescr   a pink skirt~
+Description  A short pink skirt has been left here.~
+Vnum         28557
+ExtraFlags   0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         5566
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         10710
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         horns~
+ShortDescr   horns~
+Description  A set of horns lies here.~
+Vnum         2901
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         21150
+Values       0 1 2 7
+End
+
+#OBJECT
+Nest         0
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         13689
+Values       30 8 8 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         rod devil~
+ShortDescr   the devil rod~
+Description  The mysterious devil rod lies on the floor.~
+Vnum         7200
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         10560
+Values       0 3 5 5
+End
+
+#OBJECT
+Nest         0
+Name         instrument mandolin~
+ShortDescr   a mandolin~
+Description  The fine instrument lies here.~
+Vnum         2424
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2304
+Values       0 1 2 6
+End
+
+#OBJECT
+Nest         0
+Name         instrument mandolin~
+ShortDescr   a mandolin~
+Description  The fine instrument lies here.~
+Vnum         2424
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         9900
+Values       0 2 4 6
+End
+
+#OBJECT
+Nest         0
+Name         instrument mandolin~
+ShortDescr   a mandolin~
+Description  The fine instrument lies here.~
+Vnum         2424
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         300
+Values       0 9 16 6
+End
+
+#OBJECT
+Nest         0
+Name         skull white~
+ShortDescr   a strange white skull~
+Description  A strange white skull lies on the floor looking at you.~
+Vnum         7206
+ExtraFlags   64
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         0
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         harp golden~
+ShortDescr   a golden harp~
+Description  A battered golden harp has been tipped over.~
+Vnum         5251
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         0
+Values       18 1 1 6
+Spell 3      'call lightning'
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         5760
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         claw red redclaw~
+ShortDescr   a red dragon claw~
+Description  On the floor rests an enormous red claw.~
+Vnum         7216
+ExtraFlags   576
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       19
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         648
+Values       0 10 14 5
+End
+
+#OBJECT
+Nest         0
+Name         skull white~
+ShortDescr   a strange white skull~
+Description  A strange white skull lies on the floor looking at you.~
+Vnum         7206
+ExtraFlags   64
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         0
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rod light~
+ShortDescr   the Rod of Neutrality~
+Description  A dull iron shaft is on the floor.~
+Vnum         7824
+ExtraFlags   1600
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         160
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         pizza slice~
+ShortDescr   a slice of pizza~
+Description  A slice of pizza is here looking very tasty.~
+Vnum         1304
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         4158
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         crown~
+ShortDescr   a kingly crown~
+Description  The crown of a long lost King lies forgotten here.~
+Vnum         2006
+ExtraFlags   256
+WearFlags    17
+WearLoc      -1
+ItemType     18
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7056
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         handkerchief hankie kerchief~
+ShortDescr   a morris handkerchief~
+Description  A white handkerchief is here.~
+Vnum         8601
+ExtraFlags   0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         0
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         3060
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring carved wooden~
+ShortDescr   a carved wooden ring~
+Description  A wooden ring is on the floor.~
+Vnum         2330
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         18040
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm hercules~
+ShortDescr   the Titanic Arm plates of Hercules~
+Description  Arm plates of the Zodiac lie here.~
+Vnum         9302
+ExtraFlags   1089
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         33
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         rod devil~
+ShortDescr   the devil rod~
+Description  The mysterious devil rod lies on the floor.~
+Vnum         7200
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1430
+Values       0 6 11 5
+End
+
+#OBJECT
+Nest         0
+Name         banded mail~
+ShortDescr   a glowing suit of banded mail~
+Description  A glowing suit of banded mail lies on the ground.~
+Vnum         5001
+ExtraFlags   65
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4400
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         pick mining~
+ShortDescr   a mining pick~
+Description  A small pick lies here on the ground.~
+Vnum         4701
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         3800
+Values       0 4 5 11
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         2916
+Values       57030 9 10 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         2816
+Values       57030 8 15 1
+End
+
+#OBJECT
+Nest         0
+Name         crossbow huge~
+ShortDescr   a huge crossbow~
+Description  A huge crossbow rests here.~
+Vnum         2334
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         10230
+Values       0 2 4 7
+End
+
+#OBJECT
+Nest         0
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1188
+Values       30 9 9 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9610
+Values       30 8 8 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         rod devil~
+ShortDescr   the devil rod~
+Description  The mysterious devil rod lies on the floor.~
+Vnum         7200
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         11979
+Values       0 9 18 5
+End
+
+#OBJECT
+Nest         0
+Name         stakes~
+ShortDescr   a bunch of stakes~
+Description  A small bundle of stakes lies here.~
+Vnum         5012
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     12
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9610
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword excalibur~
+ShortDescr   the sword Excalibur~
+Description  A sword gleams by the light of its magical silvery blade.~
+Vnum         2005
+ExtraFlags   3137
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3960
+Values       30 6 8 3
+End
+
+#OBJECT
+Nest         0
+Name         blue keycard key~
+ShortDescr   a blue keycard~
+Description  A small piece of blue plastic lies on the floor here.~
+Vnum         9016
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     18
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         12600
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         blue keycard key~
+ShortDescr   a blue keycard~
+Description  A small piece of blue plastic lies on the floor here.~
+Vnum         9016
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     18
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         99
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         vibroblade~
+ShortDescr   the Vibroblade~
+Description  The Vibroblade is here.~
+Vnum         8007
+ExtraFlags   35
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         26950
+Values       0 2 4 3
+End
+
+#OBJECT
+Nest         0
+Name         flaming sword long longsword~
+ShortDescr   a pitch-black longsword that flames brightly...~
+Description  A sword lies here~
+Vnum         3428
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5760
+Values       0 9 14 3
+End
+
+#OBJECT
+Nest         0
+Name         auburn orb~
+ShortDescr   an auburn-colored orb~
+Description  An orb is here~
+Vnum         3425
+ExtraFlags   66
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         15876
+Values       10 2 2 11
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         0
+Name         template scroll~
+ShortDescr   a strange template~
+Description  A strange template made of an exotic green metal is placed here~
+Vnum         310
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         14820
+Values       15 60 4 37
+Spell 1      'sleep'
+Spell 2      'blindness'
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         banded mail~
+ShortDescr   a glowing suit of banded mail~
+Description  A glowing suit of banded mail lies on the ground.~
+Vnum         5001
+ExtraFlags   65
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1331
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         flaming sword long longsword~
+ShortDescr   a pitch-black longsword that flames brightly...~
+Description  A sword lies here~
+Vnum         3428
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         72
+Values       0 5 6 3
+End
+
+#OBJECT
+Nest         0
+Name         candlestick~
+ShortDescr   a candlestick~
+Description  A pewter candlestick is standing here.~
+Vnum         3400
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     1
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         0
+Values       0 0 16 0
+End
+
+#OBJECT
+Nest         0
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+ExtraFlags   64
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3960
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring pink ice~
+ShortDescr   a pink ice ring~
+Description  A pink ice ring draws your eye.~
+Vnum         6601
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         6000
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring pink ice~
+ShortDescr   a pink ice ring~
+Description  A pink ice ring draws your eye.~
+Vnum         6601
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         36
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         demon teeth~
+ShortDescr   demon teeth~
+Description  A bunch of very sharp slimy teeth lie here.~
+Vnum         10410
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         22
+Values       0 2 3 10
+End
+
+#OBJECT
+Nest         0
+Name         ring pink ice~
+ShortDescr   a pink ice ring~
+Description  A pink ice ring draws your eye.~
+Vnum         6601
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         18491
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9610
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring solace~
+ShortDescr   the ring of Solace~
+Description  A shiny black ring with a gold symbol is here.~
+Vnum         10264
+ExtraFlags   8192
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2100
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         demon teeth~
+ShortDescr   demon teeth~
+Description  A bunch of very sharp slimy teeth lie here.~
+Vnum         10410
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1638
+Values       0 4 7 10
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

@@ -1,0 +1,424 @@
+#PLAYERS
+Name         Puck~
+ShortDescr   puck~
+LongDescr    ~
+Description  ~
+Lord         ~
+Clan         lala~
+Class        0
+Morph        ~
+Createtime   Sun Jun  7 14:02:49 1998~
+Lasttime     Wed Oct 31 23:18:36 2001~
+Lasthost     127.0.0.1~
+Poweraction  ~
+Powertype    ~
+Prompt       %r> ~
+Cprompt      ~
+Sex          0
+Race         0
+Immune       8330239
+Polyaff      0
+Itemaffect   0
+Form         32767
+Beast        -1
+Autostance   -1
+Spectype     0
+Specpower    0
+Home         10258
+Home2        3001
+Level        12
+Trust        12
+Paradox      5 0 0
+Played       12145796
+Room         10258
+PkPdMkMd     0 5 42 2
+Weapons      200 200 200 200 200 200 200 200 200 200 200 200 200
+Spells       200 200 200 200 200
+Combat       0 10 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   30000 30000 29995 29995 661 661
+Gold         10000000
+Exp          7233001
+Act          161480
+Special      0
+Extra        12648460
+AffectedBy   0
+Position     10
+Practice     50
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+Password     ~
+Bamfin       crawls out of your ear~
+Bamfout      leaps in your ear~
+Title        , Master of Mischief~
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+Email        smiley12@salltel.net or coal@kasmud.com~
+AttrPerm     18 18 25 25 25
+AttrMod      0 0 0 0 0
+Quest        8049
+Legend       10
+Wolf         0
+Rank         4
+Language     0 0
+Stage        0 0 0
+Score        0 0 0 0 1000 9
+Genes        0 0 0 0 0 0 0 0 0 0
+Runes        0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+TimerData	0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 44 40
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+Exhaustion   0
+Boards       9 General 936746687 Personal 936744689 Clan 935310047 Announce 935984064 Ideas 936335602 Bugs 936152596 GodBoard 936455792 ImpBoard 936455928 Archive 935233961 
+Skill        100 'reserved'
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'gate'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'sleep'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'word of recall'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'plague'
+Skill        100 'combat mind'
+Skill        100 'complete healing'
+Skill        100 'enhance armor'
+Skill        100 'hold person'
+Skill        100 'speed'
+Skill        100 'animate dead'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'general purpose'
+Skill        100 'high explosive'
+Skill        100 'guardian'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'elbow'
+Skill        100 'headbutt'
+Skill        100 'tail'
+Skill        100 'sweep'
+Skill        100 'knee'
+Skill        100 'quest'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'fastdraw'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'major creation'
+Skill        100 'copy'
+Skill        100 'insert page'
+Skill        100 'purple sorcery'
+Skill        100 'red sorcery'
+Skill        100 'blue sorcery'
+Skill        100 'green sorcery'
+Skill        100 'yellow sorcery'
+Skill        100 'chaos blast'
+Skill        100 'resistance'
+Skill        100 'web'
+Skill        100 'polymorph'
+Skill        100 'birth control'
+Skill        100 'remove page'
+Skill        100 'find familiar'
+Skill        100 'improve'
+Skill        100 'darkness'
+Skill        100 'paradox'
+Skill        100 'drow poison'
+Skill        100 'levitation'
+Skill        100 'tied'
+End
+
+#OBJECT
+Nest         0
+Name         halb~
+ShortDescr   the Winged Boots of Puck~
+Description  A pair of platinum boots hovers about six inches off the ground.~
+Questmaker   Puck~
+Questowner   Puck~
+Vnum         30037
+OID          1918775
+ExtraFlags   65
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Quest        4456448
+Level        0
+Timer        0
+Cost         10
+Values       15 0 0 3
+AffectData   -1 -5 24
+AffectData   -1 -5 24
+AffectData   -1 5 18
+AffectData   -1 5 19
+AffectData   -1 -25 17
+AffectData   -1 3 1
+AffectData   -1 3 4
+ExtraDescr   boots~ This beautiful pair of boots must have been crafted by the Divine Cobbler.
+Possessed perhaps by the very nature of wind itself, these boots hover
+slighty above ground, and you deduce they belong to a god of great
+importance.~
+End
+
+#OBJECT
+Nest         0
+Name         ack~
+ShortDescr   Puck's Magical Book of Knowledge~
+Description  You see a much overdue library book here.~
+Questmaker   Puck~
+Vnum         30037
+OID          1918776
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     37
+Weight       50
+Condition    100
+Toughness    5
+Resistance   25
+Quest        262144
+Level        0
+Timer        0
+Cost         9
+Values       0 0 3 4
+End
+
+#OBJECT
+Nest         1
+Name         page~
+ShortDescr   a page~
+Description  A page lies here.~
+Powerusevict Global readmagic~
+Questmaker   Puck~
+Vnum         30037
+OID          1918777
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     38
+Weight       0
+Specpower    2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       4 256 512 2
+End
+
+#OBJECT
+Nest         1
+Name         page~
+ShortDescr   a page~
+Description  A page lies here.~
+Powerusevict Flamedart~
+Questmaker   Puck~
+Vnum         30037
+OID          1918778
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     38
+Weight       0
+Specpower    3
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       3 1 2 4
+End
+
+#OBJECT
+Nest         1
+Name         page~
+ShortDescr   a page~
+Description  A page lies here.~
+Powerusevict Areascry~
+Questmaker   Puck~
+Vnum         30037
+OID          1918779
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     38
+Weight       0
+Specpower    4
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       2 256 512 4
+End
+
+#OBJECT
+Nest         1
+Name         page~
+ShortDescr   a page~
+Description  A page lies here.~
+Poweroffch   blah~
+Powerusech   Start.action.spell
+victim.target
+global.target
+move
+message.1: blah
+message.2: blah
+message.3: blah
+end.spell~
+Poweronvict  blah~
+Poweroffvict blah~
+Powerusevict Goto~
+Questmaker   Puck~
+Vnum         30037
+OID          1918780
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     38
+Weight       0
+Spectype     1933396
+Specpower    5
+Condition    100
+Toughness    0
+Resistance   25
+Quest        524288
+Points       556
+Level        0
+Timer        0
+Cost         10
+Values       1 1 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ball light~
+ShortDescr   a bright ball of light~
+Description  A bright ball of light shimmers in the air.~
+Vnum         21
+OID          1918781
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       0 0 -1 0
+End
+
+#END
+<Implementor> Last logged in on Wed Oct 31 23:18:36 2001.
+

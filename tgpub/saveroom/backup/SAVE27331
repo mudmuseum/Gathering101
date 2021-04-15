@@ -1,0 +1,462 @@
+#OBJECT
+Nest         0
+Name         leg mob~
+ShortDescr   the sliced-off leg of Dharia~
+Description  The sliced-off leg of Dharia is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Krystal~
+ShortDescr   the sliced-off leg of Krystal~
+Description  The sliced-off leg of Krystal is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Cadence~
+ShortDescr   the sliced-off leg of Cadence~
+Description  The sliced-off leg of Cadence is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Krystal~
+ShortDescr   the sliced-off leg of Krystal~
+Description  The sliced-off leg of Krystal is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Shelnar~
+ShortDescr   the sliced-off leg of Shelnar~
+Description  The sliced-off leg of Shelnar is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Medivh~
+ShortDescr   the sliced-off leg of Medivh~
+Description  The sliced-off leg of Medivh is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Arkaine~
+ShortDescr   the sliced-off leg of Arkaine~
+Description  The sliced-off leg of Arkaine is lying here.~
+Vnum         15
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Krystal~
+ShortDescr   the sliced-off arm of Krystal~
+Description  The sliced-off arm of Krystal is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Urza~
+ShortDescr   the sliced-off arm of Urza~
+Description  The sliced-off arm of Urza is lying here.~
+Vnum         14
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Krystal~
+ShortDescr   the quivering brain of Krystal~
+Description  The quivering brain of Krystal wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Krystal~
+ShortDescr   the quivering brain of Krystal~
+Description  The quivering brain of Krystal wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Medivh~
+ShortDescr   the quivering brain of Medivh~
+Description  The quivering brain of Medivh wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain CashMoney~
+ShortDescr   the quivering brain of CashMoney~
+Description  The quivering brain of CashMoney wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain mob~
+ShortDescr   the quivering brain of Goldmoon~
+Description  The quivering brain of Goldmoon wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Agnes~
+ShortDescr   the quivering brain of Agnes~
+Description  The quivering brain of Agnes wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain mob~
+ShortDescr   the quivering brain of an attendant of the dragon~
+Description  The quivering brain of an attendant of the dragon wobbles on the floor.~
+Vnum         30005
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Kalari~
+ShortDescr   the severed hand of Kalari~
+Description  The severed hand of Kalari lies on the floor.~
+Vnum         30029
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Kalari~
+ShortDescr   the severed hand of Kalari~
+Description  The severed hand of Kalari lies on the floor.~
+Vnum         30029
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       10 0 30029 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

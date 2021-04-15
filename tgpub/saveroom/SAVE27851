@@ -1,0 +1,988 @@
+#OBJECT
+Nest         0
+Name         horns~
+ShortDescr   horns~
+Description  A set of horns lies here.~
+Vnum         2901
+OID          657870
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         720
+Values       0 7 10 7
+End
+
+#OBJECT
+Nest         0
+Name         horns~
+ShortDescr   horns~
+Description  A set of horns lies here.~
+Vnum         2901
+OID          723609
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         9570
+Values       0 1 2 7
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          725854
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         22950
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          835862
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         3600
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+OID          883149
+ExtraFlags   64
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         12600
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Flinch~
+ShortDescr   the sliced-off arm of Flinch~
+Description  The sliced-off arm of Flinch is lying here.~
+Vnum         14
+OID          218607
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          92772
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         0
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          387822
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         0
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          722604
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         0
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          726772
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         0
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+OID          1096601
+ExtraFlags   64
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2160
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          1099131
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         0
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         robe golden~
+ShortDescr   a golden robe~
+Description  A golden robe is on the floor.~
+Vnum         664
+OID          1044112
+ExtraFlags   1088
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         26411
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         head jubal mummy~
+ShortDescr   the mummified head of Jubal the Benevolent~
+Description  The mummified head of Jubal the Benevolent is lolling back and forth.~
+Vnum         3412
+OID          851505
+ExtraFlags   1024
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         10880
+Values       3 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1132850
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         11664
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak purple~
+ShortDescr   a purple cloak~
+Description  A purple cloak lies on the floor.~
+Vnum         7203
+OID          1136475
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         11025
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectral cloak~
+ShortDescr   a spectral cloak~
+Description  A spectral cloak is lying here, concealed from sight.~
+Vnum         30325
+OID          1111349
+ExtraFlags   32
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         18060
+Values       5 0 0 46
+End
+
+#OBJECT
+Nest         0
+Name         spectral cloak~
+ShortDescr   a spectral cloak~
+Description  A spectral cloak is lying here, concealed from sight.~
+Vnum         30325
+OID          1086906
+ExtraFlags   32
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         4000
+Values       10 0 0 46
+End
+
+#OBJECT
+Nest         0
+Name         scroll~
+ShortDescr   a runed scroll~
+Description  A runed scroll.~
+Vnum         2270
+OID          1265344
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         17600
+Values       30 2 54 58
+Spell 1      'armor'
+Spell 2      'protection'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Vnum         2220
+OID          1265341
+ExtraFlags   1
+WearFlags    16389
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         4356
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         blade black demon~
+ShortDescr   a black demon blade~
+Description  An evil black demon blade is here.~
+Vnum         4100
+OID          1288189
+ExtraFlags   2560
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1000
+Values       34 1 2 11
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          1286593
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         0
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         meat chicken~
+ShortDescr   a defeathered chicken~
+Description  A defeathered chicken is here on the floor.~
+Vnum         605
+OID          1285782
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       16 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          1292158
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         21160
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chameleon poncho~
+ShortDescr   a chameleon poncho~
+Description  Some multicolored cloth is on the ground here~
+Vnum         1342
+OID          1301103
+ExtraFlags   64
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         0
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+OID          1303463
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         20339
+Values       7 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         cloak green~
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+OID          1144649
+ExtraFlags   576
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5290
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         orb dragonorb~
+ShortDescr   the Red DragonOrb~
+Description  A large reddish sphere is in the center of the room.~
+Vnum         7303
+OID          1234773
+ExtraFlags   576
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         200
+Values       12 10 10 57
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         0
+Name         leather armor~
+ShortDescr   leather armor~
+Description  There is a suit of leather armor~
+Vnum         10013
+OID          1229564
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         108
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Cobweb~
+ShortDescr   the quivering brain of Cobweb~
+Description  The quivering brain of Cobweb wobbles on the floor.~
+Vnum         30005
+OID          1239191
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Dmx~
+ShortDescr   the quivering brain of Dmx~
+Description  The quivering brain of Dmx wobbles on the floor.~
+Vnum         30005
+OID          1230632
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         tooth Tachyon~
+ShortDescr   the knocked-out tooth of Tachyon~
+Description  The knocked-out tooth of Tachyon lies on the floor.~
+Vnum         30027
+OID          1244571
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30027 0
+End
+
+#OBJECT
+Nest         0
+Name         blood jar~
+ShortDescr   a dark red jar~
+Description  A small jar in a dark, red colour.~
+Vnum         303
+OID          1135275
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         648
+Values       2 2 13 0
+End
+
+#OBJECT
+Nest         0
+Name         arm InuYasha~
+ShortDescr   the sliced-off arm of InuYasha~
+Description  The sliced-off arm of InuYasha is lying here.~
+Vnum         14
+OID          67616
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         bracelet platinum~
+ShortDescr   a platinum bracelet.~
+Description  A tarnished platinum bracelet has been dropped here.~
+Vnum         2211
+OID          1265342
+ExtraFlags   1
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         560
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         bracelet onyx~
+ShortDescr   an onyx bracelet~
+Description  A hoop of black onyx is here.~
+Vnum         1388
+OID          1301316
+ExtraFlags   64
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         22950
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         tooth Tachyon~
+ShortDescr   the knocked-out tooth of Tachyon~
+Description  The knocked-out tooth of Tachyon lies on the floor.~
+Vnum         30027
+OID          1244572
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       1 0 30027 0
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Flinker, DF Guardian~
+Description  The corpse of Flinker, DF Guardian is lying here.~
+Vnum         10
+OID          1563590
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       0 0 27851 1
+End
+
+#OBJECT
+Nest         0
+Name         index finger Hitsurume~
+ShortDescr   the severed index finger of Hitsurume~
+Description  The severed index finger of Hitsurume lies on the floor.~
+Vnum         30032
+OID          1574312
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30032 0
+End
+
+#OBJECT
+Nest         0
+Name         ring finger Hitsurume~
+ShortDescr   the severed ring finger of Hitsurume~
+Description  The severed ring finger of Hitsurume lies on the floor.~
+Vnum         30034
+OID          1574313
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30034 0
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Flinker, DF Guardian~
+Description  The corpse of Flinker, DF Guardian is lying here.~
+Vnum         10
+OID          1672194
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       0 0 27851 1
+End
+
+#OBJECT
+Nest         0
+Name         spectral cloak~
+ShortDescr   a spectral cloak~
+Description  A spectral cloak is lying here, concealed from sight.~
+Vnum         30325
+OID          1082165
+ExtraFlags   32
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1210
+Values       6 0 0 46
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

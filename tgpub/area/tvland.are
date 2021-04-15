@@ -1,0 +1,2428 @@
+#AREA   Dawt    TV Land~
+
+
+#HELPS
+-1 'tv land' tvland tv~
+Welcome to the wonderful world of TELEVISION!  Here anything can and does
+happen.  Thanks to everyone who helped me remember people's names on TV.  And
+thanks to my B.A.D. friends for the idea for Channel 22 (They're odd.  I
+don't hang around them much), and thanks to Kippy for making Channel 17.  
+Well, I'm off.  Happy hunting!
+
+	    -Dawt, that's it... just Dawt.
+~
+0 $~
+
+
+#MOBILES
+#16001
+blueness~
+The Blueness~
+The Blueness is here, enveloping everything around you!
+~
+What else is there to see?   All it is is blue.  Blue everywhere!
+~
+4 8|32|128|512|524288 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#16002
+tooty horn~
+Tooty~
+Tooty stands here, tooting and selling all the useless things she can find.
+~
+Tooty is a horn with a face!
+~
+2|4|2097152 0 -40 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16003
+pimp gilbert godfrey~
+Gilbert Godfrey~
+A pimp stands on the corner trying to get customers for his 'escorts'.
+~
+The pimp is an impish little man with a rather annoying voice.
+~
+2 0 -357 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16004
+cheap slut~
+a cheap slut~
+The cheap slut stands here waiting for someone to order her around.
+~
+She isn't all that much too look at, but at least she's good at what she does.
+~
+0 0 0 S
+38 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16005
+dumb hunk~
+a dumb hunk~
+The dumb hunk stands here, completely clueless.
+~
+This guy looks like your average moron, but he looks like he could fight well.
+~
+0 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16006
+prostitute~
+a prostitute~
+A prostitute stands here waiting for someone to tell her what to do.
+~
+The prostitute seems to be very proud of what she does.  She doesn't even seem
+to mind the draft.
+~
+0 0 0 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16007
+male stripper~
+a male stripper~
+A male stripper is here dancing for you.
+~
+Just seeing this guy dance makes you wish you had brought your camera.
+He's taken everything off already, but he can still pretend.
+~
+0 0 0 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16008
+miss america~
+Miss America~
+Miss America is here searching for her crown.
+~
+She seems a little preoccupied with finding her crown.  Aparently she doesn't
+realize she was Miss America LAST year.
+~
+0 0 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16009
+love god~
+a Love God~
+A Love God is here making everyone happy.
+~
+He is incredible!  You can barely believe that Gilbert would let him go for so
+little!  You just want to take him home and make him happy too.
+~
+0 0 0 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16010
+sex goddess~
+a Sex Goddess~
+A Sex Goddess is here trying not to laugh at you.
+~
+One word: GASP!
+~
+0 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16011
+crypt keeper skeleton bag bones~
+The Crypt Keeper~
+It's that old bag of bones, himself!
+~
+The Crypt Keeper is just your average corpse that moves and talks and makes
+bad puns.
+~
+2 512 -666 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16012
+superman super man clark kent kalel kal-el kal el steel~
+Superman~
+Look!  Up in the sky!  It's a bird!  It's a plane!  Nah, it's just some guy in tights.
+~
+Talk about a Man of Steel!  They don't call them tights for nothing!
+~
+2 8|32|128|512|8192|524288 753 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16013
+zack kid prep preppy preppie~
+Zack~
+Zack stands here trying to remember his locker combination.
+~
+You can barely stand to look at him.  You just want to SMACK him for being
+such a putz!
+~
+2 0 285 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16014
+brian~
+Brian~
+Brian is here, arguing with Joe.
+~
+Brian is babbling something about "...never should have become partners..."
+~
+2 0 183 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16015
+joe~
+Joe~
+Joe is here, arguing with Brian.
+~
+Joe is mumbling something about "...she never really liked you anyway..."
+~
+2 0 0 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16016
+prince fresh will smith~
+The Fresh Prince~
+Will is walking around with his shirt inside out again.
+~
+Yeah, like you don't know what he looks like.
+~
+2 0 -286 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16017
+hulk hogan wrestler~
+Hulk Hogan~
+This wrestler is beating the crap outta the other one!
+~
+He looks a little pissed off, maybe you should leave before he and his
+opponent gang up on you.
+~
+2|32 0 472 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16018
+wrestler irs irving~
+I.R.S.~
+This wrestler is getting pounded by the other one.
+~
+This guy looks like the king of schmucks.
+~
+2|32 0 -366 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16019
+bob saget~
+Bob Saget~
+Bob Saget is here showing some hilarious videos.
+~
+These videos are so funny, you can barely swing to hit him!
+~
+2 0 52 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16020
+dave letterman~
+Dave Letterman~
+...Dave Letterman walks up to you and asks, "May I Taste Your Dinner Please?"
+~
+Can you believe this guy?  You think he'd have better things to do than eat 
+other people's food, like run a show or something!
+~
+2 0 318 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16021
+dolphin~
+the dolphin~
+The dolphin swims by happily.
+~
+This little guy looks very content to have you swimming with him.
+~
+2 512 594 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#16022
+player tennis female~
+a tennis player~
+A tennis player volleys the ball to her opponent.
+~
+The tennis player is covered in sweat.  She looks like she could really use
+a rest.
+~
+2 0 25 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16023
+player tennis male~
+a tennis player~
+The tennis swiftly returns the ball.
+~
+This guy looks like he could really use some Mountain Dew about now.
+~
+2 0 -84 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16024
+man guy~
+the man~
+The man is apologizing about nothing in particular.
+~
+He can't seem to decide if he's upset or delighted.
+~
+2 0 13 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16025
+woman girl~
+the woman~
+The woman is screaming at the man.  I wonder what he did.
+~
+She doesn't seem to be too happy to see you either.
+~
+2 0 29 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16026
+wolf werewolf~
+the werewolf~
+A werewolf is here ready to pounce!
+~
+This is the largest wolf you have ever seen.  Its eyes glow yellow in the
+moonlight.
+~
+2 128|512|65536|2097152 0 S
+49 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16027
+bat vampire~
+a bat~
+A giant vampire bat soars above you.
+~
+This bat has the biggest teeth you've ever seen!
+~
+2 512|524288 -48 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16028
+women girls crowd~
+the crowd of horny women~
+A crowd of giggling girls stands hoping that they will win a date with you.
+~
+The chair blocks your view!
+~
+2 2 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16029
+sub zero sub-zero ninja~
+Sub-Zero~
+Sub-Zero is here, fighting Sonya.
+~
+He looks to be a well-trained ninja.
+~
+2 8192 -593 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16030
+sonya~
+Sonya Blade~
+Sonya Blade is here, fighting Sub-Zero.
+~
+Sonya is in her army uniform.
+~
+2 0 487 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16031
+minstrel robins robin's~
+Robin's minstrel~
+Robin's minstrel is here singing, but where's Robin?
+~
+The minstrel sings:
+  He was not in the least bit scared to be mashed into a pulp,
+  Or to have his eyes gouged out, and his elbows broken.
+  To have his kneecaps split, and his body burned away,
+  And his limbs all hacked and mangled, brave Sir Robin!
+
+  His head smashed in and his heart cut out,
+  And his liver removed and his bowels unplugged,
+  And his nostrils ripped and his bottom burned off,
+  And his feet...
+He is a rather cheery fellow, isn't he?
+~
+2 0 143 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16032
+crystal crystalline entity~
+the Crystalline Entity~
+A huge crystalline structure hovers here.
+~
+The crystalline entity is slowly moving towards you!
+~
+2|4 0 -644 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#16033
+bonnie woman girl~
+Bonnie~
+Bonnie has her arm half way up her twin sister, April.
+~
+Bonnie and April look exactly alike.  Both are beautiful young women.  You'd
+think they could get better jobs than this!
+~
+2 0 34 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16034
+april woman girl~
+April~
+April seems to like the pain her sisters are causing her.
+~
+April is Bonnie's twin sister.
+~
+2 0 47 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16035
+daisy woman girl~
+Daisy~
+Daisy is giving April a good rub down with the soap while biting her nipples.
+~
+Daisy is Bonnie and April's younger sister.  She's new at this, but she's doing
+a wonderful job.
+~
+2 0 -34 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16036
+qvc sales rep representative salesman man~
+the salesman~
+A QVC sales representative is here selling all their wonderful products.
+~
+He looks like your average scum sucking salesman.
+~
+2|4|2097152 0 -3160 S
+49 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16037
+ren dog~
+Ren~
+Ren is here trying to figure out what to do with Stimpy.
+~
+Ren is a cartoon dog.  DUH!
+~
+2 0 48 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16038
+stimpy cat~
+Stimpy~
+Stimpy stands here, completely clueless.
+~
+Stimpy is a cartoon cat!  What else?
+~
+2 0 325 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16039
+kid girl mousketeer~
+a Mousketeer~
+A little girl runs quickly past you.
+~
+She's humming a little tune while she runs by.
+~
+2 0 479 S
+49 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16040
+man preacher pacifist priest~
+the preacher~
+There is a pacifist here preaching about all the GOOD things in life.
+~
+You feel better having gazed upon one of such holiness.
+~
+2|2048 8192 987 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16041
+roc~
+Roc~
+Roc is here collecting garbage.
+~
+He looks pretty spiffy in his not-new suit.
+~
+2|4 32 38 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16042
+betty boop~
+Betty Boop~
+Betty Boop is here, ummm.... Booping?
+~
+Betty Boop is here for her 65th Birthday Celebration.  Amazing, she doesn't
+look a day over 18!
+~
+2 0 198 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16043
+woody bartender~
+Woody~
+Woody is here serving drinks.
+~
+Woody is probably the smartest idiot you've ever met.
+~
+2 128 49 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16044
+hgtv rep representative saleswoman~
+a HGTV rep~
+A HGTV representative is here trying to sell her "useful" items.
+~
+She works hard for her living.
+~
+2|4|2097152 0 -153 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16045
+steve urkle~
+Steve Urkle~
+...Urkle walks in whining for cheese.
+~
+What a dork.  You feel queasy just looking at him.
+~
+2 0 -39 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16046
+mary kate mary-kate~
+Mary Kate~
+Mary Kate is here being so cute it's repulsive.
+~
+Mary Kate and Ashley Olsen are identical twin sisters.
+~
+2 0 51 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16047
+ashley~
+Ashley~
+Ashley is here saying her sister's lines.
+~
+Mary Kate and Ashley Olsen are identical twins.
+~
+2 0 16 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16048
+wayne~
+Wayne~
+Wayne is here playing his guitar.
+~
+Wayne is just your average middle-aged man still living with his parents.
+~
+2 0 125 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16049
+Mirth~
+Mirth~
+Mirth is here pretending to play the drums.
+~
+Mirth doesn't seem to have a clue.  Maybe he could borrow yours?
+~
+2 0 73 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16050
+prosecution~
+the prosecution~
+The prosecution is here arguing his client's case.
+~
+He must be new here.  He doesn't realize that he and the defense both agree.
+~
+2 0 -297 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16051
+defense~
+the defense~
+The defense is here objecting to everything.
+~
+The defense is doing a horrible job, but not quite as bad as the prosecution.
+~
+2 0 -320 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#16052
+judge wapner~
+Judge Wapner~
+Judge Wapner is on his throne, or bench rather.
+~
+Just smile and nod.
+~
+2 0 387 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16053
+david duchovny~
+David Duchovny~
+David Duchovny is here.
+~
+David smiles happily at you.
+~
+2 0 0 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#16001
+barb barbed wire~
+(Dripping Blood) a piece of barbed wire~
+(Dripping Blood) You almost tripped over that piece of barbed wire!~
+~
+9 0 1|32
+0 1 6 4 
+5 0 0
+A
+13 -20
+A
+17 -10
+A
+19 3
+A
+18 -1
+#16002
+bracelet love~
+the Bracelet of Love~
+You feel great love towards everyone around just looking at this bracelet.~
+~
+9 32|64|256 1|4096
+0 0 0 0 
+3 0 0
+A
+24 -3
+A
+17 -30
+A
+4 3
+#16003
+bracelet war~
+the Bracelet of War~
+You feel great hatred towards everyone just looking at this bracelet.~
+~
+9 4|32|64 1|4096
+0 0 0 0 
+3 0 0
+A
+18 3
+A
+19 3
+A
+2 3
+#16004
+collar jewel studded dog~
+a jewel studded dog collar~
+A beatiful dog collar is laying on the ground.~
+~
+9 0 1|4
+0 0 0 0 
+18 0 0
+A
+17 -5
+A
+13 10
+A
+19 3
+#16005
+dildo ruby red~
+a Ruby Dildo~
+Everyone is passing around some red thing, but you can't make out what.~
+~
+26 2|128|4096 1|16384
+43 82 28 81 
+13 0 0
+A
+1 -2
+A
+2 -1
+A
+3 -1
+A
+4 -1
+A
+5 -1
+A
+18 -20
+A
+19 15
+#16006
+box news stand~
+a news stand~
+There is a large metal box here with a window in front and a slit on the side.~
+~
+15 0 0
+0 15 16007 0 
+50 0 0
+A
+19 500
+#16007
+quarter coin~
+a quarter~
+There is a quarter on the ground here, and it's heads up!~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 0
+#16008
+cape red supermans superman's~
+superman's cape~
+A red cape with a strange yellow symbol lies here.~
+~
+9 1024 1|4
+0 0 0 0 
+2 0 0
+A
+1 1
+A
+19 2
+E
+symbol yellow~
+The symbol looks something like:   
+	   __________
+	  / / __ \| |\
+	 / / /  \___/ \
+	 \ \ \______  /
+	  \ \_____  \/
+	   \  _   \ /
+	    \/ / / /
+	     \ \/ /
+	      \  /
+	       \/
+~
+#16009
+shirt blue tight supermans superman's~
+superman's shirt~
+A tight fitting blue shirt with an odd red and yellow symbol lies here.~
+~
+9 1024 1|8
+0 0 0 0 
+14 0 0
+A
+1 1
+A
+17 -15
+E
+symbol red yellow~
+The symbol looks like something like:   
+	   __________
+	  / / __ \| |\
+	 / / /  \___/ \
+	 \ \ \______  /
+	  \ \_____  \/
+	   \  _   \ /
+	    \/ / / /
+	     \ \/ /
+	      \  /
+	       \/
+~
+#16010
+tights blue supermans superman's~
+superman's tights~
+A pair of blue tights lie here.~
+~
+9 0 1|32
+0 0 0 0 
+1 0 0
+A
+1 1
+A
+14 50
+A
+19 2
+#16011
+boots red supermans superman's~
+superman's boots~
+A pair of nice red boots lie here.~
+~
+9 0 1|64
+0 0 0 0 
+6 0 0
+A
+1 1
+A
+2 1
+#16012
+paper combination zacks zack's~
+zack's locker combination~
+A small piece of paper with some numbers written on it is here.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 0
+A
+4 0
+E
+paper combination zacks zack's~
+1-2-3
+
+God, Zack must REALLY be a moron if he has to write this down.
+~
+#16013
+locker~
+zack's locker~
+There is a particularly CLEAN looking locker here.~
+~
+15 0 0
+50 15 16012 0 
+100 0 0
+#16014
+bra kelly kellys kelly's~
+kelly's bra~
+Kelly's bra is in here!~
+~
+9 0 1|1024
+0 0 0 0 
+19 0 0
+A
+3 -2
+A
+9 -5
+A
+13 16
+A
+17 -4
+A
+18 2
+E
+bra kelly kellys kelly's~
+This thing is HEAVILY padded.  You knew she was stuffed!
+~
+#16015
+video home funniest funny america americas america's~
+america's Funniest Home Video~
+Your sides split as you watch this funny home video.~
+~
+4 1|2 1|16384
+37 4 4 4 
+2 0 0
+A
+17 0
+#16016
+submarine sub~
+a submarine~
+A submarine floats by here.~
+~
+27 2|128|4096 1|1024
+0 0 0 0 
+250 0 0
+A
+13 30
+A
+1 1
+A
+2 -1
+A
+19 4
+A
+18 1
+#16017
+daily planet issue newspaper news paper~
+an issue of The Daily Planet~
+There is an issue of the daily planet in here.~
+~
+2 4096 1|16384
+33 27 27 27 
+6 0 0
+#16018
+racquet tennis~
+a tennis racquet~
+A tennis racquet rests here.~
+~
+5 0 1|8192
+0 0 0 7 
+13 0 0
+A
+2 2
+A
+19 4
+#16019
+ball tennis yellow~
+(Bouncing) a tennis ball~
+(Bouncing) A little yellow ball is furiously being bounced back and forth.~
+~
+30 0 1|8192
+0 0 0 0 
+1 0 0
+#16020
+holder ball~
+a ball holder~
+A small plastic ball holder stands against the wall.~
+~
+29 0 1|16384
+1 5 -1 0 
+5 0 0
+#16021
+chair giant~
+a really big chair~
+You are sitting in a humongous chair.~
+~
+12 0 0
+0 0 0 0 
+48 0 0
+#16022
+mask blue subzeros subzero's~
+a blue mask~
+Sub-Zero's mask is laying on the ground.~
+~
+9 64|128|4096 1|16
+0 0 0 0 
+14 0 0
+A
+2 2
+A
+19 3
+#16023
+enterprise NCC-1701D space ship~
+the Enterprise~
+The Enterprise, flag-ship of the Federation hovers above you in all it's glory.~
+~
+28 1|2|32768 1|1024
+0 0 0 0 
+35 0 0
+A
+17 -15
+A
+19 6
+A
+18 6
+#16024
+soap bar~
+a bar of soap~
+Someone seems to have dropped their soap. Are you going to bend over to get it?~
+~
+13 128 1|16384
+0 0 0 0 
+1 0 0
+#16025
+knife ginsu~
+a ginsu knife~
+A ginsi knife is sticking out of the ground.~
+~
+5 0 1|8192
+0 0 0 11 
+4 0 0
+A
+19 5
+A
+18 -1
+#16026
+blender~
+a blender~
+A blender is on the ground here.~
+~
+15 2 1
+50 1 -1 0 
+15 0 0
+#16027
+earrings ear diamond~
+(Glistening) a large pair of diamond earrings~
+(Glistening) A large pair of diamond earrings are hanging here.~
+~
+13 0 1|16
+0 0 0 0 
+20 0 0
+#16028
+clapper clap~
+the clapper~
+You feel compelled to clap.~
+~
+1 2 1
+0 0 2400 0 
+1 0 0
+A
+3 0
+#16029
+cheese magic magical gourmet TheCheeseIsn'tReallyMagicYouGit~
+(Yellow Aura) (Magical) gourmet cheese~
+(Yellow Aura) (Magical) A rather tasty looking wedge of cheese is laying here.~
+~
+19 0 1
+7 0 0 0 
+1 0 0
+#16030
+buddha emerald green~
+an emerald Buddha~
+An emerald statue of Buddha lies here just begging you to pick it up.~
+~
+8 1|16|64|128|4096 1|16384
+0 0 0 0 
+25 0 0
+A
+17 10
+A
+18 -2
+A
+19 -1
+A
+2 -1
+#16031
+thinking cap~
+a thinking cap~
+Stimpy's thinking cap is here.~
+~
+9 2 1|16
+0 0 0 0 
+16 0 0
+A
+3 -4
+A
+4 -6
+#16032
+flag american~
+the American Flag~
+The American Flag waves proudly.~
+~
+5 1|64|1024 1|8192
+0 0 0 7 
+4 0 0
+A
+1 2
+A
+18 2
+A
+19 3
+#16033
+ears micky mouse~
+a pair of mouse ears~
+A pair of Mickey Mouse ears lie here.~
+~
+9 0 1|16
+0 0 0 0 
+7 0 0
+A
+9 -50
+#16034
+toga~
+a toga~
+A toga is on the ground here.~
+~
+9 64|1024 1|1024
+0 0 0 0 
+7 0 0
+A
+4 2
+A
+12 50
+A
+3 1
+#16035
+screw driver~
+a screw driver~
+A screw driver is on the ground here.~
+~
+17 0 1
+4 3 23 0 
+1 0 0
+#16036
+mountain dew~
+a Mountain Dew~
+A Mountain Dew is here just waiting for someone to drink it.~
+~
+17 0 1
+6 6 19 0 
+5 0 0
+#16037
+bud ice beer~
+a Bud Ice~
+An overflowing bottle of Bud Ice is here.~
+~
+17 0 1
+0 20 1 0 
+10 0 0
+#16038
+plate paper football foot ball card~
+a football card plate~
+A paper plate with a picture of a man in padded armor is here.~
+~
+12 0 1
+0 0 0 0 
+1 0 0
+#16039
+spice spices jar~
+a jar of exotic spices~
+A small jar with fancy engravings lies here.~
+~
+15 0 1
+1 5 -1 0 
+7 0 0
+#16040
+spices exotic~
+spices~
+Some sweet smelling spices lie here.~
+~
+26 0 1
+32 43 14 35 
+1 0 0
+#16041
+pants jacked jack~
+a pair of pants jacked all the way~
+A rather large pair of pants lie here.~
+~
+9 0 1|32
+0 0 0 0 
+3 0 0
+A
+3 1
+A
+24 -4
+#16042
+gloves camoflague leather~
+a pair of camoflague gloves~
+A a pair of leather gloves lie here.~
+~
+9 32 1|128
+0 0 0 0 
+2 0 0
+A
+1 1
+A
+19 3
+A
+18 4
+#16043
+pencil~
+a pencil~
+A very sharp pencil lies here.~
+~
+5 0 1|8192
+0 0 0 2 
+1 0 0
+A
+19 4
+A
+18 1
+#16044
+homework zacks zack's~
+zack's homework~
+Someone foregot their homework.~
+~
+2 64|4096 1|16384
+37 7 39 69 
+14 0 0
+A
+3 2
+#16045
+wallet zack's zacks~
+zack's wallet~
+A nice wallet is laying here.~
+~
+15 0 1|16384
+5 5 -1 0 
+5 0 0
+#16046
+money lunch~
+zack's lunch money~
+Someone dropped their lunch money here.~
+~
+20 0 1
+2 0 0 0 
+2 0 0
+#16047
+photo kelly paper~
+a photo of Kelly in the shower~
+A small piece of paper lies here.~
+~
+2 0 1
+36 82 15 -1 
+1 0 0
+E
+photo kelly paper~
+It's a photograph of Kelly from Saved By the Bell in the shower.  How on earth
+did Zack get this?
+~
+#16048
+guitar waynes wayne's~
+wayne's guitar~
+A nice looking guitar is here.~
+~
+5 2 1|8192
+0 0 0 7 
+18 0 0
+A
+9 -20
+A
+19 4
+#16049
+sticks stick drum garths garth's~
+garth's drum sticks~
+A killer pair of drum sticks are here.~
+~
+5 0 1|8192
+0 0 0 7 
+2 0 0
+A
+3 -1
+A
+4 -1
+A
+24 2
+A
+18 3
+A
+19 2
+#16050
+drums garths garth's~
+garth's drums~
+A cool set of drums are set up here.~
+~
+12 32 1
+0 0 0 0 
+25 0 0
+#16051
+gavel~
+a gavel~
+A judge's gavel rests here.~
+~
+5 0 1|8192
+0 0 0 7 
+19 0 0
+A
+19 0
+#16052
+pampers diapers~
+(Steaming) used Pampers~
+(Steaming) Some USED Pampers are on the ground here.~
+~
+9 0 1|2048
+0 0 0 0 
+21 0 0
+A
+23 -5
+A
+12 25
+#16053
+deodorant~
+some deodorant~
+Some deodorant is laying here.  Is someone trying to tell you something?~
+~
+4 0 1|16384
+32 10 10 70 
+2 0 0
+#16054
+himself organ~
+himself~
+One of David Duchovny's organs lays here.~
+~
+13 128|4096 1|16384
+0 0 0 0 
+5 0 0
+E
+organ himself~
+His organ is bright pink with purple splotches, a lovely color if I do say so
+myself.  Put it in a vase for when you have company, how attractive.
+~
+#0
+
+
+#ROOMS
+#16061
+Cookie's Entertainment Center~
+You seem to have stumbled upon Cookie's secret room.  She has a huge
+entertainment center set up in here including a particularly interesting- 
+looking television on the east wall.  There is also a large sign above the tv 
+that YOU MUST READ!
+~
+0 4|8 0
+D0
+~
+~
+1 0 22165
+D1
+~
+~
+0 -1 16003
+E
+tv television~
+The tv is on channel 3.  The actors look so real, you could almost touch them. 
+You are compelled to move closer to try.
+There is an old issue of TV Guide on top of the television.
+~
+E
+guide magazine~
+This issue of TV Guide is very old and worn out.  All you can make out is the
+address label which reads:
+      
+      Dawt
+      13 Main St.
+      Solace, AM 74093
+
+Cookie must have stolen this from someone else's mail box.
+~
+E
+sign~
+Welcome to TV Land.  Before proceding with your journey, you should know that
+some of the channels may be showing programs that are suggested for mature
+audiences only.  If you feel you may be offended or simply disgusted by such
+material, simply leave the room to the north.  If at any time you want to turn
+off the tv you need only to recall.
+~
+S
+#16001
+Channel 1~
+You are floating through a vast void-like area.  Everything is just black
+and white dots zipping all over the place.  You can see nothing anywhere,
+except for that one old guy who keps popping in and out of existence.  He 
+seems to be talking in some foreign language, but you can't make it out.
+Every time you try to talk to him, he phases out of existence again.  This
+place is beginning to give you the creeps.  You had better get out while you
+still can.
+~
+0 8 9
+D4
+~
+~
+0 -1 16002
+D5
+~
+~
+0 -1 16058
+E
+old man~
+This guy doesn't even seem to notice that he's phasing in and out of existence                                                              
+like that.  It would be rather useless to try to attack him, because as soon 
+as you swung, he'd be gone again.
+~
+S
+#16002
+Channel 2-WMAR (ABC)~
+You are walking through a large Metropolis.  There is a huge skyscraper in
+front of you with a giant globe on top of it.  There is a sign on the globe
+which reads "The Daily Planet".
+~
+0 0 1
+D4
+~
+~
+0 -1 16003
+D5
+~
+~
+0 -1 16001
+S
+#16003
+Channel 3-WGN~
+You are in a long hallway.  Lockers line the walls.  There are kids here
+racing to get to class.  One of them says, "Phew!  Saved by the Bell!" as 
+he rushes out of class.
+~
+0 8 0
+D4
+~
+~
+0 -1 16004
+D5
+~
+~
+0 -1 16002
+S
+#16004
+Channel 4-WRC (VNBC)~
+You are in a dusty old hanger.  There is a small plane in the middle of the
+room.  It seems to be missing one of it's Wings!
+~
+0 8 0
+D4
+~
+~
+0 -1 16005
+D5
+~
+~
+0 -1 16003
+S
+#16005
+Channel 5-WTTG (FOX)~
+You are in an elegant mansion.  Priceless paintings, and elegent pottery line 
+the walls.  There's some guy here who seems to be running the place, all though
+nobody else thinks so.  Who does he think he is, The Fresh Prince of Bel Air?
+~
+0 8 0
+D4
+~
+~
+0 -1 16006
+D5
+~
+~
+0 -1 16004
+S
+#16006
+Channel 6-TBS~
+You've stumbled into the middle of a wrestling match!  You had better get
+out before they pound you to death, unless of course you think you can take
+them on.
+~
+0 8 0
+D4
+~
+~
+0 -1 16007
+D5
+~
+~
+0 -1 16005
+S
+#16007
+Channel 7-WJLA (ABC)~
+You are standing on a stage in front of a huge audience!  They are all laughing
+hysterically.  You'd think they had just seen one of America's Funniest Home
+Videos or something.
+~
+0 8 0
+D4
+~
+~
+0 -1 16059
+D5
+~
+~
+0 -1 16006
+S
+#16059
+Channel 8-USA~
+You are walking on the streets of what seems to be a large futuristic city.
+There seems to be something very familiar about this place.  You suddenly
+realize, it's "Luscious Ladies in L.A."  This must be USA Up All Night!
+~
+0 4096 1
+D4
+~
+~
+0 -1 16009
+D5
+~
+~
+0 -1 16007
+S
+#16009
+Channel 9-WUSA (CBS)~
+You are sitting at a table at a lovely outdoor resturaunt.  The food in front
+of you looks wonderful.  You are about to try a bite of it when...
+~
+0 0 1
+D4
+~
+~
+0 -1 16010
+D5
+~
+~
+0 -1 16059
+S
+#16010
+Channel 10-CNN~
+Oh my God!  It can't be!  Not this!  Not now!  It's...  THE NEWS!!!!
+Run awaaaaaaaaay!
+~
+0 8 2
+D4
+~
+~
+0 -1 16011
+D5
+~
+~
+0 -1 16009
+S
+#16011
+Channel 11-WBAL (NBC)~
+You are in the middle of the ocean!  There is a huge submarine on one side
+of you, and a dolphin on the other.  This place is beautiful.  You could just
+float here for ever.  You must be on SeaQuest.
+~
+0 0 7
+D4
+~
+~
+0 -1 16012
+D5
+~
+~
+0 -1 16010
+S
+#16012
+Channel 12-ESPN~
+This looks like a really intense tennis match.  Both sides have been volleying
+for three minutes straight!  It's a wonder they haven't collapsed yet.
+~
+0 0 2
+D4
+~
+~
+0 -1 16013
+D5
+~
+~
+0 -1 16011
+S
+#16013
+Channel 13-WJZ (CBS)~
+You are in a large apartment building in some big city.  There are two lovers
+here arguing about everything you could possibly imagine.  Did you see that?
+She just slapped him across the face!  Oh well, all's fair in Love & War.
+~
+0 8 0
+D4
+~
+~
+0 -1 16014
+D5
+~
+~
+0 -1 16012
+S
+#16014
+Channel 14-MAX~
+You are walking through a dark forest.  The trees seem to glare down on you.
+You have the feeling you are being watched.  Then you see what it was that was
+watching you, it was a Wolf!
+~
+0 1 3
+D4
+~
+~
+0 -1 16015
+D5
+~
+~
+0 -1 16013
+S
+#16015
+Channel 15-DSC~
+You are in a dark underground cave.  You can barely hear high pitched squeaking
+noises.  You look up only to see something flying at you with huge Fangs!
+~
+0 1|8 5
+D4
+~
+~
+0 -1 16016
+D5
+~
+~
+0 -1 16014
+S
+#16016
+Channel 16-MTV~
+You are outside on the beautiful beaches of California!  You are sitting in a
+large chair.  You can hear hundreds of sweet giggling voices behined you.
+It sounds like a mob of beautiful women waiting to be Singled Out.
+~
+0 0 6
+D4
+~
+~
+0 -1 16017
+D5
+~
+~
+0 -1 16015
+S
+#16017
+Channel 17-SHOW~
+You are sitting in a grubby old bar.  There is a man here reading people's Red
+Shoe Diaries.
+~
+0 8 0
+D4
+~
+~
+0 -1 16018
+D5
+~
+~
+0 -1 16016
+S
+#16018
+Channel 18-TNT~
+You are on top of a long bridge.  Below you, you can see a pit of spikes.  You
+are surrounded on either side by very realistic looking characters.  There is
+blood and gore everywhere.  TNT must be doing a special on Mortal Kombat.
+~
+0 0 4
+D4
+~
+~
+0 -1 16019
+D5
+~
+~
+0 -1 16017
+S
+#16019
+Channel 19-COMEDY~
+You are wandering through a dark forest.  You all of a sudden feel like a  
+silly person.  You aren't quite sure why, but you have a feeling you may have 
+stumbled into Monty Python's Flying Circus.
+~
+0 1 3
+D4
+~
+~
+0 -1 16020
+D5
+~
+~
+0 -1 16018
+S
+#16020
+Channel 20-WDCA (IND)~
+These are the voyagers of the star ship Enterprise.  On it's continuing 
+mission to seek out strange new worlds.  And to boldy go where no one has gone 
+before.
+~
+0 1 9
+D4
+~
+~
+0 -1 16021
+D5
+~
+~
+0 -1 16019
+S
+#16021
+Channel 21-HBO~
+You seem to be in some sort of underground crypt.  It's very dusty and full of
+cobwebs.  There are dead bodies everywhere.  This must be the intro to Tales
+From the Crypt.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 16022
+D5
+~
+~
+0 -1 16020
+S
+#16022
+Channel 22-COURT~
+You've walked into a large courtroom.  Everyone seems to be disagreeing about
+something, but you can't tell what, because they're all making the same points.
+~
+0 8 0
+D4
+~
+~
+0 -1 16023
+D5
+~
+~
+0 -1 16021
+S
+#16008
+Channel 22-PLBY~
+                   ***>CENSORED<***
+
+~
+0 1 6
+S
+#16023
+Channel 23-QVC~
+This place looks a lot like the Home Shopping Network, except they actually
+sell SOME useful items.
+~
+0 8 0
+D4
+~
+~
+0 -1 16024
+S
+#16024
+Channel 24-HSN~
+You are walking through a large store room for seemingly useless items.  Maybe
+this would be a good place to unload some of your trash.
+~
+0 8 0
+D4
+~
+~
+0 -1 16025
+D5
+~
+~
+0 -1 16023
+S
+#16025
+Channel 25-WMPT (PBS)~
+All there is here is some colored lines and a really annoying beep.  They must
+be Off the Air.  I guess you missed Dr. Who.
+~
+0 0 2
+D4
+~
+~
+0 -1 16026
+D5
+~
+~
+0 -1 16024
+S
+#16026
+Channel 26-WETA (PBS)~
+More colored lines and beeping.  What is it with these PBS channels?
+~
+0 0 2
+D4
+~
+~
+0 -1 16027
+D5
+~
+~
+0 -1 16025
+S
+#16027
+Channel 27-TNN~
+Oh, good.  Commercials.  I wasn't looking forward to TNN, were you?
+~
+0 0 2
+D4
+~
+~
+0 -1 16028
+D5
+~
+~
+0 -1 16026
+S
+#16028
+Channel 28-A&E~
+More commercials.  What is it with these channels in the mid to late twenties?
+There's never anything on!
+~
+0 0 0
+D4
+~
+~
+0 -1 16029
+D5
+~
+~
+0 -1 16027
+S
+#16029
+Channel 29-fx~
+Oh great, just what you needed.  It's a pampers commercial.
+~
+0 0 2
+D4
+~
+~
+0 -1 16030
+D5
+~
+~
+0 -1 16028
+S
+#16030
+Channel 30-NICK~
+Nick Nick Nick.  Nick Nick-Ni-Nick Nick.  Nickelodeon!  This is the strangest
+place you've ever seen.  Nothing looks real.  It's more like a child's 
+drawing.  The animals are even talking and wearing clothes!
+~
+0 0 0
+D4
+~
+~
+0 -1 16031
+D5
+~
+~
+0 -1 16029
+S
+#16031
+Channel 31-HN~
+Oh no, it's the news again.  You'd think they would finish this stupid OJ 
+thing, and get on with more important things! (Like shortening the school 
+year.)
+~
+0 8 0
+D4
+~
+~
+0 -1 16032
+D5
+~
+~
+0 -1 16030
+S
+#16032
+Channel 32-WHMM (PBS)~
+Damnit!  It just went off the air.  You're just in time for the end of the 
+Star Spangled Banner, though.
+~
+0 0 2
+D4
+~
+~
+0 -1 16033
+D5
+~
+~
+0 -1 16031
+S
+#16033
+Channel 33-DIS~
+Thousands of kids are running around here with funny looking hats on.  You'd 
+stop one to ask what was going on, but they might bite!
+~
+0 8 0
+D4
+~
+~
+0 -1 16034
+D5
+~
+~
+0 -1 16032
+S
+#16034
+Channel 34-TMC~
+You're in a messy basement.  There is stuff all over the floor.  In front of
+you is a stage crew made up of teenagers.  Behind you are two others
+sitting on a couch.  Oh no!  You've walked into Wayne's World!
+~
+0 8 0
+D4
+~
+~
+0 -1 16035
+D5
+~
+~
+0 -1 16033
+S
+#16035
+Channel 35-F&V~
+You are in an open field.  There are beautiful flowers everywhere.  This would
+be the perfect place to rest if it weren't for that guy in the toga babbling
+about love and happiness towards others.
+~
+0 0 2
+D4
+~
+~
+0 -1 16036
+D5
+~
+~
+0 -1 16034
+S
+#16036
+Channel 36-TWC~
+The Weather Channel.  Joy.  Like you couldn't look out a window and see that
+it's raining.
+~
+0 0 1
+D4
+~
+~
+0 -1 16037
+D5
+~
+~
+0 -1 16035
+S
+#16037
+Channel 37-HTS~
+Just what you needed about now.  It's a deodorant commercial.  Tell you what,
+you go buy some, and I'll tell you what you missed.
+~
+0 0 0
+D4
+~
+~
+0 -1 16038
+D5
+~
+~
+0 -1 16036
+S
+#16038
+Channel 38-BET~
+Hey!  It's Roc.  You were wondering what happened to this show.  It was pretty
+good until they tried to do it live, then it was even better!  Why did Fox 
+cancel it?  Oh well.
+~
+0 0 0
+D4
+~
+~
+0 -1 16039
+D5
+~
+~
+0 -1 16037
+S
+#16039
+Channel 39-TLC~
+It's 102 AD.  Everything is just as it was, except YOU ARE THERE!
+~
+0 0 0
+D4
+~
+~
+0 -1 16040
+D5
+~
+~
+0 -1 16038
+S
+#16040
+Channel 40-AMC~
+You're in an old-fashioned bar.  Nothing looks real, and it's all in black
+and white.  All the people look like children's doodlings, except one of 
+them. ~
+0 8 0
+D4
+~
+~
+0 -1 16041
+D5
+~
+~
+0 -1 16039
+S
+#16041
+Channel 41-VH1~
+The people at VH-1 are doing their best to be as cool as MTV, but it's a hard
+struggle, and they're going to need all the help they can get.
+~
+0 0 0
+D4
+~
+~
+0 -1 16042
+D5
+~
+~
+0 -1 16040
+S
+#16042
+Channel 42-LIFE~
+Welcome to another edition of Unsolved Mysteries.  Tonight:  A group of
+adventurers were on a regular trip to Port City to visit Sabrina, but after 
+one of the town guardsmen saw them enter the store, they were never heard 
+from again.  Sabrina was unavailable for questioning.
+~
+0 8 0
+D4
+~
+~
+0 -1 16043
+D5
+~
+~
+0 -1 16041
+S
+#16043
+Channel 43-CSPAN1~
+Yawn.  More news.  CHANGE IT!
+~
+0 0 2
+D4
+~
+~
+0 -1 16044
+D5
+~
+~
+0 -1 16042
+S
+#16044
+Channel 44-CNBC~
+Are ALL these upper channels just news?
+~
+0 0 0
+D4
+~
+~
+0 -1 16045
+D5
+~
+~
+0 -1 16043
+S
+#16045
+Channel 45-WBFF (FOX)~
+You walk into a very familiar looking bar.  You have a sudden urge to go where
+everybody knows your name.
+~
+0 8 0
+D4
+~
+~
+0 -1 16046
+D5
+~
+~
+0 -1 16044
+S
+#16046
+Channel 46-FAM~
+Oh no!  It's a commercial!  And I was really looking foreward to watching
+Rescue 911!  Oh well, maybe next time.
+~
+0 0 2
+D4
+~
+~
+0 -1 16047
+D5
+~
+~
+0 -1 16045
+S
+#16047
+Channel 47-SCI-FI~
+Sci-Fi?  That's it.  That's got to be it!  You've wandered into...
+The Twilight Zone!
+~
+0 0 0
+D4
+~
+~
+0 -1 16048
+D5
+~
+~
+0 -1 16046
+S
+#16048
+Channel 48-CSPAN2~
+Great, news.  Like you can't just chat and read notes to find out everything
+that's going on.
+~
+0 0 2
+D4
+~
+~
+0 -1 16049
+D5
+~
+~
+0 -1 16047
+S
+#16049
+Channel 49-HGTV~
+Great, another wannabe shopping channel.  Maybe they have something
+interesting for sale.
+~
+0 8 0
+D4
+~
+~
+0 -1 16050
+D5
+~
+~
+0 -1 16048
+S
+#16050
+Channel 50-WFTY (IND)~
+You're resting comfortably on a couch in the middle of a nice living room.
+There is nothing but peace and quiet, until...
+~
+0 8 0
+D4
+~
+~
+0 -1 16051
+D5
+~
+~
+0 -1 16049
+S
+#16051
+Channel 51-ESPN2~
+ESPN2?  How can they make a sequal to a TV channel?  Just change it before
+you have to think about it.
+~
+0 0 0
+D4
+~
+~
+0 -1 16052
+D5
+~
+~
+0 -1 16050
+S
+#16052
+Channel 52-AT~
+Thousands of people are here all talking about absolutely nothing.  It's a
+wonder they haven't all collapsed from boredom.
+~
+0 0 4
+D4
+~
+~
+0 -1 16053
+D5
+~
+~
+0 -1 16051
+S
+#16053
+Channel 53-PREV~
+Preview Tonight, where you can find exactly what you're looking for whenever
+you q98y42erpq98 2a80432QHPEWI8FAYw[
+
+Oh, great, perfect time for their computers to screw up... AGAIN.  Now you'll
+never find out what's on without going through ALL the channels one by one.
+~
+0 8 0
+D4
+~
+~
+0 -1 16054
+D5
+~
+~
+0 -1 16052
+S
+#16054
+Channel 54-WNUV (IND)~
+You are in a large house.  Do they use the same house for all these sit-coms?
+Anyway.  This particualr house seems to be a rather Full House.
+~
+0 8 0
+D4
+~
+~
+0 -1 16055
+D5
+~
+~
+0 -1 16053
+S
+#16055
+The Fuzz Zone~
+This void of nothingness seems to go on for ever and then some.  All you can
+see are little black and white dots zipping back and forth and back and forth.
+This fuzz encompasses all the channels from 55 all the way up to 96!
+~
+0 0 9
+D4
+~
+~
+0 -1 16056
+D5
+~
+~
+0 -1 16054
+S
+#16056
+Channel 97-COMBUL~
+There is a massive board here with notes posted all over it.  There is one
+particularly large note in the center.
+~
+0 0 5
+D4
+~
+~
+0 -1 16057
+D5
+~
+~
+0 -1 16055
+E
+note~
+It says:
+
+   TYPE HELP NOTE TO FIND OUT HOW TO USE NOTES
+
+Maybe you should?
+~
+S
+#16057
+Channel 98-More Fuzz~
+This is another void of fuzz.  It's not nearly as large as the other you saw.
+~
+0 1 9
+D4
+~
+~
+0 -1 16058
+D5
+~
+~
+0 -1 16056
+S
+#16058
+Channel 99 (A.M. Schools)~
+This is a rather boring channel.  All it does is list the food that A.M.
+Schools are selling today, and since there is only ONE school, it's not a 
+very long list:
+
+  A newbie cookie
+  A buffalo water skin
+~
+0 0 2
+D4
+~
+~
+0 -1 16001
+D5
+~
+~
+0 -1 16057
+S
+#16060
+Cat House~
+You are in "Gil's Guys and Gals".  This is where the whores that Gilbert sells
+live.  I'm not sure how you got in here, but you had better get out before
+I'm forced to kill you a lot!
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+*
+M 1 16001 1 16055
+*
+O 1 16023 100 16020                    the Enterprise to Channel 20-WDCA (IND)
+*
+M 1 16002 1 16024                      Tooty to Channel 24-HSN
+G 1 16026 100
+G 1 16028 100
+G 1 16029 100
+*
+*
+M 1 16003 1 16059 Gilbert Godfrey to Channel 8-USA
+*
+M 1 16004 1 16060                      the cheap slut to Cat House
+*
+O 1 16005 100 16060              a Ruby Dildo to Cat House
+M 1 16005 1 16060                      the dumb hunk to Cat House
+*
+O 1 16052 100 16029           (Steaming) used Pampers to Channel 29-fx
+M 1 16006 1 16060                      the prostitute to Cat House
+*
+M 1 16007 1 16060                      the male stripper to Cat House
+*
+M 1 16008 1 16060                      Miss America to Cat House
+O 1 16053 100 16037           some deoderant to Channel 37-HTS
+*
+M 1 16009 1 16060                      a Love God to Cat House
+*
+M 1 16010 1 16060                      a Sex Goddess to Cat House
+*
+M 1 16011 1 16021     The Crypt Keeper to Channel 21-HBO
+E 1 16001 100 7
+*
+M 1 16012 1 16002     Superman to Channel 2-WMAR (ABC)
+E 1 16008 100 3
+E 1 16009 100 5
+E 1 16010 100 7
+E 1 16011 100 8
+O 1 16006 100 16002              a news stand to Channel 2-WMAR (ABC)
+P 1 16017 0 16006
+P 1 16012 0 16006
+*
+M 1 16013 1 16003  Zack to Channel 3-WGN
+O 1 16013 100 16003                  zack's locker to Channel 3-WGN
+P 1 16014 0 16013
+P 1 16043 0 16013
+P 1 16044 0 16013
+P 1 16045 0 16013
+P 1 16047 0 16045
+*
+M 1 16015 1 16004     Joe to Channel 4-WRC (VNBC)
+*
+M 1 16014 1 16004     Brian to Channel 4-WRC (VNBC)
+*
+M 1 16018 1 16006     I.R.S. to Channel 6-TBS
+*
+M 1 16017 1 16006     Hulk Hogan to Channel 6-TBS
+*
+M 1 16020 1 16009     Dave Letterman to Channel 9-WUSA (CBS)
+*
+M 1 16021 1 16011      the dolphin to Channel 11-WBAL (NBC)
+O 1 16016 100 16011                a submarine to Channel 11-WBAL (NBC)
+*
+M 1 16023 1 16012        a tennis player to Channel 12-ESPN
+E 1 16018 100 16
+*
+M 1 16022 1 16012        a tennis player to Channel 12-ESPN
+E 1 16018 100 16
+O 1 16019 100 16012                  (Bouncing) a tennis ball to Channel 12-ESPN
+O 1 16020 100 16012                  a ball holder to Channel 12-ESPN
+P 1 16019 0 16020
+*
+M 1 16025 1 16013                     some girl to Channel 13-WJZ (CBS)
+E 1 16002 100 14
+*
+M 1 16024 1 16013                     some guy to Channel 13-WJZ (CBS)
+E 1 16003 100 14
+*
+M 1 16026 1 16014                the werewolf to Channel 14-MAX
+*
+M 1 16016 1 16005                The Fresh Prince to Channel 5-WTTG (FOX)
+*
+M 1 16019 1 16007                Bob Saget to Channel 7-WJLA (ABC)
+E 1 16015 100 17
+*
+M 1 16027 1 16015                a bat to Channel 15-DSC
+*
+M 1 16028 1 16016                the crowd of horney women to Channel 16-MTV
+O 1 16021 100 16016                    a really big chair to Channel 16-MTV
+*
+M 1 16030 1 16018 Sonya to Channel 18-TNT
+E 1 16042 100 9
+*
+M 1 16029 1 16018                Sub-Zero to Channel 18-TNT
+E 1 16022 100 6
+*
+M 1 16031 1 16019                Robin's minstrel to Channel 19-COMEDY
+*
+*
+M 1 16032 1 16020                the Crystaline Entity to Channel 20-WDCA (IND)
+*
+M 1 16036 1 16023                      the salesman to Channel 23-QVC
+G 1 16025 100
+G 1 16027 100
+G 1 16030 100
+*
+M 1 16038 1 16030                    Stimpy to Channel 30-NICK
+*
+M 1 16037 1 16030                    Ren to Channel 30-NICK
+E 1 16031 100 6
+O 1 16032 100 16032  the American Flag to Channel 32-WHMM (PBS)
+*
+M 1 16039 1 16033                    a Mouskateer to Channel 33-DIS
+E 1 16033 100 6
+*
+M 1 16040 1 16035                    the preacher to Channel 35-F&V
+E 1 16034 100 12
+*
+M 1 16041 1 16038                Roc to Channel 38-BET
+G 1 16007 100
+*
+M 1 16042 1 16040                    Betty Boop to Channel 40-AMC
+*
+M 1 16043 1 16045                    Woody to Channel 45-WBFF (FOX)
+G 1 16035 100
+G 1 16037 100
+*
+M 1 16044 1 16049                      a HGTV rep to Channel 49-HGTV
+G 1 16004 100
+G 1 16038 100
+G 1 16039 100
+P 1 16040 0 16039
+*
+M 1 16045 1 16050                    Steve Urkle to Channel 50-WFTY (IND)
+E 1 16041 100 7
+*
+M 1 16047 1 16054                    Ashley to Channel 54-WNUV (IND)
+*
+M 1 16046 1 16054                    Mary Kate to Channel 54-WNUV (IND)
+*
+M 1 16049 1 16034   Garth to Channel 34-TMC
+E 1 16049 100 16
+*
+M 1 16048 1 16034                Wayne to Channel 34-TMC
+E 1 16048 100 16
+O 1 16050 100 16034         Garth's drums to Channel 34-TMC
+*
+M 1 16050 1 16022     the prosecution to Channel 22-COURT
+*
+M 1 16051 1 16022     the defense to Channel 22-COURT
+*
+M 1 16052 1 16022                Judge Wapner to Channel 22-COURT
+E 1 16051 100 16
+*
+M 1 16053 1 16017                    David Duchovny to Channel 17-SHOW
+E 1 16054 100 17
+D 1 16061 0 1                 ; Cookie's Entertainment Center Close North
+S
+
+
+#SHOPS
+16002 8 13 12 1 0 200 10 0 23                Tooty
+16003 0 0 0 0 0 100 100 0 23                 'Pet' shop
+16036 5 15 3 4 2 200 10 0 23                 the salesman
+16043 17 0 0 0 0 150 80 0 23                 (mobile is NOT from another zone)
+16044 12 8 1 13 15 200 10 0 23               (mobile is NOT from another zone)
+0
+
+
+#SPECIALS
+M  16001 spec_thief                      The Blueness
+M  16011 spec_cast_undead                        The Crypt Keeper
+M  16012 spec_guard                      Superman
+M  16027 spec_poison                     a bat
+M  16029 spec_breath_frost                       Sub-Zero
+M  16032 spec_fido                       the Crystaline Entity
+M  16052 spec_cast_judge                 Judge Wapner
+S
+
+
+#$
+
+

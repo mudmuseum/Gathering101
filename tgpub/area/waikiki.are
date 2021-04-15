@@ -1,0 +1,493 @@
+#AREA	Coal    Waikiki~
+
+
+#MOBILES
+#8500
+japanese tourist~
+A Japaneses Tourist~
+A Japanese tourist stands here, trying to figure out how many Yen to a Dollar.
+~
+The Japanese tourist notices you starting at him, and quickly hides his Yen in his sock.
+~
+4|64 1048576 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8501
+pickpocket thief ~
+A sneaky pickpocket~
+A young man is standing here, one eye on your pockets.
+~
+The pickpocket doesnt seem interesting. Just an average joe blow.
+~
+4|64 1048576 -1000 S
+203 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8502
+bouncer~
+A Bouncer~
+A big Samoan blocks your way.
+~
+He looks angry. Must not have had his fight for the night. Maybe you should leave now.
+~
+2|128 2|8|32|128|512|8192|32768|65536|1048576 0 S
+721 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8503
+door man doorman~
+A doorman~
+A neatly dressed doorman is here, letting unders in.
+~
+A doorman is here checking I.D.'s of everyone makeing sure only those 21 and over enter the club. Except, of course,  cute girls, and guys who pay.
+~
+2|128 2|8|32|128|512|8192|32768|65536 0 S
+452 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8504
+bar tender~
+A bartender~
+A bartender stands here giving free drinks to a group of ladys
+~
+A tall slim man is here, giving free drinks to a group of girls. Dont you wish you were the barman?
+~
+2 2|8|32|128|512|8192|32768|65536 0 S
+364 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#8500
+trash can~
+A Trash Can~
+A trash can with the words "Mahalo" printed on the recepticle swingdoor sits idly here.~
+~
+15 0 8192
+10 1 6 11 
+150 0 0
+#8501
+gucci bag handbag~
+A 'Gucci' handbag~
+A finely crafted Gucci handbag replica.~
+~
+15 0 1|16384
+20 1 6 11 
+5 0 0
+A
+3 -3
+A
+4 -3
+A
+5 5
+#8502
+wallet~
+An empty wallet~
+A wallet that definately doesnt belong to you.~
+~
+8 0 1|16384
+0 1 6 11 
+5 0 0
+#8503
+nokia camera~
+An expensive Nokia Camera~
+A very expensive Nokia camera.~
+~
+5 0 1|8192
+0 1 6 7 
+12 0 0
+A
+3 0
+#8504
+radio two-way~
+A two-way radio~
+A small black, handheld, two way radio.~
+~
+9 0 1|16384
+0 1 6 0 
+7 0 0
+A
+2 0
+#8505
+mini mag-light flashlight light~
+A Mini Mag-Light~
+A small,short black flashlight~
+~
+1 2 1|16384
+0 1 6 11 
+5 0 0
+#8506
+bar long~
+A long bar~
+Theres a very long bar seperating you from the alcohol.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#8507
+tequila jose cuervo~
+A bottle of Cuervo~
+A golden bottle.~
+~
+17 0 1
+0 1 7 0 
+5 0 0
+#8508
+jack daniels~
+A bottle of Jack Daniels~
+A dark, black labeled bottle.~
+~
+17 0 1
+0 1 5 0 
+5 0 0
+#8509
+budweiser bud light bottle~
+A bottle of BudLight~
+A short dark brown bottle~
+~
+17 0 1
+0 1 1 0 
+5 0 0
+#8510
+shot glass~
+A shot glass~
+A very short, stout glass~
+~
+15 0 1
+0 1 6 11 
+1 0 0
+#0
+
+
+#ROOMS
+#8500
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8501
+D2
+~
+~
+0 -1 8512
+D3
+~
+~
+0 -1 8511
+S
+#8501
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8502
+D3
+~
+~
+0 -1 8500
+S
+#8502
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8503
+D3
+~
+~
+0 -1 8501
+S
+#8503
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8504
+D3
+~
+~
+0 -1 8502
+S
+#8504
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8505
+D3
+~
+~
+0 -1 8503
+S
+#8505
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8506
+D3
+~
+~
+0 -1 8504
+S
+#8506
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8507
+D3
+~
+~
+0 -1 8505
+S
+#8507
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8508
+D3
+~
+~
+0 -1 8506
+S
+#8508
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D1
+~
+~
+0 -1 8509
+D3
+~
+~
+0 -1 8507
+S
+#8509
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D0
+~
+~
+0 -1 8516
+D1
+~
+~
+0 -1 8510
+D3
+~
+~
+0 -1 8508
+S
+#8510
+Along Kalakaua Avenue~
+You stand along a wide road, Brick sidewalks line either side. Hotel highrises mauka, and long sandy beaches makai.
+~
+0 0 1
+D3
+~
+~
+0 -1 8509
+S
+#8511
+Kapiolani Reginoal Park~
+You stand across the street from the beach, on a large field of grass. Restrooms off in the distance. Trees scattered here and there. Overall, a peacfull place.
+~
+0 0 2
+D1
+~
+~
+0 -1 8500
+D2
+~
+~
+0 -1 8513
+S
+#8512
+Kapahulu Avenue~
+The road here extends mauka, off in the distance. Makai you see the ocean. Hotel highrises Ewa, and a large park Daimond Head.
+~
+0 0 1
+D0
+~
+~
+0 -1 8500
+D2
+~
+~
+0 -1 8514
+D3
+~
+~
+0 -1 8513
+S
+#8513
+Kapiolani Regional Park~
+You stand across the street from the beach, on a large field of grass. Restrooms off in the distance. Trees scattered here and there. Overall, a peacfull place.
+~
+0 0 2
+D0
+~
+~
+0 -1 8511
+D1
+~
+~
+0 -1 8512
+D2
+~
+~
+0 -1 8515
+S
+#8514
+Kapahulu Avenue~
+The road here extends mauka, off in the distance. Makai you see the ocean. Hotel highrises Ewa, and a large park Daimond Head.
+~
+0 0 1
+D0
+~
+~
+0 -1 8512
+D3
+~
+~
+0 -1 8515
+S
+#8515
+The entrance to The Honolulu Zoo~
+You stand at a ticketbooth, waiting to buy an admission ticket.
+~
+0 8 0
+D0
+~
+~
+0 -1 8513
+D1
+~
+~
+0 -1 8514
+S
+#8516
+Front door of 'The Wave'~
+You're standing in front of a popular Waikiki Nightclub, 'The Wave'. Home of good Alternative, Rock, and Local Hawaiian music.
+~
+0 0 1
+D0
+~
+~
+0 -1 8517
+D2
+~
+~
+0 -1 8509
+S
+#8517
+Inside 'The Wave'~
+You are standing inside a popular Waikiki nightclub, The Wave. Loud music pounds at your ears. The dark light occasionally split by the crossing beam of light from the dancefloor.
+~
+0 8 0
+D1
+~
+~
+0 -1 8518
+D2
+~
+~
+0 -1 8516
+S
+#8518
+A bar inside 'The Wave'~
+A quieter side of the club. The smell of spilled beer permiates the air here. Men trying to pick up on women, are getting turned down, and the barman is giving free drinks to a group of ladys at the end of the bar.
+~
+0 8 0
+D3
+~
+~
+0 -1 8517
+S
+#0
+
+
+#RESETS
+O 1 8500 100 8500			A Trash Can to Along Kalakaua Avenue
+O 1 8500 100 8503			A Trash Can to Along Kalakaua Avenue
+O 1 8500 100 8506			A Trash Can to Along Kalakaua Avenue
+O 1 8500 100 8509			A Trash Can to Along Kalakaua Avenue
+*
+M 1 8500 2 8500			A Japaneses Tourist to Along Kalakaua Avenue
+E 1 8503 100 16
+*
+M 1 8501 1 8503			A sneaky pickpocket to Along Kalakaua Avenue
+G 1 8502 100
+*
+M 1 8500 3 8505			A Japaneses Tourist to Along Kalakaua Avenue
+G 1 8501 100
+*
+M 1 8501 1 8508			A sneaky pickpocket to Along Kalakaua Avenue
+G 1 8502 100
+*
+M 1 8500 2 8510			A Japaneses Tourist to Along Kalakaua Avenue
+E 1 8503 100 16
+G 1 8501 100
+*
+M 1 8502 1 8516			A Bouncer to Front door of "The Wave"
+E 1 8504 100 17
+*
+M 1 8503 1 8516			A doorman to Front door of "The Wave"
+E 1 8505 100 17
+*
+O 1 8506 100 8518			A long bar to A bar inside The Wave
+*
+*
+M 1 8504 1 8518			A bartender to A bar inside The Wave
+G 1 8507 100
+G 1 8508 100
+G 1 8509 100
+G 1 8510 100
+O 1 8506 100 8518			A long bar to A bar inside The Wave
+*
+M 1 8502 1 8518			A Bouncer to A bar inside The Wave
+E 1 8504 100 17
+G 1 8505 100
+S
+
+
+#SPECIALS
+M  8501 spec_thief			A sneaky pickpocket
+M  8502 spec_guard			A Bouncer
+S
+
+
+#$

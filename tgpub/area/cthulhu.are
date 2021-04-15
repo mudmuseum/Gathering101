@@ -1,0 +1,2821 @@
+#AREA	Riel    Hall of Cthulhu~
+
+#MOBILES
+#32000
+Investigator~
+the Investigator~
+An Investigator stands here, scribbling furiously in his notebook.
+~
+A battered, half-sane man, wearing a trenchcoat and carrying a notebook
+is here researching the Old Ones. Not very bright, huh?
+~
+4|64 8|32 100 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32001
+reporter~
+the crazed reporter~
+A crazed Reporter leaps on you, biting and kicking.
+~
+This reporter has seen one beast too many, and can no longer separate
+fact from delusion. Better kill him and get it over with.
+~
+2|32|64 8|512 -200 S
+16 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32002
+byakhee~
+the foul Byakhee~
+The Byakhee snarls at you fiercely
+~
+The Byakhee glares back at you, anticipating another feast!
+~
+32|128 8|32|512|32768|524288 -300 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32003
+Deep one lizard~
+the Deep One~
+A lizardlike creature crawls out of the surf and shambles toward you
+~
+Child of the Sea, the Deep One's eyes hold no real intellect, only a
+desire to serve Cthulhu and bring about the return of the Old Ones.
+~
+4|64 2|8|32|512 -350 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32004
+aboleth~
+the mighty Aboleth~
+A great Aboleth, Ruler of the Sea, prepares to make you its slave!
+~
+A huge, fish-like beast rests here, secure in the knowledge that it
+can destroy all who oppose it.
+~
+2 2|128|512 -675 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32005
+gar~
+the gar~
+A huge gar rises from the waves!
+~
+You are about to be eaten by a giant fish. who has time to think about
+its aesthetics?
+~
+4 512|65536 0 S
+23 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32006
+great race pod~
+a podlike creature~
+A podlike member of the Great Race snaps great mandibles at you
+~
+A 10' tall, triangular base holds up the eyestalk and lobster-like
+tentacles of the creature, whose massive intellect is even now preparing
+to vivisect you.
+~
+2 8|32|512 -350 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32007
+Scientist pod~
+the Scientist ~
+The Scientist of the Great Race, is thinking of new experiments here.
+~
+You would probably survive the experimental treatment...c'mon,
+it'll only hurt a little.
+~
+2 8|32|128|512 -375 S
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32008
+woman debutante~
+the helpless debutante~
+A frail, crying woman, possibly even a debutante, who is desperate
+to get out
+~
+Poor sweet girl, half-batty from fright, and certain that you are
+just as dangerous as the Byakhee.
+~
+64|128 32768|65536 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32009
+Nyarlathotep~
+Nyarlathotep~
+The messenger of the Gods, Nyarlathotep, rests here.
+~
+A deeply shrouded man, covered in black wrappings, lies here awaiting
+Cthulhu's return.
+~
+32 2|8|32|128|32768|65536 -700 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32010
+fanatic warrior~
+A fanatic warrior~
+A fanatic warrior stands here, prepared to die in the service of Cthulhu
+~
+A screaming warrior charges you, ready to kill!
+~
+2|32 512 -250 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32011
+Carved Wolf~
+a Carved Wolf~
+A giant Wolf leaps forth from the carved walls!
+~
+Snarling and snapping at you, the Wolf circles, released from its
+imprisonment in order to wreak vengence on the one who dared enter
+the Sacred Chambers.
+~
+2|32 8|32|128|512 -700 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32012
+shoggoth amorphous~
+a Shoggoth~
+A bloblike mass of eyes, ears, tentacles and slime writhes toward you.
+~
+Dont look at it. Its better that way.
+~
+64 2|8 -850 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32013
+goat shub niggurath~
+Shub-Niggurath~
+You see a foul mass of jutting bodily parts, all heaving from one vast
+gelatinous body.
+~
+Shub-Niggurath breeds the creatures who are minions to the Old Ones,
+and they serve it until death.
+~
+2|32|64 8|32|128|512 -1000 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32014
+hunter souls shantak~
+a Hunter of Souls~
+The Shantak bares its ghoulish fangs at you
+~
+This foul abberation is another minion of the almighty Cthulhu.
+~
+32|64 0 -700 S
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32015
+flame creature amoeba~
+the Flame Amoeba~
+An amorphous creature made of flame and lava oozes by you.
+~
+A giant flaming amoeba comes toward you inquisitively. Are you food?
+~
+64|128 32|524288 -600 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32016
+Primordial one~
+the Primordial One~
+A tubular, hoary, tentacled creature awaits your next mistake
+~
+A superintelligent conical, tentacled mass eyes you with a long,
+tapered stalk.
+~
+64|128 32|524288 -750 S
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32017
+flame creature~
+a Flame Creature~
+A huge flame creature stands here, roaming the Infernal Seas.
+~
+A huge, amorphous form, vaguely humanoid, reaches toward you with
+a searingly hot hand.
+~
+64 1048576 -650 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32018
+flame champion~
+the Champion of Cthuga~
+A blazing pillar of flame swirls up out of the ocean towards you
+~
+The pillar has two bright eyes, which sneer hatred for all things weak
+and fleshly.
+~
+4|64 128|1048576 -850 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32019
+Cthuga~
+Cthuga~
+Cthuga reaches out with flaming tentacles to incinerate your soul!
+~
+Cthuga, Master of Flames, recoils from your glance in anger.
+~
+2|32 8|32|128|512 -900 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32020
+brass golem golems~
+the Brass Golem~
+Before you stands a figure of a Human, dressed in a flowing toga, wielding
+a spear.
+~
+A paragon of Mortal Beauty, this figure looks strangely out of place
+amid the horrors of this catacomb thus far. Their gaze is unwavering,
+dead and metallic as they stand poised beside the great brass door.
+~
+2 0 0 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32021
+flame elemental fire~
+the flame elemental~
+A humanoid fire elemental moves flickeringly toward you
+~
+The flame hurts your eyes to stare.
+~
+64 32768|65536 -700 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32022
+octopus~
+the octopus~
+The octopus
+~
+The octopus is a large, pink, eight-legged creature with bog eyes.
+It is very shy, and is attempting to flee from you as you look at it.
+~
+0 32768 0 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32023
+gibberling~
+the gibberling~
+A gibbering, drooling half-human beast rolls about in the feces here,
+laughing.
+~
+This beast-like thing is revolting. It has no vestiges of humanity
+left, and is nothing but a raving animal with a passion for blood and
+a really good recipe for dwarf a la mode.
+~
+32 128|8192 -300 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32024
+Firesteed horse~
+a Firesteed~
+A flaming horse with smoke for eyes rests here.
+~
+The Firesteed is Cthuga's pet. She is rumored to be the swiftes animal
+ever created, with the speed of flame over prarie grasses, and of smoke
+over an open wind.
+~
+4 8|32|32768 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32025
+vulture bird~
+the vulture~
+A vicious vulture circles here, awaiting a feast
+~
+The vulture is feathered, and has beady red eyes. It is thinking about
+how good you'd be a la carte...
+~
+4|64 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32026
+adamantium golem~
+the Adamantium Golem~
+A massive black statue stands forbodingly, red eyes glowing.
+~
+Created from living Adamantium, the Golem seems to have a barely restrained
+urge to destroy you. The legends say the Golems were ensouled with
+the spirits of those massacred in the war against the Old ones. They
+are supposed to protect against the return of Cthulhu.
+~
+2|64 8|32|128|512|524288 1000 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32027
+Cthulhu~
+UNHOLY CTHULHU~
+~
+Massive, and repulsive beyond the ken of mortals, your brain cannot
+assimilate all that is Cthulhu, Creator of worlds, Destroyer of souls.
+~
+2|64 8|32|128|512|524288 -100 S
+101 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32028
+flame spirit~
+a Spirit of Flame~
+A Spirit of Flame dances seductively here.
+~
+Boy, are you getting Hot!
+~
+2 2|128 -100 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32029
+fanatic sergeant~
+a fanatic sergeant~
+The sergeant of the fanatic men.
+~
+The leader of the men here, the sergeant has a ruthless gleam in his
+eye and a crazed chortling laugh.
+~
+2|32|64 512 -250 S
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32030
+Galthea law sigil captain~
+the Captain of the Legion~
+Galthea, Captain of the Legions of Law, is awaiting your next move.
+~
+Galthea stands, resplendant in fine blue platemail, and patiently
+awaits your move. Her eyes are kind, and sad, as if she realizes that
+you are here to kill or be killed, and she has no joy in it.
+~
+2|64|128 8|32|128|8192 1000 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32031
+rogan daggersblade~
+Rogan Daggersblade~
+Rogan Daggersblade is sneering at your petty victories
+~
+Rogan is a well-built man, thin and muscular, with iceblue eyes and
+reddish hair. His hands stray toward the hilt of his sword, and he seems
+eager to kill you.
+~
+2|64|128 2|8|32|128 -1000 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+#OBJECTS
+#32000
+Notebook~
+a notebook~
+A notebook covered in scribbles lies here on the ground.~
+~
+2 64 1|16384
+15 3 61 61
+1 0 0
+E
+scribbles writing~
+This notebook is covered in the ravings of a lunatic...nearly undecipherable.
+~
+#32001
+Pencil~
+a pencil~
+A very sharp pencil lies here.~
+~
+5 1|64 1|8192|16384
+15 1 6 11
+1 0 0
+A
+3 2
+#32002
+bed rags~
+a bed of rags~
+A dirty filthy, lice-ridden bundle of rags is here.~
+~
+15 0 0
+15 0 -1 0
+5 0 0
+E
+~
+~
+#32003
+plaid potion~
+a vibrant plaid potion~
+A bright, clashingly plaid potion rests here.~
+~
+10 1 1|16384
+0 3 29 39
+5 0 0
+#32004
+bat wings~
+bat wings~
+A pair of wings, ripped from a Byakhee, bleed grossly here.~
+~
+28 16|512|32768 1|256
+18 0 18 0
+5 0 0
+E
+~
+~
+#32005
+potion mauve~
+a mauve potion~
+A mauve potion lies here invitingly~
+~
+10 0 1|16384
+18 35 35 14
+1 0 0
+#32006
+Elder sign~
+an Elder Sign~
+An elder sign, wrought of an unknown metal, lies here.~
+~
+18 1|1024 1|16384
+0 1 6 11
+1 0 0
+#32007
+tube lipstick~
+a tube of lipstick~
+A tube of lipstick called "Mad For You Red" lies here. ~
+~
+3 64 1|16384
+17 15 15 70
+1 0 0
+#32008
+lobster claw~
+a fierce claw~
+The claw of some giant Lobster-like beast seeps out fluids here~
+~
+5 16|512 1|8192
+22 15 35 5
+2 0 0
+A
+18 4
+A
+17 5
+#32009
+vivisect knife~
+a vivisection Knife~
+A wicked blade, fit to vivisect someone lies here~
+~
+5 16|512|2048 1|8192
+0 1 6 11
+1 0 0
+A
+19 10
+A
+5 3
+#32010
+eyeball~
+a giant gelatinous eyeball~
+A gelatinous eyeball sits here~
+~
+9 1 1|16
+0 1 6 11
+3 0 0
+#32011
+book Eibon~
+the book of Eibon~
+The legendary Book of Eibon awaits you here~
+~
+2 64 1|8192|16384
+24 83 7 83
+1 0 0
+#32012
+skirt~
+a short skirt~
+A miniskirt, covered in dirt, lies forgotten here~
+~
+9 2 1|32
+12 0 12 0
+2 0 0
+A
+5 3
+#32013
+wooden shoe~
+a wooden shoe~
+A wooden shoe lies here~
+~
+15 262144|524288 1
+1000 0 0 1
+6 500 0
+#32014
+Broken sword~
+a broken sword~
+A sword, broken in battle, lies here uselessly~
+~
+18 64|4096 1|8192
+0 1 6 11
+2 0 0
+A
+18 2
+A
+19 4
+#32015
+Altar~
+an altar~
+Before you is an Altar to the Old Gods.~
+~
+12 16 0
+0 1 6 11
+100 0 0
+#32016
+obsidian chalice~
+an Obsidian Chalice~
+An Obsidian Chalice stands here, filled with some dark liquid~
+~
+10 0 1|16384
+30 33 27 27
+5 0 0
+#32017
+jet ring~
+a jet ring~
+A thick jet ring lies here~
+~
+9 16 1|2
+14 0 14 0
+5 0 0
+A
+1 0
+#32018
+moss~
+a glop of sticky, damp moss~
+Some moss has been scraped from a cave wall and left here.~
+~
+26 4096 1|16384
+0 64 -1 -1
+5 0 0
+#32019
+scales fish aboleth~
+a cloak of shimmering scales~
+A iridescent cloak, made of giant fishlike scales, remains here.
+~
+~
+9 64 1|4
+15 0 15 0
+5 0 0
+A
+18 2
+A
+19 2
+#32020
+shield tailfin~
+a tailfin~
+The huge tailfin of some gigantic fish lies here.~
+~
+9 0 1|512
+15 0 15 0
+5 0 0
+A
+1 2
+A
+17 10
+A
+17 0
+#32021
+dagger broken hilt~
+the broken hilt of a dagger~
+A broken dagger lies here, rusted and decrepit.~
+~
+13 0 1|16384
+0 1 6 11
+5 0 0
+#32022
+black fountain water~
+a fountain of ebony water ~
+A glowing fountain of black water bubbles here~
+~
+25 1 0
+0 1 6 11
+5 0 0
+#32023
+fragments manuscript~
+the Celiano Fragments~
+The pieces of a manuscript, frail and fragmentary, are turning to
+dust at your feet.~
+~
+2 64 1|8192
+0 15 15 74
+1 0 0
+#32024
+tentacle ~
+tentacle of Shub-Niggurath~
+A long tentacle lies here~
+~
+5 64|128|4096 1|8192
+0 15 40 4
+5 0 0
+A
+1 -4
+A
+13 -45
+#32025
+eyestalk~
+a glowing eyestalk~
+A glowing eyestalk writhes on the ground~
+~
+1 1|512 1|16384
+0 1 6 11
+5 0 0
+A
+13 35
+A
+12 100
+#32026
+fire pillar orb~
+the Orb of the South~
+A small fire burns here.~
+~
+1 1|4096 1|16384
+0 1 10000000 11
+5 0 0
+A
+23 -3
+A
+1 3
+#32027
+flaming potion~
+a bottle of fire~
+A clear bottle, containing a small dancing flame, is rolling about
+here.~
+~
+10 1 1|8192
+35 1 1 67
+5 0 0
+#32028
+tooth fang~
+a massive fang~
+A massive fang, toothy and white, lies here~
+~
+18 1 1|16384
+0 1 6 11
+5 0 0
+#32029
+flame horn fire~
+the Horn of Fire~
+A great brass horn burns here.~
+~
+3 1 1|16384
+42 15 15 26
+5 0 0
+#32030
+potion cloudy inky~
+a cloudy, inky, potion~
+A cloudy potion of octopus ink lies here.~
+~
+10 0 1|16384
+21 61 4 -1
+5 0 0
+#32031
+breastplate runed blue~
+a blue, rusted breastplate~
+A rusty blue breastplate with the inscription of the Sigil Legion
+lies here~
+~
+9 64|1024 1|8
+10 10 16 21
+4 0 0
+#32032
+belt black~
+a black leather strap~
+A black strap lies here, waiting to be put around your waist.~
+~
+9 128 1|2048
+0 1 6 11
+5 0 0
+A
+1 5
+#32033
+shit feces potion dung~
+a piece of dung~
+A pile of steaming dung stinks up the room.~
+~
+10 128|4096 1|16384
+0 66 39 29
+1 0 0
+E
+when-eaten~
+chat Ewwww....I just ate dung!~
+#32034
+claw~
+the claw of a gibberling~
+A dirty, filthy half-human hand flops about on the ground here.~
+~
+5 16|4096 1|8192
+15 15 35 5
+5 0 0
+A
+18 0
+#32035
+golden katana sunblade~
+the Sunblade~
+Gleaming with the light of the sun, here rests a magnificent katana
+made of solid gold.~
+~
+5 1|1024 1|8192
+0 55 100 1
+2 0 0
+A
+18 20
+A
+13 25
+E
+sunblade~
+The Sunblade is a beautiful weapon of delicacy and style, made for
+the finest warrior in all the realm. It bears carvings depicting the love
+of a fair young maiden for a brave Japanese samurai. She was half-kami,
+and when she died in a tragic accident, her soul fled to his sword that she might
+be forever with him. Although they have long since been reunited, his
+legendary sword remains blessed with her love.~
+E
+pommel hilt~
+Carved into the pommel of the Sunblade is a small white crescent, from
+which a silver drop is falling.~
+E
+when-gotten~
+tell $ I am the sunblade. Type "look sunblade". ~
+#32036
+Firebrand sword coal~
+a sword-like glowing coal~
+The Firebrand, Cthuga's sword, lies here and burns a hole in the ground.~
+~
+5 16|512|2048 1|8192
+45 20 35 11
+5 0 0
+A
+12 100
+A
+5 5
+#32037
+feather magic black~
+a black feather~
+A huge jet-black feather shines here~
+~
+9 16 1|16
+0 10 15 11
+5 0 0
+A
+14 50
+A
+18 3
+#32038
+brass torc~
+an ornate brass torc~
+There is a magnificent brass and jade torc twinkling here.~
+~
+9 1|1024 1|4
+0 1 6 11
+5 0 0
+A
+24 0
+#32039
+gloves brass ~
+a pair of gleaming brass gloves~
+A pair of gloves made entirlely of brass.~
+~
+9 0 1|128
+0 1 6 11
+5 0 0
+A
+1 0
+#32040
+mirrored key~
+a mirrored key~
+A shiny. mirrorlike key gleams here, waiting to fulfil your dreams.
+. . ~
+~
+18 1|64 1|16384
+0 1 6 11
+5 0 0
+#32041
+key white orb east~
+the Orb of the East~
+A shining orb of pale white light radiates goodness and peace.~
+~
+18 1|1024|2048 1|16384
+0 1 6 11
+5 0 0
+A
+17 -200
+#32042
+Orb west water~
+the Orb of the West~
+A faintly luminescent ball of water lies here.~
+~
+10 1 1|16384
+0 28 28 36
+5 0 0
+#32043
+orb north stone~
+the Orb of the North~
+A black stone orb lies here gloomily.~
+~
+3 1 1|8192
+30 15 15 39
+5 0 0
+A
+18 20
+#32044
+naginata black soulbiter~
+Soulbiter~
+A naginata lies here, its blade blacker than the soul of Satan.~
+~
+5 128|4096 1|8192
+50 55 100 4
+5 0 0
+A
+19 75
+A
+17 -200
+E
+blade~
+The blade of Soulbiter is made of a metal which no mortal can create.
+~
+E
+handle ~
+Carved delicately into the long pole of Soulbiter is a small white
+chessrook.~
+#32045
+sword good law defender archanes~
+the Sword of Law~
+Here lies a sword made of a strange blue metal, its blade inscripted
+with a series of runes.~
+~
+5 128|4096 1|8192
+50 55 100 3
+5 0 0
+A
+3 2
+A
+17 5
+A
+12 25
+E
+runes rune blade~
+Behold, Archanes, Sword of the Champion of Law and Defender of Justice
+and Peace. Wield me in the not for evil's cause, but remain true to peace
+and laws.~
+E
+when-gotten~
+tell $ Together we shall fight evil's ways, and I shall serve you all
+your days!~
+#32046
+sword evil chaos slayer ilhoun~
+the Sword of Chaos~
+On the floor rests a thin sword forged of reddish ore, its blade covered
+in bizarre runic writing.~
+~
+5 128|4096 1|8192
+50 55 100 13
+5 0 0
+A
+1 3
+A
+17 7
+E
+runes rune blade~
+Witness, mortal, the Sword of Chaos, Ilhoun the Slayer of Souls! In
+your hand I'll havok make, unless in folly you evil forsake.~
+E
+when-gotten~
+tell $ Seek evil ways and evil's ends, and for evil's sake I shall you
+befriend!~
+#32047
+key bronze flaming~
+A flaming bronze key~
+A flaming key, made entirely of bronze, lies here.~
+~
+18 32|512 1|16384
+0 1 6 11
+1 0 0
+#0
+#ROOMS
+#32000
+The Dark Passage~
+This room is carved of granite, covered in carvings of humanoid figures.
+On one wall, there is a plaque. The entire western wall is a wide flight
+of stairs leading down. Covering the floor is a gigantic sigil, inscripted
+in runes.
+~
+0 1|4|8 0
+D4
+~
+~
+0 -1 22149
+D5
+~
+~
+0 -1 32001
+E
+Plaque~
+Behold the final resting place of the Old Gods. Wake them not, lest
+you incur their wrath and unleash them again upon the world.
+-The Guards of the Sigil Legion~
+E
+rune runes inscription~
+The Hall of Cthulhu, lovingly crafted by His Champion, Riel Malefactore,
+Bane of the Sigil Legion, with acknowledgements to H.P. Lovecraft,
+and some deviations. (c)1995.~
+S
+#32001
+The Grand Hallway~
+These stairs are twelve feet wide, and sporadically covered in some
+form of black moss. The carvings on the walls flicker in your light.
+at the bottom of the stairs, the passage goes west and east.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32003
+D3
+~
+~
+0 -1 32002
+D4
+~
+~
+0 -1 32000
+S
+#32002
+Carved Hallway~
+This hallway is etched in carved faces and figures. Your light reflects
+off the damp moss, causing the faces to flicker and move eerily.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32001
+D3
+~
+~
+1 -1 32004
+S
+#32003
+Carved Hallway~
+This hallway is etched in carved faces and figures. Your light reflects
+off the damp moss, causing the faces to flicker and move eerily. The
+hallway goes west and east.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32005
+D3
+~
+~
+0 -1 32001
+S
+#32004
+Mural Chamber~
+The carvings in this room seem to depict a story of some sort. The moss
+here could be brushed away easily, if you choose. In one corner is a
+filthy pile of rags, which seems to have been used as a bed.
+~
+0 1|8 0
+D1
+~
+~
+1 -1 32002
+E
+mural murals carvings~
+This mural seems to depict the ancient race of gods called the Old Ones,
+their evil ways, and their near destruction of the world. Eventually,
+it seems, they were imprisoned...here. The leader of the Old gods
+was called...Cthulhu.~
+S
+#32005
+Twist in the corridor~
+The corridor twists to the south here, and the faces seem much more...grotesque.
+Must be the flicker of your light over the damp moss..or perhaps the
+water glistening..but did that mouth..Move?
+~
+0 1|8 0
+D2
+~
+~
+0 -1 32006
+D3
+~
+~
+0 -1 32003
+S
+#32006
+Another creepy hallway~
+The mouths on the wall seem more violent, and the eyes look like they
+resent the moss which gags their tongues into the stone. There is a
+foul stench coming from the south, and fresh air
+from the north.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32005
+D2
+~
+~
+0 -1 32007
+S
+#32007
+Lair of the Byakhee~
+This room was probably once covered in carvings too, but the feces
+smeared all over the walls prohibit you from discerning them. There
+are several small bits of flesh rotting here and there, too.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32006
+D2
+~
+~
+0 -1 32008
+S
+#32008
+Grotesque Crossing~
+The moss on the walls seems more viscous here, and the carvings are
+definately getting weirder. You can actually see the mouths attempting
+to break their stony silence, straining against the gag of the moss,
+eyes following you with hate.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32007
+D1
+~
+~
+0 -1 32031
+D2
+~
+~
+0 -1 32024
+D3
+~
+~
+0 -1 32009
+S
+#32009
+Whispering Hall~
+The sound of faint rustling echoes through this dark, misbegotten
+hall, and you slip slightly on the dank, wet moss covering the chiseled
+floor beneath you.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32008
+D3
+~
+~
+0 -1 32010
+S
+#32010
+Watery rooms~
+You hear the whispering getting louder, and the air grows more damp.
+Ahead of you, you hear water. There is a crude carving on the wall here.
+~
+0 1|4|8 0
+D1
+~
+~
+0 -1 32009
+D3
+~
+~
+0 -1 32011
+E
+carving words plaque wall~
+The picture seems to depict a giant, fish-like creature surrounded
+by hundreds of worshippers. Hmm...maybe you ought to be around level
+20 to go in here.~
+S
+#32011
+Central beach~
+You have reached a great beach, hemmed in on three sides by rock. Directly
+ahead of you the water laps gently against the shore, enticing you
+to enter...The beach reaches to the north and south.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32012
+D1
+~
+~
+0 -1 32010
+D2
+~
+~
+0 -1 32013
+D3
+~
+~
+0 -1 32015
+S
+#32012
+North beach~
+The sand reaches a rock face here and you can go no further. You see a
+message scrawled in the sand at your feet.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 32011
+D3
+~
+~
+0 -1 32017
+E
+sand writing~
+Beware the aboleth...~
+S
+#32013
+South beach~
+The beach approaches a rock face here, and goes no further.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32011
+D3
+~
+~
+0 -1 32014
+S
+#32014
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32015
+D1
+~
+~
+0 -1 32013
+D3
+~
+~
+0 -1 32016
+S
+#32015
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32017
+D1
+~
+~
+0 -1 32011
+D2
+~
+~
+0 -1 32014
+D3
+~
+~
+0 -1 32018
+S
+#32016
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32018
+D1
+~
+~
+0 -1 32014
+D3
+~
+~
+0 -1 32020
+S
+#32017
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D1
+~
+~
+0 -1 32012
+D2
+~
+~
+0 -1 32015
+D3
+~
+~
+0 -1 32019
+S
+#32018
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32019
+D1
+~
+~
+0 -1 32015
+D2
+~
+~
+0 -1 32016
+D3
+~
+~
+0 -1 32021
+S
+#32019
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D1
+~
+~
+0 -1 32017
+D2
+~
+~
+0 -1 32018
+D3
+~
+~
+0 -1 32022
+S
+#32020
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32021
+D1
+~
+~
+0 -1 32016
+S
+#32021
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 32022
+D1
+~
+~
+0 -1 32018
+D2
+~
+~
+0 -1 32020
+D3
+~
+~
+0 -1 32023
+S
+#32022
+Underground ocean~
+The ocean stretches out before you, darkly.
+~
+0 1|8 7
+D1
+~
+~
+0 -1 32019
+D2
+~
+~
+0 -1 32021
+S
+#32023
+The Aboleth's Lair~
+The ground under your feet is strewn with the victims of the aboleth.
+Bones crunch beneath your feet as you walk here.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 32021
+S
+#32024
+Gibbering hall~
+The faces on the wall are beconing more active, and faint undefinable
+noises are beginning to come from some of them. The whole thing is creepy,
+and you move through rapidly, certain now that the eyes are watching
+you.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32008
+D2
+~
+~
+0 -1 32025
+S
+#32025
+Turn in the hall~
+The hallway takes a sharp turn to the west here, and the faces are becoming
+more frightened and angry looking. The gibbering is becoming louder,
+although it is still a mass of unrecognizable noise.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32024
+D3
+~
+~
+0 -1 32026
+S
+#32026
+Glowing hallway~
+The hallway you are standing in is faintly lit by something ahead.
+~
+0 8 0
+D1
+~
+~
+0 -1 32025
+D3
+~
+~
+0 -1 32027
+S
+#32027
+Sigil Chamber~
+The carvings on the walls of the room are screaming softly in anguished
+voices here, babbling, raving, and cursing you. the South wall is
+fully covered by another glowing Sigil, similar to the one in th
+room.
+~
+0 8 0
+D1
+~
+~
+0 -1 32026
+D2
+~
+sigil ~
+2 32006 32028
+D3
+~
+~
+0 -1 32029
+S
+#32028
+Southern Stairs~
+The room is a massive flight of stairs, leading down into darkness.
+There is a small runed carving on the floor here.
+~
+0 1|8 0
+D0
+~
+~
+2 32006 32027
+D5
+~
+~
+0 -1 32039
+E
+rune runes floor carving~
+The carvings speak in an old language, related somewhat to Elven.
+They speak of the tragedies and woes of the people who have fought and
+died here, and the terrible deaths which await any below level 30 who
+continue below.~
+S
+#32029
+Glowing hall~
+The hallway you are in is still lit from behind by the great sigil, but
+to the west you hear the noise of a laboratory.
+~
+0 8 0
+D1
+~
+~
+0 -1 32027
+D3
+~
+~
+0 -1 32030
+S
+#32030
+The laboratory of the Great Race~
+The room you are in seems to be a laboratory for the Podlike creatures..and
+their latest test subject is about to be you! There is a table in the
+corner, and a scientist about to lie you on it.
+~
+0 1|4|8 0
+D1
+~
+~
+0 -1 32029
+S
+#32031
+Darker hall~
+This hallway seems more frequented by the Byakhee, and you see their
+leavings everywhere.
+There is a once beautifully colored mosaic on the wall beside you.
+~
+0 1|4|8 0
+D1
+~
+~
+0 -1 32032
+D3
+~
+~
+0 -1 32008
+E
+mosaic wall~
+The mosaic shows people of less than level 20 being eaten by...Oh,
+its too awful to mention. Nevermind.~
+S
+#32032
+Drooling hallway~
+The mouths of the carvings are drooling a slime onto the floor, and
+it makes it very hard to walk, for fear of slipping. The eyes roll, and
+the figures on the wall dance to unheard music.
+The hallway continues west.
+~
+0 8 0
+D1
+~
+~
+0 -1 32033
+D3
+~
+~
+0 -1 32031
+S
+#32033
+T-intersection~
+The corridor heads both north and south, as well as back west from here.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 32035
+D2
+~
+~
+0 -1 32034
+D3
+~
+~
+0 -1 32032
+S
+#32034
+Sleeping carvings~
+The carvings here are done in sleeping poses, and do not move nor make
+sounds. There is a huge Sigil to the south, glowing and covering the
+wall. In the center of it is a sword-slot.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 32033
+D2
+~
+~
+1 32014 32036
+E
+slot center sigil ~
+The slot is about the size for a sword to be inserted. However, your
+sword does not fit the slot. ~
+S
+#32035
+Carved hallway~
+The figures on the wall seem to writhe in an attempt to dislodge themselves
+and come toward you. They're faces grimace in unholy hunger, and they
+whisper softly and unintelligably to you. There is a door to the west.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 32033
+D3
+~
+~
+1 -1 32038
+S
+#32036
+The Chamber of Nyarlathotep ~
+This room is the sleeping place of Nyarlathotep, messenger of the
+Old Gods. The ceiling is held up by large columns of jet, and there is
+a jet-black coffin to the east side of the room.
+~
+0 1|8 0
+D0
+~
+~
+1 -1 32034
+D1
+~
+~
+1 -1 32037
+E
+coffin lid black jet~
+This coffin is blacker than night, with a sheen of metal within it.
+It seems to absorb the light around it, and you cannot see your reflection
+in its glossy sides. ~
+S
+#32037
+Coffin of Nylarthotep~
+This is the coffin of Nyarlathotep, where he has been condemned to
+await the time when he will again rise to do Cthulhu's bidding.
+~
+0 1|8 0
+D3
+~
+~
+1 -1 32036
+S
+#32038
+Altar Room~
+This is a room which is used for ceremonies to the Old Gods. In the center
+is an altar, covered in strange runic writing, and on the altar is an
+Obsidian Chalice.
+~
+0 1|4|8 0
+D1
+~
+~
+1 -1 32035
+S
+#32039
+Darker Stariwell~
+The stairs descend into darkness. Lying here, against the walls,
+is the remains of an old skeleton. On the wall, there is a faint scratching.
+~
+0 1|8|2048 0
+D4
+~
+~
+0 -1 32028
+D5
+~
+~
+0 -1 32040
+E
+writings scratchings writing scratching wall~
+Scratched into the wall here is the cryptic message:
+Victory to the bold
+Courage to the strong
+Retreat to the wise.
+~
+S
+#32040
+Shrieking Walls~
+A wretched HOWL assaults your ears, as the walls around you erupt into
+a cacophony of shrieks, yells, screams and gibbering. The carvings
+writhe tremendously under your light, and the eyes stare at you in
+pure hatred.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 32085
+D1
+~
+~
+0 -1 32043
+D2
+~
+~
+0 -1 32042
+D3
+~
+~
+0 -1 32041
+D4
+~
+~
+0 -1 32039
+S
+#32041
+A corridor~
+This corridor is also covered in the shrieking carvings. No way you're
+sneaking up on anything here...
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32040
+D3
+~
+~
+0 -1 32046
+S
+#32042
+A corridor~
+The walls here continue to howl their hatred of all things living,
+and the noise echoes from what appears to be a larger chamber to the
+south. On one wall is a blood-smeared message.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 32040
+D2
+~
+~
+0 -1 32045
+E
+blood message wall carving~
+The blood appears human,and very old. The message, when you can make
+enough of it out to make sense of it, says, "Woe to me, for I continued
+south despite my level having not advanced to 40...Gods have mercy
+on my soul.."~
+S
+#32043
+A corridor~
+The carvings here seem to be gaining even more life, fingers reaching
+out and plucking at your clothing. The mouths drool absently in rage
+and frustration.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32044
+D3
+~
+~
+0 -1 32040
+S
+#32044
+Lower Mural Room~
+A larger chamber which has been intricately, and realistically carved
+awaits you here. So do its Guardians.
+~
+0 1|8 0
+D1
+The mural here seems slightly cracked..it might be movable, if you
+push...~
+~
+0 -1 32093
+D3
+~
+~
+0 -1 32043
+E
+mural carvings carving wall~
+The walls seem to move with the vividness and realism of the carvings.
+There are cities, beautiful lands of green and flowers of all hues.
+Above them all is a semi-humanoid creature composed mostly of brain
+area. It seems to be creating all the things you
+see. ~
+S
+#32045
+Lake of Fire~
+Before you stretches a vast lake of burning lava, so hot that it scalds
+any uncovered flesh. In the middle of the lake rises a tower of gleaming
+Steel. But how do you get to it?
+~
+0 8 1
+D0
+~
+~
+0 -1 32042
+D1
+~
+~
+0 -1 32061
+D2
+~
+~
+0 -1 32063
+D3
+~
+~
+0 -1 32060
+S
+#32046
+Shattered Sigil Room~
+Before you is the remains of a shattered wall, which once may have had
+a glowing sigil on it.
+Lying in the remains, on the floor, is a broken greenish-grey rock.
+There is a great mountain to the west..across a huge plain.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 32041
+D3
+~
+~
+0 -1 32047
+E
+rock elder ward~
+This elder sign, once filled with powerful magic to hold the Old ones
+here at bay, now lies broken in two at your feet, its magic gone. ~
+S
+#32047
+Dimensional Passing~
+BOY do you feel sick...Just passing through the rift made your stomach
+writhe. You must have crossed dimensions...to the lands of the Old
+Ones...where no one survives.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32048
+D1
+~
+~
+0 -1 32046
+D2
+~
+~
+0 -1 32049
+D3
+~
+~
+0 -1 32050
+S
+#32048
+Plains of Contempt~
+The world around you feels sickly, and you feel that your passing here
+is unwanted. The mountain looms to the west, like a dark blot on even
+the foulest of horizons.
+~
+0 1|8|8192 2
+D2
+~
+~
+0 -1 32047
+S
+#32049
+Plains of Contempt~
+The world around you feels sickly, and you feel that your passing here
+is unwanted. The mountain looms to the west, like a dark blot on even
+the foulest of horizons.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32047
+S
+#32050
+Toward the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+grows closer.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32052
+D1
+~
+~
+0 -1 32047
+D2
+~
+~
+0 -1 32051
+D3
+~
+~
+0 -1 32054
+S
+#32051
+Toward the Mountain~
+The high grass rips at you as you walk through it. The mountain grows
+closer.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32050
+D3
+~
+~
+0 -1 32055
+S
+#32052
+Toward the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+looms ever closer.
+~
+0 1|8|8192 2
+D2
+~
+~
+0 -1 32050
+D3
+~
+~
+0 -1 32053
+S
+#32053
+Toward the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+looms ever closer.
+~
+0 1|8|8192 2
+D1
+~
+~
+0 -1 32052
+D2
+~
+~
+0 -1 32054
+S
+#32054
+Toward the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+looms to the west.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32053
+D1
+~
+~
+0 -1 32050
+D2
+~
+~
+0 -1 32055
+D3
+~
+~
+0 -1 32057
+S
+#32055
+Towards the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+looms ever closer.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32054
+D1
+~
+~
+0 -1 32051
+D2
+~
+~
+0 -1 32056
+S
+#32056
+Towards the Mountain~
+The high grass rips at your legs as you walk through it. The mountain
+looms ever closer.
+~
+0 1|8|8192 2
+D0
+~
+~
+0 -1 32055
+S
+#32057
+Mount Voormithadreth~
+The peak of the mountain is far above you. From within, you hear a faint
+rumbling, of some vast creature moving. There is a cave mouth to the
+north.
+~
+0 1|8|8192 5
+D0
+~
+~
+0 -1 32058
+D1
+~
+~
+0 -1 32054
+S
+#32058
+Cave in Voormithadreth~
+There is a faint light at the end of the cave, phosphorescent and weak.
+The smell here is hellish, and the floor shakes occasionally.
+~
+0 1|4|8|8192 5
+D0
+~
+~
+0 -1 32059
+D2
+~
+~
+0 -1 32057
+S
+#32059
+Lair of Shub-Niggurath~
+This vast cave is the home of Shub-Niggurath, the "Goat-with-a-thousand-young".
+Even as you look, disgusting creatures are crawling out of the pit
+in the center. In the pit, lies the huge gelatinous body of Shub-Niggurath
+himself.
+~
+0 1|8|8192 5
+D2
+~
+~
+0 -1 32058
+S
+#32060
+Black Shore~
+This black, sandy shore is on the edge of the Sea of Fire. The lava to
+your south bubbles and writhes, and you can see vague flaming shapes
+traversing the lake toward the gleaming tower.
+~
+0 8 0
+D1
+~
+~
+0 -1 32045
+D2
+~
+~
+0 -1 32064
+S
+#32061
+Black Shore~
+This black, sandy shore is on the edge of the Sea of Fire. The lava to
+your south bubbles and writhes, and you can see vague flaming shapes
+traversing the lake between you and the gleaming tower.
+~
+0 8 1
+D2
+~
+~
+0 -1 32062
+D3
+~
+~
+0 -1 32045
+S
+#32062
+The Infernal Sea~
+This ocean of flames encompasses an area so large you cannot see its
+end.
+~
+0 8 12
+D0
+~
+~
+0 -1 32061
+D2
+~
+~
+0 -1 32067
+D3
+~
+~
+0 -1 32063
+S
+#32063
+The Infernal Sea~
+The ocean of flames encompasses an area so large you cannot see its
+end.
+~
+0 8 12
+D0
+~
+~
+0 -1 32045
+D1
+~
+~
+0 -1 32062
+D2
+~
+~
+0 -1 32066
+D3
+~
+~
+0 -1 32064
+S
+#32064
+The Infernal Sea~
+The ocean of flames encompasses an area so large you cannot see its
+end.
+~
+0 8 12
+D0
+~
+~
+0 -1 32060
+D1
+~
+~
+0 -1 32063
+D2
+~
+~
+0 -1 32065
+S
+#32065
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sign of
+shore.
+~
+0 8 12
+D1
+~
+~
+0 -1 32066
+D2
+~
+~
+0 -1 32068
+S
+#32066
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sign of
+shore.
+~
+0 8 12
+D1
+~
+~
+0 -1 32067
+D2
+~
+~
+0 -1 32069
+D3
+~
+~
+0 -1 32065
+S
+#32067
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sign of
+shore.
+~
+0 8 12
+D2
+~
+~
+0 -1 32070
+D3
+~
+~
+0 -1 32066
+S
+#32068
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sign of
+shore.
+~
+0 8 12
+D0
+~
+~
+0 -1 32065
+D1
+~
+~
+0 -1 32069
+D2
+~
+~
+0 -1 32071
+S
+#32069
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sight of
+shore.
+~
+0 8 12
+D0
+~
+~
+0 -1 32066
+D1
+~
+~
+0 -1 32070
+D3
+~
+~
+0 -1 32068
+S
+#32070
+Deep into the Infernal Sea~
+The flames threaten to burn you alive, and you have lost all sign of
+shore.
+~
+0 8 12
+D0
+~
+~
+0 -1 32067
+D3
+~
+~
+0 -1 32069
+S
+#32071
+Dark Shore~
+This shore still burns with residual flames, cracking around your
+feet. To the west is a road leading to the Steel Tower.
+~
+0 8 12
+D0
+~
+~
+0 -1 32068
+D3
+~
+~
+0 -1 32072
+S
+#32072
+Road of Skulls~
+Both sides of this gruesome lane are resplendnt with towering pillars
+made of mortal skulls. The skulls seem fused by the great heat of the
+place into one solid pillar. Ahead of you is the tower.
+~
+0 8 12
+D1
+~
+~
+0 -1 32071
+D3
+~
+~
+0 -1 32073
+D5
+The rocks on one side of the path seem somehow placed there, as if they
+had been put to cover an entrance of some sort.~
+~
+0 -1 32094
+S
+#32073
+Door to the Tower~
+To the south is the door to the tower, comprised of one massive skull.
+If you look closely, something is inscribed on its forehead.
+~
+0 8 12
+D1
+~
+~
+0 -1 32072
+D2
+~
+door skull~
+1 32028 32074
+E
+skull inscription writing~
+Behold all ye unworthy and wretched souls this, the Grand Palace of
+Cthuga, Master of Fire. ~
+S
+#32074
+Inner Chambers~
+The inner room is covered in bizarre, runelike writing, similar to
+that of the hallways earlier, but with no discernable beings. Most
+of the runes depict great conflagurations and disasters.
+~
+0 8|8192 12
+D0
+~
+~
+1 32028 32073
+D1
+~
+~
+0 -1 32076
+D2
+~
+~
+0 -1 32080
+D3
+~
+~
+0 -1 32075
+D5
+~
+~
+0 -1 32083
+S
+#32075
+Chamber of Flame~
+The room is full of fire. Shapes move about, reaching for you with burning
+hands...
+~
+0 2048 12
+D1
+~
+~
+0 -1 32074
+D2
+~
+~
+0 -1 32076
+S
+#32076
+Chamber of Flame~
+Bizarre forms writhe in the flames surrounding you, like lovers entwined
+in passion.
+~
+0 0 12
+D0
+~
+~
+0 -1 32075
+D1
+~
+~
+0 -1 32080
+D2
+~
+~
+0 -1 32077
+S
+#32077
+Chamber of Flame~
+The fire leaps and twirls, whipping you with the intensity of the heat.
+~
+0 0 12
+D0
+~
+~
+0 0 32076
+D5
+~
+~
+0 -1 32078
+S
+#32078
+Chamber of Flames~
+The flames obscure your vision, and blind you with brightness.
+~
+0 0 12
+D4
+~
+~
+0 -1 32077
+D1
+~
+~
+0 -1 32079
+S
+#32079
+Chamber of Flames~
+Heat nearly suffocates you,making it difficult to breathe.
+~
+0 0 12
+D3
+~
+~
+0 -1 32078
+D1
+~
+~
+0 -1 32081
+D2
+~
+~
+0 -1 32082
+S
+#32080
+Chamber of Flames~
+The fierce heat incinerates the fine hairs on your arms and face, and
+scalds your lungs.
+~
+0 8 12
+D0
+~
+~
+0 -1 32074
+D3
+~
+~
+0 -1 32076
+S
+#32081
+Throne Room of Cthuga~
+This room serves only to house a massive throne, and upon it sits Cthuga,
+God of Flames. His huge, amoebic tentacles reach out to burn your soul!
+~
+0 8192 12
+D3
+~
+~
+0 -1 32079
+S
+#32082
+Chamber of Flames~
+The sheer heat of the area is beginning to make you feel nauseous and
+giddy...You cant take this much longer..
+~
+0 0 12
+D0
+~
+~
+0 -1 32079
+S
+#32083
+Brass Chamber~
+This chamber is made entirely of brass, the walls, floors, and ceiling
+all made of solid brass. To the south, there is a giant brass double
+door, and on either side of it is a brass golem.
+~
+0 0 12
+D4
+~
+~
+0 -1 32074
+D5
+~
+~
+2 -1 32084
+S
+#32084
+Cthuga's Treasure Trove~
+This room is filled with gold...GOLD!
+More than you could possibly carry....And on a pedestal in the center...A
+katana of unearthly beauty and sharpness.
+~
+0 0 12
+D4
+~
+~
+2 -1 32083
+S
+#32085
+Black corridor~
+The walls here are covered in carvings as well, but they all seem sickly
+and diseased. They hardly move, do not howl, and seem not to notice
+you. Once in a while, they emit a slight whimper o groan of pain.
+~
+0 0 0
+D2
+~
+~
+0 -1 32040
+D5
+~
+~
+1 -1 32086
+S
+#32086
+Reflection chambers~
+The room around you is gleaming with mica and other reflective metals,
+distorting your shape and appearance as if you were in a funhouse.
+Behind you, the door slams and locks.
+~
+0 4 0
+D0
+~
+~
+0 -1 32087
+D4
+A huge gleaming door stands here, glistening
+gold in front of you. Under close inspection,
+you notice it isnt gold at all..Its's fool's
+gold!~
+pyrite door~
+1 32040 32085
+S
+#32087
+Gleaming halls~
+The halls are gleaming with mirrorlike materials. It is hard to remember
+which way is which!
+~
+0 4 0
+D2
+~
+~
+0 -1 32086
+D3
+~
+~
+0 -1 32089
+D5
+~
+~
+0 -1 32088
+S
+#32088
+Blackened Mirror hall~
+The mirrorlike walls here are growing tarnished and blackened, as
+if unable to bear what they have reflected. . .
+~
+0 4 0
+D4
+~
+~
+0 -1 32087
+S
+#32089
+Glistening hallway~
+The shining surface of the walls here glisten damply, and are slick
+to the touch.
+~
+0 4 1
+D1
+~
+~
+0 -1 32087
+D2
+~
+~
+0 -1 32090
+S
+#32090
+Gleaming chambers~
+The walls here are covered in wet, shining secretions, layered like
+the inside of a mollusk.
+~
+0 4 1
+D0
+~
+~
+0 -1 32089
+D2
+~
+~
+0 -1 32091
+S
+#32091
+Black Foyer~
+The room is blacker than anything you could have conceived, especially
+after the shining halls which led you here. At the far end, there are
+two massive Adamantine doors with a forboding Greater Sigil carved
+into the living rock.
+~
+0 1|8 1
+D0
+~
+~
+0 -1 32090
+D2
+~
+~
+2 32041 32092
+E
+sigil doors adamantine~
+The Sigil glows with the light of a black sun, shedding darkness and
+wisps of icy smoke around you. ~
+S
+#32092
+Hall of CTHULHU~
+Its too awful. I can't describe it.
+BEHOLD MORTAL, THE MIGHTY CTHULHU, SLEEPING ONE. AWAKEN HIM AT YOUR
+PERIL.
+~
+0 1|8 12
+D0
+~
+~
+2 -1 32091
+S
+#32093
+Hidden chamber~
+This chamber was cleverly hidden behind a series of the murals. On
+the floor are beddings, and trail rations enough to sustain someone
+for a very long time. Since there is no way out behind you, that is probably
+a good thing.
+~
+0 1|512 1
+S
+#32094
+Thief's chamber~
+This tiny cave-like room has been carefully created to be almost invisible
+to those passing by. It contains a bed, and several days' worth of food.
+The door behind you has been magically sealed...and there is no key.
+~
+0 1|512 0
+S
+#0
+#RESETS
+*
+M 1 32000 1 32001 Investigator in hallway
+E 1 32000 100 17
+E 1 32001 100 16
+D 1 32002 3 1 ; Carved Hallway Close West
+*
+M 1 32001 1 32004 the crazed reporter to Mural Chamber
+O 1 32002 100 32004 a bed of rags to Mural Chamber
+P 1 32002 0 32003 a vibrant plaid potion to Mural Chamber
+*
+M 1 32002 6 32007 the foul Byakhee to Lair of the Byakhee
+G 1 32004 100
+G 1 32005 100
+*
+M 1 32005 1 32014 the gar to Underground ocean
+*
+*
+*
+*
+*
+M 1 32005 6 32021 the gar to Underground ocean
+*
+*
+*
+*
+M 1 32005 2 32019 the gar to Underground ocean
+*
+*
+*
+M 1 32004 1 32023 the mighty Aboleth to The Aboleth's Lair
+E 1 32019 100 4
+E 1 32020 100 11
+G 1 32042 100
+D 1 32028 0 2 ; Southern Stairs Lock North
+D 1 32027 2 2 ; Sigil Chamber Lock South
+*
+*
+M 1 32008 2 32005 the helpless debutante to Twist in the corridor
+E 1 32012 100 7
+G 1 32007 100
+*
+M 1 32008 1 32009
+*
+M 1 32007 1 32030 the Scientist to The laboratory of the Great Race
+E 1 32009 100 16
+E 1 32011 100 17
+G 1 32003 100
+G 1 32003 100
+G 1 32013 100
+*
+M 1 32006 2 32025 a podlike creature to Turn in the hall
+*
+M 1 32003 4 32013 the Deep One to South beac
+*
+M 1 32009 1 32037 Nyarlathotep to Coffin of Nylarthotep
+E 1 32032 100 13
+G 1 32006 100 ; elder sigil
+D 1 32038 1 1 ; Altar Room Close East
+D 1 32035 3 1 ; Carved hallway Close West
+*
+D 1 32036 1 1 ; Nyarlo Chamber close east
+*
+O 1 32015 100 32038 an altar to Altar Room
+O 1 32016 100 32038 an Obsidian Chalice to Altar Room
+*
+M 1 32006 1 32029 a podlike creature to Glowing hall
+D 1 32034 2 2 ; Sleeping carvings Lock South
+O 1 32018 100 32004 a glop of sticky, damp moss to Mural Chamber
+O 1 32018 100 32006 a glop of sticky, damp moss to Another creepy hallway
+O 1 32018 100 32032 a glop of sticky, damp moss to Drooling hallway
+O 1 32021 100 32028 the broken hilt of a dagger to Southern Stairs
+O 1 32021 100 32039 the broken hilt of a dagger to A room
+*
+M 1 32011 2 32044 a Carved Wolf to Lower Mural Room
+*
+O 1 32022 100 32044 a fountain of ebony water to Lower Mural Room
+*
+M 1 32012 3 32046 a Shoggoth to Shattered Sigil Room
+*
+*
+*
+*
+*
+*
+*
+M 1 32012 1 32056 a Shoggoth to Towards the Mountain
+*
+*
+M 1 32012 1 32059 a Shoggoth to Lair of Shub-Niggurath
+*
+*
+M 1 32002 3 32059 the foul Byakhee to Lair of Shub-Niggurath
+G 1 32005 100
+G 1 32004 100
+*
+*
+*
+M 1 32006 1 32059 a podlike creature to Lair of Shub-Niggurath
+*
+M 1 32013 1 32059 Shub-Niggurath to Lair of Shub-Niggurath
+E 1 32024 100 16
+E 1 32026 100 0
+G 1 32023 100
+*
+*
+M 1 32014 2 32059 a Hunter of Souls to Lair of Shub-Niggurath
+*
+M 1 32016 2 32059 the Primordial One to Lair of Shub-Niggurath
+G 1 32025 100
+*
+*
+M 1 32014 1 32053 a Hunting Horror to Toward the Mountain
+D 1 32073 2 2 ; Door to the Tower Lock South
+D 1 32074 0 2 ; Inner Chambers Lock North
+*
+M 1 32017 3 32065 a Flame Creature to Deep into the Infernal Sea
+G 1 32027 100
+*
+M 1 32017 3 32069 a Flame Creature to Deep into the Infernal Sea
+G 1 32027 100
+*
+M 1 32017 2 32068 a Flame Creature to Deep into the Infernal Sea
+G 1 32027 100
+*
+M 1 32018 1 32071 the Champion of Cthuga to Dark Shore
+G 1 32027 100
+G 1 32028 100
+*
+M 1 32019 1 32081 Cthuga to Throne Room of Cthuga, Master of Flames
+E 1 32036 100 16
+G 1 32029 100
+G 1 32047 100
+D 1 32083 5 2 ; Brass Chamber Lock Down
+D 1 32084 4 2 ; Cthuga's Treasure Trove Lock Up
+*
+M 1 32020 2 32083 the Brass Golem to Brass Chamber
+E 1 32038 100 3
+E 1 32039 100 9
+*
+M 1 32018 3 32077 the Champion of Cthuga to Chamber of Flame
+*
+*
+M 1 32021 1 32080 the fire elemental to Chamber of Flames
+*
+M 1 32021 2 32076 the fire elemental to Chamber of Flame
+*
+*
+M 1 32003 4 32018 the Deep One to Underground ocean
+*
+M 1 32022 4 32022 the octopus to Underground ocean
+G 1 32030 100
+*
+M 1 32023 3 32033 the gibberling to T-intersection
+E 1 32034 100 16
+G 1 32033 100
+*
+M 1 32015 4 32066 the Flame Amoeba to Deep into the Infernal Sea
+*
+*
+*
+*
+M 1 32018 1 32074 the Champion of Cthuga to Inner Chambers
+*
+M 1 32021 3 32075 the flame elemental to Chamber of Flame
+O 1 32035 100 32084 The Sunblade to Cthuga's Treasure Trove
+*
+M 1 32021 2 32078 the flame elemental to Chamber of Flames
+*
+M 1 32024 2 32074 a Firesteed to Inner Chambers
+*
+M 1 32024 3 32080 a Firesteed to Chamber of Flames
+*
+M 1 32002 4 32002 the foul Byakhee to Carved Hallway
+*
+M 1 32006 2 32027 a podlike creature to Sigil Chamber
+*
+M 1 32023 1 32036 the gibberling to The Chamber of Nyarlathotep
+G 1 32033 100
+G 1 32033 100
+*
+*
+M 1 32011 1 32044 a Carved Wolf to Lower Mural Room
+*
+M 1 32014 2 32049 a Hunting Horror to Plains of Contempt
+*
+M 1 32012 2 32050 a Shoggoth to Toward the Mountain
+*
+M 1 32014 1 32051 a Hunting Horror to Toward the mountain
+E 1 32037 100 6
+*
+M 1 32012 2 32043 a Shoggoth to A corridor
+*
+M 1 32025 2 32054 the vulture to Toward the Mountain
+*
+M 1 32016 2 32085 the Primordial One to Black corridor
+E 1 32025 100 0
+*
+M 1 32008 2 32009 the helpless debutante to Whispering Hall
+E 1 32012 100 7
+E 1 32007 100 17
+D 1 32086 4 2 ; Reflection chambers Lock Up
+*
+M 1 32016 3 32086 the Primordial One to Reflection chambers
+E 1 32025 100 0
+*
+M 1 32026 1 32091 the Adamantium Golem to Black Foyer
+G 1 32041 100
+*
+M 1 32026 1 32091 the Adamantium Golem to Black Foyer
+E 1 32044 100 16
+*
+M 1 32027 1 32092 UNHOLY CTHULHU to Hall of CTHULHU
+D 1 32091 2 2 ; Black Foyer Lock South
+*
+M 1 32028 1 32076 a Spirit of Flame to Chamber of Flame
+G 1 32043 100
+*
+M 1 32010 3 32038 A fanatic warrior to Altar Room
+*
+M 1 32029 1 32038 a fanatic sergeant to Altar Room
+E 1 32017 100 1
+E 1 32017 100 2
+G 1 32014 100
+*
+*
+M 1 32030 1 32093
+E 1 32045 100 16
+*
+M 1 32030 1 32093 the Captain of the Legion to Hidden chamber
+E 1 32045 100 16
+S
+#SPECIALS
+M 32004 spec_breath_acid the mighty Aboleth
+M 32006 spec_cast_mage a podlike creature
+M 32007 spec_cast_mage the Scientist
+M 32008 spec_thief the helpless debutante
+M 32009 spec_cast_undead Nyarlathotep
+M 32010 spec_cast_cleric A fanatic warrior
+M 32011 spec_breath_acid a Carved Wolf
+M 32016 spec_cast_mage the Primordial One
+M 32018 spec_breath_fire the Champion of Cthuga
+M 32019 spec_breath_fire Cthuga
+M 32022 spec_cast_cleric the octopus
+M 32023 spec_fido the gibberling
+M 32024 spec_poison a Firesteed
+M 32027 spec_breath_any UNHOLY CTHULHU
+M 32028 spec_thief a Spirit of Flame
+M 32029 spec_cast_mage a fanatic sergeant
+M 32031 spec_thief Rogan Daggersblade
+S
+#$
+
+
+
+
+
+

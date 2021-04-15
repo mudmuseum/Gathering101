@@ -1,0 +1,1124 @@
+#OBJECT
+Nest         0
+Name         lhp~
+ShortDescr   an object~
+Description  A statue of Gaia stands here in all her splendour~
+Vnum         27401
+OID          17073
+ExtraFlags   0
+WearFlags    0
+WearLoc      -1
+ItemType     12
+Weight       500
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+OID          1352145
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7290
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+OID          1352144
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         66
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         green candy shell~
+ShortDescr   a green m&m shell~
+Description  You see a green candy shell with the letter 'm' on it.~
+Vnum         28503
+OID          1352143
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         12654
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         yellow jumpsuit nuclear symbol~
+ShortDescr   yellow jumpsuit~
+Description  You see a yellow jumpsuit with a nuclear warning symbol.~
+Vnum         10447
+OID          1362558
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         2992
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         pizza slice~
+ShortDescr   a slice of pizza~
+Description  A slice of pizza is here looking very tasty.~
+Vnum         1304
+OID          1374567
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5520
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1362423
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1344766
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          1374461
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         7020
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         tube~
+ShortDescr   a long cylindrical tube~
+Description  A long cylindrical tube is rolling around here.~
+Vnum         1361
+OID          1356859
+ExtraFlags   -32704
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         16254
+Values       100 5 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1349608
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         21168
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1375059
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cleaver~
+ShortDescr   a meat cleaver~
+Description  A meat cleaver is sticking in the wall here.~
+Vnum         1355
+OID          1375057
+ExtraFlags   -32768
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7560
+Values       0 2 3 1
+End
+
+#OBJECT
+Nest         0
+Name         collar~
+ShortDescr   a lamia collar~
+Description  A lamia collar is on the ground.~
+Vnum         5300
+OID          1332526
+ExtraFlags   -32768
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         19360
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         collar~
+ShortDescr   a lamia collar~
+Description  A lamia collar is on the ground.~
+Vnum         5300
+OID          1333292
+ExtraFlags   -32768
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         704
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         collar~
+ShortDescr   a lamia collar~
+Description  A lamia collar is on the ground.~
+Vnum         5300
+OID          1333293
+ExtraFlags   -32768
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         990
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         collar~
+ShortDescr   a lamia collar~
+Description  A lamia collar is on the ground.~
+Vnum         5300
+OID          1347594
+ExtraFlags   -32768
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         26950
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         meat cleaver~
+ShortDescr   a meat cleaver~
+Description  A sharp meat cleaver is just lying on the floor here!~
+Vnum         601
+OID          1374698
+ExtraFlags   -24576
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1440
+Values       0 3 6 3
+End
+
+#OBJECT
+Nest         0
+Name         meat chicken~
+ShortDescr   a defeathered chicken~
+Description  A defeathered chicken is here on the floor.~
+Vnum         605
+OID          1374702
+ExtraFlags   -24576
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       16 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         breast plate iron~
+ShortDescr   a beautiful iron breast plate~
+Description  A beautiful iron breast plate lies here.~
+Vnum         5301
+OID          1374898
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       125
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8316
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chest plate~
+ShortDescr   an imperial chest plate~
+Description  You see an imperial chest plate here.~
+Vnum         5319
+OID          1320614
+ExtraFlags   -32768
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         3240
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         leg ShadowKnight~
+ShortDescr   the sliced-off leg of ShadowKnight~
+Description  The sliced-off leg of ShadowKnight is lying here.~
+Vnum         15
+OID          1259005
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Dmx~
+ShortDescr   the sliced-off leg of Dmx~
+Description  The sliced-off leg of Dmx is lying here.~
+Vnum         15
+OID          1160167
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak green~
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+OID          1374991
+ExtraFlags   -32192
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         16400
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         template scroll~
+ShortDescr   a strange template~
+Description  A strange template made of an exotic green metal is placed here~
+Vnum         310
+OID          1376750
+ExtraFlags   -32704
+WearFlags    16385
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         720
+Values       16 60 4 37
+Spell 1      'sleep'
+Spell 2      'blindness'
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         0
+Name         harp golden~
+ShortDescr   a golden harp~
+Description  A battered golden harp has been tipped over.~
+Vnum         5251
+OID          1380405
+ExtraFlags   -32704
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       18 2 2 6
+Spell 3      'call lightning'
+End
+
+#OBJECT
+Nest         0
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+OID          1378123
+ExtraFlags   -32704
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       9
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3800
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         horn life~
+ShortDescr   the horn of life~
+Description  A severed minotaur horn lies here.~
+Vnum         2331
+OID          1378122
+ExtraFlags   -32704
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5290
+Values       31 8 8 21
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         0
+Name         brain Sauron~
+ShortDescr   the quivering brain of Sauron~
+Description  The quivering brain of Sauron wobbles on the floor.~
+Vnum         30005
+OID          1357446
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Bump~
+ShortDescr   the quivering brain of Bump~
+Description  The quivering brain of Bump wobbles on the floor.~
+Vnum         30005
+OID          1364233
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Bump~
+ShortDescr   the quivering brain of Bump~
+Description  The quivering brain of Bump wobbles on the floor.~
+Vnum         30005
+OID          1364239
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1376113
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         brain mob~
+ShortDescr   the quivering brain of the hobgoblin soldier~
+Description  The quivering brain of the hobgoblin soldier wobbles on the floor.~
+Vnum         30005
+OID          1376971
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain mob~
+ShortDescr   the quivering brain of the hobgoblin soldier~
+Description  The quivering brain of the hobgoblin soldier wobbles on the floor.~
+Vnum         30005
+OID          1376963
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain mob~
+ShortDescr   the quivering brain of the hobgoblin soldier~
+Description  The quivering brain of the hobgoblin soldier wobbles on the floor.~
+Vnum         30005
+OID          1376967
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1382558
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball~
+ShortDescr   an eyeball~
+Description  An eyeball has been left here~
+Vnum         1333
+OID          1292238
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         11220
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          1292237
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3600
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         waybread~
+ShortDescr   a waybread~
+Description  A loaf of waybread has been left here.~
+Vnum         1352
+OID          1382271
+ExtraFlags   -24576
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       32 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         broom straw~
+ShortDescr   a straw broom~
+Description  A straw broom is here leaning against the wall.~
+Vnum         1307
+OID          1378673
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          1380498
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         15210
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         scroll encrypted~
+ShortDescr   an encrypted scroll~
+Description  An encrypted scroll lies at your feet.~
+Vnum         5022
+OID          1382076
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     2
+Weight       7
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         13690
+Values       23 19 56 22
+Spell 1      'cure blindness'
+Spell 2      'remove curse'
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+OID          1409822
+ExtraFlags   -32703
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         648
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          1410857
+ExtraFlags   -29696
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9000
+Values       57030 2 3 1
+End
+
+#OBJECT
+Nest         0
+Name         huge coal axe blade~
+ShortDescr   a HUGE double bladed axe~
+Description  A HUGE axe is here waiting to disembowel its next victim.~
+Vnum         3005
+OID          1410767
+ExtraFlags   -29696
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         704
+Values       57030 5 6 1
+End
+
+#OBJECT
+Nest         0
+Name         potion clear~
+ShortDescr   a clear potion~
+Description  A clear potion wrapped in leather is unnoticed placed here.~
+Vnum         311
+OID          1375096
+ExtraFlags   -32704
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4851
+Values       20 25 27 28
+Spell 1      'detect evil'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         0
+Name         potion clear~
+ShortDescr   a clear potion~
+Description  A clear potion wrapped in leather is unnoticed placed here.~
+Vnum         311
+OID          1382120
+ExtraFlags   -32704
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         19866
+Values       21 25 27 28
+Spell 1      'detect evil'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         0
+Name         bladder milk~
+ShortDescr   milk bladder~
+Description  A milk bladder lies here.~
+Vnum         2902
+OID          1605069
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         16800
+Values       20 20 10 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

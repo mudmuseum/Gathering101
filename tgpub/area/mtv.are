@@ -1,0 +1,2027 @@
+#AREA	Snarf   The Land of MTV~
+
+
+#MOBILES
+#17400
+anderson~
+Mr. Anderson~
+Mr. Anderson is about to run you over in his station wagon.
+~
+This blind as a bat old geezer almost killed you.  Why don't you
+do him a favor and kill him!
+~
+2|64 0 100 S
+143 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17401
+stewart~
+Stewart~
+Stewart is here lacking friends.
+~
+He looks pretty depressed now that he knows you weren't Beavis and
+Butthead.
+~
+2|4|64|128 0 100 S
+118 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17402
+dharia~
+Dharia~
+Dharia is standing around waiting for the school bus.
+~
+Dharia, or "Diarrhea" as Beavis and Butthead call her, is the top
+student in school.
+~
+2|64 0 100 S
+143 0 0 1d1+1 1d1+1
+0 0
+8 8 2
+#17403
+buzzcut~
+Mr. Buzzcut~
+Mr. Buzzcut is about to beat the crap out of you!
+~
+Mr. Buzzcut is a firm believer in corporal punishment.  You better
+leave him alone before he kicks your ass.
+~
+2|64 0 100 S
+170 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17404
+beavis~
+Beavis~
+Beavis is playing with his lighter here.
+~
+Beavis looks at you and shouts "Fire.. Fire!! FIRE!!"
+~
+1|2|64 128 100 S
+289 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17405
+butthead~
+Butthead~
+Butthead is busy passing gas.
+~
+"Huhhhuhhuhhuhuhhuhuh...........  Huhuhuhhuhhuhhuh.....uhhhhh...
+huhhhuhhhuhhhuh.... That was cool..."
+~
+1|2|64 128 100 S
+289 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17406
+kennedy~
+Kennedy~
+Kennedy is here acting strange like she usually does.
+~
+The question that resounds throughout the land is.. "Why is this woman
+still an MTV VJ?"
+~
+2|64 0 100 S
+170 0 0 1d1+1 1d1+1
+0 0
+8 8 2
+#17407
+cameraman~
+A Cameraman~
+A cameraman is pointing a camera at you!
+~
+He's one of a bazillion cameramen that MTV hires...  We'll see if he's
+working next week...
+~
+2|64 0 100 S
+94 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17408
+intern~
+An Intern~
+A tired intern walks by you with a bunch of papers.
+~
+This intern looks a bit exhausted.  He's been photocopying, dubbing
+and getting coffee all day... And not for a single penny... So maybe
+he'll take one of yours...
+~
+64|128 0 100 S
+85 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+#17409
+michael stipe~
+Michael Stipe~
+Michael Stipe is losing his religion.
+~
+For someone who's the lead singer for R.E.M., why does he always
+have to act depressed?
+~
+2|64 0 200 S
+187 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17410
+meatloaf~
+Meatloaf~
+Oh no!  Not Meatloaf again!
+~
+"Objects in the rearview mirror may appear closer then they are.... 
+Objects in the rearview mirror may appear closer then they are...."  His 
+songs have been pretty damned repeatative lately...  I bet you wish he'd 
+shut up... But he "won't do that..."
+~
+2|64 0 100 S
+170 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17411
+kurt loder~
+Kurt Loder~
+Kurt Loder is here tryinig to be serious.
+~
+Kurt's THE guy when it comes to MTV News.  Too bad he doesn't have
+anything really groundbreaking to say...
+~
+2 0 100 S
+170 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17412
+tabitha soren~
+Tabitha Soren~
+Tabitha Soren dishes out some bull to the cameras.
+~
+Perhaps in an attempt to raise male viewership.  This perky redhead
+often digs deeply into the problems of American youth...  Yeah whatever...
+~
+2|64 0 100 S
+170 0 0 1d1+1 1d1+1
+0 0
+8 8 2
+#17413
+dan cortese~
+Dan Cortese~
+Dan Cortese is here annoying the hell out of you!
+~
+Perhaps the most annoying person on television besides Urkel, Dan Cortese 
+is here trying to be cool.
+~
+2|32 8|32|128|512 -500 S
+289 0 0 1d1+1 1d1+1
+0 0
+8 8 1
+#17414
+don henley~
+Don Henley~
+Don Henley is here for some reason.
+~
+Even with a successful solo career, Don seems to not mind making more money.
+~
+2|64 128 100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17415
+glenn frey~
+Glenn Frey~
+Glenn Frey is here, glad to be paid attention to.
+~
+With "hits" like "the Heat is On", it's not surprising that he wanted to 
+get the group back together.
+~
+2|64 128 100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17416
+joe walsh~
+Joe Walsh~
+Joe Walsh is completely baked off his gourd.
+~
+Joe stares back at you with bloodshot eyes and a new short haircut.
+~
+2|64 128 100 S
+248 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17417
+producer~
+A Producer~
+An MTV producer is here arguing with an editor.
+~
+This guy makes a lot of cash to just think of weird ideas.  Nice job eh?
+~
+2|64 0 0 S
+118 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17418
+editor~
+An Editor~
+This editor glows from sitting in front of a bank of television monitors all day.
+~
+This poor editor is trying to convince his producer that a straight cut 
+would be better than a dissolve.
+~
+2|64 128 100 S
+115 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17419
+cabbie driver~
+The Cabbie~
+This cabbie won't shut up!
+~
+This cabbie keeps blabbing about random things.  Please shut him up.
+~
+2|64 0 100 S
+170 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17420
+ghost kurt cobain~
+the Ghost of Kurt Cobain~
+Kurt's ghost smells like teen spirit.
+~
+Through the darkness you see Kurt's lost soul traveling through the halls 
+of the place that helped create him.  Some might say that he was a genius, 
+but some would say his actions proved otherwise.
+~
+2|64 2|8|32|128|512 100 S
+258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17421
+ed~
+Ed~
+Ed is here trying to live past 21.
+~
+You think you have problems??  This guy will be dead by the age of 21 unless 
+he figures a way out of this painful show.  The writing for this show is so 
+bad, you wish he would have been dead at 12 instead.
+~
+2|64 0 100 S
+192 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17422
+maria~
+Maria~
+Maria is trying to justify herself in the plot of the show.
+~
+Maria is Ed's cohort on the show.  She's trying to help him survive even 
+though the first show didn't set up a very good reason to do so.
+~
+2|64 0 100 S
+192 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17423
+winston~
+Winston~
+Winston is about to blow Ed and Maria away. (hopefully)
+~
+This guy is a pretty rotten shot considering he's supposed to be Mr. Secret 
+Agent man.
+~
+2|64 0 -100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17424
+rikki~
+Rikki~
+Rikki is here with another dilemma.
+~
+Rikki is a Norwegian astrophysicist trained in Jujitsu who can cook a mean 
+omelette.  She always seems to be having one problem or another in order to 
+keep the show mildly interesting.
+~
+2|64 0 100 S
+170 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17425
+bradley~
+Bradley~
+Bradley wonders what you're doing here.
+~
+Bradley is a master painter from Zaire who also races stock cars 
+on the weekends.  His role on the show is to be the token 
+minority/homosexual/midget/etc. with a speech impediment.
+~
+2|64 0 100 S
+170 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17426
+member state~
+A member of the State~
+A member of the State is here trying to be funny.
+~
+It's amazing that these guys haven't gotten cancelled yet.
+~
+2 0 100 S
+248 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17427
+immortal chiapet~
+Chiapet~
+Chiapet sprouts in front of you!
+~
+Chiapet smiles at you.
+
+This former immortal keeps snickering... What a weirdo...
+~
+512|1024 8|32|128|512 1000 S
+514 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17428
+engineer~
+An Engineer~
+An Engineer is here playing with all sorts of dials and levers.
+~
+This guy is totally engrossed with his job of loading tapes into machines 
+and pulling levers on switchers when there's a need to do that.  He's 
+actually kinda geeky.
+~
+2|64 0 100 S
+107 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17429
+bopping beauty dancer woman~
+Bopping Beauty~
+This woman is bumping and grinding like there's no tomorrow.
+~
+A blast of sweat splashes in your eye as you stare at this very healthy 
+looking woman.  It's amazing how that tube top can stay on with all 
+that action.
+~
+2|32|64 0 100 S
+118 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17430
+slamming stud~
+a Slamming Stud~
+This stud is looking to do some slamming with you!
+~
+This guy with the impossibly good body is about to dance you into the ground.
+~
+2|32|64 0 100 S
+118 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17431
+cindy crawford~
+Cindy Crawford~
+Ack!  It's Cindy Crawford!
+~
+Cindy, Cindy, Cindy... Why oh why did you marry that dork??  Anyways, Cindy's
+busy telling young girls with inferiority complexes how to dress.
+Well... Them and about a bazillion guys too...
+~
+2|64 128 100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17432
+todd~
+Todd~
+Todd's here to kick your butt.
+~
+Todd is the town's resident tough guy.  He could trounce your ass
+while at the same time, smoke a butt... (or two.. including yours...)
+~
+2|64 0 -100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17433
+milton cashier~
+Milton the Cashier~
+Milton the Cashier is waiting to ring you up.
+~
+Milton's a good guy, though a bit slow.  He takes pride in his work,
+and his store, so don't try lifting anything, or else...
+~
+2|64 0 100 S
+514 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17434
+little kid~
+a little kid~
+A little kid is here trying to shoplift some candy.
+~
+This grubby little kid is peeking around the shelves to see if Milton can
+see him.  Talk about stealing to satisfy a habit... Well... at least it's only
+a sugar habit.
+~
+64 0 100 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17435
+cheetara~
+Cheetara~
+Cheetara is here giving you the loving of you life... (Or the end of you life!)
+~
+Cheetara never seemed to give a damn about Snarf in the show, but
+nowadays, the two of them... well...
+
+She seems to have gotten a little kinkier since then as well...
+That's why she's beating your ass into the ground!
+~
+32|64 128 -1000 S
+313 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17436
+steaming turds~
+Snarf's steaming turds~
+The steaming turds of Snarf assail your nostrils
+~
+Snarf is a cat... What can he say?
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17443
+pauly shore~
+Pauly Shore~
+Pauly Shore is here acting like an ass.
+~
+Pauly Shore looks at you and laughs...
+
+Pauly says 'Hey buuuuuuuuhdy...'
+
+Time to beat this useless moron into the ground.
+~
+2|64 0 100 S
+216 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17444
+walt pigmy~
+Walt the pigmy~
+There's a little pigmy squatting here.
+~
+Walt the pigmy is a pretty cool guy.  His favorite activity is squatting
+because that's what pigmy's do best.  Snarf created Walt for Argh just to
+be annoying, but also because he found the thought of a squatting pigmy
+somewhat amusing...
+~
+2 0 0 S
+514 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#17400
+winger shirt t-shirt~
+a Winger t-shirt~
+Winger... what a cool group.~
+~
+9 0 1|8
+0 1 6 0 
+5 0 0
+A
+17 -3
+#17401
+glasses~
+a pair of thick lensed glasses~
+You see some thick lensed glasses lying here.~
+~
+9 128|4096 1|16
+0 0 6 0 
+2 0 0
+A
+17 20
+#17402
+club~
+a billy club~
+Mr. Buzzcut's "disciplinary facilitator" is waiting for a new owner.~
+~
+5 0 1|8192
+0 1 6 7 
+6 0 0
+A
+18 2
+A
+19 2
+#17403
+book~
+a school book~
+A geometry book is getting kicked around the ground.~
+~
+2 0 1|16384
+0 20 19 44 
+5 0 0
+A
+3 3
+#17404
+metallica shirt t-shirt~
+a Metallica t-shirt~
+Beavis' Metallica t-shirt kinda stinks.~
+~
+9 128|4096 1|8
+0 0 6 0 
+5 0 0
+A
+2 2
+A
+19 5
+A
+3 -12
+#17405
+ac/dc shirt t-shirt~
+an AC/DC t-shirt~
+Butthead's AC/DC t-shirt has large nacho cheese stains on it.~
+~
+9 128|4096 1|8
+0 0 6 0 
+5 0 0
+A
+1 2
+A
+19 5
+A
+3 -12
+#17406
+lighter~
+a lighter~
+Beavis' lighter is kewl... (huhhuhhuh...huhhuhuh...)~
+~
+5 1|64|128|4096 1|8192
+0 1 6 6 
+1 0 0
+A
+13 25
+A
+19 10
+A
+18 10
+A
+3 -12
+A
+5 -4
+#17407
+plate nachos~
+a plate of nachos~
+A plate of old dried of nachos sits here on the floor.~
+~
+5 64|128|4096 1|8192
+0 1 6 8 
+2 0 0
+A
+19 10
+A
+18 10
+A
+12 25
+A
+3 -12
+A
+5 -4
+#17408
+video camera~
+a video camera~
+A very expensive professional video camera is waiting to get hoisted here.~
+~
+5 2 1|8192
+0 1 6 11 
+6 0 0
+A
+19 2
+A
+18 2
+A
+14 25
+#17409
+stack paperwork paper~
+a stack of paperwork~
+Someone left a bunch of paperwork here.~
+~
+2 64 1|16384
+13 61 56 19 
+2 0 0
+#17410
+cup coffee~
+(Steaming) a cup of coffee~
+Some intern forgot to bring this cup of coffee to their boss.~
+~
+5 0 1|8192
+0 1 6 12 
+2 0 0
+A
+19 1
+A
+18 2
+A
+5 1
+#17411
+news script~
+a news script~
+A news script lies here unread.~
+~
+2 0 1|16384
+30 36 3 15 
+1 0 0
+#17412
+dan cortese ego~
+dan Cortese's Ego~
+Oh no! Dan Cortese's ego has left his head!~
+~
+1 1 1
+0 1 -1 11 
+5 0 0
+A
+19 3
+A
+5 -2
+#17413
+joe's bong doom~
+(Smoking) Joe's Bong of Doom~
+Joe Walsh's massive 6' bong sits here awaiting you.~
+~
+5 64|128|4096 1|8192
+0 1 6 12 
+10 0 0
+A
+19 5
+A
+17 -10
+A
+1 1
+A
+23 -20
+A
+18 5
+A
+2 -2
+#17414
+drivers license~
+a Driver's License~
+Someone's goofy looking driver's license is lying here.~
+~
+2 0 1|16384
+30 23 23 23 
+1 0 0
+#17415
+old rusty key~
+an old rusty key~
+You see an old rusty key here.  You wonder what it goes to.~
+~
+18 0 1|16384
+0 1 6 11 
+1 0 0
+#17416
+9mm sig 226 gun~
+a 9mm Sig 226~
+A very nice gun is lying here.~
+~
+5 0 1|8192
+0 1 6 6 
+4 0 0
+A
+19 3
+A
+18 3
+A
+2 1
+#17417
+video tape~
+a video tape~
+Someone dropped a Betacam tape here.~
+~
+5 0 1|8192
+0 1 6 7 
+2 0 0
+#17418
+mole~
+a mole~
+Ewww... somebody's mole is on the floor.~
+~
+9 4096 1|16
+0 0 6 0 
+1 0 0
+A
+19 4
+A
+9 -10
+#17420
+propeller beanie~
+a propeller beanie~
+Chiapet's beanie is here.~
+~
+9 2 1|16
+0 0 6 0 
+5 0 0
+#17421
+chia sprouts~
+chia Sprouts~
+Chiapet's sprouts are here.~
+~
+9 0 1|8
+0 0 6 0 
+10 0 0
+#17422
+zippo lighter~
+a Zippo(tm) lighter~
+A Zippo lighter lies here.~
+~
+1 1 1
+0 1 6 11 
+5 0 0
+#17423
+pretzel~
+a pretzel~
+This pretzel is waiting to be consumed.~
+~
+26 0 1
+40 15 36 -1 
+5 0 0
+#17424
+big gulp~
+a Big Gulp~
+A humongous beverage is here tormenting your bladder.~
+~
+17 0 1
+4 4 15 0 
+3 0 0
+#17425
+hot dog~
+a Hot Dog~
+A dried up hotdog that's been roasting for weeks is sitting on the ground.~
+~
+19 0 1
+15 0 0 0 
+2 0 0
+#17426
+microwave burrito~
+a Microwaved Burrito~
+This burrito looks pretty evil.~
+~
+19 0 1
+25 0 0 0 
+3 0 0
+#17427
+bag pork rinds~
+a bag of Sour Cream and Onion Pork Rinds~
+A yummy bag of Sour Cream and Onion pork rinds awaits your mouth.~
+~
+19 0 1
+10 0 0 0 
+2 0 0
+#17428
+40 forty bottle malt liquor~
+a 40oz bottle of malt liquor~
+A 40 of Red Bull is waiting for someone to enjoy.~
+~
+17 0 1
+5 5 7 0 
+2 0 0
+#17429
+candy bar~
+a candy bar~
+A yummy candy bar is lying here.~
+~
+19 0 1
+5 0 0 0 
+1 0 0
+#17430
+cracker jack ring~
+a Cracker Jack ring~
+You see a prize from a Cracker Jack box on the floor.~
+~
+9 0 1|2
+0 1 6 0 
+1 0 0
+A
+1 1
+A
+5 1
+#17431
+condom~
+a condom~
+Someone left an unused condom here.~
+~
+9 128|4096 1|2048
+0 0 6 0 
+1 0 0
+A
+14 10
+#17433
+beastly fido shittyfido~
+a Beastly Fido~
+A Beastly Fido is here.~
+~
+5 64 1|8192
+0 1 6 10 
+5 0 0
+#17434
+cheetara collar~
+cheetara's Collar~
+Cheetara's collar seems to be missing Cheetara.~
+~
+9 128|4096 1|4|8192
+0 0 6 11 
+1 0 0
+A
+1 -25
+A
+2 -25
+A
+3 -25
+A
+4 -25
+A
+5 -25
+A
+12 -4000
+A
+13 -9000
+A
+14 -4000
+A
+17 2000
+A
+18 -500
+A
+19 -500
+#17435
+jeffery dahmer's fridge~
+jeffery Dahmer's Fridge~
+Jeffery Dahmer's Fridge is here...  (Take or leave food, but don't be greedy!)~
+~
+15 0 0
+20000 1 -1 0 
+5 0 0
+#0
+
+
+#ROOMS
+#17400
+Neighborhood Street~
+You are almost hit by a car as you stand in the middle of 
+the street of a typical suburban neighborhood.  As you look
+around, you notice a plain looking house to the north.  The
+street continues east to a dead end. Some graffiti has been
+sprayed on the road here.
+~
+0 0 1
+D0
+~
+~
+0 -1 17427
+D1
+~
+~
+0 -1 17401
+D2
+~
+~
+0 -1 17440
+D3
+~
+~
+0 -1 30608
+S
+#17401
+End of Street~
+The street ends abruptly here in front of a driveway.  Music can be
+heard emanating from the house to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 17402
+D3
+~
+~
+0 -1 17400
+S
+#17402
+In front of house~
+The music gets louder as you approach the house.  Assorted candy
+wrappers and small dead mammals are strewn across the yard.  The
+front door of the house is wide open.
+~
+0 0 1
+D0
+~
+~
+1 -1 17403
+D2
+~
+~
+0 -1 17401
+S
+#17403
+Living Room~
+You are standing in a living room consisting of a couch and a 
+television set which seems to be the source of the music.  Half-eaten
+plates of nachos lie stuck to the floor along with other unidentifiable
+bits of garbage.
+~
+0 8 0
+D1
+~
+~
+0 -1 17404
+D2
+~
+~
+1 -1 17402
+S
+#17404
+Inside the TV~
+Somehow, you have penetrated the television screen and are now standing
+in a television studio of some type.  You begin to sweat from the heat
+of the studio lights.  All attention seems to be focused on an 
+peculiar looking woman.
+~
+0 8 0
+D1
+~
+~
+0 -1 17405
+D3
+~
+~
+0 -1 17403
+S
+#17405
+Backstage~
+Behind the main set, things are a bit busy.  People are walking
+around briskly, carrying co-axial cable or video tape.  Most of the
+traffic seems to be in and out of doorways to the north and south.  Bits of
+backdrops and other props are blown around by the wind coming through an
+open fire door to the east.
+~
+0 8 0
+D0
+~
+~
+0 -1 17415
+D1
+~
+~
+1 -1 17417
+D2
+~
+~
+0 -1 17406
+D3
+~
+~
+0 -1 17404
+S
+#17406
+Hallway~
+As you are walking, you run into an intern carrying a tray of coffee.  He
+mutters and hurries back to get more.  To the west you see the bright
+lights of a small studio coming through a doorway.  You can hear the faint
+sounds of accoustic guitar coming from an open dressing room door to the
+east.
+~
+0 8 0
+D0
+~
+~
+0 -1 17405
+D1
+~
+~
+1 -1 17408
+D2
+~
+~
+0 -1 17407
+D3
+~
+~
+1 -1 17410
+S
+#17407
+Hallway~
+The hallway becomes a little less congested as you walk further
+down it.  As you peek through a doorway to the west, you see some
+faces that you can't initially place.  Another dressing room door
+is wide open to the east.  The hallway seems to get a lot darker
+to the south.
+~
+0 8 0
+D0
+~
+~
+0 -1 17406
+D1
+~
+~
+1 -1 17409
+D2
+~
+~
+0 -1 17412
+D3
+~
+~
+1 -1 17411
+S
+#17408
+Dressing Room~
+As you step out of the hallway, the guitar sounds become much
+clearer as a band warms up.  They must be shooting another "Unplugged"
+special today or something.
+~
+0 8 0
+D3
+~
+~
+1 -1 17406
+S
+#17409
+Dressing Room~
+Walking into the room, you see a make-up artist working hurriedly
+on a performer.  She isn't hurrying because it's almost time to shoot,
+but because she's about to go nuts from hearing the guy sing the same
+line from one of his songs over and over again.  (Or maybe that IS the
+whole song.)
+~
+0 8 0
+D3
+~
+~
+1 -1 17407
+S
+#17410
+MTV News Studio~
+Before you is the sole source of "news" for most teenagers in America.
+Two people are sitting at a long desk in front of a bluescreen.
+~
+0 8 0
+D1
+~
+~
+1 -1 17406
+S
+#17411
+Conference Room~
+A room full of eyes turn to you as you walk into the middle of a
+very important meeting.  Members of some "reunion" bands are negotiating
+for airplay, so they can prove to themselves that they aren't over the
+hill, while at the same time stuffing their wallets.
+~
+0 0 0
+D1
+~
+~
+1 -1 17407
+S
+#17412
+Dark Hallway~
+It sure has gotten dark towards this end of the hallway.  Some stupid
+gaffer must have blown a fuse while plugging in some lights.  There's
+something sorta creepy here.  You feel like there's someone here with you.
+It must be your imagination.... Or is it?  At any rate, you notice a 
+closed door to the east.
+    Wait....reality must be shaky right here in this spot inside the
+television (well, you are in a television...anyways), you hear the music
+of some group coming through a "rip" in the floor... Maybe you could
+squeeze through.....
+~
+0 8 0
+D0
+~
+~
+0 -1 17407
+D1
+~
+~
+1 17415 17413
+D5
+~
+~
+0 -1 30001
+S
+#17413
+Closet~
+You have entered a big, dark, smelly closet.  At first you think it's
+empty, but as you turn to leave, you are accosted by one of the most
+evil beings in MTV land!!  RUN!!!!!!!!!!!
+~
+0 8|8192 0
+D3
+~
+~
+1 17415 17412
+S
+#17415
+Control Room~
+You are standing in the middle of the MTV control room.  All sorts
+of monitors and equipment line the main console.  Engineers hurriedly 
+search for tapes before the current video ends.
+~
+0 8 0
+D0
+~
+~
+0 -1 17429
+D2
+~
+~
+0 -1 17405
+D3
+~
+~
+0 -1 17416
+S
+#17416
+Editing Suite~
+As you enter the small room, you see two men working on cutting a
+show together.  One of the men is muttering about some cameraman who
+"Didn't friggin white balance" or something like that.
+~
+0 8 0
+D1
+~
+~
+0 -1 17415
+S
+#17417
+Back Alley~
+Ahhhhhhh... You feel better breathing the cool air out here... That
+is... until you smelled the garbage piled up against the wall... The
+alley leads to a busy street to the north.
+~
+0 8 1
+D0
+~
+~
+0 -1 17418
+D3
+~
+~
+1 -1 17405
+S
+#17418
+Street Outside MTV Studios~
+The streets of New York...  What a beautiful city... NOT!  You better
+find a taxi before someone takes your wallet.
+~
+0 0 1
+D0
+~
+~
+0 -1 17419
+D2
+~
+~
+0 -1 17417
+S
+#17419
+Inside a Cab~
+You are riding a cab somewhere... You don't know where, but hopefully
+this wacko cab driver does...  Hopefully, he'll shut up too...
+~
+0 8 0
+D2
+~
+~
+0 -1 17418
+D3
+~
+~
+0 -1 17420
+S
+#17420
+Outside an Apartment Building~
+You are standing in front of a tall apartment building.  You aren't
+quite sure why you were let out here, but you don't really care...
+As long as you're away from that damned cabbie..  A glass door awaits
+your entry to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 17421
+D1
+~
+~
+0 -1 17419
+S
+#17421
+Lobby~
+You quickly realize as you enter the lobby that the elevator has a large
+sign that reads "OUT OF ORDER."  Not a big deal... Khellis isn't quite
+wheelchair accessible either.  The stairs can be seen through a doorway
+to the west.
+~
+0 8 0
+D2
+~
+~
+0 -1 17420
+D3
+~
+~
+0 -1 17422
+S
+#17422
+Bottom of Stairs~
+You are standing at the bottom of many, many flights of stairs.
+Start climbing!
+~
+0 8 5
+D1
+~
+~
+0 -1 17421
+D4
+~
+~
+0 -1 17423
+S
+#17423
+Staircase~
+Keep climbing!  There's a doorway to the east if you want to take a break.
+~
+0 8 5
+D1
+~
+~
+1 -1 17424
+D4
+~
+~
+0 -1 17425
+D5
+~
+~
+0 -1 17422
+S
+#17424
+Inside a Loft~
+You enter a pretty cool loft.  Lights are hanging on the ceiling so
+that there's always a good shot for the camera, no matter where you are.
+Welcome to the Real World XIII!
+~
+0 8 0
+D3
+~
+~
+1 -1 17423
+S
+#17425
+Top of Staircase~
+You thought that the stairs would never end!  There's a door to the
+north that leads out to the roof.
+~
+0 0 4
+D0
+~
+~
+0 -1 17426
+D5
+~
+~
+0 -1 17423
+S
+#17426
+Roof of Building~
+This rooftop seems to be a popular hangout today.  Unfortunately, 
+you wish that these "Kids in the Hall" wannabes were here to jump and 
+bounce a few times on the hard pavement below instead.
+~
+0 0 1
+D0
+~
+~
+0 -1 17437
+D1
+~
+~
+0 -1 17439
+D2
+~
+~
+0 -1 17425
+D3
+~
+~
+0 -1 17435
+S
+#17427
+Front Yard of House~
+You are standing before a neat, tidy house.
+~
+0 8 0
+D0
+~
+~
+1 -1 17428
+D2
+~
+~
+0 -1 17400
+S
+#17428
+Stewart's House~
+You are standing inside the front doorway of Stewart's House.  He
+rushed out to get the door expecting someone else.
+~
+0 8 0
+D2
+~
+~
+1 -1 17427
+S
+#17429
+Short Hallway~
+You are standing in a short hallway that leads to various studios.
+You see some action to the north, and can hear loud music pumping
+through the closed door to the west.  There's a large sign that
+reads "THE GRIND"... READ IT!!!
+~
+0 8 0
+D0
+~
+~
+0 -1 17431
+D2
+~
+~
+0 -1 17415
+D3
+~
+~
+1 -1 17430
+E
+sign~
+BEWARE!!  Dancers have been known to get a little physical... (Not that 
+that's a bad thing.)  If you are under level 20 use EXTREME CAUTION!~
+S
+#17430
+The Grind's Studio~
+You just walked into a room full of sweating and heaving bodies.
+Now this is intellectual entertainment at its finest!
+~
+0 8 0
+D0
+~
+~
+0 -1 17434
+D1
+~
+~
+1 -1 17429
+D3
+~
+~
+0 -1 17432
+S
+#17431
+House of Style Studio~
+Yowzers... Models are walking around everywhere scantily clad.  There's
+a familiar looking woman standing in front of the camera before you.
+~
+0 8 0
+D2
+~
+~
+0 -1 17429
+S
+#17432
+Dance Floor~
+You are standing on the dance floor... Get moving!!
+~
+0 8 0
+D0
+~
+~
+0 -1 17433
+D1
+~
+~
+0 -1 17430
+S
+#17433
+Dance Floor~
+You are standing on the dance floor...  Get moving!!
+~
+0 8 0
+D1
+~
+~
+0 -1 17434
+D2
+~
+~
+0 -1 17432
+S
+#17434
+Dance Floor~
+You are standing on the dance floor...  Get moving!!
+~
+0 8 0
+D2
+~
+~
+0 -1 17430
+D3
+~
+~
+0 -1 17433
+S
+#17435
+Southwest corner of the roof.~
+You are standing in the southwest corner of the roof.  The stairs
+are to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 17436
+D1
+~
+~
+0 -1 17426
+S
+#17436
+Northwest corner of the roof~
+You are standing in the northwest corner of the roof. The stairs
+are to the southeast.
+~
+0 0 1
+D1
+~
+~
+0 -1 17437
+D2
+~
+~
+0 -1 17435
+S
+#17437
+North side of roof~
+You are standing on the north side of the roof.  The stairs are
+to the south.
+~
+0 0 1
+D1
+~
+~
+0 -1 17438
+D2
+~
+~
+0 -1 17426
+D3
+~
+~
+0 -1 17436
+S
+#17438
+Northeast corner of the roof~
+You are standing in the northwest corner of the roof.  The stairs
+are to the southwest.
+~
+0 0 1
+D2
+~
+~
+0 -1 17439
+D3
+~
+~
+0 -1 17437
+S
+#17439
+Southeast corner of the roof.~
+You are standing in the southeast corner of the roof.  The stairs
+are to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 17438
+D3
+~
+~
+0 -1 17426
+S
+#17440
+Parking Lot~
+You have walked into the parking lot of the local convenience store.  The local
+hooligans like to hang out here, so watch out.  The door of the store has a
+sign that reads "OPEN".  Pretty strange considering the store is open all the
+time.
+~
+0 0 1
+D0
+~
+~
+0 -1 17400
+D2
+~
+~
+1 -1 17441
+S
+#17441
+Inside the Convenience Store~
+You are standing at the counter of this store.  It is surrounded
+by a veritable cornucopia (for you standardized test fans) of junk
+food.
+~
+0 8 0
+D0
+~
+~
+1 -1 17440
+D1
+~
+~
+0 -1 17442
+D2
+~
+~
+0 -1 17446
+S
+#17442
+Store Aisle~
+You are standing in an aisle of the store.  Food, drink and condoms are
+available for any occasion.
+~
+0 8 0
+D1
+~
+~
+0 -1 17443
+D2
+~
+~
+0 -1 17445
+D3
+~
+~
+0 -1 17441
+S
+#17443
+Store Aisle~
+You are standing in an aisle of the store.  Food, drink and condoms are
+available for any occasion.
+~
+0 8 0
+D2
+~
+~
+0 -1 17444
+D3
+~
+~
+0 -1 17442
+S
+#17444
+Store Aisle~
+You are standing in an aisle of the store.  Food, drink and condoms are
+available for any occasion.
+~
+0 8 0
+D0
+~
+~
+0 -1 17443
+D3
+~
+~
+0 -1 17445
+S
+#17445
+Store Aisle~
+You are standing in an aisle of the store.  Food, drink and condoms are
+available for any occasion.
+~
+0 8 0
+D0
+~
+~
+0 -1 17442
+D1
+~
+~
+0 -1 17444
+D3
+~
+~
+0 -1 17446
+S
+#17446
+Store Aisle~
+You are standing in an aisle of the store.  Food, drink and condoms are
+available for any occasion.
+~
+0 8 0
+D0
+~
+~
+0 -1 17441
+D1
+~
+~
+0 -1 17445
+S
+#17450
+Snarf's Litter Box~
+Snarf has made his home in this football field sized litterbox.  Your
+toes crunch as you step in wonderfully smelling fresh kitty litter.
+You just hope that Snarf didn't leave anything else lying around to
+step in...
+~
+0 0 0
+D1
+~
+~
+1 -1 17451
+D3
+~
+~
+1 -1 17452
+S
+#17451
+Snarf's Private Meeting Room.~
+This is Snarf's private meeting room.  No one else can come in here, 
+so you better amuse him...
+~
+0 512 1
+D3
+~
+~
+1 -1 17450
+S
+#17452
+Snarf's Torture Chamber~
+If you are here, you probably have done something pretty stupid.
+You better read this fast, because you'll be dead in about 2 seconds.
+~
+0 8192 1
+D1
+~
+~
+1 -1 17450
+S
+#17512
+Walt's Hut~
+Looks like Argh finally kicked Walt out!  Guess he got sick of having Walt's
+friends for dinner (not over for dinner, FOR dinner.)  At least he was nice
+enough to set Walt up in a new pad.  It's a very quaint bamboo hut on a 
+small tropical island far... very far... so very, VERY far away.
+~
+0 4 0
+E
+Andre~
+He turns his head towards you and shouts "Shut the fuck up!"
+~
+S
+#0
+
+
+#RESETS
+*
+M 1 17400 1 17400                  Mr. Anderson to Neighborhood Street
+E 1 17401 100 6
+*
+M 1 17403 1 17401                  Mr. Buzzcut to End of Street
+E 1 17402 100 16
+*
+M 1 17402 1 17401                  Dharia to End of Street
+E 1 17403 100 17
+*
+M 1 17401 1 17428                  Stewart to Stewart's House
+E 1 17400 100 5
+*
+M 1 17404 1 17403                  Beavis to Living Room
+E 1 17404 100 5
+E 1 17406 100 16
+*
+M 1 17405 1 17403                  Butthead to Living Room
+E 1 17405 100 5
+E 1 17407 100 16
+*
+M 1 17406 1 17404                  Kennedy to Inside the TV
+*
+M 1 17407 3 17404                  A cameraman to Inside the TV
+E 1 17408 100 16
+*
+*
+M 1 17408 15 17404                 An intern to Inside the TV
+E 1 17410 100 16
+E 1 17409 100 17
+*
+*
+*
+M 1 17408 15 17405                 An Intern to Backstage
+E 1 17410 100 16
+E 1 17409 100 17
+*
+*
+*
+*
+M 1 17408 15 17406                 An Intern to Hallway
+E 1 17410 100 16
+E 1 17409 100 17
+*
+*
+*
+M 1 17408 15 17407                 An Intern to Hallway
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17409 1 17408                  Michael Stipe to Dressing Room
+*
+M 1 17410 1 17409                  Meatloaf to Dressing Room
+*
+M 1 17411 1 17410 Kurt Loder to MTV News Studio
+E 1 17411 100 17
+*
+M 1 17412 1 17410                  Tabitha Soren to MTV News Studio
+E 1 17411 100 17
+*
+M 1 17407 3 17410                  A Cameraman to MTV News Studio
+E 1 17408 100 16
+*
+M 1 17408 15 17410                 An Intern to MTV News Studio
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17414 1 17411                  Don Henley to Conference Room
+*
+M 1 17415 1 17411                  Glenn Frey to Conference Room
+*
+M 1 17416 1 17411                  Joe Walsh to Conference Room
+E 1 17413 100 16
+D 1 17423 1 1                ; Staircase Close East
+*
+M 1 17427 1 17421                  Chiapet to Lobby
+E 1 17421 100 5
+E 1 17420 100 6
+E 1 17433 100 16
+E 1 17422 100 0
+*
+M 1 17420 1 17412 the Ghost of Kurt Cobain to Dark Hallway
+G 1 17415 100
+*
+M 1 17413 1 17413                  Dan Cortese to Closet
+E 1 17412 100 0
+*
+M 1 17428 3 17415                  An Engineer to Control Room
+E 1 17417 100 16
+*
+M 1 17408 15 17415                 An Intern to Control Room
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17417 1 17416                  A Producer to Editing Suite
+*
+M 1 17418 1 17416                  An Editor to Editing Suite
+*
+M 1 17419 1 17419                  The Cabbie to Inside a Cab
+E 1 17414 100 17
+*
+M 1 17421 1 17420                  Ed to Outside an Apartment Building
+*
+M 1 17422 1 17420                  Maria to Outside an Apartment Building
+*
+M 1 17423 1 17420                  Winston to Outside an Apartment Building
+E 1 17416 100 16
+*
+M 1 17424 1 17424                  Rikki to Inside a Loft
+*
+M 1 17425 1 17424                  Bradley to Inside a Loft
+*
+M 1 17407 3 17424                  A Cameraman to Inside a Loft
+E 1 17408 100 16
+*
+M 1 17408 15 17424                 An Intern to Inside a Loft
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17426 9 17426                  A member of the State to Roof of Building
+G 1 17423 100
+D 1 17427 0 1                ; Front Yard of House Close North
+*
+M 1 17408 3 17429                  An Intern to Short Hallway
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17429 4 17430                  Bopping Beauty to The Grind's Studio
+*
+M 1 17430 4 17430                  a Slamming Stud to The Grind's Studio
+*
+M 1 17431 1 17431                  Cindy Crawford to House of Style Studio
+E 1 17418 100 6
+*
+M 1 17430 4 17432                  a Slamming Stud to Dance Floor
+*
+M 1 17429 4 17432                  Bopping Beauty to Dance Floor
+*
+M 1 17429 4 17433                  Bopping Beauty to Dance Floor
+*
+M 1 17430 4 17433                  a Slamming Stud to Dance Floor
+*
+M 1 17429 4 17434                  Bopping Beauty to Dance Floor
+*
+M 1 17430 4 17434                  a Slamming Stud to Dance Floor
+*
+M 1 17426 9 17435                  A member of the State to Southwest corner of the roof.
+G 1 17423 100
+*
+M 1 17426 9 17436                  A member of the State to Northwest corner of the roof
+G 1 17423 100
+*
+M 1 17426 9 17437                  A member of the State to North side of roof
+G 1 17423 100
+*
+M 1 17426 9 17438                  A member of the State to Northeast corner of the roof
+G 1 17423 100
+*
+M 1 17426 9 17439                  A member of the State to Southeast corner of the roof.
+G 1 17423 100
+*
+*
+*
+*
+M 1 17432 1 17440                  Todd to Parking Lot
+*
+M 1 17433 1 17441 Milton the Cashier to Inside the Convenience Store
+G 1 17424 100
+G 1 17425 100
+G 1 17426 100
+G 1 17427 100
+G 1 17428 100
+G 1 17429 100
+G 1 17431 100
+D 1 17412 1 2                ; Dark Hallway Lock East
+D 1 17413 3 2                ; Closet Lock West
+D 1 17441 0 1                ; Inside the Convenience Store Close North
+D 1 17402 0 0			; In front of house Open North
+D 1 17406 1 0			; Hallway Open East
+D 1 17406 3 0			; Hallway Open West
+D 1 17407 1 0			; Hallway Open East
+D 1 17407 3 0			; Hallway Open West
+D 1 17408 3 0			; Dressing Room Open West
+D 1 17409 3 0			; Dressing Room Open West
+D 1 17410 1 0			; MTV News Studio Open East
+D 1 17411 1 0                ; Conference Room Open East
+D 1 17405 1 0			; Backstage Open East
+D 1 17417 3 0                ; Back Alley Open West
+D 1 17440 2 1                ; Parking Lot Close South
+*
+O 1 17429 100 17442                a candy bar to Store Aisle
+*
+M 1 17434 7 17442                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17441                  a little kid to Inside the Convenience Store
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17443                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17444                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17443                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17445                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17434 7 17446                  a little kid to Store Aisle
+E 1 17430 100 1
+G 1 17429 100
+*
+M 1 17408 15 17404                 An Intern to Inside the TV
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17404                 An Intern to Inside the TV
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17405                 An Intern to Backstage
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17405                 An Intern to Backstage
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17405                 An Intern to Backstage
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17406                 An Intern to Hallway
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17415                 An Intern to Control Room
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17408 15 17415                 An Intern to Control Room
+E 1 17410 100 16
+E 1 17409 100 17
+*
+M 1 17426 9 17426                  A member of the State to Roof of Building
+G 1 17423 100
+*
+M 1 17426 9 17435                  A member of the State to Southwest corner of the roof.
+G 1 17423 100
+*
+M 1 17426 9 17438                  A member of the State to Northeast corner of the roof
+G 1 17423 100
+*
+M 1 17428 3 17415                  An Engineer to Control Room
+E 1 17417 100 16
+*
+M 1 17428 1 17415                  An Engineer to Control Room
+E 1 17417 100 16
+D 1 17450 1 1			; Snarf's Litter Box Close East
+D 1 17451 3 1               ; Snarf's Private Meeting Room. Close West
+D 1 17452 1 2			; Snarf's Torture Chamber Lock East
+*
+M 1 17435 1 17452                   Xor to Snarf's Torture Chamber
+D 1 17450 3 2			; Snarf's Litter Box Lock West
+*
+M 1 17436 1 17450 Snarf's steaming turd to Snarf's Litter Box
+*
+M 1 17443 1 17405                  Pauly Shore to Backstage
+D 1 17429 3 1                ; Short Hallway Close West
+S
+
+
+#SHOPS
+17433 0 0 0 0 0 100 100 0 23			Milton the Cashier
+0
+
+
+#SPECIALS
+M  17400 spec_cast_mage                 Mr. Anderson
+M  17401 spec_cast_cleric                       Stewart
+M  17402 spec_cast_cleric                       Dharia
+M  17403 spec_cast_mage                 Mr. Buzzcut
+M  17404 spec_breath_fire                       Beavis
+M  17405 spec_cast_judge                       Butthead
+M  17406 spec_cast_mage                 Kennedy
+M  17408 spec_thief                     An Intern
+M  17409 spec_cast_mage                 Michael Stipe
+M  17410 spec_cast_mage                 Meatloaf
+M  17411 spec_cast_mage                 Kurt Loder
+M  17412 spec_cast_mage                 Tabitha Soren
+M  17413 spec_cast_mage                 Dan Cortese
+M  17414 spec_guard                 Don Henley
+M  17415 spec_guard                 Glenn Frey
+M  17416 spec_cast_mage                 Joe Walsh
+M  17417 spec_cast_judge                        A Producer
+M  17418 spec_cast_mage                 An Editor
+M  17419 spec_cast_mage                 The Cabbie
+M  17420 spec_cast_undead                       the Ghost of Kurt Cobain
+M  17421 spec_cast_mage                 Ed
+M  17422 spec_cast_mage                 Maria
+M  17423 spec_cast_judge                       Winston
+M  17424 spec_cast_mage                 Rikki
+M  17425 spec_cast_mage                 Bradley
+M  17426 spec_cast_mage                 A member of the State
+M  17427 spec_fido                        Chiapet
+M  17429 spec_cast_cleric                       Bopping Beauty
+M  17430 spec_cast_judge                        a Slamming Stud
+M  17431 spec_cast_mage                 Cindy Crawford
+M  17432 spec_poison                    Todd
+M  17433 spec_cast_mage                 Milton the Cashier
+M  17435 spec_cast_judge                        Xor
+M  17436 spec_fido                      Snarf's steaming turds
+M  17443 spec_cast_cleric                       Pauly Shore
+S
+
+
+#$

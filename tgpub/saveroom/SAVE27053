@@ -1,0 +1,460 @@
+#OBJECT
+Nest         0
+Name         skull white~
+ShortDescr   a strange white skull~
+Description  A strange white skull lies on the floor looking at you.~
+Vnum         7206
+OID          16930
+ExtraFlags   64
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         0
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         misty potion~
+ShortDescr   a misty potion~
+Description  A potion of swirling mist-like substance is here.~
+Vnum         2015
+OID          16931
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         8649
+Values       10 52 -1 -1
+Spell 1      'pass door'
+End
+
+#OBJECT
+Nest         0
+Name         jewel tiger~
+ShortDescr   the tiger jewel~
+Description  The Tiger Jewel lies here blazing.~
+Vnum         5030
+OID          16932
+ExtraFlags   256
+WearFlags    16385
+WearLoc      -1
+ItemType     8
+Weight       23
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         13860
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         instrument mandolin~
+ShortDescr   a mandolin~
+Description  The fine instrument lies here.~
+Vnum         2424
+OID          16933
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         18060
+Values       0 9 12 6
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball Mushroom~
+ShortDescr   the squidgy eyeball of Mushroom~
+Description  The squidgy eyeball of Mushroom rolls around on the floor.~
+Vnum         30006
+OID          16934
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30006 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves~
+ShortDescr   dwarven gloves~
+Description  Thick dwarven gloves lay here.~
+Vnum         6512
+OID          16935
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1960
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         stone blood red~
+ShortDescr   a blood red stone~
+Description  A blood red stone lies here collecting dust.~
+Vnum         2333
+OID          16936
+ExtraFlags   66
+WearFlags    16385
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         108
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wings~
+ShortDescr   a small pair of bat wings~
+Description  A small pair of bat wings is here.~
+Vnum         1332
+OID          16937
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         6875
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         hand Rave~
+ShortDescr   the severed hand of Rave~
+Description  The severed hand of Rave lies on the floor.~
+Vnum         30029
+OID          16938
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       10 0 30029 0
+End
+
+#OBJECT
+Nest         0
+Name         bells~
+ShortDescr   morris bells~
+Description  A set of leggings with a dozen brass bells sewn on has been left here.~
+Vnum         8600
+OID          16939
+ExtraFlags   0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         king's sceptre~
+ShortDescr   the King's sceptre~
+Description  A rod of gold with an ornate ball on the end was left on the ground.~
+Vnum         30600
+OID          16940
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2448
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         bracelet virgo~
+ShortDescr   the Titanic Bracelet of Virgo~
+Description  A bracelet of the Zodiac lies here.~
+Vnum         9311
+OID          16941
+ExtraFlags   1089
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         5060
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+OID          16942
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         792
+Values       12 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         crown marble~
+ShortDescr   a marble crown~
+Description  A crown of marble was dropped here.~
+Vnum         30602
+OID          16943
+ExtraFlags   64
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         20812
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         crown marble~
+ShortDescr   a marble crown~
+Description  A crown of marble was dropped here.~
+Vnum         30602
+OID          16944
+ExtraFlags   64
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7280
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak green~
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+OID          16945
+ExtraFlags   576
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         21150
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm mob~
+ShortDescr   the sliced-off arm of the snail~
+Description  The sliced-off arm of the snail is lying here.~
+Vnum         14
+OID          16946
+ExtraFlags   0
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

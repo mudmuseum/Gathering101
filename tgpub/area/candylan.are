@@ -1,0 +1,11173 @@
+#AREA	Cookie  Candyland~
+
+
+#MOBILES
+#28500
+Green m&m~
+the Green m&m Guard~
+You see a Green m&m here, guarding the gates.
+~
+You see a giant green m&m looking back at you.
+~
+2|8|64 8|32 500 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28501
+brown m&m~
+a brown m&m~
+You see a brown m&m wandering about here.
+~
+You see a giant brown m&m looking back at you.
+~
+64|128 0 800 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28502
+red m&m~
+a red m&m~
+You see a red m&m standing here looking for a fight.
+~
+This m&m here is part of a gang and doesn't like you.
+~
+32|64 4|8|32 300 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28503
+tan m&m~
+a tan m&m~
+You see a small tan m&m walking around here.
+~
+This m&m must have been sunbathing for a while.
+~
+64|128 0 400 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28504
+yellow m&m~
+a yellow m&m~
+You see a yellow m&m sitting here.
+~
+The shine off this guys shell is blinding.
+~
+4|64 0 400 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28505
+orange m&m~
+an orange m&m~
+You see a very strong orange m&m here.
+~
+This is the tough guy of the m&m's.
+~
+4|64 4|8|32|128 500 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28506
+Hershey Kiss~
+a Hershey Kiss~
+You see a small Hershey Kiss wandering around here.
+~
+This small shiny "drop" of chocolate likes to run around
+the land.
+~
+4|64 0 1000 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28586
+Hershey Bar~
+a Hershey bar~
+You see a Hershey Bar here.
+~
+You look and see a Hershey Bar.  She has a kind 
+face and smiles at you while you look at her.
+~
+64|128 0 1000 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28507
+Peanut Butter Cup~
+a Reese's Peanut Butter Cup~
+You see a huge Reese's Peanut Butter Cup here.
+~
+You see a huge Reese's Peanut Butter cup here.
+He growls evilly as your gaze meets his.
+~
+2|4|32 4|8|32 -400 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28508
+Mr. Goodbar~
+Mr. Goodbar~
+You see Mr. Goodbar standing here.
+~
+He looks old, and angry that you have entered
+his house, so he will kill you.
+~
+2|4|32 8|32 -400 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28509
+Milky Way Bar~
+a Milky Way Bar~
+You see a Milky Way Bar here.
+~
+You can see his eyes sparkle, like the 
+REAL Milky Way.
+~
+64 0 300 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28510
+Raisinette Raisin~
+a Raisinette~
+You see a chocolate covered raisin running around here.
+~
+This little guy likes to pick things up, so be careful.
+~
+4|64 2 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28511
+Butterfinger~
+a Butterfinger Bar~
+You see a giant Butterfinger Bar.
+~
+
+~
+64 128 500 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28512
+green m&m peanut~
+a green m&m peanut~
+You see a big green m&m peanut walking around here.
+~
+This is an even bigger version of the other green m&m.
+~
+64 0 200 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28513
+brown m&m peanut~
+a brown m&m peanut~
+You see a brown m&m peanut wandering the area.
+~
+This m&m makes his little brother look REALLY little.
+~
+4|64 0 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28514
+red m&m peanut~
+a red m&m peanut~
+You see a red m&m peanut standing here.
+~
+He doesn't look very happy and growls  
+at you.
+~
+32|64 0 -200 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28515
+tan m&m peanut~
+a tan m&m peanut~
+A tan m&m peanut is running around here.
+~
+You look at her, and see the look of confusion
+on her face.
+~
+4|64 2 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28516
+yellow m&m peanut~
+a yellow m&m peanut~
+You see a big yellow m&m peanut here.
+~
+This guy just looks back at you and smiles.
+~
+64 0 200 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28518
+orange m&m peanut~
+an orange m&m peanut~
+You see an evil looking orange m&m peanut.
+~
+As you examine him, this m&m growls at you.
+~
+64 128 -500 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28519
+Nestles Crunch Bar~
+a Nestles Crunch Bar~
+You look and see a giant chocolate bar.
+~
+As you look, you notice that the crunching
+sound that you heard IS coming from this
+candy bar.
+~
+64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28520
+Kit Kat~
+a Kit Kat bar~
+You hear that annoying jingle as you see a Kit Kat bar.
+~
+You wonder if you can split this guy into his 4 pieces
+easily.
+~
+64 512 600 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28521
+Nerd Candy~
+a Nerd~
+You see a little piece of candy, wearing glasses here.
+~
+This little nerd likes to take things that others have dropped.
+~
+4|64 65536 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28522
+Whatchamacallit Candy~
+a Whatchamacallit~
+You see a strange candy bar, but can't remember it's name.
+~
+As you look, the name comes back...Whatchamacallit.
+~
+64 0 200 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28523
+Snickers Bar~
+a Snickers Bar~
+A giant Snickers Bar is standing here.
+~
+This giant candy bar looks back at you and snickers.
+~
+2 128 500 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28524
+O Henry~
+O Henry Bar~
+O Henry is your bartender.
+~
+Here stands an old grouchy bartender.
+Don't bother trying to order, he'll just ignore you.
+~
+2 128 -500 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28525
+Almond Joy~
+an Almond Joy~
+An Almond Joy Bar is standing here smiling and flexing his muscles.
+~
+Here is the biggest, strongest looking candy bar you've ever seen.
+~
+2 128|512 1000 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28526
+Mounds~
+a Mounds candy bar~
+A Mounds Bar is standing here smiling.
+~
+You see the little brother of the Almond Joy.
+~
+2 128|512 1000 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28527
+3 Three Musketeers musketeer~
+a 3 Musketeers bar~
+One of the 3 Musketeers is wandering here.
+~
+Here is one of the legendary Three Musketeers.
+The other two can't be far behind.
+~
+64 0 500 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28528
+Twizzler licorice~
+a Strawberry Twizzler~
+You see a red piece of Licorice here.
+~
+This tall piece of strawberry licorice towers over you.
+~
+64|128 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28529
+Twizzler licorice~
+a Chocolate Twizzler~
+You see a piece of Chocolate Licorice here.
+~
+This tall piece of chocolate licorice towers over you.
+~
+64|128 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28530
+Jujyfruit~
+a Jujyfruit~
+An evil little Jujyfruit is here hiding in the shadows.
+~
+This little guy likes to steal things...watch out.
+~
+4|64 65536 -750 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28531
+Plumpatroll troll kid~
+a Plumpatroll kid~
+You see a little green Plumpatroll kid playing with a plum.
+~
+This is the ugliest, greenest, fuzziest kid you've ever seen.
+~
+64|128 0 -250 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28532
+Plumpatroll troll adult~
+a Plumpatroll adult~
+You see a full grown Plumpatroll looking for her kid.
+~
+Now you see where the kids get their ugly looks.
+~
+64|128 0 -500 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28533
+Plumpatroll troll guard~
+a Plumpatroll Guard~
+A Plumpatroll guard is wandering the neighborhood.
+~
+This guard does a good job at what he does...guarding things.
+~
+64 0 -750 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28534
+Plumpy king~
+Plumpy~
+The king of the Plumpatrolls is sitting on his throne.
+~
+You see the ugly King of the Plumpatrolls.  
+He is big, green and fuzzy and you don't like
+being in his presence.
+~
+2|4 128 -1000 S
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28536
+peppermint mint bush~
+a peppermint bush~
+You see a little striped mint bush here.
+~
+This little bush isn't very happy that you have entered the forest.
+~
+2|32 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28538
+candy cane tree~
+a candycane tree~
+You see a tall candy cane tree attacking you.
+~
+This tree looks pissed off that you have entered his forest.
+~
+2|32 0 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28540
+Mr. Mint lumberjack~
+Mr. Mint the Lumberjack~
+You see a huge lumberjack cutting down candy cane trees.
+~
+Here is the best lumberjack in the land.
+Everything he owns is red and white and smells
+like mint.
+~
+2|4 128 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28541
+gumdrop~
+a gumdrop~
+You see a gumdrop running around here.
+~
+This big gumdrop would rather squish you than look at you.
+~
+0 0 250 S
+14 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28542
+gumdrop~
+a gumdrop~
+You see a gumdrop running around here.
+~
+This big gumdrop would rather squish you than look at you.
+~
+0 0 250 S
+16 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28543
+Jolly Gumdrop~
+Jolly the Gumdrop~
+You see the biggest gumdrop you've ever seen here.
+~
+Jolly is the ruler of the Gumdrop Mountains.
+He stands before you, hardly even noticing you
+and going about his business.
+~
+2|4 128 500 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28544
+licorice mountain~
+a licorice mountain~
+A giant mountain made of licorice is here, kicking your ass.
+~
+You can't believe what you see...a mountain made entirely of
+licorice.
+~
+2|32 8|32 -500 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28545
+licorice bat~
+a licorice bat~
+A little bat made of licorice flies around your head.
+~
+This bat is really annoying you as it flies around your head.
+~
+32|128 1 -250 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28546
+Lord licorice~
+Lord Licorice~
+Lord Licorice glares evilly at you and attacks you with his whip.
+~
+Lord Licorice is an evil man.  He and King Kandy 
+were once friends, but a fight about what kind 
+of candy was the best, ended that friendship.
+~
+2|32 128 -1000 S
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28547
+peanut nut~
+a Peanut~
+A Peanut rises up from the ground and attacks you.
+~
+This peanut doesn't like people wandering near it.
+~
+2|32 2 -500 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28548
+Grandma nut~
+Grandma Nut~
+Grandma Nut looks kindly at you and offers you some peanut brittle.
+~
+She is a kind old woman, always making peanut brittle.
+She has been around peanuts so long, that she even smells
+like one.
+~
+2|4 128 500 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28549
+lollipop civilian yellow~
+a Yellow Lollipop~
+A Yellow civilian lollipop is wandering through the woods.
+~
+A giant yellow lollipop wanders around here.
+~
+64 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28550
+lollipop private orange~
+an Orange Lollipop Private~
+An Orange lollipop private is here, following orders.
+~
+The lowest in the military ranks, he's trying to avoid
+his superiors.
+~
+4|64 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28551
+lollipop sergeant green~
+a Green Lollipop Sergeant~
+A Green Lollipop Sergeant is here, looking for someone to boss around.
+~
+He likes to boss around people, and is looking for one of the privates
+so that he can do so.
+~
+64 0 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28552
+lollipop captain blue~
+a Blue Lollipop Captain~
+A Blue Lollipop Captain is walking around here.
+~
+He looks back at you, and smiles, knowing he could probably kill you.
+~
+64 0 0 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28553
+lollipop major purple~
+Major Purple~
+Major Purple is here commanding his lollipop forces.
+~
+Major Purple doesn't have time to talk, he's preparing his
+forces for a major attack...on who?  Nobody knows.
+~
+64 0 0 S
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28554
+lollipop general red~
+the Red Lollipop General~
+The Red Lollipop General is here, watching over his troops.
+~
+The general is awaiting the proper time to attack.  He may not
+want to be disturbed.
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28555
+princess lolly~
+Princess Lolly~
+You see the beautiful Princess Lolly here, wandering around her woods.
+~
+Princess Lolly is the daughter of King Kandy.
+For her 10th birthday, she was given these woods
+and rule over the lollipop people as a present.
+What a spoiled brat...eh?
+~
+64 128 0 S
+36 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28556
+ice cream cone~
+an Ice Cream Cone~
+You see a giant Ice Cream Cone looking at you.
+~
+This giant ice cream cone doesn't like you very much.
+~
+64 0 -200 S
+39 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28557
+root beer submarine sub float~
+a Root Beer Submarine~
+A Submarine is floating towards you.
+~
+You look in the sea and see what appears to be a Root Beer Float.
+~
+64 0 -400 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28558
+queen frostine~
+Queen Frostine~
+You see the Queen of the Ice Cream Sea, Queen Frostine.
+~
+She is the evil Queen of the Ice Cream Sea.
+She doesn't like people sailing on the sea
+because she says it taints the ice cream.
+What a bitch...
+~
+2|32 128 -1000 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28559
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28560
+gloppy ruler molasses~
+Gloppy~
+Gloppy, the ruler of the Molasses Swamp stands before you.
+~
+Gloppy is a giant blob of Molasses.
+He hasn't been able to move from this spot in
+years, so he just waits for people to kill.
+~
+2|32 128 -500 S
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28561
+plumpy king plumpatroll~
+Plumpy~
+Plumpy the king of the Plumpatrolls stands before you, guarding the door.
+~
+Plumpy?  didn't you kill him already?
+Someone must have needed him badly, because he
+is back from beyond...and bigger than before.
+~
+2|64 8|32 -1000 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28562
+mr. mint lumberjack~
+Mr. Mint the Lumberjack~
+Mr. Mint the Lumberjack is here guarding the door to the next level
+~
+Mr. Mint is back, and stronger than ever.  You really don't
+want to fight him again, but he is standing between you and
+whatever is beyond this door.
+~
+2|64 8|32 0 S
+39 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28563
+jolly gumdrop~
+Jolly the Gumdrop~
+Jolly the Gumdrop stands in front of the door to the next level.
+~
+You can barely see the door behind this giant reincarnation
+of Jolly.  You just hope that he can be killed again.
+~
+2|64 8|32 500 S
+41 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28564
+lord licorice~
+Lord Licorice~
+Lord Licorice stands here, holding the key to the next level.
+~
+You kind of expected to see Lord Licorice again...
+evil that strong hardly ever dies for good.
+~
+2|64 8|32 -1000 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28565
+grandma nut~
+Grandma Nut~
+Grandma Nut is here, standing in front of the door.
+~
+Grandma Nut looks a bit distrought about being disturbed
+from her peaceful, never-ending (so she thought) sleep.
+Maybe she'll just take it out on you.
+~
+2|64 8|32 500 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28566
+princess lolly~
+Princess Lolly~
+You see Princess Lolly standing before you.
+~
+This isn't the same Princess Lolly as before, 
+she seems a bit older now, and a bit stronger.
+~
+2|64 8|32 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28567
+queen frostine~
+Queen Frostine~
+Queen Frostine is standing here, keeping you from going onward.
+~
+Queen Frostine volunteered to come back from
+the dead and haunt you again.  She enjoys that 
+kind of thing.
+~
+2|64 8|32 -1000 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28568
+gloppy~
+Gloppy~
+Gloppy stands here looking down at you.
+~
+This version of Gloppy is a lot bigger than 
+the last one...and you thought that coulnd't
+be possible.  He not only blocks the door, 
+but he blocks the entire wall behind him.
+~
+2|64 8|32 -500 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28569
+king kandy~
+King Kandy~
+You see the majestic King Kandy sitting at his throne.
+~
+He has been the force behind everything.  He is 
+a kind king, but has a bit of a mischevous streak
+in him.  He thought it would be funny to put you 
+through hell.
+~
+2|8|64 8|32|8192 0 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28570
+yakko warner~
+Yakko~
+Yakko Warner is here, making fun of you.
+~
+You see the oldest of the Warner children.
+Yakko likes to make fun of people, and you are
+no exception.
+~
+64 0 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28571
+wakko warner~
+Wakko~
+Wakko Warner is here, eating everything in sight.
+~
+Wakko is always hungry.  If you have food, you better
+give it to him, he may kill you for it.
+~
+64 0 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28572
+dot warner~
+Dot~
+Dot Warner is here, being cute, of course.
+~
+Isn't she just soooo cute?
+Although she's cute, she could kill you.
+~
+64 0 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#28573
+monster wintergreen~
+The Wintergreen Monster~
+The Wintergreen Monster is here and attacks you.
+~
+This vicious monster has been locked away in the
+attic so it wouldn't kill anyone else.
+I guess whoever put him here was wrong.
+~
+2|32 8|32 -250 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28574
+grandchild child kid~
+a malnourished child~
+You see one of Grandma Nuts grandchildren here.
+~
+This must have been one bad kid to have
+been locked up under the basement stairs
+all his life.
+~
+2|32 0 -500 S
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28575
+guardian rainbow~
+a rainbow guardian~
+A guardian of this rainbow stands here.
+~
+The guardian is here to make sure you are worthy
+of walking on his rainbow.
+~
+2|32 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28576
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28577
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28578
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28579
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28580
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28581
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28582
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28583
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28584
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28585
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28588
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#28587
+pool molasses~
+a Pool of Molasses~
+There is a sticky pool of molasses on the ground.
+~
+This sticky pool can probably kill you with no problem.
+~
+2|32 0 -250 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#28500
+brown candy shell~
+a brown m&m shell~
+You see a brown candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28501
+tan candy shell~
+a tan m&m shell~
+You see a tan candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28502
+red candy shell~
+a red m&m shell~
+You see a red candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28503
+green candy shell~
+a green m&m shell~
+You see a green candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28504
+yellow candy shell~
+a yellow m&m shell~
+You see a yellow candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28505
+orange candy shell~
+an orange m&m shell~
+You see an orange candy shell with the letter 'm' on it.~
+~
+9 0 1|8
+0 0 0 0 
+10 0 0
+#28506
+hershey kiss belt~
+a Hershey Kiss belt~
+A belt made from the wrapper of a Hershey Kiss is here.~
+~
+9 0 1|2048
+0 0 0 0 
+5 0 0
+#28507
+chocolate coif~
+a chocolate coif~
+A coif made of chocolate is lying here.~
+~
+9 0 1|16
+0 0 0 0 
+7 0 0
+#28508
+goodbar bracelet~
+a Goodbar bracelet~
+A sweet smelling bracelet is here on the ground.~
+~
+9 0 1|4096
+0 0 0 0 
+3 0 0
+A
+13 25
+#28509
+peanut butter leggings~
+peanut butter leggings~
+A pair of leggings made from peanut butter lie here.~
+~
+9 0 1|32
+0 0 0 0 
+8 0 0
+A
+2 1
+#28510
+milky white necklace~
+a milky white necklace~
+A white necklace has been left here.~
+~
+9 0 1|4
+0 0 0 0 
+2 0 0
+#28511
+butterfinger ring~
+a Butterfinger ring~
+A ring made from a Butterfinger candy bar is here on the ground.~
+~
+9 0 1|2
+0 0 0 0 
+1 0 0
+A
+2 2
+A
+4 1
+#28512
+crunch shield~
+a crunch shield~
+There is a powerful shield here on the ground, making a crunching sound.~
+~
+9 0 1|512
+0 0 0 0 
+5 0 0
+A
+12 15
+A
+13 25
+A
+18 5
+A
+19 5
+A
+1 2
+#28513
+kit kat bar~
+a Kit Kat bar~
+A Kit Kat bar has been left here.~
+~
+5 0 1|8192
+0 0 0 7 
+3 0 0
+#28514
+whatchamacallit cape~
+a Whatchamacallit cape~
+A Whatchamacallit cape is on the ground here.~
+~
+9 0 1|1024
+0 0 0 0 
+2 0 0
+#28515
+almond~
+an almond~
+An almond has been dropped here.~
+~
+8 0 1|16384
+0 0 0 0 
+2 0 0
+A
+1 2
+#28516
+coconut cloak~
+a coconut cloak~
+A cloak made from coconut is on the ground here.~
+~
+9 0 1|4
+0 0 0 0 
+3 0 0
+#28517
+musketeer sword~
+a Musketeer sword~
+A thin pointy sword is stuck in the ground here.~
+~
+5 0 1|8192
+0 0 0 11 
+5 0 0
+A
+3 1
+#28518
+jujyfruit jacket~
+a Jujyfruit jacket~
+The jacket belonging to a Jujyfruit has been left here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+#28519
+plum key~
+a plum~
+There is a special looking plum here on the ground.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 0
+#28520
+plum amulet~
+a plum shaped amulet~
+A plum on a necklace has been left here.~
+~
+9 1 1|4
+0 0 0 0 
+3 0 0
+A
+5 1
+A
+4 1
+#28521
+mint boots~
+mint boots~
+A red and white striped pair of boots are here on the ground.~
+~
+9 0 1|64
+0 0 0 0 
+5 0 0
+A
+2 2
+#28522
+candy cane axe~
+a candy cane axe~
+A powerful looking red and white striped axe has been left on the ground here.~
+~
+5 1|2 1|8192
+0 0 0 3 
+10 0 0
+#28523
+mint gloves~
+mint gloves~
+A pair of red and white striped gloves are here.~
+~
+9 0 1|128
+0 0 0 0 
+7 0 0
+A
+1 2
+#28524
+peppermint sword~
+a peppermint sword~
+A long mint scented sword has been left here.~
+~
+5 0 1|8192
+0 0 0 0 
+7 0 0
+#28525
+gumdrop glasses~
+a pair of gumdrop glasses~
+A pair of glasses have been dropped here.~
+~
+9 0 1|16
+0 0 0 0 
+2 0 0
+A
+3 2
+A
+4 1
+#28526
+gumdrop belt~
+a gumdrop belt~
+A multicolored belt coated in sugar is here.~
+~
+9 0 1|2048
+0 0 0 0 
+3 0 0
+#28527
+polka dot pants~
+a pair of polka dot pants~
+A pile of pink and purple polka dotted cloth lies here.~
+~
+9 0 1|32
+0 0 0 0 
+2 0 0
+A
+14 50
+#28528
+licorice whip~
+a licorice whip~
+A long whip made of licorice is on the ground here.~
+~
+5 0 1|8192
+0 0 0 4
+3 0 0
+#28529
+licorice staff~
+a licorice staff~
+A long staff made of licorice lies at your feet.~
+~
+3 0 1|16384
+24 10 10 30 
+5 0 0
+#28530
+licorice sleeves~
+licorice sleeves~
+A pair of sleeves made from chocolate and strawberry licorice are here.~
+~
+9 0 1|256
+0 0 0 0 
+7 0 0
+#28531
+nutshell basket~
+a nutshell basket~
+A basket made from the shells of peanuts sits here.~
+~
+15 0 1|16384
+25 1 0 0 
+10 0 0
+#28532
+peanut brittle leggings~
+peanut brittle leggings~
+A pair of leggings made from peanut brittle is here.~
+~
+9 0 1|32
+0 0 0 0 
+7 0 0
+#28533
+lollipop stick~
+a lollipop stick~
+A long white paper stick rests on the ground.~
+~
+5 0 1|8192
+0 0 0 0 
+3 0 0
+#28534
+tiara~
+a tiara~
+You see a beautiful blue tiara here.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+#28535
+ice crown~
+an ice crown~
+There is a crown made of ice and studded with jewels in front of you.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+#28536
+ice wand~
+an ice wand~
+A sparkling wand made of ice is here at your feet.~
+~
+3 0 1|16384
+40 10 10 70 
+5 0 0
+#28537
+cherry stem bracelet~
+a cherry stem bracelet~
+The stem from a cherry waits to be picked up.~
+~
+9 0 1|4096
+0 0 0 0 
+3 0 0
+#28538
+sprinkle wand~
+a sprinkle wand~
+A giant rainbow sprinkle lies on the ground.~
+~
+3 0 1|16384
+35 10 10 25 
+3 0 0
+#28539
+healing molasses~
+healing molasses~
+A jar of molasses seems to have been left here.~
+~
+10 0 1|16384
+45 0 28 68 
+3 0 0
+#28540
+sugar sword~
+a sugar sword~
+A sword made completely of sugar is sticking in the ground here.~
+~
+5 1|2|64 1|8192
+0 0 0 3 
+10 0 0
+A
+13 25
+A
+18 3
+A
+19 5
+#28541
+sugar sleeves~
+sugar sleeves~
+Sleeves made of sugar have been left here.~
+~
+9 0 1|256
+0 0 0 0 
+5 0 0
+A
+1 1
+A
+13 5
+#28542
+sugar leggings~
+sugar leggings~
+Leggings made completely of sugar are lying here.~
+~
+9 0 1|32
+0 0 0 0 
+5 0 0
+A
+2 1
+A
+13 5
+#28543
+sugar helmet~
+a sugar helmet~
+A helmet made of sugar lies at your feet. ~
+~
+9 0 1|16
+0 0 0 0 
+6 0 0
+A
+3 1
+A
+13 5
+#28544
+sugar boots~
+a pair of sugar boots~
+A pair of boots made of sugar have been dropped here.~
+~
+9 0 1|64
+0 0 0 0 
+5 0 0
+A
+14 20
+A
+13 5
+#28545
+sugar shirt~
+a sugar shirt~
+A shirt made of sugar is here at your feet.~
+~
+9 0 1|8
+0 0 0 0 
+6 0 0
+A
+13 15
+#28546
+rock candy sugar amulet~
+a sugar amulet~
+There is some rock candy on a string here on the ground.~
+~
+9 0 1|4
+0 0 0 0 
+3 0 0
+A
+5 1
+A
+13 5
+#28547
+brown sugar ring~
+a brown sugar ring~
+A ring made of brown sugar has been dropped here.~
+~
+9 0 1|2
+0 0 0 0 
+1 0 0
+A
+18 3
+A
+13 5
+#28548
+powdered sugar ring~
+a powdered sugar ring~
+A ring made completely of powdered sugar has been dropped here.~
+~
+9 0 1|2
+0 0 0 0 
+1 0 0
+A
+19 2
+A
+13 5
+#28549
+sugar gauntlets~
+a pair of sugar gauntlets~
+A pair of gauntlets made of sugar are at your feet.~
+~
+9 0 1|128
+0 0 0 0 
+5 0 0
+A
+18 1
+A
+19 1
+A
+13 5
+#28550
+sugar bracelet~
+a sugar bracelet~
+A bracelet made of sugar has been left here.~
+~
+9 0 1|4096
+0 0 0 0 
+5 0 0
+A
+1 2
+A
+13 5
+#28551
+light blue tee shirt~
+a light blue tee shirt~
+A light blue tee shirt is lying here.~
+~
+9 0 1|8
+0 0 0 0 
+3 0 0
+#28552
+a red baseball cap~
+a red baseball cap~
+A red baseball cap has been thrown aside here.~
+~
+9 0 1|16
+0 0 0 0 
+1 0 0
+#28553
+giant mallet~
+a giant mallet~
+A giant mallet is lying here.~
+~
+5 0 1|8192
+0 0 0 7 
+10 0 0
+#28554
+light brown pants~
+a pair of light brown pants~
+A pair of light brown pants have been left here.~
+~
+9 0 1|32
+0 0 0 0 
+3 0 0
+#28555
+black belt~
+a black belt~
+A black belt has been dropped here.~
+~
+9 0 1|2048
+0 0 0 0 
+2 0 0
+#28556
+yellow flower~
+a yellow flower~
+A yellow flower was dropped here.~
+~
+9 0 1|16
+0 0 0 0 
+2 0 0
+#28557
+pink skirt~
+a pink skirt~
+A short pink skirt has been left here.~
+~
+9 0 1|32
+0 0 0 0 
+3 0 0
+#28558
+ring pop~
+a ring pop~
+You see a plastic ring with a giant candy gemstone on it.~
+~
+9 0 1|2
+0 0 0 0 
+2 0 0
+#28559
+candy bracelet~
+a candy bracelet~
+A bracelet made of candy is lying here.~
+~
+9 0 1|4096
+0 0 0 0 
+3 0 0
+#28560
+plum~
+a plum~
+A plum has been dropped here.~
+~
+19 0 1
+5 0 0 0 
+1 0 0
+#28561
+key~
+a plum colored key~
+You see a plum colored key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28562
+key~
+a mint key~
+You see a red and white key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28563
+key~
+a gumdrop key~
+You see a gumdrop key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28564
+key~
+a licorice key~
+You see a licorice key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28565
+key~
+a peanut key~
+You see a peanut key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28566
+key~
+a lollipop key~
+You see a lollipop key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28567
+key~
+an ice key~
+You see an ice key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28568
+key~
+a molasses key~
+You see a molasses key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28569
+key~
+a sugar coated key~
+You see a sugar coated key.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#28570
+plum bracer~
+a plum bracer~
+A purple bracer lies here.~
+~
+9 0 1|4096
+0 0 0 0 
+3 0 0
+#28571
+paddleball paddle ball~
+a paddleball paddle~
+A paddle with a ball on a string is here.~
+~
+5 0 1|8192
+0 0 0 0 
+4 0 0
+#0
+
+
+#ROOMS
+#28500
+Grand Gate of Candyland~
+You are standing at the Grand Gate of Candyland.  This is the legendary
+home of King Kandy.  You can smell the sweet smells of all kinds of different
+candy and you can't wait to get inside.  There is a big banner at the top of 
+the gate and a small plaque next to the gate.
+The gate itself is east.
+South is the path away from Candyland.
+~
+0 0 1
+D1
+The path through candyland.
+~
+gate~
+1 -1 28501
+D3
+~
+~
+0 -1 1020
+E
+plaque~
+The plaque reads as follows:                 
+ 
+                  --------------------------------------------------- 
+                  >  You are about to enter the legendary land      <
+                  >  called Candyland.  Things are not always       <
+                  >  what they seem, so be very careful.            <
+                  >  There are sections of this land for every      <
+                  >  level explorer, so don't be afraid to wander.  <
+                  >                                                 <
+                  >  This area has been brought to you by           <
+                  >  Cookie and Oakley   :)                         <
+                  >  Good luck adventurer.                          <
+                  ---------------------------------------------------
+~
+E
+banner~
+WELCOME TO                                 
+       ***         ***       ***        ***  *****        ***       ***      
+      *****      *** ***     *****      ***  ***  ***      ***     ***
+     **   **    ***   ***    *** **     ***  ***    ***     ***   ***
+    **         ***     ***   ***  **    ***  ***     ***     *** ***
+    **        *************  ***   **   ***  ***     ***      *****
+    **        *************  ***    **  ***  ***     ***       ***
+     **   **  ***       ***  ***     ** ***  ***    ***        ***
+      *****   ***       ***  ***      *****  ***  ***          *** 
+       ***    ***       ***  ***        ***  *****             ***
+
+            ***             ***      ***       ***  *****
+            ***           *** ***    *****     ***  ***  ***
+            ***          ***   ***   *** **    ***  ***    ***
+            ***         ***     ***  ***  **   ***  ***     ***
+            ***         ***********  ***   **  ***  ***     ***
+            ***         ***********  ***    ** ***  ***    ***
+            **********  ***     ***  ***     *****  ***  ***
+            **********  ***     ***  ***       ***  *****
+                
+                where things aren't always what they seem
+ ~
+S
+#28501
+The Path Through Candyland~
+You are standing on a big red square.  Looking ahead, you see a beautiful 
+rainbow.  The path continutes east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28502
+D3
+Towards the Grand Gate of Candyland.
+ ~
+~
+1 -1 28500
+S
+#28502
+The Path Through Candyland~
+You are standing on a big purple square.  The rainbow seems to be getting 
+closer.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28503
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28501
+S
+#28503
+The Path Through Candyland~
+You are standing on a big yellow square.  You are almost at the base of the 
+rainbow.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28504
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28502
+S
+#28504
+The Path Through Candyland~
+You are standing on a big blue square.  The base of the rainbow is one square 
+ahead.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28505
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28503
+S
+#28505
+The Path Through Candyland~
+You are standing on a big orange square.  The path continues east and west.
+To the north, you see a beautiful rainbow.
+There is a sign here.
+~
+0 0 1
+D0
+A beautiful rainbow.
+ ~
+~
+0 -1 28506
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28515
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28504
+E
+rainbow sign~
+The rainbow seems to be a shortcut through this land.
+ It is NOT recommended for anyone under level 25.
+ ~
+S
+#28506
+On the Rainbow~
+You are at the bottom of the giant rainbow.  Beware, you never know what lies 
+ahead.  The rainbow continues north.  Back south is the path.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28507
+D2
+An orange colored square on the path.
+ ~
+~
+0 -1 28505
+S
+#28507
+On the Rainbow~
+You are walking on a giant rainbow.  The colors under your feet are beautiful.
+The rainbow continues north and south.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28508
+D2
+On the rainbow.
+ ~
+~
+0 -1 28506
+S
+#28508
+On the Rainbow~
+You are walking on a giant rainbow.  The rainbow continues north and south.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28509
+D2
+On the rainbow.
+ ~
+~
+0 -1 28507
+S
+#28509
+On the Rainbow~
+You are walking on a giant rainbow.  The rainbow continues north and south.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28510
+D2
+On the rainbow.
+ ~
+~
+0 -1 28508
+S
+#28510
+On the Rainbow~
+You are walking on a giant rainbow.  The rainbow continues north and south.
+~
+0 0 9
+D0
+The top of the rainbow.
+ ~
+~
+0 -1 28511
+D2
+On the rainbow.
+ ~
+~
+0 -1 28509
+S
+#28511
+On the Rainbow~
+You walking down the giant rainbow.  The rainbow continues north and south.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28512
+D2
+On the rainbow.
+ ~
+~
+0 -1 28510
+S
+#28512
+On the Rainbow~
+You getting close to the bottom of the rainbow.  The rainbow continues north 
+and south.
+~
+0 0 9
+D0
+On the rainbow.
+ ~
+~
+0 -1 28513
+D2
+On the rainbow.
+ ~
+~
+0 -1 28511
+S
+#28513
+On the Rainbow~
+You are almost at the bottom of the rainbow.  The rainbow continues north 
+and south.
+~
+0 0 9
+D0
+The bottom of the rainbow.
+ ~
+~
+0 -1 28514
+D2
+On the rainbow.
+ ~
+~
+0 -1 28512
+S
+#28514
+Bottom of the Rainbow~
+You are at the other side of the rainbow shortcut.  You feel very lucky that 
+you made it this far.  The colorful path through Candyland is north.
+The rainbow is south.
+~
+0 2 4
+D0
+The colorful path.
+ ~
+~
+0 -1 28693
+D2
+Bottom of the rainbow.
+ ~
+~
+0 -1 28513
+S
+#28515
+The Path Through Candyland~
+You are standing on a big green square.  Towards the south east, you notice a 
+giant tree.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28516
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28505
+S
+#28516
+The Path Through Candyland~
+You are standing on a big red square.  As you get closer to the tree, you 
+notice some small purple plums.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28517
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28515
+S
+#28517
+The Path Through Candyland~
+You are standing on a big purple square.  Up ahead, you notice a small path 
+leading to the tree.  The path continues east and west.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28518
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28516
+S
+#28518
+A Pink Square on the Path Through Candyland~
+You are standing in front of a small path.  You look down the path and see a 
+HUGE plum tree.  The path continues east and west.  The small path is south.
+There is a sign here.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28546
+D2
+A small path.
+ ~
+~
+0 -1 28519
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28517
+E
+sign~
+In this tree live the plumpatrolls.  They are small fuzzy
+ green trolls who love plums.  
+ This section is recommended for levels 1 - 6.
+ ~
+S
+#28519
+On the Path Among the Gingerbread Plum Trees~
+You are wandering among the gingerbread plum trees.  The path continues south.
+Back north is the path through Candyland.
+~
+0 4 1
+D0
+A pink colored square on the path.
+ ~
+~
+0 -1 28518
+D2
+On the path among the Gingerbread Plum Trees.
+ ~
+~
+0 -1 28520
+S
+#28520
+On the Path Among the Gingerbread Plum Trees~
+You are wandering among the gingerbread plum trees.  The path continues north 
+and south.
+~
+0 0 1
+D0
+Towards the colored path.
+ ~
+~
+0 -1 28519
+D2
+In front of the tree.
+ ~
+~
+0 -1 28521
+S
+#28521
+In Front of the Gingerbread Plum Tree~
+You are standing in front of a giant gingerbread plum tree.  A path goes east 
+and west from here.  To the south, is the giant tree.  North is the path 
+towards the gate.
+~
+0 0 1
+D0
+On the path among the trees.
+ ~
+~
+0 -1 28520
+D1
+Wandering among the Gingerbread Plum Trees.
+ ~
+~
+0 -1 28545
+D2
+The door to the Giant Plum Tree.
+ ~
+~
+2 28519 28522
+D3
+The path among the Gingerbread Plum Trees.
+ ~
+~
+0 -1 28529
+E
+door~
+A door in the trunk of the giant tree.
+ ~
+S
+#28522
+Inside the Tree~
+As you walk in, you realize that this tree is bigger inside than it looks.  A 
+purple carpet begins at the door and runs south towards another door.  North 
+is just outside the tree.
+~
+0 1|8 0
+D0
+Door back out of the tree.
+ ~
+~
+2 28519 28521
+D2
+Inside the tree.
+ ~
+~
+0 -1 28523
+S
+#28523
+The Green Room~
+The carpet leads you to a green room, with pictures of what seem to be 
+Plumpatroll Royalty on the walls.  Boy! Are they ugly!  There is a huge 
+gingerbread door to the south.  Back north is just inside the tree.
+~
+0 1|8 0
+D0
+Just inside the tree.
+ ~
+~
+0 -1 28522
+D2
+A Gingerbread door.
+ ~
+~
+0 -1 28525
+S
+#28525
+Before the Throne Room~
+You are standing before the throne room.  The carpet leads up a huge 
+gingerbread stairway.  To the east and west, you see what look like guard 
+rooms.  North is the green room.
+~
+0 1|8 0
+D0
+The gingerbread door.
+ ~
+~
+0 -1 28523
+D1
+A guard room.
+ ~
+~
+0 -1 28527
+D3
+A guard room.
+ ~
+~
+0 -1 28528
+D4
+You see the throne room.
+ ~
+~
+0 -1 28526
+S
+#28526
+The Throne Room~
+You enter a lavish throne room and as you expect, everything is purple and 
+green.  The throne is in front of you.  Down is just before the throne room.
+~
+0 1|8 0
+D5
+Before the throne room.
+ ~
+~
+0 -1 28525
+E
+throne~
+You see a HUGE ugly throne.  It is green with purple velvet covered
+ cushions on it.  Sitting in his throne is Plumpy, King of the Plumpatrolls.
+ ~
+S
+#28527
+Guard Room~
+You are standing in one of the plumpatroll guard rooms.  There are pictures of 
+little fuzzy green plumpatrolls on the walls.  You hope you aren't spotted in 
+here.  West is before the throne room.
+~
+0 1|8 0
+D3
+before the throne room. 
+ ~
+~
+0 -1 28525
+S
+#28528
+Guard Room~
+You are standing in one of the plumpatroll guard rooms.  There are pictures of 
+little fuzzy green plumpatrolls on the walls.  You hope you aren't spotted in 
+here.  East is before the throne room.
+~
+0 1|8 0
+D1
+before the throne room.
+ ~
+~
+0 -1 28525
+S
+#28529
+Wandering Among the Gingerbread Plum Trees~
+You are walking around on the path through the Plumpatroll village.  The path 
+continues east.  West is just before the giant tree.
+~
+0 0 3
+D1
+Wandering among the gingerbread plum trees.
+ ~
+~
+0 -1 28521
+D3
+The north west corner of the path.
+ ~
+~
+0 -1 28530
+S
+#28530
+Corner of the Path Among the Gingerbread Plum Trees~
+You are standing at the north west corner of the path.  You can continue south 
+towards the houses, or go back east towards the giant tree.
+~
+0 0 3
+D1
+Wandering among the gingerbread plum trees.
+ ~
+~
+0 -1 28529
+D2
+In front of a small house.
+ ~
+~
+0 -1 28531
+S
+#28531
+In Front of a Small House~
+You are standing in front of a small house.  The door to the house is west.
+The path continues south in front of another small house, or north, back among 
+the trees.
+~
+0 0 3
+D0
+Wandering among the gingerbread plum trees.
+ ~
+~
+0 -1 28530
+D2
+In front of a small house.
+ ~
+~
+0 -1 28533
+D3
+Door to a Plumpatroll house.
+ ~
+~
+2 -1 28532
+S
+#28532
+Inside a Small House~
+You enter a messy one room house all decorated in purple and green, the 
+official colors of the Plumpatrolls.  There are plums all over and you have 
+to be careful not to step on them.  The door is east.
+~
+0 1|8 0
+D1
+The front door.
+ ~
+~
+2 -1 28531
+S
+#28533
+In Front of a Small House~
+You are standing in front of a small house.  The door to the house is west.
+The path continues north in front of another small house, or south, to the 
+south west corner of the path.
+~
+0 0 3
+D0
+In front of a small house.
+ ~
+~
+0 -1 28531
+D2
+South west corner of the path.
+ ~
+~
+0 -1 28535
+D3
+Door to a Plumpatroll house.
+ ~
+~
+2 -1 28534
+S
+#28534
+Inside a Small House~
+You enter a messy one room house all decorated in purple and green, the 
+official colors of the Plumpatrolls.  There are plums all over and you 
+have to be careful not to step on them.  The door is east.
+~
+0 1|8 0
+D1
+Front door.
+ ~
+~
+2 -1 28533
+S
+#28535
+Southwest Corner of the Path~
+You are standing at the south west corner of the path.  The path goes north to 
+a small house or east behind the giant tree.
+~
+0 0 3
+D0
+In front of a small house.
+ ~
+~
+0 -1 28533
+D1
+The path behind the giant tree.
+ ~
+~
+0 -1 28536
+S
+#28536
+Path Behind the Giant Tree~
+You are walking on a path behind the giant tree.  The path continues east and 
+west.
+~
+0 0 3
+D1
+Path behind the giant tree.
+ ~
+~
+0 -1 28537
+D3
+South west corner of the path.
+ ~
+~
+0 -1 28535
+S
+#28537
+Path Behind the Giant Tree~
+You are walking on the path behind the giant tree.  The path continues east 
+and west.
+~
+0 0 3
+D1
+Path behind the giant tree.
+ ~
+~
+0 -1 28538
+D3
+Path behind the giant tree.
+ ~
+~
+0 -1 28536
+S
+#28538
+Path Behind the Giant Tree~
+You are walking on the path behind the giant tree.  The path continues east 
+and west.
+~
+0 0 3
+D1
+South east corner of the path.
+ ~
+~
+0 -1 28539
+D3
+Path behind the giant tree.
+ ~
+~
+0 -1 28537
+S
+#28539
+Southeast Corner of the Path~
+You are standing at the south east corner of the path.  The path continues 
+north, towards some small houses or west, behind the giant tree.
+~
+0 0 3
+D0
+In front of a small house.
+ ~
+~
+0 -1 28540
+D3
+Path behind the giant tree.
+ ~
+~
+0 -1 28538
+S
+#28540
+In Front of a Small House~
+You are standing in front of a small house.  The door to the house is east.
+The path continues north in front of another small house, or south, to the 
+south east corner of the path.
+~
+0 0 3
+D0
+In front of a small house.
+ ~
+~
+0 -1 28542
+D1
+Door to a plumpatroll house.
+ ~
+~
+2 -1 28541
+D2
+South east corner of the path.
+ ~
+~
+0 -1 28539
+S
+#28541
+Inside a Small House~
+You enter a messy one room house all decorated in purple and green, the 
+official colors of the Plumpatrolls.  There are plums all over and you have 
+to be careful not to step on them.  The door is west.
+~
+0 1|8 0
+D3
+The front door.
+ ~
+~
+2 -1 28540
+S
+#28542
+In Front of a Small House~
+You are standing in front of a small house.  The door to the house is east.
+The path continues south in front of another small house, or north, back among 
+the trees.
+~
+0 0 3
+D0
+Wandering among the gingerbread plum trees.
+ ~
+~
+0 -1 28544
+D1
+The door to a plumpatroll house.
+ ~
+~
+2 -1 28543
+D2
+In front of a small house.
+ ~
+~
+0 -1 28540
+S
+#28543
+Inside a Small House~
+You enter a messy one room house all decorated in purple and green, the 
+official colors of the Plumpatrolls.  There are plums all over and you have 
+to be careful not to step on them.  The door is west.
+~
+0 1|8 0
+D3
+The front door.
+ ~
+~
+2 -1 28542
+S
+#28544
+Northeast Corner of the Path~
+You are standing at the north east corner of the path.  The path goes south, 
+towards some small houses, or west towards the giant tree.
+~
+0 0 3
+D2
+In front of a small house.
+ ~
+~
+0 -1 28542
+D3
+Among the gingerbread plum trees.
+ ~
+~
+0 -1 28545
+S
+#28545
+Among the Gingerbread Plum Trees~
+You are wandering among the gingerbread plum trees.  The path continues east 
+and west.
+~
+0 0 3
+D1
+The north west corner of the path.
+ ~
+~
+0 -1 28544
+D3
+In front of the giant tree.
+ ~
+~
+0 -1 28521
+S
+#28546
+The Path Through Candyland~
+You are standing on a big yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28547
+D3
+A pink colored square on the path.
+ ~
+~
+0 -1 28518
+S
+#28547
+The Path Through Candyland~
+You are standing on a big blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28548
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28546
+S
+#28548
+The Path Through Candyland~
+You are standing on a big orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28549
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28547
+S
+#28549
+The Path Through Candyland~
+You are standing on a big green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28550
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28548
+S
+#28550
+The Path Through Candyland~
+You are standing on a big red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28551
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28549
+S
+#28551
+The Path Through Candyland~
+You are standing on a big purple square.  You notice a strong smell coming 
+from the east.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28552
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28550
+S
+#28552
+The Path Through Candyland~
+You are standing on a yellow square.  The smell is getting stronger, it seems 
+minty.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28553
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28551
+S
+#28553
+The Path Through Candyland~
+You are standing on a big blue square.  You see a huge red and white striped 
+forest ahead, and notice that it is where the minty smell is coming from.
+The path continues north and west.
+~
+0 0 1
+D0
+A pink colored square on the path.
+ ~
+~
+0 -1 28554
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28552
+S
+#28554
+A Pink Square on the Path Through Candyland~
+You are standing in front of the majestic Peppermint Forest.  All of the trees 
+are red and white striped and have a minty smell to them.  You wonder what 
+lives in this forest.
+You see a sign here.
+~
+0 0 3
+D1
+You see the Peppermint Forest.
+ ~
+~
+0 -1 28555
+D2
+A blue square on the path.
+ ~
+~
+0 -1 28553
+E
+sign~
+You are about to enter the Peppermint Forest.
+ If you are below level 7, You should turn back now.
+ It can get very dangerous.
+ ~
+S
+#28555
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+   ~
+~
+0 -1 28556
+D1
+The Peppermint Forest.
+   ~
+~
+0 -1 28560
+D2
+The Peppermint Forest.
+   ~
+~
+0 -1 28557
+D3
+A pink square on the path.
+   ~
+~
+0 -1 28554
+S
+#28556
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The path out of the forest.
+ ~
+~
+0 -1 28584
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28559
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28555
+S
+#28557
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28555
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28561
+S
+#28558
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28563
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28559
+S
+#28559
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28558
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28564
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28560
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28556
+S
+#28560
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28559
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28565
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28561
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28555
+S
+#28561
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28560
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28566
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28562
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28557
+S
+#28562
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28561
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28567
+S
+#28563
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D1
+In front of a Minty Cabin.
+ ~
+~
+0 -1 28580
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28564
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28558
+S
+#28564
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28563
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28568
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28565
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28559
+S
+#28565
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28564
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28569
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28566
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28560
+S
+#28566
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28565
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28570
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28567
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28561
+S
+#28567
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28566
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28571
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28562
+S
+#28568
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Minty Cabin.
+ ~
+~
+0 -1 28580
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28572
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28569
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28564
+S
+#28569
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28568
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28573
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28570
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28565
+S
+#28570
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28569
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28574
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28571
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28566
+S
+#28571
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28570
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28575
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28567
+S
+#28572
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+Definately, Not Kansas.
+~
+~
+0 -1 9001
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28576
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28573
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28568
+S
+#28573
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28572
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28577
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28574
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28569
+S
+#28574
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28573
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28578
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28575
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28570
+S
+#28575
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28574
+D1
+The Peppermint Forest.
+ ~
+~
+0 -1 28579
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28571
+S
+#28576
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28577
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28572
+S
+#28577
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28576
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28578
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28573
+S
+#28578
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28577
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28579
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28574
+S
+#28579
+The Peppermint Forest~
+You are wandering in the peppermint forest and there are huge trees towering 
+over you.  They even block the sky above and it's hard to see anything in any 
+direction.
+~
+0 0 3
+D0
+The Peppermint Forest.
+ ~
+~
+0 -1 28578
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28575
+S
+#28580
+In Front of the Minty Cabin~
+You are standing in front of a log cabin.  Instead of normal logs, you notice 
+that they are very large candy canes.  There is a strong smell of mint from 
+the cabin.  The cabin is east and the forest is west and south.
+~
+0 0 3
+D1
+The Minty Cabin.
+ ~
+~
+2 -1 28581
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28568
+D3
+The Peppermint Forest.
+ ~
+~
+0 -1 28563
+S
+#28581
+Inside the Minty Cabin~
+This is a nice minty looking cabin.  It's very small - it seems like only one 
+person lives here.  There are stairs leading up - probably a bedroom.  The 
+door out of the cabin is west.
+~
+0 8 0
+D3
+Outside the Minty Cabin.
+ ~
+~
+2 0 28580
+D4
+A Bedroom.
+ ~
+~
+0 -1 28582
+S
+#28582
+The Bedroom~
+As you reach the second floor, the smell of mint is starting to overpower you.
+The bed is neatly made, and the windowpanes sparkle.  There are no other rooms 
+- on this floor.
+~
+0 8 0
+D4
+~
+~
+2 -1 28583
+D5
+Inside the Minty Cabin.
+ ~
+~
+0 -1 28581
+E
+up~
+You see a hidden trap door.
+ ~
+S
+#28583
+The Attic~
+As soon as you reach the attic, you wish you hadn't looked for that trap door. 
+RUN!!!!!!!
+~
+0 8 0
+D5
+The Bedroom.
+ ~
+~
+0 -1 28582
+S
+#28584
+Towards the Path through Candyland~
+You are standing at the edge of the Peppermint Forest.  The forest is south, 
+and the path is west.
+~
+0 0 2
+D2
+The Peppermint Forest.
+ ~
+~
+0 -1 28556
+D3
+An orange square on the path.
+ ~
+~
+0 -1 28585
+S
+#28585
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28584
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28586
+S
+#28586
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28585
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28587
+S
+#28587
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28586
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28588
+S
+#28588
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28587
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28589
+S
+#28589
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28588
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28590
+S
+#28590
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28589
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28591
+S
+#28591
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28590
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28592
+S
+#28592
+The Path Through Candyland~
+You are standing on a green square.  The path continues north and east.
+~
+0 0 1
+D0
+A red colored square on the path.
+ ~
+~
+0 -1 28593
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28591
+S
+#28593
+The Path Through Candyland~
+You are standing on a red square.  The path continues north and south.
+~
+0 0 1
+D0
+A purple colored square on the path.
+ ~
+~
+0 -1 28594
+D2
+A green colored square on the path.
+ ~
+~
+0 -1 28592
+S
+#28594
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and south.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28595
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28593
+S
+#28595
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28596
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28594
+S
+#28596
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28597
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28595
+S
+#28597
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28598
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28596
+S
+#28598
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+There is a small building south.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28599
+D2
+A small building.
+ ~
+~
+2 -1 28600
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28597
+S
+#28599
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28601
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28598
+S
+#28600
+The Clubhouse~
+You are standing in the clubhouse of the red m&m's.  They are a violent gang 
+and won't like the fact that you have entered their clubhouse.  The door is 
+north.
+~
+0 8 0
+D0
+A green colored square on the path.
+ ~
+~
+2 -1 28598
+S
+#28601
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+A small path goes north.
+~
+0 0 1
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28602
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28608
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28599
+S
+#28602
+The Gumdrop Path~
+You are walking on a path around the Gumdrop Mountains.  This seems like a 
+shorcut.  You wonder if it's really worth it.  The path continues north, and 
+there is a purple colored square south.
+~
+0 0 4
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28603
+D2
+A purple colored square on the path.
+ ~
+~
+0 -1 28601
+S
+#28603
+The Gumdrop Path~
+You are walking on the Gumdrop path.  The path continues north and south.
+~
+0 0 4
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28604
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28602
+S
+#28604
+The Gumdrop Path~
+You are walking on the Gumdrop path.  The path continues north and south.
+~
+0 0 4
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28605
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28603
+S
+#28605
+The Gumdrop Path~
+You are walking on the Gumdrop path.  The path continues north and south.
+~
+0 0 4
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28606
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28604
+S
+#28606
+The Gumdrop Path~
+You are walking on the Gumdrop path.  The path continues north and south.
+~
+0 0 4
+D0
+The Gumdrop path.
+ ~
+~
+0 -1 28607
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28605
+S
+#28607
+The Gumdrop Path~
+You are walking on the Gumdrop path.  The path continues north and south.
+~
+0 0 4
+D0
+A purple square on the path.
+ ~
+~
+0 -1 28644
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28606
+S
+#28608
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28609
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28601
+S
+#28609
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28610
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28608
+S
+#28610
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28611
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28609
+S
+#28611
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28612
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28610
+S
+#28612
+The Path Through Candyland~
+You are standing on a red square.  The path continues north and west.
+~
+0 0 1
+D0
+A purple colored square on the path.
+ ~
+~
+0 -1 28613
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28611
+S
+#28613
+The Path Through Candyland~
+You are standing on a purple square.  The path continues north and south.
+~
+0 0 1
+D0
+A yellow colored square on the path.
+ ~
+~
+0 -1 28614
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28612
+S
+#28614
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues north and south.
+~
+0 0 1
+D0
+A blue colored square on the path.
+ ~
+~
+0 -1 28615
+D2
+A purple colored square on the path.
+ ~
+~
+0 -1 28613
+S
+#28615
+The Path Through Candyland~
+You are standing on a blue square.  The path continues west and south.
+~
+0 0 1
+D2
+A yellow colored square on the path.
+ ~
+~
+0 -1 28614
+D3
+A pink colored square on the path.
+ ~
+~
+0 -1 28616
+S
+#28616
+A Pink Square on the Path Through Candyland~
+You are standing at the entrance to the Gumdrop Mountains.  The mountains are 
+made up of all different colors.  The mountains are south and the path is east.
+There is a sign here.
+~
+0 0 1
+D1
+A blue square on the path.
+ ~
+~
+0 -1 28615
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28617
+E
+sign~
+You are about to enter the Gumdrop mountains.
+ The mountains are very dangerous and are not
+ for anyone under level 16,
+ ~
+S
+#28617
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  They are made up of some kind 
+of sticky substance and you find it kind of hard to walk.  As you look at the 
+ground, you notice large white chunks of what appears to be sugar.  The path 
+through the mountains continue west and south.  North you see a pink square.
+~
+0 4 5
+D0
+A pink square on the path.
+ ~
+~
+0 -1 28616
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28618
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28621
+S
+#28618
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and 
+south.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28617
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28619
+S
+#28619
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and 
+south.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28618
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28620
+S
+#28620
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and 
+west.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28619
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28622
+S
+#28621
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east and
+west.
+~
+0 0 4
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28617
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28625
+S
+#28622
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east, west and
+south.
+~
+0 0 5
+D1
+The Gumdrop Mountians.
+ ~
+~
+0 -1 28620
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28623
+D3
+The Gumdrop Mountians.
+ ~
+~
+0 -1 28627
+S
+#28623
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28622
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28624
+S
+#28624
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and 
+west.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28623
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28628
+S
+#28625
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east and
+south.
+~
+0 0 4
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28621
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28626
+S
+#28626
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north, south
+and west.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28625
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28627
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28629
+S
+#28627
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+east.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28626
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28622
+S
+#28628
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east and 
+west.
+~
+0 0 5
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28624
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28631
+S
+#28629
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east and
+west.
+~
+0 0 4
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28626
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28632
+S
+#28630
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues south and
+west.
+~
+0 0 5
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28631
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28634
+S
+#28631
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and 
+east.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28630
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28628
+S
+#28632
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues east and
+south.
+~
+0 0 4
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28629
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28633
+S
+#28633
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28632
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28634
+S
+#28634
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north, east 
+and west.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28633
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28630
+D3
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28635
+S
+#28635
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+east.
+~
+0 0 4
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28636
+D1
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28634
+S
+#28636
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28637
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28635
+S
+#28637
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28639
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28636
+S
+#28639
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 0 5
+D0
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28640
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28637
+S
+#28640
+The Gumdrop Mountains~
+You are wandering around the Gumdrop Mountains.  The Mountains are very sticky 
+and you have trouble moving freely around here.  You only hope that you can 
+safely find a way out.  The path through the mountains continues north and
+south.
+~
+0 4 5
+D0
+An orange square on the path.
+ ~
+~
+0 -1 28641
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28639
+S
+#28641
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+The Gumdrop Mountains are south.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28616
+D2
+The Gumdrop Mountains.
+ ~
+~
+0 -1 28640
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28642
+S
+#28642
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28641
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28643
+S
+#28643
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28642
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28644
+S
+#28644
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+The Gumdrop path is south.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28643
+D2
+The Gumdrop path.
+ ~
+~
+0 -1 28607
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28645
+S
+#28645
+The Path Through Candyland~
+You are standing on an yellow square.  Exits go in all cardinal directions
+except north, and up.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28644
+D2
+A pink colored square on the path.
+ ~
+~
+0 -1 28616
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28646
+D5
+A pink colored square on the path.
+ ~
+~
+0 -1 28518
+S
+#28646
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28645
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28647
+S
+#28647
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28646
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28648
+S
+#28648
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.  A 
+giant castle is south of here.
+There is a sign here.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28647
+D2
+A mountain path to a castle.
+ ~
+~
+0 -1 28649
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28686
+E
+sign~
+This path goes to the licorice castle.
+ This castle is not for anyone under 
+ level 22.
+ ~
+S
+#28649
+A Mountain Path~
+You are walking on a mountain path towards a red and black castle.  The path 
+continues north and south.
+~
+0 4 5
+D0
+A green colored square on the path.
+ ~
+~
+0 -1 28648
+D2
+A mountain path.
+ ~
+~
+0 -1 28650
+S
+#28650
+A Mountain Path~
+You are walking on a mountain path towards a red and black castle.  The path 
+continues north and south.
+~
+0 1 5
+D0
+A mountain path.
+ ~
+~
+0 -1 28649
+D2
+A mountain path.
+ ~
+~
+0 -1 28651
+S
+#28651
+A Mountain Path~
+You are walking on a mountain path towards a red and black castle.  The path 
+continues north and south.
+~
+0 1 5
+D0
+A mountain path.
+ ~
+~
+0 -1 28650
+D2
+A mountain path.
+ ~
+~
+0 -1 28652
+S
+#28652
+A Mountain Path~
+You are walking on a mountain path towards a red and black castle.  The path 
+continues north and west.
+~
+0 1 5
+D0
+A mountain path.
+ ~
+~
+0 -1 28651
+D3
+A mountain path.
+ ~
+~
+0 -1 28653
+S
+#28653
+A Mountain Path~
+You are walking on a mountain path towards a red and black castle.  The castle 
+is west, across the moat.  The mountain path continues east.
+~
+0 1 5
+D1
+A mountain path.
+ ~
+~
+0 -1 28652
+D3
+The moat before the castle.
+ ~
+~
+0 -1 28654
+S
+#28654
+The Moat Before the Castle~
+You are floating on the moat before the Licorice Castle.  In this castle lives 
+the evil Lord Licorice.  The castle gate is west, the path away from the castle 
+is east.
+~
+0 1 7
+D1
+A mountain path.
+ ~
+~
+0 -1 28653
+D3
+The entrance room of the Licorice Castle
+ ~
+~
+2 -1 28657
+S
+#28655
+Northeast Corner of the Castle~
+You are standing at the base of the North east tower of the Licorice Castle.  
+There is a spiral staircase up, the hallway goes west and south.
+~
+0 1|8 0
+D2
+The hallway.
+ ~
+~
+0 -1 28656
+D3
+The hallway.
+ ~
+~
+0 -1 28660
+D4
+The North east tower.
+ ~
+~
+0 -1 28667
+S
+#28656
+The Hallway~
+You are standing in a big hallway.  There is a tower north of here.  The grand 
+entranceway is south.
+~
+0 1|8 0
+D0
+The North east tower.
+ ~
+~
+0 -1 28655
+D2
+The Grand Entranceway.
+ ~
+~
+0 -1 28657
+S
+#28657
+The Grand Entranceway~
+You are standing in the Grand Entranceway of the Licorice Castle.  The walls 
+are completely covered in...actually completely MADE of chocolate and 
+strawberry licorice.  The hallway goes north, south and west.  The moat is 
+east.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28656
+D1
+The moat before the castle.
+ ~
+~
+2 -1 28654
+D2
+The hallway.
+ ~
+~
+0 -1 28658
+D3
+The hallway.
+ ~
+~
+0 -1 28661
+S
+#28658
+The Hallway~
+You are standing in a big hallway.  There is a tower south of here.  The grand 
+entranceway is north.
+~
+0 1|8 0
+D0
+The Grand Entranceway.
+ ~
+~
+0 -1 28657
+D2
+The South east tower.
+ ~
+~
+0 -1 28659
+S
+#28659
+Southeast Corner of the Castle~
+You are standing at the base of the south east tower of the Licorice Castle.
+There is a spiral staircase up.  The hallway goes north and west.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28658
+D3
+The hallway.
+ ~
+~
+0 -1 28662
+D4
+The South east tower.
+ ~
+~
+0 -1 28668
+S
+#28660
+The Hallway~
+You are standing in a big hallway.  There are towers both east and west of you.
+~
+0 1|8 0
+D1
+The North east tower.
+ ~
+~
+0 -1 28655
+D3
+The North west tower.
+ ~
+~
+0 -1 28663
+S
+#28661
+The Hallway~
+You are standing in a big hallway.  The Grand Entranceway is east.  The hallway 
+continues west.
+~
+0 1|8 0
+D1
+The Grand Entranceway.
+ ~
+~
+0 -1 28657
+D3
+The hallway.
+ ~
+~
+0 -1 28664
+S
+#28662
+The Hallway~
+You are standing in a big hallway.  There are towers both east and west of you.
+~
+0 1|8 0
+D1
+The South east tower.
+ ~
+~
+0 -1 28659
+D3
+The South west tower.
+ ~
+~
+0 -1 28665
+S
+#28663
+The Northwest Corner of the Castle~
+You are standing at the base of the North west tower.  There is a spiral 
+staircase up.  The hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28660
+D4
+The North west tower.
+ ~
+~
+0 -1 28669
+S
+#28664
+The Hallway~
+You are standing in a big hallway.  The hallway is east and the central tower 
+is west.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28661
+D3
+The Central tower.
+ ~
+~
+0 -1 28666
+S
+#28665
+The Southwest Corner of the Castle~
+You are standing at the base of the South west tower.  There is a spiral 
+staircase going up.  The hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28662
+D4
+The South west tower.
+ ~
+~
+0 -1 28670
+S
+#28666
+The Central Tower~
+You are standing at the base of the Central tower.  There is a spiral staircase 
+going up.  The hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28664
+D4
+The Central tower.
+ ~
+~
+0 -1 28671
+S
+#28667
+The Northeast Tower~
+You are part way up the North east tower.  There are stairs going up and down.
+~
+0 1|8 0
+D4
+The top of the North east tower.
+ ~
+~
+0 -1 28672
+D5
+The north east corner of the castle.
+ ~
+~
+0 -1 28655
+S
+#28668
+The Southeast Tower~
+You are part way up the South east tower.  There are stairs going up and down.
+~
+0 1|8 0
+D4
+The top of the South east tower.
+ ~
+~
+0 -1 28673
+D5
+The South east corner of the castle.
+ ~
+~
+0 -1 28659
+S
+#28669
+The Northwest Tower~
+You are part way up the North west tower.  There are stairs going up and down.
+~
+0 1|8 0
+D4
+The top of the North west tower.
+ ~
+~
+0 -1 28680
+D5
+The North west corner of the castle.
+ ~
+~
+0 -1 28663
+S
+#28670
+The Southwest Tower~
+You are part way up the South west tower.  There are stairs going up and down.
+~
+0 1|8 0
+D4
+The top of the South west tower.
+ ~
+~
+0 -1 28682
+D5
+The South west tower
+ ~
+~
+0 -1 28665
+S
+#28671
+The Central Tower~
+You are part way up the Central tower.  There are stairs going up and down.
+~
+0 1|8 0
+D4
+Halfway up the Central tower.
+ ~
+~
+0 -1 28683
+D5
+The base of the Central tower.
+ ~
+~
+0 -1 28666
+S
+#28672
+Top of the Northeast Tower~
+You are standing at the top of the North east tower.  There is a spiral 
+staircase going down and the hallway goes west.
+~
+0 1|8 0
+D3
+The hallway.
+ ~
+~
+0 -1 28674
+D5
+The North east tower
+ ~
+~
+0 -1 28667
+S
+#28673
+Top of the Southeast Tower~
+You are standing at the top of the South east tower.  There is a spiral 
+staircase going down and the hallway goes west.
+~
+0 1|8 0
+D3
+The hallway.
+ ~
+~
+0 -1 28679
+D5
+The South east tower
+ ~
+~
+0 -1 28668
+S
+#28674
+The Hallway~
+You are standing in a big hallway.  The tops of the towers are both east and 
+west of you.  The hallway is south.
+~
+0 1|8 0
+D1
+Top of the North east tower.
+ ~
+~
+0 -1 28672
+D2
+The hallway.
+ ~
+~
+0 -1 28675
+D3
+Top of the North west tower.
+ ~
+~
+0 -1 28680
+S
+#28675
+The Hallway~
+You are standing in a big hallway.  The hallway continues north and south.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28674
+D2
+The hallway.
+ ~
+~
+0 -1 28676
+S
+#28676
+The Hallway~
+You are standing in a big hallway.  The hallway continues north, south and 
+west.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28675
+D2
+The hallway.
+ ~
+~
+0 -1 28678
+D3
+The hallway.
+ ~
+~
+0 -1 28681
+S
+#28678
+The Hallway~
+You are standing in a big hallway.  The hallway continues north and south.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28676
+D2
+The hallway.
+ ~
+~
+0 -1 28679
+S
+#28679
+The Hallway~
+You are standing in a big hallway.  The tops of the towers are both east and 
+west of you.  The hallway is north.
+~
+0 1|8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28678
+D1
+Top of the South east tower.
+ ~
+~
+0 -1 28673
+D3
+Top of the South west tower.
+ ~
+~
+0 -1 28682
+S
+#28680
+Top of the Northwest Tower~
+You are at the top of the North west tower.  There is a spiral staircase going 
+down.  The hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28674
+D5
+The North west tower.
+ ~
+~
+0 -1 28669
+S
+#28681
+The Hallway~
+You are standing in a big hallway.  The hallway continues east and to the west, 
+is the Central tower.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28676
+D3
+The Central tower.
+ ~
+~
+0 -1 28683
+S
+#28682
+Top of the Southwest Tower~
+You are at the top of the South west tower.  There is a spiral staircase going 
+down.  The hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28679
+D5
+The South west tower.
+ ~
+~
+0 -1 28670
+S
+#28683
+The Central Tower~
+You are halfway up the Central tower.  Looking up, you can see the top of the 
+tower.  It appears to be a throne room.  The tower goes up and down and the 
+hallway is east.
+~
+0 1|8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28681
+D4
+The Throne room.
+ ~
+~
+0 -1 28684
+D5
+The Central tower.
+ ~
+~
+0 -1 28671
+S
+#28684
+The Throne Room~
+You are standing in the throne room of the evil Lord Licorice.  There is a 
+carpet leading up a small flight of stairs to the throne.  The tower goes down.
+~
+0 1|8 0
+D4
+Before the Throne.
+ ~
+~
+0 -1 28685
+D5
+The Central tower.
+ ~
+~
+0 -1 28683
+S
+#28685
+Before the Throne~
+You are standing in front of the throne of the evil Lord Licorice.  There are 
+torches lining the wall behind the throne.  The stairs go down.
+~
+0 8 0
+D5
+The Throne room.
+ ~
+~
+0 -1 28684
+S
+#28686
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28648
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28687
+S
+#28687
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28686
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28688
+S
+#28688
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28687
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28689
+S
+#28689
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28688
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28690
+S
+#28690
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28689
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28691
+S
+#28691
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28690
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28692
+S
+#28692
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28691
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28693
+S
+#28693
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.  The 
+rainbow is south.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28692
+D2
+The bottom of the rainbow.
+ ~
+~
+0 -1 28514
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28694
+S
+#28694
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28693
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28695
+S
+#28695
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28694
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28696
+S
+#28696
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28695
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28697
+S
+#28697
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28696
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28698
+S
+#28698
+The Path Through Candyland~
+You are standing on a red square.  The path continues north and east.
+~
+0 0 1
+D0
+A purple colored square on the path.
+ ~
+~
+0 -1 28699
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28697
+S
+#28699
+The Path Through Candyland~
+You are standing on a purple square.  The path continues north and south.
+~
+0 0 1
+D0
+A yellow colored square on the path.
+ ~
+~
+0 -1 28700
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28698
+S
+#28700
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues south and east.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28701
+D2
+A purple colored square on the path.
+ ~
+~
+0 -1 28699
+S
+#28701
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28702
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28700
+S
+#28702
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28703
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28701
+S
+#28703
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28704
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28702
+S
+#28704
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28705
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28703
+S
+#28705
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28706
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28704
+S
+#28706
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues north and west.
+~
+0 0 1
+D0
+A blue colored square on the path.
+ ~
+~
+0 -1 28707
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28705
+S
+#28707
+The Path Through Candyland~
+You are standing on a blue square.  The path continues north and south.
+~
+0 0 1
+D0
+An orange colored square on the path.
+ ~
+~
+0 -1 28708
+D2
+A yellow colored square on the path.
+ ~
+~
+0 -1 28706
+S
+#28708
+The Path Through Candyland~
+You are standing on an orange square.  The path continues south and west.
+~
+0 0 1
+D2
+A blue colored square on the path.
+ ~
+~
+0 -1 28707
+D3
+A pink colored square on the path.
+ ~
+~
+0 -1 28709
+S
+#28709
+A Pink Square on the Path Through Candyland~
+You are standing on a pink square on the path through candyland.  The path 
+continues east and west, and there is a small path south towards a small 
+cottage.
+There is a sign here.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28708
+D2
+The path to Grandma's house.
+ ~
+~
+0 -1 28710
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28782
+E
+sign~
+This is the path to Grandma Nut's house.
+ If you are lower than level 27, do not 
+ follow this path.
+ ~
+S
+#28710
+On the Path to Grandma's House~
+You are walking along a path to Grandma Nut's house.  There are vines all 
+across the path.  The path continues west.  North is the path through 
+Candyland.
+~
+0 0 1
+D0
+A pink colored square on the path.
+ ~
+~
+0 -1 28709
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28711
+S
+#28711
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28710
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28712
+S
+#28712
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and south.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28711
+D2
+On the path to Grandma's house.
+ ~
+~
+0 -1 28713
+S
+#28713
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and west.
+~
+0 0 1
+D0
+On the path to Grandma's house.
+ ~
+~
+0 -1 28712
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28714
+S
+#28714
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and south.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28713
+D2
+On the path to Grandma's house.
+ ~
+~
+0 -1 28715
+S
+#28715
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and west.
+~
+0 0 1
+D0
+On the path to Grandma's house.
+ ~
+~
+0 -1 28714
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28716
+S
+#28716
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28715
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28718
+S
+#28717
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28718
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28719
+S
+#28718
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and east.
+~
+0 0 1
+D0
+On the path to Grandma's house.
+ ~
+~
+0 -1 28717
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28716
+S
+#28719
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28717
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28720
+S
+#28720
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues south and east.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28719
+D2
+On the path to Grandma's house.
+ ~
+~
+0 -1 28721
+S
+#28721
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+On the path to Grandma's house.
+ ~
+~
+0 -1 28720
+D2
+On the path to Grandma's house.
+ ~
+~
+0 -1 28722
+S
+#28722
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and west.
+~
+0 0 1
+D0
+On the path to Grandma's house.
+ ~
+~
+0 -1 28721
+D3
+On the path to Grandma's house.
+ ~
+~
+0 -1 28723
+S
+#28723
+On the Path to Grandma's House~
+You are walking along the path to Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path to Grandma's house.
+ ~
+~
+0 -1 28722
+D3
+In front of Grandma's house.
+ ~
+~
+0 -1 28726
+S
+#28724
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues south and west.
+~
+0 0 1
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28725
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28729
+S
+#28725
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28724
+D2
+In front of Grandma's house.
+ ~
+~
+0 -1 28726
+S
+#28726
+In Front of Grandma's House~
+You are standing in front of the front door of Grandma Nut's house.  The whole 
+place smells like nuts.  The door is west, the path around Grandma's house 
+continues north and south and the path away from the house is east.
+~
+0 1 0
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28725
+D1
+The path away from Grandma's house.
+ ~
+~
+0 -1 28723
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28727
+D3
+The front door to Grandma's house.
+ ~
+~
+2 -1 28740
+S
+#28727
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+In front of Grandma's house.
+ ~
+~
+0 -1 28726
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28728
+S
+#28728
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and west.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28727
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28730
+S
+#28729
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28724
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28731
+S
+#28730
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28728
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28732
+S
+#28731
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28729
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28733
+S
+#28732
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28730
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28734
+S
+#28733
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28731
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28735
+S
+#28734
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues east and west.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28732
+D3
+On the path around Grandma's house.
+ ~
+~
+0 -1 28739
+S
+#28735
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues south and east.
+~
+0 0 1
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28733
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28736
+S
+#28736
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28735
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28737
+S
+#28737
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28736
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28738
+S
+#28738
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and south.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28737
+D2
+On the path around Grandma's house.
+ ~
+~
+0 -1 28739
+S
+#28739
+On the Path Around Grandma's House~
+You are walking along the path around Grandma Nut's house.  There are peanuts 
+growing on either side of the path.  The path continues north and east.
+~
+0 0 1
+D0
+On the path around Grandma's house.
+ ~
+~
+0 -1 28738
+D1
+On the path around Grandma's house.
+ ~
+~
+0 -1 28734
+S
+#28740
+Inside Grandma's House~
+You are standing just inside the front door of Grandma Nut's house.  The whole 
+house smells like peanuts.  The front door is back east and a hallway leads 
+west to the rest of the house.
+~
+0 8 0
+D1
+The front door of the house.
+ ~
+~
+2 -1 28726
+D3
+The hallway.
+ ~
+~
+0 -1 28741
+S
+#28741
+The Hallway~
+You are standing in a small hallway.  The hallway continues west and leads back 
+to the front door east.
+~
+0 8 0
+D1
+Just inside Grandma's house.
+ ~
+~
+0 -1 28740
+D3
+The halllway in front of the kitchen.
+ ~
+~
+0 -1 28742
+S
+#28742
+Standing in Front of the Kitchen~
+You are standing in the hallway, in front of the kitchen.  There is a door to 
+the south and the hallway continues east and west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28741
+D2
+The kitchen.
+ ~
+~
+1 -1 28743
+D3
+The hallway.
+ ~
+~
+0 -1 28745
+S
+#28743
+Inside the Kitchen~
+You are standing inside of Grandma Nut's kitchen.  This is the place where she 
+makes all of her goodies.  In fact, you can smell something baking in the oven.
+The kitchen continues west and south, and the hallway is north.
+~
+0 8 0
+D0
+In front of the kitchen.
+ ~
+~
+1 -1 28742
+D2
+In the kitchen.
+ ~
+~
+0 -1 28744
+D3
+In the kitchen.
+ ~
+~
+0 -1 28746
+S
+#28744
+In the Kitchen~
+You are standing in Grandma Nut's kitchen.  There are all kinds of cooking 
+utensils scattered around the kitchen counters.  There is flour everywhere.  
+She was never famous for her cleanliness, only her peanut brittle, which you 
+can smell being made.  The kitchen continues north and west.
+~
+0 8 0
+D0
+Inside the kitchen.
+ ~
+~
+0 -1 28743
+D3
+In the kitchen.
+ ~
+~
+0 -1 28747
+S
+#28745
+The Hallway~
+You are standing in a long hallway.  The hallway continues east and west.
+~
+0 8 0
+D1
+In front of the kitchen.
+ ~
+~
+0 -1 28742
+D3
+The hallway.
+ ~
+~
+0 -1 28749
+S
+#28746
+In the Kitchen~
+You are standing in Grandma Nut's kitchen.  There is a strong smell of peanut 
+brittle all around you.  The kitchen continues south and east.
+~
+0 8 0
+D1
+Inside the kitchen.
+ ~
+~
+0 -1 28743
+D2
+In the kitchen.
+ ~
+~
+0 -1 28747
+S
+#28747
+In the Kitchen~
+You are standing in Grandma Nut's kitchen.  The kitchen continues north and 
+east, and there is a closet to the west.
+~
+0 8 0
+D0
+In the kitchen.
+ ~
+~
+0 -1 28746
+D1
+In the kitchen.
+ ~
+~
+0 -1 28744
+D3
+The kitchen closet.
+ ~
+~
+2 -1 28750
+S
+#28748
+The Hall Closet~
+You are standing in the hall closet.  All of Grandma's coats are hanging here.
+The hall is south.
+~
+0 1|8 0
+D2
+The hallway.
+ ~
+~
+2 -1 28749
+S
+#28749
+The Hallway~
+You are walking down a long hallway.  The hallway continues east and west and
+there is a closet north.
+~
+0 8 0
+D0
+The hall closet.
+ ~
+~
+2 -1 28748
+D1
+The hallway.
+ ~
+~
+0 -1 28745
+D3
+The hallway.
+ ~
+~
+0 -1 28751
+S
+#28750
+The Kitchen Closet~
+You are standing in the kitchen closet.  It is full of pots and pans.  This is 
+also the place that Grandma keeps her peanuts.  The door is east.
+~
+0 1|8 0
+D1
+In the kitchen.
+ ~
+~
+2 -1 28747
+S
+#28751
+The Hallway~
+You are walking down a long hallway.  The hall continues east and west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28749
+D3
+The hallway.
+ ~
+~
+0 -1 28752
+S
+#28752
+The Hallway~
+You are walking down a long hallway.  The hall continues east and west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28751
+D3
+The hallway.
+ ~
+~
+0 -1 28753
+S
+#28753
+The Hallway~
+You are near the end of a long hallway.  The hallway continues east and there 
+is another hallway west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28752
+D3
+The intersection of the hallways.
+ ~
+~
+0 -1 28756
+S
+#28754
+The End of the Hall~
+You are standing at the end of the north south hall.  There is a flight of 
+stairs going down, and the hallway is south.
+~
+0 8 0
+D2
+The hallway.
+ ~
+~
+0 -1 28755
+D5
+The basement.
+ ~
+~
+0 -1 28770
+S
+#28755
+The Hallway~
+You are standing in a north south running hallway.  The basement stairs are 
+north, and the hallway is south.
+~
+0 8 0
+D0
+The Basement stairs.
+ ~
+~
+0 -1 28754
+D2
+The hallway.
+ ~
+~
+0 -1 28756
+S
+#28756
+The Intersection of the Hallways~
+You are standing at the intersection of the two hallways.  There are exits 
+north, south and east.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28755
+D1
+The hallway.
+ ~
+~
+0 -1 28753
+D2
+The hallway.
+ ~
+~
+0 -1 28757
+S
+#28757
+The Hallway~
+You are standing in a hallway.  The stairs going to the second floor are south
+and the hallway is north.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28756
+D2
+The second floor stairs.
+ ~
+~
+0 -1 28758
+S
+#28758
+The End of the Hallway~
+You are standing at the south end of the north south hallway.  The hallway goes 
+north, and there is a staircase going up.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28757
+D4
+The second floor.
+ ~
+~
+0 -1 28781
+S
+#28759
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues south and west.
+~
+0 1|8 0
+D2
+In the basement.
+ ~
+~
+0 -1 28760
+D3
+In the basement.
+ ~
+~
+0 -1 28763
+S
+#28760
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north and west.
+~
+0 1|8 0
+D0
+In the basement.
+ ~
+~
+0 -1 28759
+D3
+In the basement.
+ ~
+~
+0 -1 28764
+S
+#28761
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues south and west.
+~
+0 1|8 0
+D2
+In the basement.
+ ~
+~
+0 -1 28762
+D3
+In the basement.
+ ~
+~
+0 -1 28765
+S
+#28762
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north and south.
+~
+0 1|8 0
+D0
+In the basement.
+ ~
+~
+0 -1 28761
+D2
+In the basement.
+ ~
+~
+0 -1 28763
+S
+#28763
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north, south and 
+east.
+~
+0 1|8 0
+D0
+In the basement.
+ ~
+~
+0 -1 28762
+D1
+In the basement.
+ ~
+~
+0 -1 28759
+D2
+In the basement.
+ ~
+~
+0 -1 28764
+S
+#28764
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north and east.
+~
+0 1|8 0
+D0
+In the basement.
+ ~
+~
+0 -1 28763
+D1
+In the basement.
+ ~
+~
+0 -1 28760
+S
+#28765
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues east and west.
+~
+0 1|8 0
+D1
+In the basement.
+ ~
+~
+0 -1 28761
+D3
+In the basement.
+ ~
+~
+0 -1 28766
+S
+#28766
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues east and west.
+~
+0 1|8 0
+D1
+In the basement.
+ ~
+~
+0 -1 28765
+D3
+In the basement.
+ ~
+~
+0 -1 28767
+S
+#28767
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north and east.
+~
+0 1|8 0
+D0
+In the basement.
+ ~
+~
+0 -1 28768
+D1
+In the basement.
+ ~
+~
+0 -1 28766
+S
+#28768
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues south and west.
+~
+0 1|8 0
+D2
+In the basement.
+ ~
+~
+0 -1 28767
+D3
+In the basement.
+ ~
+~
+0 -1 28771
+S
+#28769
+Behind the Stairs~
+As you walk, you hear what sounds like a child.  Looks like the rumors of 
+Grandma keeping her grandchildren under the stairs are true.  The only exit is 
+west.
+~
+0 1|8 0
+D3
+Behind the stairs.
+ ~
+~
+0 -1 28772
+S
+#28770
+The Basement Stairs~
+You are standing at the bottom of the basement stairs.  The basement continues 
+south, and the stairs lead back up.
+~
+0 8 0
+D2
+In the basement.
+ ~
+~
+0 -1 28771
+D4
+The first floor.
+ ~
+~
+0 -1 28754
+S
+#28771
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues east and west, 
+the stairs are north.
+~
+0 1|8 0
+D0
+The basement stairs.
+ ~
+~
+0 -1 28770
+D1
+In the basement.
+ ~
+~
+0 -1 28768
+D3
+In the basement.
+ ~
+~
+0 -1 28774
+S
+#28772
+Behind the Stairs~
+As you walk behind the stairs, you hear what sounds like a child.  There have 
+been rumors that Grandma put her grandchildren under the stairs, and you think 
+that you have confirmed it.  The exits are east and south.
+~
+0 1|8 0
+D1
+Behind the stairs.
+ ~
+~
+0 -1 28769
+D2
+Behind the stairs.
+ ~
+~
+0 -1 28773
+S
+#28773
+Behind the Stairs~
+You seem to have wandered behind the basement stairs...BIG mistake.  As you 
+walk, you see bits of food, bones and other signs that someone or someTHING has 
+been here recently.  You only hope that it is not still here.  The exits are 
+north and south.
+~
+0 1|8 0
+D0
+Behind the stairs.
+ ~
+~
+0 -1 28772
+D2
+In the basement.
+ ~
+~
+0 -1 28774
+S
+#28774
+In the Basement~
+You are standing in Grandma Nut's basement.  The basement is dark and musty and 
+you really don't like being down here.  The basement continues north and east.
+~
+0 1|8 0
+D0
+Behind the stairs.
+ ~
+~
+0 -1 28773
+D1
+In the basement.
+ ~
+~
+0 -1 28771
+S
+#28775
+Grandma's Bedroom~
+You are standing in a small bedroom.  It is decorated in beautiful antique 
+furniture.  The smell of peanuts is really strong here.  As you look around a 
+little more, you see Grandma Nut herself standing here.  The door is west.
+~
+0 8 0
+D3
+The hallway.
+ ~
+~
+2 0 28776
+S
+#28776
+The Hallway~
+You are standing in the second floor hallway.  To the east is a bedroom, and to 
+the west is more of the hallway.
+~
+0 8 0
+D1
+The bedroom.
+ ~
+~
+2 -1 28775
+D3
+The hallway.
+ ~
+~
+0 -1 28778
+S
+#28778
+The Hallway~
+You are standing in the second floor hallway.  The hallway continues east and 
+south.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28776
+D2
+The hallway.
+ ~
+~
+0 -1 28779
+S
+#28779
+The Hallway~
+You are standing in the second floor hallway.  The hallway continues north and 
+west.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28778
+D3
+The hallway.
+ ~
+~
+0 -1 28780
+S
+#28780
+The Hallway~
+You are standing in the second floor hallway.  The hallway continues east and 
+west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28779
+D3
+The stairs.
+ ~
+~
+0 -1 28781
+S
+#28781
+The Top of the Stairs~
+You are standing at the top of the stairs.  The stairs go back down and the 
+hallway continues east.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28780
+D5
+The first floor.
+ ~
+~
+0 -1 28758
+S
+#28782
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28709
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28783
+S
+#28783
+The Path Through Candyland~
+You are standing on a red square.  The path continues north and east.
+~
+0 0 1
+D0
+A purple colored square on the path.
+ ~
+~
+0 -1 28784
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28782
+S
+#28784
+The Path Through Candyland~
+You are standing on a purple square.  The path continues north and south.  
+There is a small path west.
+~
+0 0 1
+D0
+A yellow colored square on the path.
+ ~
+~
+0 -1 28790
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28783
+D3
+A small path.
+ ~
+~
+0 -1 28785
+S
+#28785
+A Small Path~
+You are on a small path leading away from the main path.  You have no idea 
+where it goes and wonder if you really should continue on.  The path continues 
+north, and the main path is east.
+~
+0 4 1
+D0
+A small path.
+ ~
+~
+0 -1 28786
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28784
+S
+#28786
+A Small Path~
+You wander further on the path and wonder if you should turn back before it's 
+too late.  The path continues north and south.
+~
+0 0 1
+D0
+A small path.
+ ~
+~
+0 -1 28787
+D2
+A small path.
+ ~
+~
+0 -1 28785
+S
+#28787
+A Small Path~
+As you continue on the path, you notice a dark looking section of the land 
+ahead.  You wonder what it is.  The path continues north and south.
+~
+0 0 1
+D0
+A small path.
+ ~
+~
+0 -1 28788
+D2
+A small path.
+ ~
+~
+0 -1 28786
+S
+#28788
+A Small Path~
+You walk onward and notice that you are getting closer to the end of the 
+path...and the dark land.  The path continues north and south.
+~
+0 0 1
+D0
+A small path.
+ ~
+~
+0 -1 28789
+D2
+A small path.
+ ~
+~
+0 -1 28787
+S
+#28789
+A Small Path~
+You are standing at the end of the small path.  As you look north, you see the 
+colored path through candyland.  The small path continues back south.
+~
+0 4 1
+D0
+A green colored square on the path.
+ ~
+~
+0 -1 28905
+D2
+A small path.
+ ~
+~
+0 -1 28788
+S
+#28790
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and south.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28791
+D2
+A purple colored square on the path.
+ ~
+~
+0 -1 28784
+S
+#28791
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28792
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28790
+S
+#28792
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28793
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28791
+S
+#28793
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28794
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28792
+S
+#28794
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28795
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28793
+S
+#28795
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28796
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28794
+S
+#28796
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28797
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28795
+S
+#28797
+The Path Through Candyland~
+You are standing on a blue square.  There are exits in all cardinal directions
+except north.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28798
+D2
+A pink colored square on the path.
+ ~
+~
+0 -1 28616
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28796
+D4
+A pink colored square on the path.
+ ~
+~
+0 -1 28709
+D5
+A pink colored square on the path.
+ ~
+~
+0 -1 28518
+S
+#28798
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28799
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28797
+S
+#28799
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28800
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28798
+S
+#28800
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.  There is 
+a house north of here and what looks like a bar to the south.
+~
+0 0 1
+D0
+A small house.
+ ~
+~
+2 -1 28801
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28803
+D2
+The Candy Bar.
+ ~
+~
+2 -1 28802
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28799
+S
+#28801
+Mr. Goodbar's House~
+You are standing in a small house.  The walls are painted yellow.  This house 
+belongs to Mr. Goodbar, a mean old man who doesn't like visitors.  You appear 
+to be a visitor to his home...The door is south.
+~
+0 0 0
+D2
+A red colored square on the path.
+ ~
+~
+2 -1 28800
+S
+#28802
+The Candy Bar~
+As you enter the bar, the smoke overwhelms you.  You can barely see a thing.  
+You suddenly remember that this is the favorite hangout of the red m&m peanuts, 
+the most violent and vicious of all the m&m's.  You hope you can get out before 
+they realize that you are here.  The exit is north.
+~
+0 0 0
+D0
+A red colored square on the path.
+ ~
+~
+2 -1 28800
+S
+#28803
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28804
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28800
+S
+#28804
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28805
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28803
+S
+#28805
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28806
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28804
+S
+#28806
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28807
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28805
+S
+#28807
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28808
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28806
+S
+#28808
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28809
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28807
+S
+#28809
+A Pink Square on the Path Through Candyland~
+You are standing on a pink square on the path.  The path continues east and 
+west.  To the north is The Lollipop Forest.
+~
+0 0 1
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28810
+D1
+A Strange looking purple square on the path.
+ ~
+~
+0 -1 28839
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28808
+S
+#28810
+The Lollipop Forest~
+You are standing at the entrance to the Lollipop Forest.  As you look around, 
+you see giant white, round tree trunks, with big colorful candy tops.  There is 
+the sweet smell of candy all around you.  The forest continues north, east and 
+west.  The path through Candyland is south.
+~
+0 4 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28814
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28837
+D2
+A pink colored square on the path.
+ ~
+~
+0 -1 28809
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28838
+S
+#28811
+A Bend in the Path~
+You have reached a bend in the path through the Lollipop Forest.  The path 
+continues north and west.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28818
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28812
+S
+#28812
+The Path Through the Forest~
+You are walking along the path through the Lollipop Forest.  The light hitting 
+the ground after going through the "trees" makes a beautiful rainbow on the 
+path.  The path continues east and west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28811
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28813
+S
+#28813
+The Path Through the Forest~
+You are wandering along a path through the Lollipop Forest.  The path continues 
+east, west and south.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28812
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28837
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28814
+S
+#28814
+An Intersection in the path~
+You are standing at an intersection in the path through the Lollipop forest.  
+You see the path wander in each of the 4 cardinal directions.
+~
+0 0 3
+D0
+The Lollipop forest.
+ ~
+~
+0 -1 28819
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28813
+D2
+The Entrance to the Lollipop Forest.
+ ~
+~
+0 -1 28810
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28815
+S
+#28815
+The Path Through the Forest~
+You are wandering through the Lollipop Forest.  The path continues east, west 
+and south.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28814
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28838
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28816
+S
+#28816
+The Path Through the Forest~
+You are walking along the path through the forest.  The path continues east and 
+west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28815
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28817
+S
+#28817
+A Bend in the Path~
+You are standing at a bend in the path through the forest.  The path continues 
+north and east.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28820
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28816
+S
+#28818
+The Path Through the Forest~
+You are walking along the path through the forest.  The path continues north 
+and south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28821
+D2
+A bend in the path.
+ ~
+~
+0 -1 28811
+S
+#28819
+The Path Through the Forest~
+You are walking along the path through the forest.  The path continues north 
+and south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28824
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28814
+S
+#28820
+The Path Through the Forest~
+You wander a bit further into the forest, wondering what is hiding there.  The 
+path continues north and south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28830
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28817
+S
+#28821
+An Intersection in the Path~
+You have reached an intersection in the path.  The path continues north, south 
+and west.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28825
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28818
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28822
+S
+#28822
+The Path Through the Forest~
+You are walking through the Lollipop Forest.  The path continues east and west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28821
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28823
+S
+#28823
+The Path Through the Forest~
+You are walking on the path through the forest.  The path continues east and 
+west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28822
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28824
+S
+#28824
+An Intersection in the Path~
+You are standing at an intersection.  The path goes north, south and east.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28826
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28823
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28819
+S
+#28825
+The Path Through the Forest~
+You are walking on the path through the forest.  The path continues north and 
+south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28833
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28821
+S
+#28826
+A Bend in the Path~
+You have reached a bend in the path.  The path continues west and south.
+~
+0 0 3
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28824
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28827
+S
+#28827
+An Intersection in the Path~
+You are standing at an intersection.  Your choices are north, east and west.
+~
+0 0 3
+D0
+The Lollipop forest.
+ ~
+~
+0 -1 28831
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28826
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28828
+S
+#28828
+The Path Through the Forest~
+You are walking on the path through the forest.  The path continues east and 
+west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28827
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28829
+S
+#28829
+The Path Through the Forest~
+You are walking through the forest.  The path continues east and west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28828
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28830
+S
+#28830
+An Intersection in the Path~
+You are at an intersection.  The path continues north, south and east.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28832
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28829
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28820
+S
+#28831
+The Path Through the Forest~
+You are standing on the path through the Lollipop Forest.  The path continues
+north and south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28834
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28827
+S
+#28832
+The Path Through the Forest~
+You are on the path in the forest.  The path continues north and south.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28836
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28830
+S
+#28833
+The Dead End~
+You are standing at the dead end in the Lollipop Forest.  I guess you better 
+turn back now.  The path goes south from here.
+~
+0 0 3
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28825
+S
+#28834
+A Bend in the Path~
+You have reached a bend in the path.  The path continues west and south.
+~
+0 0 3
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28831
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28835
+S
+#28835
+The Path Through the Forest~
+You are on the path through the forest.  The path continues east and west.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28834
+D3
+The Lollipop Forest.
+ ~
+~
+0 -1 28836
+S
+#28836
+A Bend in the Path~
+You are at a bend in the path.  The path continues east and south.
+~
+0 0 3
+D1
+The Lollipop Forest.
+ ~
+~
+0 -1 28835
+D2
+The Lollipop Forest.
+ ~
+~
+0 -1 28832
+S
+#28837
+The Entranceway to the Lollipop Forest~
+You are at the entranceway to the Lollipop Forest.  It is the most beautiful 
+thing you've ever seen.  The "trees" are giant multicolored lollipops.  The 
+forest continues north and west.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28813
+D3
+The entrance to the forest.
+ ~
+~
+0 -1 28810
+S
+#28838
+The Entranceway to the Lollipop Forest~
+You are at the entranceway to the Lollipop Forest.  It is the most beautiful 
+thing you've ever seen.  The "trees" are giant multicolored lollipops.  The 
+forest continues north and east.
+~
+0 0 3
+D0
+The Lollipop Forest.
+ ~
+~
+0 -1 28815
+D1
+The entrance to the forest.
+ ~
+~
+0 -1 28810
+S
+#28839
+Odd Looking Square on the Path~
+You notice that this square is not like the other ones.  It is made of some 
+kind of purple liquid.  Good thing you brought your boat along it may come in 
+handy in the near future.  The path continues north and west.
+~
+0 0 7
+D0
+A yellow colored square on the path.
+ ~
+~
+0 -1 28840
+D3
+A pink colored square on the path.
+ ~
+~
+0 -1 28809
+S
+#28840
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues north and south.
+~
+0 0 1
+D0
+A blue colored square on the path.
+ ~
+~
+0 -1 28841
+D2
+A purple colored square on the path.
+ ~
+~
+0 -1 28839
+S
+#28841
+The Path Through Candyland~
+You are standing on a blue square.  The path continues north and south.
+~
+0 0 1
+D0
+An orange colored square on the path.
+ ~
+~
+0 -1 28842
+D2
+A yellow colored square on the path.
+ ~
+~
+0 -1 28840
+S
+#28842
+The Path Through Candyland~
+You are standing on an orange square.  The path continues north and south.
+~
+0 0 1
+D0
+A green colored square on the path.
+ ~
+~
+0 -1 28843
+D2
+A blue colored square on the path.
+ ~
+~
+0 -1 28841
+S
+#28843
+The Path Through Candyland~
+You are standing on a green square.  The path continues north and south.
+~
+0 0 1
+D0
+A red colored square on the path.
+ ~
+~
+0 -1 28844
+D2
+An orange colored square on the path.
+ ~
+~
+0 -1 28842
+S
+#28844
+The Path Through Candyland~
+You are standing on a red square.  The path continues north and south.
+~
+0 0 1
+D0
+A purple colored square on the path.
+ ~
+~
+0 -1 28845
+D2
+A green colored square on the path.
+ ~
+~
+0 -1 28843
+S
+#28845
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and south.
+~
+0 0 1
+D1
+A pink colored square on the path.
+ ~
+~
+0 -1 28846
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28844
+S
+#28846
+A Pink Colored Square~
+You step off the path onto what looks like a dock made out of popsicle sticks.  
+As far as the eye can see out over the horizon, you can see an ice cream sea, 
+with its waves crashing against the cliff on the visible shore to the north and 
+south but wait, is that a yellow square in the distance?  To the east is the 
+sea, but you'll need a boat (good thing you brought it along).  Back to the 
+west is the path.
+~
+0 4 1
+D1
+The Ice Cream Sea.
+ ~
+~
+0 -1 28852
+D3
+The path through Candyland.
+ ~
+~
+0 -1 28845
+S
+#28847
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south, you see high, unclimbable 
+cliffs.  The sea continues north and east.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28852
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28848
+S
+#28848
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south, you see high, unclimbable 
+cliffs.  The sea continues north, east and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28853
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28849
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28847
+S
+#28849
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south, you see high, unclimbable 
+cliffs.  The sea continues north, east and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28854
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28850
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28848
+S
+#28850
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south, you see high, unclimbable 
+cliffs.  The sea continues north, east and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28855
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28851
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28849
+S
+#28851
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south and east, you see high, 
+unclimbable cliffs.  The sea continues north and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28856
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28850
+S
+#28852
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the west is the popsicle stick dock.
+The sea is north, south and east of you.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28857
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28853
+D2
+On the Ice Cream Sea. 
+ ~
+~
+0 -1 28847
+D3
+The Dock.
+ ~
+~
+0 -1 28846
+S
+#28853
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28858
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28854
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28848
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28852
+S
+#28854
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28859
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28855
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28849
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28853
+S
+#28855
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28860
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28856
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28850
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28854
+S
+#28856
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the east you see high, unclimbable 
+cliffs.  The sea continues north, south and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28861
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28851
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28855
+S
+#28857
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the west you see high, unclimbable 
+cliffs.  The sea continues north, south and east.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28862
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28858
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28852
+S
+#28858
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28863
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28859
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28853
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28857
+S
+#28859
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28864
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28860
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28854
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28858
+S
+#28860
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28865
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28861
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28855
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28859
+S
+#28861
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the east you see high, unclimbable 
+cliffs.  The sea continues north, south and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28866
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28856
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28860
+S
+#28862
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north and west you see high, 
+unclimbable cliffs.  The sea continues east and south.
+~
+0 0 7
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28863
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28857
+S
+#28863
+On the Ice Cream Sea~
+The sea is tossing you all around, and seems neverending.  Wait!  There seems 
+to be a path between the 2 cliffs to the north.  The sea continues in all 
+directions.
+~
+0 0 7
+D0
+In front of the cliffs.
+ ~
+~
+0 -1 28867
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28864
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28858
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28862
+S
+#28864
+On the Ice Cream Sea~
+The sea is tossing you all around, and seems neverending.  Wait!  There seems 
+to be a path between the 2 cliffs to the north.  The sea continues in all 
+directions.
+~
+0 0 7
+D0
+In front of the cliffs.
+ ~
+~
+0 -1 28868
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28865
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28859
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28863
+S
+#28865
+On the Ice Cream Sea~
+The sea is tossing you all around, and seems neverending.  Wait!  There seems 
+to be a path between the 2 cliffs to the north.  The sea continues in all 
+directions.
+~
+0 0 7
+D0
+In front of the cliffs.
+ ~
+~
+0 -1 28869
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28866
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28860
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28864
+S
+#28866
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north and east, you see high, 
+unclimbable cliffs.  The sea continues west and south.
+~
+0 0 7
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28861
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28865
+S
+#28867
+In Front of the Cliffs~
+You have come up close to the towering cliffs, and can see that they are made
+of straws - slippery and unclimbable.  The only exits are to the south, back to 
+the sea, or east in front of the opening in the cliffs.
+~
+0 0 7
+D1
+In front of the cliffs.
+ ~
+~
+0 -1 28868
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28863
+S
+#28868
+In Front of the Cliffs~
+You stand before a narrow opening in the cliffs.  You can easily fit through, 
+but it is dark and somewhat dangerous.  But have you found anything else this 
+interesting here?  You can go north through the opening, or south, back on the 
+sea.
+~
+0 1 7
+D0
+Between the cliffs.
+ ~
+~
+0 -1 28870
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28864
+S
+#28869
+In Front of the Cliffs~
+You have come up close to the towering cliffs, and can see that they are made
+of straws - slippery and unclimbable.  The only exits are to the south, back to 
+the sea, or west in front of the opening in the cliffs.
+~
+0 0 7
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28865
+D3
+In front of the cliffs.
+ ~
+~
+0 -1 28868
+S
+#28870
+Between the Cliffs~
+It is dark here, and the ice cream makes a horrible slapping noise as it 
+bounces off the sides.  High above the sea, in a place you cannot reach, you 
+can see beautiful golden doors, the kind fit for a queen's palace.  The sea is 
+north and south.
+~
+0 0 7
+D0
+Beyond the opening.
+ ~
+~
+0 -1 28872
+D2
+In front of the cliffs.
+ ~
+~
+0 -1 28868
+S
+#28871
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the west, you see high, unclimbable
+cliffs.  Back to the south, you see the dreaded cliffs.  No way you're going 
+back there!!!  The sea continues north.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28875
+S
+#28872
+Beyond the Opening~
+Lucky you!  You got past the evil queen.  She *hates* when people sail on her 
+Ice Cream Sea.  Says they melt the ice cream.  Oh well.  Keep sailing - there's 
+got to be a shore you can land on soon.  The sea continues north, east and 
+west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28876
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28873
+D2
+Between the cliffs.
+ ~
+~
+0 -1 28870
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28871
+S
+#28873
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the west, you see high, unclimbable
+cliffs.  Back to the south, you see the dreaded cliffs.  No way you're going 
+back there!!!  The sea continues north.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28877
+S
+#28874
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the south and west, you see high, 
+unclimbable cliffs.  You can continue north and east.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28879
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28875
+S
+#28875
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28880
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28876
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28871
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28874
+S
+#28876
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28881
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28877
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28872
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28875
+S
+#28877
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28882
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28878
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28873
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28876
+S
+#28878
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the east and south, you see high, 
+unclimbable cliffs.  The sea continues north and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28883
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28877
+S
+#28879
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the west you see high, unclimbable 
+cliffs.  The sea continues north, south and east.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28885
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28880
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28874
+S
+#28880
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28886
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28881
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28875
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28879
+S
+#28881
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28887
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28882
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28876
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28880
+S
+#28882
+On the Ice Cream Sea~
+All you can see around you is the Ice Cream Sea.  You aren't even sure how far 
+you have sailed anymore.  The sea continues in all directions.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28888
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28883
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28877
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28881
+S
+#28883
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the east, you see high, unclimbable
+cliffs.  The sea continues north, south and west.
+~
+0 0 7
+D0
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28889
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28878
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28882
+S
+#28884
+On the Dock~
+Finally!  You wearily crawl onto the popsicle stick dock, happy just to see
+somewhat solid ground again.  To the west are the familiar colored squares of 
+the path.  Back to the east is the Ice Cream Sea.
+~
+0 0 1
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28885
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28890
+S
+#28885
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea. To the north, you see high, unclimbable
+cliffs.  The sea continues east and south, and the dock is west.
+~
+0 0 7
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28886
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28879
+D3
+On the dock.
+ ~
+~
+0 -1 28884
+S
+#28886
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north, you see high, unclimbable
+cliffs.  The sea continues east, west and south.
+~
+0 0 7
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28887
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28880
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28885
+S
+#28887
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north, you see high, unclimbable
+cliffs.  The sea continues east, west and south.
+~
+0 0 7
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28888
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28881
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28886
+S
+#28888
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north, you see high, unclimbable
+cliffs.  The sea continues east, west and south.
+~
+0 0 7
+D1
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28889
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28882
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28887
+S
+#28889
+On the Ice Cream Sea~
+You are floating on the Ice Cream Sea.  To the north and east, you see high, 
+unclimbable cliffs.  The sea continues west and south.
+~
+0 0 7
+D2
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28883
+D3
+On the Ice Cream Sea.
+ ~
+~
+0 -1 28888
+S
+#28890
+On the Path Through Candyland~
+You are standing on a yellow square.  Ahh!  Home sweet home.  How you missed
+this path.  The path continues east and west.
+~
+0 0 1
+D1
+The dock.
+ ~
+~
+0 -1 28884
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28891
+S
+#28891
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28890
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28892
+S
+#28892
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28891
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28893
+S
+#28893
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28892
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28894
+S
+#28894
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28893
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28895
+S
+#28895
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28894
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28896
+S
+#28896
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28895
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28897
+S
+#28897
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28896
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28898
+S
+#28898
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28897
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28899
+S
+#28899
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28898
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28900
+S
+#28900
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28899
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28901
+S
+#28901
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28900
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28902
+S
+#28902
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28901
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28903
+S
+#28903
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28902
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28904
+S
+#28904
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28903
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28905
+S
+#28905
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28904
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28906
+S
+#28906
+The Path Through Candyland~
+You are standing on a red square.  The path continues east.  There is a giant 
+swamp to the north.
+~
+0 0 1
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28907
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28905
+S
+#28907
+The Molasses Swamp~
+You are standing in the Molasses Swamp.  The whole place is made of thick, 
+sticky molasses.  It is hard to walk in this place.  The path through the swamp 
+continues north, and the colorful path through Candyland is to the south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28908
+D2
+A red colored square on the path.
+ ~
+~
+0 -1 28906
+S
+#28908
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28909
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28907
+S
+#28909
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28910
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28908
+S
+#28910
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28911
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28909
+S
+#28911
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28912
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28910
+S
+#28912
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and west.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28913
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28911
+S
+#28913
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues west and south.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28914
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28912
+S
+#28914
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and east.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28913
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28915
+S
+#28915
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28916
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28914
+S
+#28916
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28917
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28915
+S
+#28917
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28918
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28916
+S
+#28918
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues south and west.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28917
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28919
+S
+#28919
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and east.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28920
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28918
+S
+#28920
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues south and west.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28919
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28921
+S
+#28921
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north, east and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28922
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28920
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28923
+S
+#28922
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues south and west.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28921
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28924
+S
+#28923
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north, east and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28924
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28921
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28926
+S
+#28924
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east, west and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28922
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28923
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28925
+S
+#28925
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east, west and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28924
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28926
+D3
+The Molasses Swamp. 
+ ~
+~
+0 -1 28931
+S
+#28926
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues in all cardinal directions.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28925
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28923
+D2
+The Molasses Swamp. 
+ ~
+~
+0 -1 28927
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28930
+S
+#28927
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28926
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28929
+S
+#28928
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28929
+S
+#28929
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north, east and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28930
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28927
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28928
+S
+#28930
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north, east and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28931
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28926
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28929
+S
+#28931
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and south.  You hear loud, heavy breathing to the west.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28925
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28930
+D3
+Gloppy's rest stop.
+ ~
+~
+0 -1 28932
+S
+#28932
+Gloppy's Rest Stop~
+You are standing at the spot where Gloppy has stopped to rest.  He hates 
+company and doesn't like seeing you here.  The swamp is to the east and the 
+west.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28931
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28933
+S
+#28933
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues west and south.  You can go back east, to Gloppy's rest stop, 
+but why would you want to do that???
+~
+0 0 4
+D1
+Gloppy's rest stop.
+ ~
+~
+0 -1 28932
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28934
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28937
+S
+#28934
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north, west and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28933
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28935
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28938
+S
+#28935
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28934
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28936
+S
+#28936
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28935
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28940
+S
+#28937
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east, west and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28933
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28938
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28939
+S
+#28938
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and east.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28937
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28934
+S
+#28939
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28937
+S
+#28940
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and south.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28936
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28941
+S
+#28941
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28940
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28942
+S
+#28942
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and east.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28941
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28943
+S
+#28943
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues east and west.
+~
+0 0 4
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28944
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28942
+S
+#28944
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues south and west.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28945
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28943
+S
+#28945
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and east.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28944
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28946
+S
+#28946
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues west and south.
+~
+0 0 4
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28947
+D3
+The Molasses Swamp.
+ ~
+~
+0 -1 28945
+S
+#28947
+The Molasses Swamp~
+You are walking through the Molasses Swamp.  This whole place gives you the 
+creeps, and you find it very hard to walk.  You hope the way out is near.  The 
+path continues north and south.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28946
+D2
+The Molasses Swamp.
+ ~
+~
+0 -1 28948
+S
+#28948
+The Molasses Swamp~
+You made it through the Molasses Swamp.  It feels good to see the familiar 
+color of the path.  The swamp is north, while the path through Candyland is 
+west.
+~
+0 0 4
+D0
+The Molasses Swamp.
+ ~
+~
+0 -1 28947
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28949
+S
+#28949
+The Path Through Candyland~
+You are back on the colorful path through Candyland.  You are very happy that 
+you aren't sticking to the path anymore.  The path continues east and west.
+~
+0 0 1
+D1
+The Molasses Swamp.
+ ~
+~
+0 -1 28948
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28950
+S
+#28950
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues north and east.
+~
+0 0 1
+D0
+A blue colored square on the path.
+ ~
+~
+0 -1 28951
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28949
+S
+#28951
+The Path Through Candyland~
+You are standing on a blue square.  The path continues north and south.
+~
+0 0 1
+D0
+An orange colored square on the path.
+ ~
+~
+0 -1 28952
+D2
+A yellow colored square on the path.
+ ~
+~
+0 -1 28950
+S
+#28952
+The Path Through Candyland~
+You are standing on an orange square.  The path continues north and south.
+~
+0 0 1
+D0
+A green colored square on the path.
+ ~
+~
+0 -1 28953
+D2
+A blue colored square on the path.
+ ~
+~
+0 -1 28951
+S
+#28953
+The Path Through Candyland~
+You are standing on a green square.  The path continues south and east.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28954
+D2
+An orange colored square on the path.
+ ~
+~
+0 -1 28952
+S
+#28954
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28955
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28953
+S
+#28955
+The Path Through Candyland~
+You are standing on a purple square.  The path continues east and west.
+~
+0 0 1
+D1
+A yellow colored square on the path.
+ ~
+~
+0 -1 28956
+D3
+A red colored square on the path.
+ ~
+~
+0 -1 28954
+S
+#28956
+The Path Through Candyland~
+You are standing on a yellow square.  The path continues east and west.
+~
+0 0 1
+D1
+A blue colored square on the path.
+ ~
+~
+0 -1 28957
+D3
+A purple colored square on the path.
+ ~
+~
+0 -1 28955
+S
+#28957
+The Path Through Candyland~
+You are standing on a blue square.  The path continues east and west.
+~
+0 0 1
+D1
+An orange colored square on the path.
+ ~
+~
+0 -1 28958
+D3
+A yellow colored square on the path.
+ ~
+~
+0 -1 28956
+S
+#28958
+The Path Through Candyland~
+You are standing on an orange square.  The path continues east and west.
+~
+0 0 1
+D1
+A green colored square on the path.
+ ~
+~
+0 -1 28959
+D3
+A blue colored square on the path.
+ ~
+~
+0 -1 28957
+S
+#28959
+The Path Through Candyland~
+You are standing on a green square.  The path continues east and west.
+~
+0 0 1
+D1
+A red colored square on the path.
+ ~
+~
+0 -1 28960
+D3
+An orange colored square on the path.
+ ~
+~
+0 -1 28958
+S
+#28960
+The Path Through Candyland~
+You are standing on a red square.  The path continues east and west.
+~
+0 0 1
+D1
+A purple colored square on the path.
+ ~
+~
+0 -1 28961
+D3
+A green colored square on the path.
+ ~
+~
+0 -1 28959
+S
+#28961
+The Path Through Candyland~
+You are standing on a purple square.  Up ahead, you see the grand gates to a 
+huge, beautiful castle.  The trip through Candyland is finally drawing to a 
+close, all that stands in front of you is King Kandy.  The path is back west, 
+and the castle is east.
+~
+0 0 1
+D1
+In front of the castle.
+ ~
+~
+0 -1 28962
+D3
+A red colored square on the path. 
+ ~
+~
+0 -1 28960
+S
+#28962
+Inside the Castle~
+You walk inside the castle and look around in awe.  This section of the castle 
+is decorated in purple and green.  There is a distinct smell of plums, kind of 
+like that of the Plumpatroll village.  The hallway continues north, while the 
+way out is south.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28963
+D2
+Outside the castle.
+ ~
+~
+0 -1 28961
+S
+#28963
+The Entrance Hallway~
+You walk further inside the castle.  The walls in this hall are painted green, 
+and there is a long plush purple carpet running all along the hall.  The 
+hallway continues north and south.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28964
+D2
+The hallway.
+ ~
+~
+0 -1 28962
+S
+#28964
+In the Hallway~
+As you walk further down this hallway, you think you see a door.  You also 
+think you see something standing in front of it.  You hope that this won't be 
+a problem.  The hallway is north and south.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28965
+D2
+The hallway. 
+ ~
+~
+0 -1 28963
+S
+#28965
+In the Hallway~
+You carefully walk further down the hallway.  As you get close to the end, you 
+see a big door.  You also see what appears to be Plumpy, king of the 
+plumpatrolls standing in front of it.  Didn't you already kill him?!?!?!?  The 
+hallway is north and south.
+~
+0 8 0
+D0
+In front of the door.
+ ~
+~
+0 -1 28966
+D2
+The hallway.
+ ~
+~
+0 -1 28964
+S
+#28966
+In Front of the Door~
+You are standing in front of a big door.  Yep, you were right, it WAS Plumpy.
+Some evil force must have brought him back to life.  The doorway is north, and 
+the hallway is south.
+~
+0 8 0
+D0
+The doorway to the second floor.
+ ~
+~
+2 28561 28967
+D2
+The hallway.
+ ~
+~
+0 -1 28965
+S
+#28967
+Second Floor of the Castle~
+You walk through the door and are overwhelmed with the smell of mint.  This 
+floor seems to be made of mint.  The door behind you seems to have disappeared 
+once you walked through it.  The hallway is north.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28968
+S
+#28968
+Second Floor of the Castle~
+You are standing in the mint hallway in the Candy Castle.  The hallway 
+continues east and west.
+~
+0 8 0
+D1
+The hallway.
+ ~
+~
+0 -1 28969
+D3
+The hallway.
+ ~
+~
+0 -1 28970
+S
+#28969
+Second Floor of the Castle~
+You are standing in the mint hallway in the Candy Castle.  The hallway 
+continues north and west.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28972
+D3
+The hallway.
+ ~
+~
+0 -1 28968
+S
+#28970
+Second Floor of the Castle~
+You are standing in the mint hallway in the Candy Castle.  The hallway 
+continues north and east.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28971
+D1
+The hallway.
+ ~
+~
+0 -1 28968
+S
+#28971
+Second Floor of the Castle~
+You are standing in the mint hallway in the Candy Castle.  The hallway 
+continues north and south.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28973
+D2
+The hallway.
+ ~
+~
+0 -1 28970
+S
+#28972
+Second Floor of the Castle~
+You are standing in the mint hallway in the Candy Castle.  The hallway 
+continues north and south.
+~
+0 8 0
+D0
+The hallway.
+ ~
+~
+0 -1 28974
+D2
+The hallway.
+ ~
+~
+0 -1 28969
+S
+#28973
+Second Floor of the Castle~
+As you walk around this little corner, you see where the door to the next 
+section of the castle is.  You also see Mr. Mint guarding the door.  The 
+hallway is south and east.
+~
+0 8 0
+D1
+In front of the doorway.
+ ~
+~
+0 -1 28975
+D2
+The hallway.
+ ~
+~
+0 -1 28971
+S
+#28974
+Second Floor of the Castle~
+As you walk around this little corner, you see where the door to the next 
+section of the castle is.  You also see Mr. Mint guarding the door.  The 
+hallway is south and west.
+~
+0 8 0
+D2
+The hallway.
+ ~
+~
+0 -1 28972
+D3
+In front of the doorway.
+ ~
+~
+0 -1 28975
+S
+#28975
+In Front of the Doorway~
+You are standing in front of the doorway off of the second floor.  In front of 
+you stands Mr. Mint.  He doesn't seem to be willing to give you his key, you'll 
+have to take it from him.  The hall is east and west, the door is north.
+~
+0 8 0
+D0
+The doorway to the spiral tower.
+ ~
+~
+2 28562 28976
+D1
+The hallway.
+ ~
+~
+0 -1 28974
+D3
+The hallway.
+ ~
+~
+0 -1 28973
+S
+#28976
+The Spiral Tower~
+As you step through the door, you hear a grinding sound as the doorway is 
+sealed up behind you.  You also hear another loud sound as you notice that the 
+wall begins to move foreward towards you.  You can only go east.
+~
+0 8 0
+D1
+The spiral tower.
+ ~
+~
+0 -1 28977
+S
+#28977
+The Spiral Tower~
+You walk down the hallway and notice it has an upward slope to it.  You look 
+back and see the wall is still moving foreward.  The hall continues east.
+~
+0 8 0
+D1
+The spiral tower.
+ ~
+~
+0 -1 28978
+S
+#28978
+The Spiral Tower~
+You walk around the corner and look ahead to the wall in front of you.  You see 
+Jolly standing there.  You decide to face Jolly rather than stand here and face 
+the moving wall.  The hall continues south.
+~
+0 8 0
+D2
+The spiral tower.
+ ~
+~
+0 -1 28979
+S
+#28979
+The Spiral Tower~
+As you cautiously walk up the hallway towards Jolly, you realize that there is 
+another wall behind him...hopefully there is a door.  The hallway continues 
+south.
+~
+0 8 0
+D2
+In front of the doorway.
+ ~
+~
+0 -1 28980
+S
+#28980
+In Front of the Doorway~
+You are standing in front of the doorway.  It seems that the wall behind you 
+has stopped advancing towards you.  Now you can fight Jolly in peace.  There is 
+a door west of here.
+~
+0 8 0
+D3
+Further up the spiral tower.
+ ~
+~
+2 28563 28981
+S
+#28981
+The Spiral Tower~
+You walk through the doorway and feel something pushing you onward.  This 
+hallway looks kind of like the halls of the Licorice Castle.  You can continue 
+west.
+~
+0 8 0
+D3
+The spiral tower.
+ ~
+~
+0 -1 28982
+S
+#28982
+The Spiral Tower~
+You move further along the hallway and notice the slope becoming a bit steeper.  
+You look back and see a wall...wait a minute, that wasn't there a minute ago 
+was it???  You can continue north.
+~
+0 8 0
+D0
+The spiral tower.
+ ~
+~
+0 -1 28983
+S
+#28983
+The Spiral Tower~
+You walk foreward towards the end of this little hallway and see Lord Licorice
+standing just up ahead.  Maybe you can get by him without him seeing you.  The 
+hallway is north.
+~
+0 8 0
+D0
+In front of the doorway.
+ ~
+~
+0 -1 28984
+S
+#28984
+In Front of the Doorway~
+You are standing in front of a big doorway.  Lord Licorice is standing in front 
+of you and appears to be holding the key you need.  The doorway is north.
+~
+0 8 0
+D0
+Further up the spiral tower.
+ ~
+~
+2 28564 28985
+S
+#28985
+The Spiral Tower~
+The smell of peanuts makes you swoon as you step through the doorway.  You can 
+continue east.
+~
+0 8 0
+D1
+The spiral tower.
+ ~
+~
+0 -1 28986
+S
+#28986
+The Spiral Tower~
+As you walk around the corner, you see someone who looks like Grandma Nut, but
+that can't be, she's dead...isn't she?  The hall continues south.
+~
+0 8 0
+D2
+The spiral tower.
+ ~
+~
+0 -1 28987
+S
+#28987
+The Spiral Tower~
+You step up the hallway, and see the wall ahead of you.  Grandma Nut IS 
+standing in front of it.  You decide to walk foreward and take a look.  The 
+hallway is south.
+~
+0 8 0
+D2
+In front of the doorway.
+ ~
+~
+0 -1 28988
+S
+#28988
+In Front of the Doorway~
+You walk foreward and cautiously step towards Grandma Nut.  She seems a bit 
+different than last time.  The only way to get past her is to kill her.  The 
+door is west.
+~
+0 8 0
+D3
+Further up the spiral tower.
+ ~
+~
+2 28565 28989
+S
+#28989
+The Spiral Tower~
+You walk into this next small hallway and see colorful bricks making up the 
+walls.  As you step foreward, you hear a loud banging sound behind you as large 
+lollipop walls drop, covering your tracks.  The only way to go is west.
+~
+0 8 0
+D3
+The spiral tower.
+ ~
+~
+0 -1 28990
+S
+#28990
+The Spiral Tower~
+You walk around the corner and see Princess Lolly standing in front of you.  
+The end of the hallway is north of here.
+~
+0 8 0
+D0
+In front of the doorway.
+ ~
+~
+0 -1 28991
+S
+#28991
+In Front of the Doorway~
+You are standing in front of Princess Lolly.  She seems to have aged a bit 
+since you last saw her.  She is holding the key to the door that is behind her.
+The door is north.
+~
+0 8 0
+D0
+Further up the spiral tower.
+ ~
+~
+2 28566 28992
+S
+#28992
+The Spiral Tower~
+You walk up through the doorway, and everything is very cold in this part.  The 
+walls, floor and ceiling are very slick and smooth, as if made of ice.  As you 
+step foreward, the ice behind you seems to be melting, preventing you from 
+going back.  The hallway continues east.
+~
+0 8 0
+D1
+The spiral tower.
+ ~
+~
+0 -1 28993
+S
+#28993
+The Spiral Tower~
+You walk around the corner and see the end of this little hallway.  Standing 
+at the end is Queen Frostine...The hallway continues south.
+~
+0 8 0
+D2
+In front of the doorway.
+ ~
+~
+0 -1 28994
+S
+#28994
+In Front of the Doorway~
+As you walk towards Queen Frostine, she holds up the key she is holding as if 
+to taunt you.  Looks like you'll just have to take it from her.  The door is 
+west.
+~
+0 8 0
+D3
+Further up the spiral tower.
+ ~
+~
+2 28567 28995
+S
+#28995
+The Spiral Tower~
+This section of the tower seems to be made completely of molasses.  As you take 
+each step, the molasses unsolidifies leaving a sitcky pool behind you.  You can 
+only go north.
+~
+0 8 0
+D0
+The spiral tower.
+ ~
+~
+0 -1 28996
+S
+#28996
+The Spiral Tower~
+As you step around the corner, you see the end of the hall.  It looks like the
+walls are changing in front of you...taking a more terrifying shape.  The hall 
+continues east.
+~
+0 8 0
+D1
+In front of the hallway.
+ ~
+~
+0 -1 28997
+S
+#28997
+In Front of the Hallway~
+As you walk foreward, you notice that the walls HAVE been changing.  They have 
+taken the form of Gloppy, but he seems different this time...more awesome than 
+before.  The door is south.
+~
+0 8 0
+D2
+Before the throne room.
+ ~
+~
+2 28568 28998
+S
+#28998
+Before the Throne Room~
+You are standing before the throne room of King Kandy.  The room is very richly
+decorated with gemstones.  As you look closely at these gemstones, you notice 
+something strange...they are actually rock candy.  The throne room is west.
+~
+0 8 0
+D3
+The throne room.
+ ~
+~
+0 -1 28999
+S
+#28999
+The Throne Room~
+You are standing in the throne room.  This is the final step in your quest for 
+the power behind everything in Candyland.  Everything in this room is made of 
+sugar.  You can feel your teeth rotting just from being in this room.  There is 
+a door up.
+~
+0 8 0
+D4
+The front gates of Candyland.
+ ~
+~
+2 28569 28500
+S
+#0
+
+
+#RESETS
+M 1 28500 4 28500    green m&m guard 1
+E 1 28503 0 5          equip the shell
+M 1 28500 4 28500    green m&m guard 2
+E 1 28503 0 5          equip the shell
+M 1 28500 4 28500    green m&m guard 3
+E 1 28503 0 5          equip the shell
+M 1 28500 4 28500    green m&m guard 4
+E 1 28503 0 5          equip the shell
+M 1 28575 1 28506    rainbow guard
+M 1 28575 1 28508    rainbow guard
+M 1 28575 1 28510    rainbow guard
+M 1 28575 1 28512    rainbow guard
+M 1 28575 1 28514    rainbow guard
+M 1 28501 4 28502    brown m&m
+E 1 28500 0 5          equip the shell
+M 1 28501 4 28515    brown m&m 2
+E 1 28500 0 5          equip the shell
+M 1 28501 4 28517    brown m&m 3
+E 1 28500 0 5          equip the shell
+M 1 28501 4 28546    brown m&m 4
+E 1 28500 0 5          equip the shell
+M 1 28502 3 28600    red m&m in clubhouse
+E 1 28502 0 5          equip the shell
+M 1 28502 3 28600    red m&m 2
+E 1 28502 0 5          equip shell
+M 1 28502 3 28600    red m&m 3
+E 1 28502 0 5          equip shell
+M 1 28503 2 28516    tan m&m 1
+E 1 28501 0 5          equip shell
+M 1 28503 2 28548    tan m&m 2
+E 1 28501 0 5          equip shell
+M 1 28504 2 28547    yellow m&m 1
+E 1 28504 0 5          equip shell
+M 1 28504 2 28552    yellow m&m 2
+E 1 28504 0 5          equip shell
+M 1 28505 3 28590    orange m&m 1
+E 1 28505 0 5          equip shell
+M 1 28505 3 28585    orange m&m 2
+E 1 28505 0 5          equip shell
+M 1 28505 3 28612    orange m&m 3
+E 1 28505 0 5          equip shell
+M 1 28506 5 28503    hershey kiss 1
+E 1 28506 0 13         equip belt
+M 1 28506 5 28516    hershey kiss 2
+E 1 28506 0 13         equip belt
+M 1 28506 5 28519    hershey kiss 3
+E 1 28506 0 13         equip belt
+M 1 28506 5 28547    hershey kiss 4
+E 1 28506 0 13         equip belt
+M 1 28506 5 28587    hershey kiss 5
+E 1 28506 0 13         equip belt
+M 1 28586 1 28590    hershey bar
+E 1 28507 0 6          equip coif
+M 1 28507 1 28610    peanut butter cup
+E 1 28509 0 7          equip legs
+M 1 28508 1 28801    mr goodbar
+E 1 28508 0 14         equip bracelet
+M 1 28509 1 28593    milky way bar
+E 1 28510 0 3          equip necklace
+M 1 28510 3 28509    raisinette
+M 1 28510 3 28546    raisinette 2
+M 1 28510 3 28552    raisinette 3
+M 1 28511 1 28708    butterfinger
+E 1 28511 0 1          equip ring
+M 1 28512 2 28801    green m&m peanut
+E 1 28503 0 5          equip shell
+M 1 28512 2 28842    green peanut 2
+E 1 28503 0 5          equip shell
+M 1 28513 2 28550    brown m&m peanut
+E 1 28500 0 5          equip shell
+M 1 28513 2 28591    brown peanut 2
+E 1 28500 0 5          equip shell
+M 1 28514 2 28802    red m&m peanut
+E 1 28502 0 5          equip shell
+M 1 28514 2 28802    red peanut
+E 1 28502 0 5          equip shell
+M 1 28501 1 28646    tan m&m peanut
+E 1 28501 0 5          equip shell
+M 1 28516 1 28704    yellow m&m peanut
+E 1 28504 0 5          equip shell
+M 1 28518 1 28798    orange m&m peanut
+E 1 28505 0 5          equip shell
+M 1 28519 1 28842    nestles crunch
+E 1 28512 0 11         equip shield
+M 1 28520 1 28901    Kit kat bar
+E 1 28513 0 16         Kit kat bar (weapon)
+M 1 28521 5 28502    nerd
+M 1 28521 5 28503    nerd 2
+M 1 28521 5 28546    nerd 3
+M 1 28522 1 28700    whatchamacalit
+E 1 28514 0 12         equip cape
+M 1 28523 1 28643    snickers bar
+M 1 28524 1 28802    o henry
+M 1 28525 1 28958    almond joy
+E 1 28515 0 17         equip almond
+M 1 28526 1 28904    mounds
+M 1 28527 3 28610    3 musketeer
+E 1 28517 0 16         equip sword
+M 1 28527 3 28610    3 musketeer
+E 1 28517 0 16         equip sword
+M 1 28527 3 28610    3 musketeer
+E 1 28517 0 16         equip sword
+M 1 28530 5 28615    jujyfruit
+E 1 28518 0 5          equip jacket
+M 1 28531 8 28530   plumpatroll kid
+G 1 28560 0            give plum
+M 1 28531 8 28544   kid
+G 1 28560 0            give plum
+M 1 28531 8 28539   kid
+G 1 28560 0            give plum
+M 1 28531 8 28535   kid
+G 1 28560 0            give plum
+M 1 28532 6 28532   adult
+E 1 28570 0 14         equip bracer
+M 1 28532 6 28534   adult
+E 1 28570 0 14         equip bracer
+M 1 28532 6 28543   adult 
+E 1 28570 0 14         equip bracer
+M 1 28532 6 28541   adult
+E 1 28570 0 14         equip bracer
+M 1 28532 6 28520   adult
+E 1 28570 0 14         equip bracer
+M 1 28532 6 28537   adult
+E 1 28570 0 14         equip bracer
+M 1 28533 5 28521   guard
+M 1 28533 5 28540   guard
+G 1 28519 0            give key to one guard
+M 1 28533 5 28527   guard
+M 1 28533 5 28528   guard
+M 1 28533 5 28533   guard
+M 1 28534 1 28526   plumpy
+E 1 28520 0 3          equip amulet
+M 1 28536 6 28557   mint bush
+E 1 28524 0 16         equip sword
+M 1 28536 6 28558   mint bush
+E 1 28524 0 16         equip sword
+M 1 28536 6 28565   mint bush
+E 1 28524 0 16         equip sword
+M 1 28536 6 28571   mint bush
+E 1 28524 0 16         equip sword
+M 1 28536 6 28572   mint bush
+E 1 28524 0 16         equip sword
+M 1 28536 6 28579   mint bush
+E 1 28524 0 16         equip sword
+M 1 28538 6 28556   mint tree
+E 1 28524 0 16         equip sword
+M 1 28538 6 28562   mint tree
+E 1 28524 0 16         equip sword
+M 1 28538 6 28564   mint tree
+E 1 28524 0 16         equip sword
+M 1 28538 6 28568   mint tree
+E 1 28524 0 16         equip sword
+M 1 28538 6 28570   mint tree
+E 1 28524 0 16         equip sword
+M 1 28538 6 28576   mint tree
+E 1 28524 0 16         equip sword
+M 1 28540 1 28580   mr mint
+E 1 28521 0 8          equip boots
+E 1 28522 0 16         equip axe
+E 1 28523 0 9          equip gloves
+M 1 28573 1 28583   wintergreen monster
+M 1 28542 4 28617   gumdrop
+M 1 28542 4 28626   gumdrop
+M 1 28542 4 28633   gumdrop
+M 1 28542 4 28637   gumdrop
+M 1 28541 4 28619   gumdrop
+M 1 28541 4 28623   gumdrop
+M 1 28541 4 28627   gumdrop
+M 1 28541 4 28631   gumdrop
+M 1 28543 1 28630   Jolly
+E 1 28525 0 6          equip glasses
+E 1 28526 0 13         equip belt
+E 1 28527 0 7          equip pants
+M 1 28544 3 28649   mountain
+M 1 28544 3 28651   mountain
+M 1 28544 3 28653   mountain
+M 1 28545 4 28661   bat
+M 1 28545 4 28669   bat
+M 1 28545 4 28668   bat
+M 1 28545 4 28676   bat
+M 1 28528 3 28666   r licorice
+M 1 28528 3 28671   r licorice
+M 1 28528 3 28672   r licorice
+M 1 28529 3 28659   c licorice
+M 1 28529 3 28660   c licorice
+M 1 28529 3 28667   c licorice
+M 1 28546 1 28685   lord licorice
+E 1 28528 0 16          equip whip
+E 1 28529 0 17          equip staff
+E 1 28530 0 10          equip sleeves
+M 1 28547 13 28711  peanut
+M 1 28547 13 28714  peanut
+M 1 28547 13 28716  peanut
+M 1 28547 13 28717  peanut
+M 1 28547 13 28725  peanut
+M 1 28547 13 28731  peanut
+M 1 28547 13 28736  peanut
+M 1 28547 13 28734  peanut
+M 1 28547 13 28746  peanut
+M 1 28547 13 28750  peanut
+M 1 28547 13 28750  peanut
+M 1 28547 13 28745  peanut
+M 1 28547 13 28752  peanut
+M 1 28548 1 28775   gramma nut
+E 1 28531 0 17          equip basket
+E 1 28532 0 7           equip leggings
+M 1 28574 3 28769   grandchild
+M 1 28574 3 28772   grandchild
+M 1 28574 3 28773   grandchild
+M 1 28549 3 28823   civilian
+M 1 28549 3 28816   civilian
+M 1 28549 3 28818   civilian
+M 1 28550 3 28830   private
+E 1 28533 0 16          equip stick
+M 1 28550 3 28817   private
+E 1 28533 0 16          equip stick
+M 1 28550 3 28826   private
+E 1 28533 0 16          equip stick
+M 1 28551 1 28819   sargeant
+E 1 28533 0 16          equip stick
+M 1 28552 1 28822   captain
+E 1 28533 0 16          equip stick
+M 1 28553 1 28828   major
+E 1 28533 0 16          equip stick
+M 1 28554 1 28815   general
+E 1 28533 0 16          equip stick
+M 1 28555 1 28833   princess lolly
+E 1 28534 0 6           equip tiara
+E 1 28558 0 1           equip ring
+E 1 28559 0 14          equip bracelet
+M 1 28556 6 28847   cone
+E 1 28537 0 14          equip bracelet
+M 1 28556 6 28853   cone
+E 1 28537 0 14          equip bracelet
+M 1 28556 6 28863   cone
+E 1 28537 0 14          equip bracelet
+M 1 28556 6 28876   cone
+E 1 28537 0 14          equip bracelet
+M 1 28556 6 28880   cone
+E 1 28537 0 14          equip bracelet
+M 1 28556 6 28888   cone
+E 1 28537 0 14          equip bracelet
+M 1 28557 5 28855   root beer float
+E 1 28538 0 17          equip wand
+M 1 28557 5 28859   root beer float
+E 1 28538 0 17          equip wand
+M 1 28557 5 28877   root beer float
+E 1 28538 0 17          equip wand
+M 1 28557 5 28879   root beer float
+E 1 28538 0 17          equip wand
+M 1 28557 5 28887   root beer float
+E 1 28538 0 17          equip wand
+M 1 28558 1 28870   queen frostine
+E 1 28535 0 6           equip crown
+E 1 28536 0 17          equip wand
+M 1 28559 1 28912  molasses pool
+M 1 28576 1 28916  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28577 1 28919  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28578 1 28923  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28579 1 28927  molasses pool
+M 1 28580 1 28928  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28581 1 28930  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28582 1 28934  molasses pool
+M 1 28583 1 28938  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28584 1 28939  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28585 1 28940  molasses pool
+M 1 28588 1 28943  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28587 1 28946  molasses pool
+G 1 28539 0             give healing molasses
+M 1 28560 1 28932   gloppy
+G 1 28539 0             give healing molasses
+G 1 28539 0             give healing molasses
+M 1 28561 1 28966   plumpy 2
+E 1 28561 0 17          equip key
+M 1 28562 1 28975   mr mint 2
+E 1 28562 0 17          equip key
+M 1 28563 1 28980   jolly 2
+E 1 28563 0 17          equip key
+M 1 28564 1 28984   lord licorice 2
+E 1 28564 0 17          equip key
+M 1 28565 1 28988   gramma nut 2
+E 1 28565 0 17          equip key
+M 1 28566 1 28991   princess lolly 2
+E 1 28566 0 17          equip key
+M 1 28567 1 28994   queen frostine 2
+E 1 28567 0 17          equip key
+M 1 28568 1 28997   gloppy 2
+E 1 28568 0 17          equip key
+M 1 28569 1 28999   king kandy
+E 1 28540 0 16          equip sword
+E 1 28541 0 10          equip sleeves
+E 1 28542 0 7           equip leggings
+E 1 28543 0 6           equip helmet
+E 1 28544 0 8           equip boots
+E 1 28545 0 5           equip shirt
+E 1 28546 0 3           equip amulet
+E 1 28547 0 1           equip brown ring
+E 1 28548 0 2           equip powder ring
+E 1 28549 0 9           equip gauntlets
+E 1 28550 0 14          equip bracelet
+E 1 28550 0 15          equip bracelet
+E 1 28569 0 17          equip key
+M 1 28570 1 28798   yakko warner
+E 1 28554 0 7           equip pants
+E 1 28555 0 13          equip belt
+E 1 28571 0 16          equip paddle
+M 1 28571 1 28799   wakko warner
+E 1 28551 0 5           equip tee shirt
+E 1 28552 0 6           equip hat
+E 1 28553 0 16          equip mallet
+M 1 28572 1 28800   dot warner
+E 1 28556 0 6           equip flower
+E 1 28557 0 7           equip skirt
+D 1 28521 2 2			; In Front of the Gingerbread Plum Tree Lock South
+D 1 28522 0 1			; Inside the Tree Close North
+D 1 28531 3 1			; In Front of a Small House Close West
+D 1 28532 1 1			; Inside a Small House Close East
+D 1 28533 3 1			; In Front of a Small House Close West
+D 1 28534 1 1			; Inside a Small House Close East
+D 1 28540 1 1			; In Front of a Small House Close East
+D 1 28541 3 1			; Inside a Small House Close West
+D 1 28542 1 1			; In Front of a Small House Close East
+D 1 28543 3 1			; Inside a Small House Close West
+D 1 28580 1 1			; In Front of the Minty Cabin Close East
+D 1 28581 3 1			; Inside the Minty Cabin Close West
+D 1 28582 4 1			; The Bedroom Close Up
+D 1 28598 2 1			; The Path Through Candyland Close South
+D 1 28600 0 1			; The Clubhouse Close North
+D 1 28654 3 1			; The Moat Before the Castle Close West
+D 1 28657 1 1			; The Grand Entranceway Close East
+D 1 28726 3 1			; In Front of Grandma's House Close West
+D 1 28740 1 1			; Inside Grandma's House Close East
+D 1 28747 3 1			; In the Kitchen Close West
+D 1 28748 2 1			; The Hall Closet Close South
+D 1 28749 0 1			; The Hallway Close North
+D 1 28750 1 1			; The Kitchen Closet Close East
+D 1 28775 3 1			; Grandma's Bedroom Close West
+D 1 28776 1 1			; The Hallway Close East
+D 1 28800 0 1			; The Path Through Candyland Close North
+D 1 28800 2 1			; The Path Through Candyland Close South
+D 1 28801 2 1			; Mr. Goodbar's House Close South
+D 1 28802 0 1			; The Candy Bar Close North
+D 1 28966 0 2			; In Front of the Door Lock North
+D 1 28975 0 2			; In Front of the Doorway Lock North
+D 1 28980 3 2			; In Front of the Doorway Lock West
+D 1 28984 0 2			; In Front of the Doorway Lock North
+D 1 28988 3 2			; In Front of the Doorway Lock West
+D 1 28991 0 2			; In Front of the Doorway Lock North
+D 1 28994 3 2			; In Front of the Doorway Lock West
+D 1 28997 2 2			; In Front of the Hallway Lock South
+D 1 28999 4 2			; The Throne Room Lock Up
+D 1 28500 1 1			; Grand Gate of Candyland Close East
+D 1 28501 3 1			; The Path Through Candyland Close West
+S
+
+
+#SPECIALS
+M  28500 spec_guard			the Green m&m Guard
+M  28510 spec_thief			a Raisinette
+M  28521 spec_thief			a Nerd
+M  28559 spec_fido			A Pool of Molasses
+M  28569 spec_decap                     Kind Kandy
+S
+
+#$

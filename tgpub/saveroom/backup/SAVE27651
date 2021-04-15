@@ -1,0 +1,183 @@
+#OBJECT
+Nest         0
+Name         sacrificial pit sacrifice~
+ShortDescr   a pit of sacrifice~
+Description  A sacrificial pit opens beneath you.~
+Vnum         27650
+ExtraFlags   0
+WearFlags    0
+WearLoc      -1
+ItemType     15
+Weight       666
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         ring pink ice~
+ShortDescr   a pink ice ring~
+Description  A pink ice ring draws your eye.~
+Vnum         6601
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         16731
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         helm dragon~
+ShortDescr   a helm of dragon kind~
+Description  A helm made of a dragon's skull is lying on the ground.~
+Vnum         2275
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1452
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         ring pink ice~
+ShortDescr   a pink ice ring~
+Description  A pink ice ring draws your eye.~
+Questowner   Squall~
+Vnum         6601
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         24816
+Values       10 0 0 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

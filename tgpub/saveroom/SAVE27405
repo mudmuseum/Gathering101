@@ -1,0 +1,503 @@
+#OBJECT
+Nest         0
+Name         arm Luna~
+ShortDescr   the sliced-off arm of Luna~
+Description  The sliced-off arm of Luna is lying here.~
+Vnum         14
+OID          1370824
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Heretic~
+ShortDescr   the sliced-off arm of Heretic~
+Description  The sliced-off arm of Heretic is lying here.~
+Vnum         14
+OID          1370914
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Akilles~
+ShortDescr   the sliced-off arm of Akilles~
+Description  The sliced-off arm of Akilles is lying here.~
+Vnum         14
+OID          1373474
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Tarrant~
+ShortDescr   the sliced-off leg of Tarrant~
+Description  The sliced-off leg of Tarrant is lying here.~
+Vnum         15
+OID          1366049
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         leg Deathknight~
+ShortDescr   the sliced-off leg of Deathknight~
+Description  The sliced-off leg of Deathknight is lying here.~
+Vnum         15
+OID          1374808
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 15 0
+End
+
+#OBJECT
+Nest         0
+Name         potion purple~
+ShortDescr   a purple potion~
+Description  A purple potion is here.~
+Vnum         4050
+OID          1357912
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         8928
+Values       19 19 57 -1
+Spell 1      'cure blindness'
+Spell 2      'sanctuary'
+End
+
+#OBJECT
+Nest         0
+Name         brain Karnyvoar~
+ShortDescr   the quivering brain of Karnyvoar~
+Description  The quivering brain of Karnyvoar wobbles on the floor.~
+Vnum         30005
+OID          1350971
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Karnyvoar~
+ShortDescr   the quivering brain of Karnyvoar~
+Description  The quivering brain of Karnyvoar wobbles on the floor.~
+Vnum         30005
+OID          1350997
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Sauron~
+ShortDescr   the quivering brain of Sauron~
+Description  The quivering brain of Sauron wobbles on the floor.~
+Vnum         30005
+OID          1355794
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Lanjun~
+ShortDescr   the sliced-off arm of Lanjun~
+Description  The sliced-off arm of Lanjun is lying here.~
+Vnum         14
+OID          1378441
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         arm Spux~
+ShortDescr   the sliced-off arm of Spux~
+Description  The sliced-off arm of Spux is lying here.~
+Vnum         14
+OID          1378468
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 14 0
+End
+
+#OBJECT
+Nest         0
+Name         eye eyeball Spux~
+ShortDescr   the squidgy eyeball of Spux~
+Description  The squidgy eyeball of Spux rolls around on the floor.~
+Vnum         30006
+OID          1378419
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30006 0
+End
+
+#OBJECT
+Nest         0
+Name         brain Spux~
+ShortDescr   the quivering brain of Spux~
+Description  The quivering brain of Spux wobbles on the floor.~
+Vnum         30005
+OID          1378429
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         11
+Values       16 0 30005 0
+End
+
+#OBJECT
+Nest         0
+Name         little finger Dmx~
+ShortDescr   the severed little finger of Dmx~
+Description  The severed little finger of Dmx lies on the floor.~
+Vnum         30035
+OID          1255439
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30035 0
+End
+
+#OBJECT
+Nest         0
+Name         little finger Dmx~
+ShortDescr   the severed little finger of Dmx~
+Description  The severed little finger of Dmx lies on the floor.~
+Vnum         30035
+OID          1258647
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30035 0
+End
+
+#OBJECT
+Nest         0
+Name         tooth ShadowKnight~
+ShortDescr   the knocked-out tooth of ShadowKnight~
+Description  The knocked-out tooth of ShadowKnight lies on the floor.~
+Vnum         30027
+OID          1271056
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     13
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       1 0 30027 0
+End
+
+#OBJECT
+Nest         0
+Name         thumb mob~
+ShortDescr   the severed thumb of the hobgoblin soldier~
+Description  The severed thumb of the hobgoblin soldier lies on the floor.~
+Vnum         30031
+OID          1162673
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         9
+Values       1 0 30031 0
+End
+
+#OBJECT
+Nest         0
+Name         corpse~
+ShortDescr   the corpse of Toreador Cleric~
+Description  The corpse of Toreador Cleric is lying here.~
+Vnum         10
+OID          1398827
+ExtraFlags   -32768
+WearFlags    1
+WearLoc      -1
+ItemType     23
+Weight       100
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       0 0 27300 1
+End
+
+#OBJECT
+Nest         0
+Name         leg Spux~
+ShortDescr   the sliced-off leg of Spux~
+Description  The sliced-off leg of Spux is lying here.~
+Vnum         15
+OID          1375957
+ExtraFlags   -32768
+WearFlags    16385
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        -1
+Cost         10
+Values       20 0 15 0
+End
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+

@@ -1,0 +1,1101 @@
+#AREA   Anon    Power Plant~
+
+
+#MOBILES
+#23500
+F.I.D.O fido~
+a F.I.D.O~
+A F.I.D.O is here.
+~
+No, this isn't a mutant beastly fido.  It's a Foreign Intruder Defense 
+Organism.  It's a guard for the plant.
+~
+2|64 128 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23501
+elecric eye~
+an electric eye~
+An electric eye is here, making sure you check out.
+~
+This eye is a secondary security device, behind F.I.D.O.  If someone can get 
+past fido, it's this guy's job to stop you.
+~
+2|64 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23502
+secretary~
+A secretary~
+A secretary is answering calls from the EPA here.
+~
+She works for the Power Plant, so she takes the responsibility with it.  Calls
+from the EPA or the ASPCA come every five minutes.
+~
+2|64 0 500 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#23503
+worker~
+a worker~
+A worker stands here, fixing a generator.
+~
+This man faces life and death situations every day, and doesn't care.  He gets
+paid for this, so he does it.
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23504
+foreman~
+the foreman~
+A foreman stands here, looking for mistakes in the work.
+~
+He wants to make sure this plant succeeds, but not the lazy workers.  He loves
+his job, just not his employees.
+~
+2|64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23505
+janitor~
+a janitor~
+A janitor stands here, sweeping up nuclear waste.
+~
+He is exposed to deadly radiation every day, but you can see only two 
+eyes on him.  Weird. ~
+2|64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23506
+executive~
+an executive~
+A low-level executive is here, kissing up to his superiors.
+~
+He knows where his bread's buttered, so he kisses up to move up.
+~
+2|64 0 500 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#23507
+executive~
+an executive~
+An executive is sleeping at a meeting here.
+~
+He wants to pay attention.  Honest.  It's just the lecturer is SOOOO damn
+boring, he can't.
+~
+2|64 0 500 S
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23508
+lecturer~
+a lecturer~
+A lecturer is here, giving the most boring lecture you've ever seen.
+~
+He tries to do his job of informing executives about finance, but he's too 
+boring for them to stay awake!
+~
+2|64 0 0 S
+47 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23509
+Mr. Johnson~
+Mr. Johnson~
+Mr. Johnson is here.
+~
+He's the owner of the power plant, and is just putting on his radiation suit
+to go inspect it.
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23510
+tourist~
+a tourist~
+A tourist is trying to find her home here.
+~
+She came here for the view, it IS the highest tower around.  Putting up with a
+little nuclear waste in the elevator is a small price to pay.
+~
+2|64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#23500
+keycard~
+a keycard~
+A keycard with an identification number lies here.~
+~
+18 0 1
+0 1 6 11 
+1 0 0
+#23501
+laser~
+a F.I.D.O laser~
+A laser used by a F.I.D.O is here.~
+~
+5 1|2|64 1|8192
+0 1 6 6 
+5 0 0
+A
+19 10
+#23502
+pocket pistol gun~
+a pocket pistol~
+A pocket pistol is here, lying in its holster.~
+~
+5 0 1|8192
+0 0 0 6 
+5 0 0
+A
+19 4
+A
+18 4
+A
+17 -10
+#23503
+radiation mask~
+a radiation mask~
+An asbestos radiation mask lies here.~
+~
+9 0 1|16
+0 1 6 11 
+5 0 0
+A
+17 -20
+A
+13 50
+#23504
+radiation suit~
+a radiation suit~
+A radiation suit lies here.~
+~
+9 0 1|1024
+0 1 6 11 
+5 0 0
+A
+2 3
+A
+1 3
+#23505
+radiation boots~
+radiation boots~
+Some radiation boots stand here.~
+~
+9 0 1|64
+0 1 6 11 
+5 0 0
+A
+19 4
+#23506
+radiation leggings~
+radiation leggings~
+Some radiation leggings rest here.~
+~
+9 0 1|32
+0 1 6 11 
+5 0 0
+A
+24 -5
+#23507
+tie~
+a tie~
+An executive's tie is here.~
+~
+9 0 1|4
+0 1 6 11 
+5 0 0
+A
+12 20
+#23508
+sport jacket~
+a sport jacket~
+A sporty jacket is here.~
+~
+9 0 1|8
+0 1 6 11 
+5 0 0
+A
+4 3
+#23509
+radiation gloves~
+some radiation gloves~
+A pair of radiation shielding gloves lie here.~
+~
+9 0 1|128
+0 1 6 11 
+5 0 0
+A
+5 2
+A
+4 2
+#0
+
+
+#ROOMS
+#23500
+Road~
+You are standing on a paved road.  It is surprisingly new, and looks very 
+high-tech.  Much better than the paths leading to other places.
+~
+0 0 1
+D0
+~
+~
+0 -1 23501
+D2
+~
+~
+0-1 22156
+S
+#23501
+A road near a tower~
+You are on the same road.  You can see a  metal tower up ahead.  It's not very
+pretty, but it's BIG.
+~
+0 0 1
+D0
+~
+~
+0 -1 23502
+D2
+~
+~
+0 -1 23500
+S
+#23502
+A road at the tower~
+You are standing right next to a tower.  There is a sign reading: authorized
+personnel only.  All others are at risk of persecution by general order #7.
+~
+0 0 1
+D0
+~
+~
+0 -1 23503
+D2
+~
+~
+0 -1 23501
+S
+#23503
+Gate to the tower~
+You are standing at the gate to a gigantic tower.  There are robotic guard 
+machines preventing you from getting in.  The question is, which one has the 
+key?
+~
+0 0 1
+D0
+~
+~
+1 23500 23504
+D2
+~
+~
+0 -1 23502
+S
+#23504
+Inside the gate~
+You are now inside the gate.  There is an entrance to the tower to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 23505
+D2
+~
+~
+4 23500 23503
+S
+#23505
+Entrance to the tower~
+You are inside this gigantic tower.  You ask the people in this lobby, and you
+find out that it is called Johnson's Hydraulic Power (the ONLY way to get
+electronic power in all the world).
+~
+0 0 0
+D0
+~
+~
+0 -1 23506
+D2
+~
+~
+0 -1 23504
+S
+#23506
+Power Plant: First Floor~
+You are standing on the first floor of the power plant.  This is the main 
+power floor.  Gigantic generators are all around. ~
+0 0 0
+D0
+~
+~
+0 -1 23508
+D1
+~
+~
+0 -1 23507
+D2
+~
+~
+0 -1 23505
+D4
+~
+~
+0 -1 23514
+D5
+~
+~
+1 -1 23510
+S
+#23507
+Power Plant: First Floor~
+You are standing on the first floor of the power plant.  This is the main 
+power floor.  Gigantic generators are all around. ~
+0 0 0
+D0
+~
+~
+0 -1 23509
+D3
+~
+~
+0 -1 23506
+S
+#23508
+Power Plant: First Floor~
+You are standing on the first floor of the power plant.  This is the main 
+power floor.  Gigantic generators are all around. 
+~
+0 0 0
+D1
+~
+~
+0 -1 23509
+D2
+~
+~
+0 -1 23506
+S
+#23509
+Power Plant: First Floor~
+You are standing on the first floor of the power plant.  This is the main 
+power floor.  Gigantic generators are all around. 
+~
+0 0 0
+D2
+~
+~
+0 -1 23507
+D3
+~
+~
+0 -1 23508
+S
+#23510
+Power Plant: Basement~
+You are on the bottom of this tower.  You see even more generators here.
+~
+0 0 0
+D0
+~
+~
+0 -1 23511
+D1
+~
+~
+0 -1 23512
+D4
+~
+~
+1 -1 23506
+S
+#23511
+Power Plant: Basement~
+You are on the bottom of this tower.  You see even more generators here.
+~
+0 0 0
+D1
+~
+~
+0 -1 23513
+D2
+~
+~
+0 -1 23510
+S
+#23512
+Power Plant: Basement~
+You are on the bottom of this tower.  You see even more generators here.
+~
+0 0 0
+D0
+~
+~
+0 -1 23513
+D3
+~
+~
+0 -1 23510
+S
+#23513
+Power Plant: Basement~
+You are on the bottom of this tower.  You see even more generators here.
+~
+0 0 0
+D2
+~
+~
+0 -1 23512
+D3
+~
+~
+0 -1 23511
+S
+#23514
+Power Plant: Second Floor~
+There are more generators here.  These floors must be VERY strong, and VERY 
+expensive to support the weight.  A sign says "power coming to your area soon!".
+~
+0 0 0
+D0
+~
+~
+0 -1 23515
+D1
+~
+~
+0 -1 23516
+D4
+~
+~
+0 -1 23518
+D5
+~
+~
+0 -1 23506
+S
+#23515
+Power Plant: Second Floor~
+There are more generators here.  These floors must be VERY strong, and VERY 
+expensive to support the weight.  A sign says "power coming to your area soon!".
+~
+0 0 0
+D1
+~
+~
+0 -1 23517
+D2
+~
+~
+0 -1 23514
+S
+#23516
+Power Plant: Second Floor~
+There are more generators here.  These floors must be VERY strong, and VERY 
+expensive to support the weight.  A sign says "power coming to your area soon!".
+~
+0 0 0
+D0
+~
+~
+0 -1 23517
+D3
+~
+~
+0 -1 23514
+S
+#23517
+Power Plant: Second Floor~
+There are more generators here.  These floors must be VERY strong, and 
+VERY expensive to support the weight.  A sign says "power coming to your area soon!".
+~
+0 0 0
+D2
+~
+~
+0 -1 23516
+D3
+~
+~
+0 -1 23515
+S
+#23518
+Power Plant: Third Floor~
+Even more generators are here.  These ones are slightly smaller, probably to 
+save the floor from collapsing.
+~
+0 0 0
+D0
+~
+~
+0 -1 23519
+D1
+~
+~
+0 -1 23520
+D4
+~
+~
+0 -1 23522
+D5
+~
+~
+0 -1 23514
+S
+#23519
+Power Plant: Third Floor~
+Even more generators are here.  These ones are slightly smaller, probably to 
+save the floor from collapsing.
+~
+0 0 0
+D1
+~
+~
+0 -1 23521
+D2
+~
+~
+0 -1 23518
+S
+#23520
+Power Plant: Third Floor~
+Even more generators are here.  These ones are slightly smaller, probably to
+save the floor from collapsing.
+~
+0 0 0
+D0
+~
+~
+0 -1 23521
+D3
+~
+~
+0 -1 23518
+S
+#23521
+Power Plant: Third Floor~
+Even more generators are here.  These ones are slightly smaller, probably to 
+save the floor from collapsing.
+~
+0 0 0
+D2
+~
+~
+0 -1 23520
+D3
+~
+~
+0 -1 23519
+S
+#23522
+Power Plant: Fourth Floor~
+You are on a floor with more generators.  You can tell that this place is 
+preparing to spread power to a very large area. ~
+0 0 0
+D0
+~
+~
+0 -1 23523
+D1
+~
+~
+0 -1 23524
+D4
+~
+~
+0 -1 23526
+D5
+~
+~
+0 -1 23518
+S
+#23523
+Power Plant: Fourth Floor~
+You are on a floor with more generators.  You can tell that this place is 
+preparing to spread power to a very large area. ~
+0 0 0
+D1
+~
+~
+0 -1 23525
+D2
+~
+~
+0 -1 23522
+S
+#23524
+Power Plant: Fourth Floor~
+You are on a floor with more generators.  You can tell that this place is 
+preparing to spread power to a very large area. ~
+0 0 0
+D0
+~
+~
+0 -1 23525
+D3
+~
+~
+0 -1 23522
+S
+#23525
+Power Plant: Fourth Floor~
+You are on a floor with more generators.  You can tell that this place is 
+preparing to spread power to a very large area. ~
+0 0 0
+D2
+~
+~
+0 -1 23524
+D3
+~
+~
+0 -1 23523
+S
+#23526
+Power Plant: Fifth Floor~
+You are standing on the fifth floor of the power plant.  You can tell that
+all the generators here are newly installed, because you still see workers 
+installing them.
+~
+0 0 0
+D0
+~
+~
+0 -1 23527
+D1
+~
+~
+0 -1 23528
+D4
+~
+~
+0 -1 23530
+D5
+~
+~
+0 -1 23522
+S
+#23527
+Power Plant: Fifth Floor~
+You are standing on the fifth floor of the power plant.  You can tell that all
+the generators here are newly installed, because you still see workers 
+installing them.
+~
+0 0 0
+D1
+~
+~
+0 -1 23529
+D2
+~
+~
+0 -1 23526
+S
+#23528
+Power Plant: Fifth Floor~
+You are standing on the fifth floor of the power plant.  You can tell that all
+the generators here are newly installed, because you still see workers 
+installing them.
+~
+0 0 0
+D0
+~
+~
+0 -1 23529
+D3
+~
+~
+0 -1 23526
+S
+#23529
+Power Plant: Fifth Floor~
+You are standing on the fifth floor of the power plant.  You can tell that all
+the generators here are newly installed, because you still see workers
+installing them.
+~
+0 0 0
+D2
+~
+~
+0 -1 23528
+D3
+~
+~
+0 -1 23527
+S
+#23530
+Power Plant: Sixth Floor~
+This is the lowest executive floor, for the lowest-ranking executives.  There
+are small working spaces with no separate offices.  People are bustling 
+around, trying to get a chance at a copier or some other machine.
+~
+0 4 0
+D0
+~
+~
+0 -1 23531
+D1
+~
+~
+0 -1 23532
+D4
+~
+~
+0 -1 23534
+D5
+~
+~
+0 -1 23526
+S
+#23531
+Power Plant: Sixth Floor~
+This is the lowest executive floor, for the lowest-ranking executives.  There
+are small working spaces with no separate offices.  People are bustling 
+around, trying to get a chance at a copier or some other machine.
+~
+0 0 0
+D1
+~
+~
+0 -1 23533
+D2
+~
+~
+0 -1 23530
+S
+#23532
+Power Plant: Sixth Floor~
+This is the lowest executive floor, for the lowest-ranking executives.  There 
+are small working spaces with no separate offices.  People are 
+bustling around, trying to get a chance at a copier or some other machine.
+~
+0 0 0
+D0
+~
+~
+0 -1 23533
+D3
+~
+~
+0 -1 23530
+S
+#23533
+Power Plant: Sixth Floor~
+This is the lowest executive floor, for the lowest-ranking executives.  There are
+small working spaces with no separate offices.  People are bustling 
+around, trying to get a chance at a copier or some other machine.
+~
+0 0 0
+D2
+~
+~
+0 -1 23532
+D3
+~
+~
+0 -1 23531
+S
+#23534
+Power Plant: Seventh Floor~
+You are standing on the seventh floor of the power plant.  This floor 
+obviously serves as a conference floor for executives, because large 
+conference tables cover the whole floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 23535
+D1
+~
+~
+0 -1 23536
+D4
+~
+~
+0 -1 23538
+D5
+~
+~
+0 -1 23530
+S
+#23535
+Power Plant: Seventh Floor~
+You are standing on the seventh floor of the power plant.  This floor 
+obviously serves as a conference floor for executives, because large 
+conference tables cover the whole floor. ~
+0 0 0
+D1
+~
+~
+0 -1 23537
+D2
+~
+~
+0 -1 23534
+S
+#23536
+Power Plant: Seventh Floor~
+You are standing on the seventh floor of the power plant.  This floor 
+obviously serves as a conference floor for executives, because large 
+conference tables cover the whole floor. ~
+0 0 0
+D0
+~
+~
+0 -1 23537
+D3
+~
+~
+0 -1 23534
+S
+#23537
+Power Plant: Seventh Floor~
+You are standing on the seventh floor of the power plant.  This floor 
+obviously serves as a conference floor for executives, because large 
+conference tables cover the whole floor. ~
+0 0 0
+D2
+~
+~
+0 -1 23536
+D3
+~
+~
+0 -1 23535
+S
+#23538
+Power Plant: Eighth Floor~
+This is the floor for the upper echeleons of the executives.  They all have 
+lavishly furnished offices.
+~
+0 0 0
+D0
+~
+~
+0 -1 23539
+D1
+~
+~
+0 -1 23540
+D4
+~
+~
+0 -1 23542
+D5
+~
+~
+0 -1 23534
+S
+#23539
+Power Plant: Eighth Floor~
+This is the floor for the upper echeleons of the executives.  They all have 
+lavishly furnished offices.
+~
+0 0 0
+D1
+~
+~
+0 -1 23541
+D2
+~
+~
+0 -1 23538
+S
+#23540
+Power Plant: Eighth Floor~
+This is the floor for the upper echeleons of the executives.  They all have 
+lavishly furnished offices.
+~
+0 0 0
+D0
+~
+~
+0 -1 23541
+D3
+~
+~
+0 -1 23538
+S
+#23541
+Power Plant: Eighth Floor~
+This is the floor for the upper echeleons of the executives.  They all have 
+lavishly furnished offices.
+~
+0 0 0
+D2
+~
+~
+0 -1 23540
+D3
+~
+~
+0 -1 23539
+S
+#23542
+Power Plant: Top Floor~
+You are on the top floor of the power plant.  You can see many cities, 
+castles, and forests from here.  There are telescopes to look out of.  This 
+floor is obviously for tourism.
+~
+0 0 0
+D0
+~
+~
+0 -1 23543
+D1
+~
+~
+0 -1 23544
+D5
+~
+~
+0 -1 23538
+S
+#23543
+Power Plant: Top Floor~
+You are on the top floor of the power plant.  You can see many cities, 
+castles, and forests from here.  There are telescopes to look out of.  
+This floor is obviously for tourism.
+~
+0 0 0
+D1
+~
+~
+0 -1 23545
+D2
+~
+~
+0 -1 23542
+S
+#23544
+Power Plant: Top Floor~
+You are on the top floor of the power plant.  You can see many cities, 
+castles, and forests from here.  There are telescopes to look out of.  
+This floor is obviously for tourism.
+~
+0 0 0
+D0
+~
+~
+0 -1 23545
+D3
+~
+~
+0 -1 23542
+S
+#23545
+Power Plant: Top Floor~
+You are on the top floor of the power plant.  You can see many cities,
+castles, and forests from here.  There are telescopes to look out of.  
+This floor is obviously for tourism.
+~
+0 0 0
+D2
+~
+~
+0 -1 23544
+D3
+~
+~
+0 -1 23543
+S
+#23546
+Chewbacca's Room~
+You can see a modern-type room with all the creature comforts you can think 
+of.  There is a reclining chair in front of an elegant desk housing his
+computer, a waterbed, and even a hot tub!  There is even a little fridge.
+~
+0 4|512|1024|16384 0
+S
+#23547
+Drath's God Room~
+You are standing in Drath's God Room.  There is a little furniture, with a TV 
+playing something.  You see a couch where Drath talks to the mortals
+(and imms) he summons here.
+~
+0 4|512|1024|16384 0
+S
+#23548
+Silk's House~
+This is what you'd think it is.  There is a plush bed with silk sheets and a 
+silk couch.  There is music coming from somewhere, and the lights are dim.
+~
+0 4|512|1024|16384 0
+S
+#0
+
+
+#RESETS
+D 1 23503 0 2                   ; Gate to the tower Lock North
+D 1 23506 5 1                   ; Power Plant: First Floor Close Down
+*
+M 1 23500 1 23503                       a F.I.D.O to Gate to the tower
+E 1 23501 100 16
+G 1 23500 100
+*
+M 1 23501 1 23504                       an electric eye to Inside the gate
+*
+M 1 23502 1 23505                       A secretary to Entrance to the tower
+*
+M 1 23503 2 23507                       a worker to Power Plant: First Floor
+*
+M 1 23503 2 23511                       a worker to Power Plant: Basement
+*
+M 1 23504 1 23518                       the foreman to Power Plant: Third Floor
+*
+M 1 23503 2 23521                       a worker to Power Plant: Third Floor
+*
+M 1 23505 2 23524                       a janitor to Power Plant: Fourth Floor
+*
+M 1 23505 1 23514                       a janitor to Power Plant: Second Floor
+*
+M 1 23506 1 23531                       an executive to Power Plant: Sixth Floor
+E 1 23507 100 3
+*
+M 1 23506 1 23533                       an executive to Power Plant: Sixth Floor
+E 1 23507 100 3
+*
+M 1 23507 2 23535                       an executive to Power Plant: Seventh Floor
+E 1 23508 100 5
+*
+M 1 23508 1 23536                       a lecturer to Power Plant: Seventh Floor
+*
+M 1 23509 1 23541                       Mr. Johnson to Power Plant: Eighth Floor
+E 1 23503 100 6
+E 1 23506 100 7
+E 1 23505 100 8
+E 1 23509 100 9
+E 1 23504 100 12
+E 1 23502 100 16
+*
+M 1 23510 1 23543                       a tourist to Power Plant: Top Floor
+S
+
+
+#SPECIALS
+M  23500 spec_cast_judge                        a F.I.D.O
+M  23505 spec_janitor                   a janitor
+M  23509 spec_cast_judge                        Mr. Johnson
+S
+
+
+#$
