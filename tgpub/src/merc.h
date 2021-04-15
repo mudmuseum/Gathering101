@@ -1403,7 +1403,28 @@ extern sh_int	gsn_chill_touch;
 
 
 
+/*
+ * Rotains Clan Table Structure
+ */
 
+struct clan_table_type
+{
+  char * clan_name;
+  char * clan_leader;
+  char * clan_powers_1;
+  char * clan_powers_2;
+  char * clan_powers_3;
+  int    clan_kills [MAX_CLAN];
+  int    lvnum;       /* Lower vnum of clan area */
+  int    uvnum;       /* Upper vnum of clan area */
+  int    clan_recall; /* Clan recall vnum */
+};
+
+struct artifact_type
+{
+  char * player_name;
+  int    object_vnum;
+};
 
 /*
  * Stat board struct (mestoph)
