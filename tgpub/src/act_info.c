@@ -2925,8 +2925,7 @@ void do_report( CHAR_DATA *ch, char *argument )
 
         sprintf(buf,"%s reports to you:\n\r", ch->name );
         send_to_char(buf, victim);
-        sprintf(buf,"#g-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-=-=-=-=-=-\n\r");
+        sprintf(buf,"#g-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n\r");
         send_to_char(buf, victim);
         sprintf(buf,"#g|");
         send_to_char(buf, victim);
@@ -3024,8 +3023,7 @@ void do_report( CHAR_DATA *ch, char *argument )
       COL_SCALE(exp_str, ch, ch->exp, 1000);
 
       sprintf( buf,
-          "You report to %s: %s/#C%d#n hp %s/#C%d#n mana %s/#C%d#n mv %s xp.\n\r
-",
+          "You report to %s: %s/#C%d#n hp %s/#C%d#n mana %s/#C%d#n mv %s xp.\n\r",
         victim->name,
           hit_str,  ch->max_hit,
           mana_str, ch->max_mana,
