@@ -193,37 +193,27 @@ void do_pstat(CHAR_DATA *ch, char *argument)
 "#WWeapon level:#n                 Bite  : %4d Pound : %4d Crush: %4d\r\n", 
 	victim->wpn[10],victim->wpn[7],victim->wpn[8]);
     send_to_char(buf, ch);
-    sprintf(buf, 
-" Unarmed : %4d Slash  : %4d Slice : %4d Whip  : %4d Grep : %4d\r\n",
+    sprintf(buf, " Unarmed : %4d Slash  : %4d Slice : %4d Whip  : %4d Grep : %4d\r\n",
 	victim->wpn[0],victim->wpn[3],victim->wpn[1], victim->wpn[4],
 	victim->wpn[9]);
     send_to_char(buf, ch);
-	sprintf(buf,
-" Claw    : %4d Pierce : %4d Stab  : %4d Blast : %4d Suck : %4d\r\n",
+	sprintf(buf," Claw    : %4d Pierce : %4d Stab  : %4d Blast : %4d Suck : %4d\r\n",
 	victim->wpn[5],victim->wpn[11],victim->wpn[2],
 	victim->wpn[6],victim->wpn[12]);
     send_to_char(buf, ch);
-	sprintf(buf,
-"#WStances:#n
- Viper : %3d Mongoose: %3d Crab  : %3d Bull   : %3d  Crane :  %3d\r\n",
+	sprintf(buf, "#WStances:#n Viper : %3d Mongoose: %3d Crab  : %3d Bull   : %3d  Crane :  %3d\r\n",
 	victim->stance[1],victim->stance[4],victim->stance[3],
 	victim->stance[5],victim->stance[2]);
     send_to_char(buf, ch);
-    sprintf(buf,
-" Mantis: %3d Tiger   : %3d Dragon: %3d Swallow: %3d  Monkey: %3d\r\n", 
+    sprintf(buf, " Mantis: %3d Tiger   : %3d Dragon: %3d Swallow: %3d  Monkey: %3d\r\n", 
 	victim->stance[6],victim->stance[8],victim->stance[7],
 	victim->stance[10],victim->stance[9]);
     send_to_char(buf, ch);
-    sprintf( buf,
-"#WSpells:#n
- Purple: %3d Red   : %3d Blue  : %3d Green : %3d  Yellow: %3d\r\n",
+    sprintf( buf, "#WSpells:#n Purple: %3d Red   : %3d Blue  : %3d Green : %3d  Yellow: %3d\r\n",
 	victim->spl[0], victim->spl[1], victim->spl[2], victim->spl[3],
 	victim->spl[4]);
     send_to_char(buf, ch);
-    sprintf(buf, 
-"
-#WTimer data:#n
- Idle: %4d  Last Death: %4d  Outcast: %4d  Silenced: %4d\r\n",
+    sprintf(buf, "#WTimer data:#n Idle: %4d  Last Death: %4d  Outcast: %4d  Silenced: %4d\r\n",
 	victim->timer, victim->pcdata->timer[TIMER_DEATH],
 	victim->pcdata->timer[TIMER_OUTCAST],
 	victim->pcdata->timer[TIMER_SILENCED]);
