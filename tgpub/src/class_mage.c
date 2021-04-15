@@ -1307,14 +1307,11 @@ if (ch->level == LEVEL_MAGE)
 	    else strcpy(msg, "with UNGODLY vengance!");
 
 		    adv_damage(ch,vch,dam);
-		    sprintf(buf,"Your %s strikes $N %s 
-(%d)",page->chpoweroff, msg, dam);
+		    sprintf(buf,"Your %s strikes $N %s (%d)",page->chpoweroff, msg, dam);
 		    act2(buf,ch,NULL,vch,TO_CHAR);
-		    sprintf(buf,"$n's %s strikes $N
-%s",page->chpoweroff, msg);
+		    sprintf(buf,"$n's %s strikes $N %s",page->chpoweroff, msg);
 		    act2(buf,ch,NULL,vch,TO_NOTVICT);
-		    sprintf(buf,"$n's %s strikes you
-%s [%d]",page->chpoweroff, msg, dam);
+		    sprintf(buf,"$n's %s strikes you %s [%d]",page->chpoweroff, msg, dam);
 		    act2(buf,ch,NULL,vch,TO_VICT);
 /*		    if (!IS_NPC(vch) && number_percent() <= vch->pcdata->atm)
 			act( "$n's spell is unable to penetrate your antimagic shield.", ch, NULL, vch, TO_VICT );
