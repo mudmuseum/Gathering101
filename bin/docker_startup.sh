@@ -12,7 +12,7 @@ CONTAINER_NAME="gathering101"
 MUD_DIRECTORY="gathering"
 
 # Repository Configuration
-REPOSITORY_NAME="gathering101"
+REPOSITORY_NAME="gathering-1.0.1"
 
 # Builds the ECR image reference from Account, Region, and Tag
 ACCOUNT=$(aws sts get-caller-identity | jq -r .Account)
