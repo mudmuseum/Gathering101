@@ -3708,9 +3708,7 @@ void do_oset( CHAR_DATA *ch, char *argument )
 	else if ( !str_cmp( arg3, "inventory"    )) value = ITEM_INVENTORY;
 	else if ( !str_cmp( arg3, "loyal"        )) value = ITEM_LOYAL;
 	else {
-	    send_to_char("Extra flag can be from the following: Glow, Hum, Thrown, Vanish, Invis,
-Magic, Nodrop, Bless, Anti-Good, Anti-Evil, Anti-Neutral, Noremove,
-Inventory, Loyal.\n\r",ch); return;}
+	    send_to_char("Extra flag can be from the following: Glow, Hum, Thrown, Vanish, Invis, Magic, Nodrop, Bless, Anti-Good, Anti-Evil, Anti-Neutral, Noremove, Inventory, Loyal.\n\r",ch); return;}
 
 	/* Removing magic flag allows multiple enchants */
 	if (IS_SET(obj->extra_flags,value) && value == ITEM_MAGIC && !IS_JUDGE(ch))
@@ -3761,8 +3759,7 @@ Inventory, Loyal.\n\r",ch); return;}
 	else if ( !str_cmp( arg3, "hold"   )) value = ITEM_WIELD;
 	else if ( !str_cmp( arg3, "face"   )) value = ITEM_WEAR_FACE;
 	else {
-	    send_to_char("Wear location can be from: None, Take, Finger, Neck, Body, Head, Legs,
-Hands, Arms, About, Waist, Hold, Face.\n\r",ch); return;}
+	    send_to_char("Wear location can be from: None, Take, Finger, Neck, Body, Head, Legs, Hands, Arms, About, Waist, Hold, Face.\n\r",ch); return;}
 	if (IS_SET(obj->wear_flags,ITEM_TAKE) ) value += 1;
 	obj->wear_flags = value;
 	send_to_char("Ok.\n\r",ch);
@@ -3872,9 +3869,7 @@ Hands, Arms, About, Waist, Hold, Face.\n\r",ch); return;}
 	else if (!str_cmp( arg3, "pill")) obj->item_type = 26;
 	else if (!str_cmp( arg3, "portal")) obj->item_type = 27;
 	else if (!str_cmp( arg3, "stake")) obj->item_type = 30;
-	else {send_to_char("Type can be one of: Light, Scroll, Wand, Staff, Weapon, Treasure, Armor,
-Potion, Furniture, Trash, Container, Drink, Key, Food, Money, Boat, Corpse,
-Fountain, Pill, Portal, Stake.\n\r", ch);
+	else {send_to_char("Type can be one of: Light, Scroll, Wand, Staff, Weapon, Treasure, Armor, Potion, Furniture, Trash, Container, Drink, Key, Food, Money, Boat, Corpse, Fountain, Pill, Portal, Stake.\n\r", ch);
 	     return;}
 	send_to_char("Ok.\n\r",ch);
     	if (obj->questmaker != NULL) free_string(obj->questmaker);
