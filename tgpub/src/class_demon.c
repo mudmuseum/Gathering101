@@ -312,9 +312,7 @@ void do_demonarmour( CHAR_DATA *ch, char *argument )
         else if (!str_cmp(arg2,"longsword" )) vnum = 29696;
         else
         {
-            send_to_char("Please specify which piece of black demonic armor you wish to make:
-Ring Collar Plate Helmet Leggings Boots Gauntlets Sleeves 
-Cape Belt Bracer Visor Shortsword Longsword\n\r",ch);
+            send_to_char("Please specify which piece of black demonic armor you wish to make: Ring Collar Plate Helmet Leggings Boots Gauntlets Sleeves Cape Belt Bracer Visor Shortsword Longsword\n\r",ch);
             return;
         }
     }
@@ -356,9 +354,7 @@ Cape Belt Bracer Visor Shortsword Longsword\n\r",ch);
 	else if (!str_cmp(arg2, "longsword"     )) vnum = 29643; */
         else
         {
-            send_to_char("Please specify which piece of red demonic armor you wish to make:
-Ring Collar Plate Helmet Leggings Boots 
-Gauntlets Sleeves Cape Belt Bracer Visor.\r\n", ch);
+            send_to_char("Please specify which piece of red demonic armor you wish to make: Ring Collar Plate Helmet Leggings Boots Gauntlets Sleeves Cape Belt Bracer Visor.\r\n", ch);
             return;
         }
         dps_cost = 25000;
