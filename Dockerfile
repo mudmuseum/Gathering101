@@ -21,7 +21,6 @@ RUN cp -R /gathering/area \
           /gathering/doc \
           /gathering/player \
           /gathering/saveroom \
-          /gathering/utils \
             /build/gathering
 RUN cp /gathering/src/Gathering /build/gathering/area/
 
