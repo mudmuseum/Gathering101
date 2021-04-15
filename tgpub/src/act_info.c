@@ -1121,8 +1121,7 @@ void do_look( CHAR_DATA *ch, char *argument )
 	    	sprintf( buf, "Somehow it is MORE than full of %s liquid.\n\r",liq_table[obj->value[2]].liq_color);
        }
       else
-        sprintf( buf, "The contents of this item is unknown.. and should
-be reported to a GOD!\n\r");
+        sprintf( buf, "The contents of this item is unknown.. and should be reported to a GOD!\n\r");
 	    send_to_char( buf, ch );
 	    break;
 
