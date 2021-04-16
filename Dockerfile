@@ -44,4 +44,4 @@ COPY --from=SourceBuilder /lib64/ld-linux-x86-64.so.2 /lib64/
 
 WORKDIR /gathering/area
 EXPOSE 9100
-ENTRYPOINT ["./gathering", "9100"]
+ENTRYPOINT ["./Gathering", "9100"]
