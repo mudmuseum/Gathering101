@@ -3006,7 +3006,9 @@ void fwrite_room_save( ROOM_INDEX_DATA *room )
      * will not overwrite another.  -- Xodin
      */
 
-    fclose( fpReserve );
+//    if (fpReserve != NULL) {
+//        fclose( fpReserve );
+//    }
 
     sprintf( buf, "../saveroom/SAVE%d", room->vnum );
 

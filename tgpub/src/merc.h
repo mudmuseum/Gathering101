@@ -2979,7 +2979,7 @@ char *	crypt		args( ( const char *key, const char *salt ) );
 
 #if defined(unix)
 #define PLAYER_DIR	"../player/"	/* Player files			*/
-#define NULL_FILE	"/dev/null"	/* To reserve one stream	*/
+#define NULL_FILE	"null.nul"	/* To reserve one stream	*/
 #define NOTE_DIR	"../area/notes/"
 #endif
 
