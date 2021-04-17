@@ -148,7 +148,7 @@ void save_char_obj_backup( CHAR_DATA *ch )
 	    sprintf(buf,"%s Last logged in on %s.\n\r", chlevel, ch->lasttime);
 	else
 	    sprintf(buf,"%s New player logged in on %s.\n\r", chlevel, ch->createtime);
-	fprintf( fp, buf);
+	fprintf( fp, "%s", buf);
     }
     fflush( fp );
     fclose( fp );
@@ -981,7 +981,7 @@ bool load_char_obj( DESCRIPTOR_DATA *d, char *name )
     for( sn=0 ; sn < 8 ; sn++ )
    	 ch->cmbt[sn]			= 0;
     for( sn=0 ; sn < 11 ; sn++ )
-   	 ch->cmbt[sn]			= 0;
+   	 ch->stance[sn]			= 0;
 
     ch->pkill				= 0;
     ch->pdeath				= 0;
@@ -1919,6 +1919,9 @@ void fread_char_old( CHAR_DATA *ch, FILE *fp )
 	    break;
 	}
 
+        dummy = 0;
+        if (dummy == 0) ;
+
 	if ( !fMatch )
 	{
 	    sprintf(buf, "Fread_char: no match. WORD: %s", word); 
@@ -2779,6 +2782,9 @@ void fread_char( CHAR_DATA *ch, FILE *fp )
 	    break;
 	}
 
+        dummy = 0;
+        if (dummy == 0) ;
+
 	if ( !fMatch )
 	{
 	    sprintf(buf, "Fread_char: no match. WORD: %s", word); 
@@ -2997,7 +3003,7 @@ void fwrite_room_save( ROOM_INDEX_DATA *room )
 {
     FILE *fp;
     char buf[MAX_INPUT_LENGTH];
-    int x;
+    int x, sysreturn;
 
     /* 
      * I am using this function to open a temporary
@@ -3032,7 +3038,8 @@ void fwrite_room_save( ROOM_INDEX_DATA *room )
        
     fclose( fp );
     sprintf( buf, "cp ../saveroom/save%d ../saveroom/SAVE%d", room->vnum, room->vnum );
-    system( buf );
+    sysreturn = system( buf );
+    if (sysreturn != 0) ;
     sprintf( buf, "../saveroom/save%d", room->vnum );
     unlink( buf );
     return;
@@ -3201,7 +3208,7 @@ void load_room_obj( )
   FILE *fp;
   char buf[MAX_INPUT_LENGTH];
   int iScan;
-  int x;
+  int x, sysreturn;
   ROOM_INDEX_DATA *room;
 
   fp = NULL;
@@ -3220,7 +3227,8 @@ void load_room_obj( )
       if ( ( fp = fopen( buf, "r" ) ) != NULL )
       {
         sprintf( buf, "cp ../saveroom/save%d ../saveroom/SAVE%d", room->vnum, room->vnum );
-        system( buf );
+        sysreturn = system( buf );
+        if (sysreturn != 0) ;
         fclose( fp );
       }
       sprintf( buf, "../saveroom/SAVE%d", room->vnum );

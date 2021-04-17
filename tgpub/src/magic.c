@@ -43,7 +43,7 @@ void improve_spl( CHAR_DATA *ch, int dtype, int sn )
 {
     if (skill_table[sn].slot)
     {
-    char buf[MAX_INPUT_LENGTH];
+    char buf[MAX_STRING_LENGTH];
     char bufskill[MAX_INPUT_LENGTH];
     char buftype[MAX_INPUT_LENGTH];
     int dice1;
@@ -59,7 +59,7 @@ void improve_spl( CHAR_DATA *ch, int dtype, int sn )
 || dice2>=100)) ch->spl[dtype] += 1;
     else return;
 
-         if (ch->spl[dtype] == 1  ) sprintf(bufskill,"an apprentice of");
+    if      (ch->spl[dtype] == 1  ) sprintf(bufskill,"an apprentice of");
     else if (ch->spl[dtype] == 26 ) sprintf(bufskill,"a student at");
     else if (ch->spl[dtype] == 51 ) sprintf(bufskill,"a scholar at");
     else if (ch->spl[dtype] == 76 ) sprintf(bufskill,"a magus at");
@@ -73,7 +73,7 @@ void improve_spl( CHAR_DATA *ch, int dtype, int sn )
     else if (ch->spl[dtype] == 300) sprintf(bufskill,"completely in tune with");
     else return;
 
-         if (dtype == 0 ) sprintf(buftype,"purple");
+    if      (dtype == 0 ) sprintf(buftype,"purple");
     else if (dtype == 1 ) sprintf(buftype,"red");
     else if (dtype == 2 ) sprintf(buftype,"blue");
     else if (dtype == 3 ) sprintf(buftype,"green");
@@ -169,7 +169,7 @@ int slot_lookup( int slot )
 void say_spell( CHAR_DATA *ch, int sn )
 {
     char buf  [MAX_STRING_LENGTH];
-    char buf2 [MAX_STRING_LENGTH];
+    char buf2 [MAX_STRING_LENGTH*2];
     char colour [MAX_STRING_LENGTH];
 /*  CHAR_DATA *rch; */
     char *pName;
@@ -3541,7 +3541,7 @@ void spell_voodoo( int sn, int level, CHAR_DATA *ch, void *vo )
 	return;
     }
 
-    sprintf(part2,obj->name);
+    sprintf(part2, "%s", obj->name);
 
     if ( str_cmp(part1,part2) )
     {
@@ -4938,7 +4938,7 @@ void spell_major_creation( int sn, int level, CHAR_DATA *ch, void *vo )
     OBJ_DATA *obj;
     char arg1[MAX_INPUT_LENGTH];
     char arg2[MAX_INPUT_LENGTH];
-    char buf[MAX_INPUT_LENGTH];
+    char buf[MAX_INPUT_LENGTH+200];
     char itemkind[10];
     int itemtype;
     int itempower = 0;

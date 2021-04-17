@@ -1516,13 +1516,13 @@ void save_new_creation( CHAR_DATA *ch  )
 { 
   FILE *fp;
   char buf[MAX_INPUT_LENGTH];
-
+  int sysreturn = 0;
     
   sprintf( buf, "cp ../area/%s ../area/backup/%s.%d ", 
 	ch->in_room->area->filename, ch->in_room->area->filename,
 	(int)current_time);
 
-  system( buf );
+  sysreturn = system( buf );
 
   sprintf( buf, "../area/%s", ch->in_room->area->filename );
 
@@ -1542,7 +1542,8 @@ void save_new_creation( CHAR_DATA *ch  )
   fclose( fp );
 
   sprintf( buf, "../area/dos2unix ../area/%s", ch->in_room->area->filename);
-  system( buf );
+  sysreturn = system( buf );
+  if (sysreturn > 0) ;
 }
 
 bool write_area( CHAR_DATA *ch, FILE *fp )
@@ -1551,7 +1552,7 @@ bool write_area( CHAR_DATA *ch, FILE *fp )
 
   sprintf( buf, "#AREA %s %s~\n\n\n", ch->in_room->area->author, 
 					ch->in_room->area->name);
-  fprintf( fp, buf);
+  fprintf( fp, "%s", buf);
   fprintf( fp, "#MOBILES\n" );
   write_mobiles( ch, fp );
   fprintf( fp, "#0\n\n" );
