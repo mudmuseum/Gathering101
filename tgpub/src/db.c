@@ -1322,11 +1322,9 @@ void reset_area( AREA_DATA *pArea, bool fFirstLoad )
     RESET_DATA *pReset;
     CHAR_DATA *mob;
     bool last;
-    int level;
 
     mob 	= NULL;
     last	= TRUE;
-    level	= 0;
     for ( pReset = pArea->reset_first; pReset != NULL; pReset = pReset->next )
     {
 	ROOM_INDEX_DATA *pRoomIndex;
@@ -1356,7 +1354,6 @@ void reset_area( AREA_DATA *pArea, bool fFirstLoad )
 		continue;
 	    }
 
-	    level = URANGE( 0, pMobIndex->level - 2, LEVEL_HERO );
 	    if ( pMobIndex->count >= pReset->arg2 )
 	    {
 		last = FALSE;
@@ -1380,7 +1377,6 @@ void reset_area( AREA_DATA *pArea, bool fFirstLoad )
 		SET_BIT(mob->affected_by, AFF_INFRARED);
 
 	    char_to_room( mob, pRoomIndex );
-	    level = URANGE( 0, mob->level - 2, LEVEL_HERO );
 	    last  = TRUE;
 	    break;
 

@@ -379,7 +379,8 @@ int main( int argc, char **argv )
 	}
     }
 
-    nice(-10);
+    int someval = nice(-10);
+    if (someval > 1) ;
 
     /*
      * Run the game.
@@ -690,7 +691,7 @@ void new_descriptor( int control )
     struct sockaddr_in sock;
 /*    struct hostent *from; */
     int desc;
-    int size;
+    unsigned int size;
 
     size = sizeof(sock);
     getsockname( control, (struct sockaddr *) &sock, &size );
@@ -1606,7 +1607,7 @@ void nanny( DESCRIPTOR_DATA *d, char *argument )
 
 	if (ch->level > 1)
 	{
-	    sprintf(kav,ch->name);
+	    sprintf(kav, "%s", ch->name);
 	    free_char(d->character);
 	    d->character = NULL;
 	    fOld = load_char_obj( d, kav );
@@ -2099,7 +2100,7 @@ void nanny( DESCRIPTOR_DATA *d, char *argument )
 		    }
 		    else
 			write_to_buffer (d,"You haven't written a thing!\n\r",0);
-			write_to_buffer (d, "\n\r(C)ontinue, (V)iew, (P)ost or (F)orget it?\n\r",0);
+		    write_to_buffer (d, "\n\r(C)ontinue, (V)iew, (P)ost or (F)orget it?\n\r",0);
 			
 		    break;
 
@@ -2419,7 +2420,7 @@ void send_to_char_bw( const char *txt, CHAR_DATA *ch )
         return;
 
 
-	write_to_buffer( ch->desc, txt, strlen( txt ) );
+    write_to_buffer( ch->desc, txt, strlen( txt ) );
 
 
     return;
@@ -2456,8 +2457,6 @@ void act( const char *format, CHAR_DATA *ch, const void *arg1, const void *arg2,
     const char *str;
     const char *i;
     char *point;
-           char            *pbuff;
-           char             buffer  [ MAX_STRING_LENGTH*2 ]; 
 
     bool is_ok;
     /*
@@ -2592,7 +2591,6 @@ void act( const char *format, CHAR_DATA *ch, const void *arg1, const void *arg2,
 	*point++ = '\r';
 
 	buf[0]   = UPPER(buf[0]);
-	pbuff		= buffer;
 
 	if (to->desc && (to->desc->connected == CON_PLAYING))
 	    write_to_buffer( to->desc, buf, point - buf );
@@ -2606,8 +2604,6 @@ void act2( const char *format, CHAR_DATA *ch, const void *arg1, const void *arg2
     static char * const he_she	[] = { "it",  "he",  "she" };
     static char * const him_her	[] = { "it",  "him", "her" };
     static char * const his_her	[] = { "its", "his", "her" };
-           char            *pbuff;
-           char             buffer  [ MAX_STRING_LENGTH*2 ];
     char buf[MAX_STRING_LENGTH];
     CHAR_DATA *to;
 
@@ -2743,7 +2739,6 @@ void act2( const char *format, CHAR_DATA *ch, const void *arg1, const void *arg2
 	*point++ = '\r';
 
 	buf[0]   = UPPER(buf[0]);
-	pbuff		= buffer;
 	write_to_buffer( to->desc, buf, point - buf );
     }
     return;

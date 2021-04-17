@@ -60,7 +60,6 @@ bool	status_gain	args( ( CHAR_DATA *ch, CHAR_DATA *victim ) );
 void violence_update( void )
 {
     CHAR_DATA *ch;
-    CHAR_DATA *ch_next;
     CHAR_DATA *victim;
     CHAR_DATA *rch;
     CHAR_DATA *rch_next;
@@ -68,7 +67,6 @@ void violence_update( void )
 
     for ( ch = char_list; ch != NULL; ch = ch->next )
     {
-	ch_next	= ch->next;
 
 	if ( ( victim = ch->fighting ) == NULL || ch->in_room == NULL )
 	    continue;
