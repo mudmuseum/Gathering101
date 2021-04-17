@@ -3219,10 +3219,12 @@ void do_password( CHAR_DATA *ch, char *argument )
 {
     char arg1[MAX_INPUT_LENGTH];
     char arg2[MAX_INPUT_LENGTH];
+    char sha512_salt[MAX_STRING_LENGTH];
     char *pArg;
     char *pwdnew;
     char *p;
     char cEnd;
+    int rounds = 20000;
 
     if ( IS_NPC(ch) )
 	return;
@@ -3293,7 +3295,8 @@ void do_password( CHAR_DATA *ch, char *argument )
     /*
      * No tilde allowed because of player file format.
      */
-    pwdnew = crypt( arg2, ch->name );
+    sprintf(sha512_salt, "$6$rounds=%d$%s$", rounds, ch->name);
+    pwdnew = crypt( arg2, sha512_salt );
     for ( p = pwdnew; *p != '\0'; p++ )
     {
 	if ( *p == '~' )

@@ -1501,7 +1501,9 @@ void nanny( DESCRIPTOR_DATA *d, char *argument )
 	sprintf(kav,"%s trying to connect.", argument);
 	log_string( kav, d->descriptor );
 	fOld = load_char_short( d, argument );
+        log_string( "Finished load_char_short.", d->descriptor );
 	ch   = d->character;
+        log_string( "Finished assigning ch as d->character.", d->descriptor );
 	if ( IS_SET(ch->act, PLR_DENY) )
 	{
 	    sprintf( log_buf, "Denying access to %s@%s.", argument, ch->lasthost );
@@ -1698,6 +1700,10 @@ void nanny( DESCRIPTOR_DATA *d, char *argument )
 	    return;
 	}
 
+        char sha512_salt[MAX_STRING_LENGTH];
+        int  rounds = 20000;
+
+        sprintf(sha512_salt, "$6$rounds=%d$%s$", rounds, ch->name);
 	pwdnew = crypt( argument, ch->name );
 
 	for ( p = pwdnew; *p != '\0'; p++ )
