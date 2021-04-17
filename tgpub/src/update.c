@@ -275,7 +275,7 @@ void mobile_update( void )
 
 	if ( ch->in_room == NULL ) continue;
 
-	if ( ch->hunting != NULL && ch->hunting != '\0' && 
+	if ( ch->hunting != NULL && *ch->hunting != '\0' && 
 	    strlen(ch->hunting) > 1 )
 	{
 	    check_hunt( ch, 0 );

@@ -1217,7 +1217,7 @@ bool spec_clan_guardian(CHAR_DATA *ch)
 {
    DESCRIPTOR_DATA       *d;
    CHAR_DATA             *victim;
-   char                  buf[MAX_STRING_LENGTH];
+   char                  buf[MAX_STRING_LENGTH+200];
    char 	 	 clanname[MAX_STRING_LENGTH];
 
 //   ch->pIndexData->spec_name = str_dup( "spec_clan_guardian");
@@ -1627,12 +1627,6 @@ bool spec_zombie_lord( CHAR_DATA *ch )
     ROOM_INDEX_DATA	*to_room;
     int door;
     int consider 	= 4;
-    bool north_ok 	= TRUE;
-    bool east_ok 	= TRUE;
-    bool south_ok 	= TRUE;
-    bool west_ok 	= TRUE;
-    bool up_ok 		= TRUE;
-    bool down_ok 	= TRUE;
     int countup 	= 6;
     int option;
 
@@ -1842,12 +1836,12 @@ bool spec_zombie_lord( CHAR_DATA *ch )
 	    {
 		switch (door)
 		{
-		    case DIR_NORTH: north_ok = FALSE; countup -= 1; break;
-		    case DIR_SOUTH: south_ok = FALSE; countup -= 1; break;
-		    case DIR_EAST:  east_ok  = FALSE; countup -= 1; break;
-		    case DIR_WEST:  west_ok  = FALSE; countup -= 1; break;
-		    case DIR_UP:    up_ok    = FALSE; countup -= 1; break;
-		    case DIR_DOWN:  down_ok  = FALSE; countup -= 1; break;
+		    case DIR_NORTH: countup -= 1; break;
+		    case DIR_SOUTH: countup -= 1; break;
+		    case DIR_EAST:  countup -= 1; break;
+		    case DIR_WEST:  countup -= 1; break;
+		    case DIR_UP:    countup -= 1; break;
+		    case DIR_DOWN:  countup -= 1; break;
 		}
 	    }
 	}
@@ -2123,12 +2117,6 @@ bool spec_dog( CHAR_DATA *ch )
     EXIT_DATA		*pexit;
     ROOM_INDEX_DATA	*to_room;
     int door;
-    bool north_ok 	= TRUE;
-    bool east_ok 	= TRUE;
-    bool south_ok 	= TRUE;
-    bool west_ok 	= TRUE;
-    bool up_ok 		= TRUE;
-    bool down_ok 	= TRUE;
     int countup 	= 6;
     int option;
     int random = number_range(1,5);
@@ -2265,12 +2253,12 @@ bool spec_dog( CHAR_DATA *ch )
 	    {
 		switch (door)
 		{
-		    case DIR_NORTH: north_ok = FALSE; countup -= 1; break;
-		    case DIR_SOUTH: south_ok = FALSE; countup -= 1; break;
-		    case DIR_EAST:  east_ok  = FALSE; countup -= 1; break;
-		    case DIR_WEST:  west_ok  = FALSE; countup -= 1; break;
-		    case DIR_UP:    up_ok    = FALSE; countup -= 1; break;
-		    case DIR_DOWN:  down_ok  = FALSE; countup -= 1; break;
+		    case DIR_NORTH: countup -= 1; break;
+		    case DIR_SOUTH: countup -= 1; break;
+		    case DIR_EAST:  countup -= 1; break;
+		    case DIR_WEST:  countup -= 1; break;
+		    case DIR_UP:    countup -= 1; break;
+		    case DIR_DOWN:  countup -= 1; break;
 		}
 	    }
 	}
@@ -2352,10 +2340,7 @@ bool spec_decap(CHAR_DATA *ch)
 {
    DESCRIPTOR_DATA       *d;
    CHAR_DATA             *victim;
-   ROOM_INDEX_DATA       *ch_room;
    char               buf  [MAX_STRING_LENGTH]; 
- ch_room = ch->in_room;
-
    
 if (ch->in_room == NULL) return FALSE;
  
