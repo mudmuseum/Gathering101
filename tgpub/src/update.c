@@ -1627,7 +1627,7 @@ void ban_update( void )
     FILE      *fp;
     BAN_DATA  *pban;
 
-    fclose( fpReserve );
+    // fclose( fpReserve );
 
     if ( !( fp = fopen ( BAN_FILE, "w" ) ) )
     {
@@ -1639,7 +1639,7 @@ void ban_update( void )
         fprintf( fp, "%s~\n", pban->name );
 
     fclose( fp );
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
 
     return;
 

@@ -4586,7 +4586,7 @@ void do_finger( CHAR_DATA *ch, char *argument )
 	return;
     }
 
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%sbackup/%s", PLAYER_DIR, capitalize(argument) );
     if ( ( fp = fopen( strsave, "r" ) ) != NULL )
     {
@@ -4705,7 +4705,7 @@ void do_finger( CHAR_DATA *ch, char *argument )
 	bug( "Do_finger: fopen", 0 );
     }
     fclose( fp );
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return;
 }
 
@@ -4716,7 +4716,7 @@ bool char_exists( bool backup, char *argument )
     char buf [MAX_STRING_LENGTH];
     bool found = FALSE;
 
-    fclose( fpReserve );
+    // fclose( fpReserve );
     if (backup)
     	sprintf( buf, "%sbackup/%s", PLAYER_DIR, capitalize( argument ) );
     else
@@ -4726,7 +4726,7 @@ bool char_exists( bool backup, char *argument )
 	found = TRUE;
 	fclose( fp );
     }
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return found;
 }
 

@@ -265,7 +265,7 @@ int	write		args( ( int fd, char *buf, int nbyte ) );
 DESCRIPTOR_DATA *   descriptor_free;	/* Free list for descriptors	*/
 DESCRIPTOR_DATA *   descriptor_list;	/* All open descriptors		*/
 DESCRIPTOR_DATA *   d_next;		/* Next descriptor in loop	*/
-FILE *		    fpReserve;		/* Reserved file handle		*/
+// FILE *		    fpReserve;		/* Reserved file handle		*/
 bool		    god;		/* All new chars are gods!	*/
 bool		    merc_down;		/* Shutdown			*/
 bool		    wizlock;		/* Game is wizlocked		*/
@@ -354,12 +354,12 @@ int main( int argc, char **argv )
 
     /*
      * Reserve one channel for our use.
-     */
+     *
     if ( ( fpReserve = fopen( NULL_FILE, "r" ) ) == NULL )
     {
 	perror( NULL_FILE );
 	exit( 1 );
-    }
+    } */
 
     /*
      * Get the port number.

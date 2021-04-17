@@ -78,7 +78,7 @@ void save_char_obj( CHAR_DATA *ch )
     save_char_obj_backup( ch );
 */
     ch->save_time = current_time;
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%s%s", PLAYER_DIR, capitalize( ch->name ) );
     if ( ( fp = fopen( strsave, "w" ) ) == NULL )
     {
@@ -98,7 +98,7 @@ void save_char_obj( CHAR_DATA *ch )
     }
     fflush( fp );
     fclose( fp );
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     save_char_obj_finger( ch );
     return;
 }
@@ -117,7 +117,7 @@ void save_char_obj_backup( CHAR_DATA *ch )
 	ch = ch->desc->original;
 
     ch->save_time = current_time;
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%sstore/%s", PLAYER_DIR, capitalize(ch->name) );
     if ( ( fp = fopen( strsave, "w" ) ) == NULL )
     {
@@ -152,7 +152,7 @@ void save_char_obj_backup( CHAR_DATA *ch )
     }
     fflush( fp );
     fclose( fp );
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return;
 }
 
@@ -168,7 +168,7 @@ void save_char_obj_finger( CHAR_DATA *ch )
 	ch = ch->desc->original;
 
     ch->save_time = current_time;
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%sbackup/%s", PLAYER_DIR, capitalize(ch->name) );
     if ( ( fp = fopen( strsave, "w" ) ) == NULL )
     {
@@ -198,7 +198,7 @@ void save_char_obj_finger( CHAR_DATA *ch )
     }
     fflush( fp );
     fclose( fp );
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return;
 }
 
@@ -1053,7 +1053,7 @@ bool load_char_obj( DESCRIPTOR_DATA *d, char *name )
     ch->pcdata->exhaustion		= 0;
 
     found = FALSE;
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%s%s", PLAYER_DIR, capitalize( name ) );
     if ( ( fp = fopen( strsave, "r" ) ) != NULL )
     {
@@ -1099,7 +1099,7 @@ bool load_char_obj( DESCRIPTOR_DATA *d, char *name )
 	fclose( fp );
     }
 
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return found;
 }
 
@@ -1323,7 +1323,7 @@ bool load_char_short( DESCRIPTOR_DATA *d, char *name )
 	 ch->pcdata->timer[sn]		= 0;
 
     found = FALSE;
-    fclose( fpReserve );
+    // fclose( fpReserve );
     sprintf( strsave, "%s%s", PLAYER_DIR, capitalize( name ) );
     if ( ( fp = fopen( strsave, "r" ) ) != NULL )
     {
@@ -1365,7 +1365,7 @@ bool load_char_short( DESCRIPTOR_DATA *d, char *name )
 	fclose( fp );
     }
 
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return found;
 }
 
@@ -3213,7 +3213,7 @@ void load_room_obj( )
 
   fp = NULL;
 
-  fclose( fpReserve );
+  // fclose( fpReserve );
   
   
   for ( iScan = 0; iScan < 32000; iScan++ )

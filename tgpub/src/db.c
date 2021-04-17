@@ -2914,7 +2914,7 @@ void append_file( CHAR_DATA *ch, char *file, char *str )
     if ( IS_NPC(ch) || str[0] == '\0' )
 	return;
 
-    fclose( fpReserve );
+    //fclose( fpReserve );
     if ( ( fp = fopen( file, "a" ) ) == NULL )
     {
 	perror( file );
@@ -2927,7 +2927,7 @@ void append_file( CHAR_DATA *ch, char *file, char *str )
 	fclose( fp );
     }
 
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
     return;
 }
 
@@ -2976,13 +2976,13 @@ void bug( const char *str, int param )
     sprintf( buf + strlen(buf), str, param );
     log_string( buf, 0 );
 
-    fclose( fpReserve );
+    // fclose( fpReserve );
     if ( ( fp = fopen( BUG_FILE, "a" ) ) != NULL )
     {
 	fprintf( fp, "%s\n", buf );
 	fclose( fp );
     }
-    fpReserve = fopen( NULL_FILE, "r" );
+    // fpReserve = fopen( NULL_FILE, "r" );
 
     return;
 }
