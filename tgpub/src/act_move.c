@@ -70,10 +70,9 @@ void move_char( CHAR_DATA *ch, int door )
     EXIT_DATA *pexit;
     DESCRIPTOR_DATA *d;
     char buf  [MAX_STRING_LENGTH];
-    char poly [MAX_STRING_LENGTH];
+    char poly [MAX_STRING_LENGTH*3];
     char mount2 [MAX_INPUT_LENGTH];
     char leave [20];
-    int revdoor;
     bool hl_sensed;
 
     if ( door < 0 || door > 5 )
@@ -395,12 +394,12 @@ void move_char( CHAR_DATA *ch, int door )
     char_from_room( ch );
     char_to_room( ch, to_room );
 
-    if      ( door == 0 ) {revdoor = 2;sprintf(buf,"the south");}
-    else if ( door == 1 ) {revdoor = 3;sprintf(buf,"the west");}
-    else if ( door == 2 ) {revdoor = 0;sprintf(buf,"the north");}
-    else if ( door == 3 ) {revdoor = 1;sprintf(buf,"the east");}
-    else if ( door == 4 ) {revdoor = 5;sprintf(buf,"below");}
-    else                  {revdoor = 4;sprintf(buf,"above");}
+    if      ( door == 0 ) { sprintf(buf,"the south");}
+    else if ( door == 1 ) { sprintf(buf,"the west");}
+    else if ( door == 2 ) { sprintf(buf,"the north");}
+    else if ( door == 3 ) { sprintf(buf,"the east");}
+    else if ( door == 4 ) { sprintf(buf,"below");}
+    else                  { sprintf(buf,"above");}
 
     for ( d = descriptor_list; d != NULL; d = d->next )
     {
@@ -717,7 +716,6 @@ void do_enter( CHAR_DATA *ch, char *argument )
     OBJ_DATA *portal;
     OBJ_DATA *portal_next;
     CHAR_DATA *mount;
-    bool found;
 
     argument = one_argument( argument, arg );
 
@@ -801,14 +799,12 @@ void do_enter( CHAR_DATA *ch, char *argument )
     }
     char_from_room(ch);
     char_to_room(ch,pRoomIndex);
-    found = FALSE;
     for ( portal = ch->in_room->contents; portal != NULL; portal = portal_next )
     {
 	portal_next = portal->next_content;
 	if ( ( obj->value[0] == portal->value[3]  )
 	    && (obj->value[3] == portal->value[0]) )
 	{
-	    found = TRUE;
 /* Leave this out for now, as it doesn't seem to work properly. KaVir
 	    if ((portal->value[2] == 2) && (!CAN_WEAR(obj,ITEM_TAKE)))
 	    {
@@ -1082,7 +1078,7 @@ void do_read( CHAR_DATA *ch, char *argument )
 	    sprintf(buf,"%s.\n\r",obj->victpoweruse);
 	buf[0] = UPPER(buf[0]);
 	send_to_char(buf,ch);
-	if (obj->chpoweruse == NULL || obj->chpoweruse == '\0' ||
+	if (obj->chpoweruse == NULL || *obj->chpoweruse == '\0' ||
 	    !str_cmp(obj->chpoweruse,"(null)"))
 	{
 	    if (!are_runes(obj))
@@ -1655,7 +1651,7 @@ void show_page( CHAR_DATA *ch, OBJ_DATA *book, int pnum, bool pagefalse )
 	    send_to_char(buf,ch);
 	    if (!pagefalse)
 	    {
-		if (page->chpoweruse == NULL || page->chpoweruse == '\0' ||
+		if (page->chpoweruse == NULL || *page->chpoweruse == '\0' ||
 			!str_cmp(page->chpoweruse,"(null)"))
 		{
 		    if (!are_runes(page))
@@ -2415,7 +2411,7 @@ void do_train( CHAR_DATA *ch, char *argument )
 {
     char arg1[MAX_STRING_LENGTH];
     char arg2[MAX_STRING_LENGTH];
-    char buf[MAX_STRING_LENGTH];
+    char buf[MAX_STRING_LENGTH*2];
     int *pAbility;
     char *pOutput;
     int cost;
@@ -3458,7 +3454,6 @@ void do_hunt( CHAR_DATA *ch, char *argument )
 void check_hunt( CHAR_DATA *ch, int hunt_counter )
 {
     CHAR_DATA *victim;
-    bool found = FALSE;
     int direction = 0;
     ROOM_INDEX_DATA *in_room;
 
@@ -3480,7 +3475,7 @@ void check_hunt( CHAR_DATA *ch, int hunt_counter )
 	return;
     }
     in_room = ch->in_room;
-    if (ch->hunting == NULL || ch->hunting == '\0' 
+    if (ch->hunting == NULL || *ch->hunting == '\0' 
 	|| strlen(ch->hunting) < 2) return;
   
     if (!IS_NPC(ch) && number_percent() > ch->pcdata->learned[gsn_track])
@@ -3490,11 +3485,11 @@ void check_hunt( CHAR_DATA *ch, int hunt_counter )
 	ch->hunting = str_dup( "" );
 	return;
     }
-    if (check_track(ch,0)) {found = TRUE;direction = ch->in_room->track_dir[0];}
-    else if (check_track(ch,1)) {found = TRUE;direction = ch->in_room->track_dir[1];}
-    else if (check_track(ch,2)) {found = TRUE;direction = ch->in_room->track_dir[2];}
-    else if (check_track(ch,3)) {found = TRUE;direction = ch->in_room->track_dir[3];}
-    else if (check_track(ch,4)) {found = TRUE;direction = ch->in_room->track_dir[4];}
+    if (check_track(ch,0)) { direction = ch->in_room->track_dir[0];}
+    else if (check_track(ch,1)) { direction = ch->in_room->track_dir[1];}
+    else if (check_track(ch,2)) { direction = ch->in_room->track_dir[2];}
+    else if (check_track(ch,3)) { direction = ch->in_room->track_dir[3];}
+    else if (check_track(ch,4)) { direction = ch->in_room->track_dir[4];}
     else if ( ( victim = get_char_room( ch, ch->hunting ) ) == NULL )
     {
 	send_to_char("You cannot sense any trails from this room.\n\r",ch);

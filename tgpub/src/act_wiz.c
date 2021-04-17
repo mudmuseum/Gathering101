@@ -1012,9 +1012,9 @@ void do_ostat( CHAR_DATA *ch, char *argument )
     }
 
     if (obj->questmaker != NULL && strlen(obj->questmaker) > 1)
-	sprintf(nm1,obj->questmaker); else sprintf(nm1,"None");
+	sprintf(nm1, "%s", obj->questmaker); else sprintf(nm1,"None");
     if (obj->questowner != NULL && strlen(obj->questowner) > 1)
-	sprintf(nm2,obj->questowner); else sprintf(nm2,"None");
+	sprintf(nm2, "%s", obj->questowner); else sprintf(nm2,"None");
 
     sprintf( buf, "Name: %s.\n\r",
 	obj->name );
@@ -1943,6 +1943,7 @@ void do_pload( CHAR_DATA *ch, char *argument )
     extract_char(ch, TRUE);
     d->character = NULL;
     fOld = load_char_obj( d, argument );
+    if (fOld) ;
     ch   = d->character;
     ch->next = char_list;
     char_list = ch;
@@ -1962,7 +1963,7 @@ void do_preturn( CHAR_DATA *ch, char *argument )
     if (IS_NPC(ch)) {send_to_char("Huh?\n\r",ch);return;}
 
     if (ch->pload == NULL) {send_to_char("Huh?\n\r",ch);return;}
-    sprintf(arg,ch->pload);
+    sprintf(arg, "%s", ch->pload);
     if (strlen(arg) < 3 || strlen(arg) > 8) 
 	{send_to_char("Huh?\n\r",ch);return;}
 
@@ -1985,6 +1986,7 @@ void do_preturn( CHAR_DATA *ch, char *argument )
     char_list = ch;
 */
     fOld = load_char_obj(d, capitalize(arg));
+    if ( fOld ) ;
     if (ch->in_room != NULL)
     	char_to_room(ch,ch->in_room);
     else
@@ -2850,11 +2852,9 @@ void do_mset( CHAR_DATA *ch, char *argument )
     OBJ_DATA *obj;
     CHAR_DATA *victim;
     int value;
-    int sn;
     int colour;
 
     colour = 0;
-    sn = 0;
 
     sprintf(buf,"%s: Mset %s",ch->name,argument);
     if (ch->level < NO_WATCH) do_watching(ch,buf);
@@ -3124,7 +3124,7 @@ void do_mset( CHAR_DATA *ch, char *argument )
 		victim->pcdata->powers[MPOWER_RUNE0] = colour;
 		victim->class = CLASS_MAGE;
 		}
-		send_to_char("Ok.\n\r", ch);
+	    send_to_char("Ok.\n\r", ch);
 
 	}
 	else if (value == 0)
@@ -4080,7 +4080,7 @@ void do_swho( CHAR_DATA *ch, char *argument )
     char statbuf[MAX_STRING_LENGTH];
     char statbuf2[MAX_STRING_LENGTH];
     char pcdatabuf[MAX_STRING_LENGTH];
-    char buf[MAX_STRING_LENGTH];
+    char buf[MAX_STRING_LENGTH*3];
     char buf2[MAX_STRING_LENGTH];
     DESCRIPTOR_DATA *d;
     int count;
@@ -4929,7 +4929,6 @@ void do_evileye( CHAR_DATA *ch, char *argument )
     char buf[MAX_STRING_LENGTH];
     char arg1[MAX_INPUT_LENGTH];
     char arg2[MAX_INPUT_LENGTH];
-    int value;
  
     smash_tilde( argument );
     argument = one_argument( argument, arg1 );
@@ -4959,7 +4958,6 @@ void do_evileye( CHAR_DATA *ch, char *argument )
 	send_to_char(".\n\r",ch);
         return;
     }
-    value = is_number( arg2 ) ? atoi( arg2 ) : -1;
     if ( !str_cmp( arg1, "action" ) )
     {
 	free_string( ch->poweraction );
@@ -5012,7 +5010,8 @@ void do_evileye( CHAR_DATA *ch, char *argument )
 	if (!IS_SET(ch->spectype,EYE_SPELL) &&
 	    !IS_SET(ch->spectype,EYE_SELFACTION) &&
 	    !IS_SET(ch->spectype,EYE_ACTION)) send_to_char(" None",ch);
-	send_to_char(".\n\r",ch);
+            send_to_char(".\n\r",ch);
+
     }
     return;
 }
