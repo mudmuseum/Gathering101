@@ -1,7 +1,7 @@
 CC      = gcc
 PROF    =
 NOCRYPT = 
-C_FLAGS = -O -Wall -g3 -ggdb -Dbsdi $(PROF) $(NOCRYPT) 
+C_FLAGS = -O -Wno-trigraphs -Wall -g3 -ggdb -Dbsdi $(PROF) $(NOCRYPT) 
 L_FLAGS = -O $(PROF) -lcrypt -lnsl
 
 O_FILES = act_comm.o act_info.o act_move.o act_obj.o act_wiz.o comm.o const.o \
