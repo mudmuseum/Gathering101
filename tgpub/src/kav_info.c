@@ -121,7 +121,7 @@ void skillstance( CHAR_DATA *ch, CHAR_DATA *victim )
 
     stance = victim->stance[0];
     if (stance < 1 || stance > 10) return;
-         if (victim->stance[stance] <= 0  ) sprintf(bufskill,"completely unskilled in");
+    if      (victim->stance[stance] <= 0  ) sprintf(bufskill,"completely unskilled in");
     else if (victim->stance[stance] <= 25 ) sprintf(bufskill,"an apprentice of");
     else if (victim->stance[stance] <= 50 ) sprintf(bufskill,"a trainee of");
     else if (victim->stance[stance] <= 75 ) sprintf(bufskill,"a student of");
@@ -132,7 +132,7 @@ void skillstance( CHAR_DATA *ch, CHAR_DATA *victim )
     else if (victim->stance[stance] <= 199) sprintf(bufskill,"a master of");
     else if (victim->stance[stance] >= 200) sprintf(bufskill,"a grand master of");
     else return;
-         if (stance == STANCE_VIPER   ) sprintf(stancename,"viper"   );
+    if      (stance == STANCE_VIPER   ) sprintf(stancename,"viper"   );
     else if (stance == STANCE_CRANE   ) sprintf(stancename,"crane"   );
     else if (stance == STANCE_CRAB    ) sprintf(stancename,"crab"    );
     else if (stance == STANCE_MONGOOSE) sprintf(stancename,"mongoose");
@@ -176,7 +176,7 @@ void do_spell( CHAR_DATA *ch, char *argument )
 
 void show_spell( CHAR_DATA *ch, int dtype )
 {
-    char buf[MAX_INPUT_LENGTH];
+    char buf[MAX_STRING_LENGTH];
     char bufskill[MAX_INPUT_LENGTH];
 
     if (IS_NPC(ch)) return;
@@ -252,7 +252,6 @@ void do_spy( CHAR_DATA *ch, char *argument )
 {
     ROOM_INDEX_DATA *location;
     char            arg1      [MAX_INPUT_LENGTH];
-    int             door;
 
     argument = one_argument( argument, arg1 );
 
@@ -262,18 +261,12 @@ void do_spy( CHAR_DATA *ch, char *argument )
 	return;
     }
 
-    if      ( !str_cmp( arg1, "n" ) || !str_cmp( arg1, "north" ) )
-	door = 0;
-    else if ( !str_cmp( arg1, "e" ) || !str_cmp( arg1, "east" ) )
-	door = 1;
-    else if ( !str_cmp( arg1, "s" ) || !str_cmp( arg1, "south" ) )
-	door = 2;
-    else if ( !str_cmp( arg1, "w" ) || !str_cmp( arg1, "west" ) )
-	door = 3;
-    else if ( !str_cmp( arg1, "u" ) || !str_cmp( arg1, "up" ) )
-	door = 4;
-    else if ( !str_cmp( arg1, "d" ) || !str_cmp( arg1, "down" ) )
-	door = 5;
+    if      ( !str_cmp( arg1, "n" ) || !str_cmp( arg1, "north" ) )  ;
+    else if ( !str_cmp( arg1, "e" ) || !str_cmp( arg1, "east" ) )   ;
+    else if ( !str_cmp( arg1, "s" ) || !str_cmp( arg1, "south" ) )  ;
+    else if ( !str_cmp( arg1, "w" ) || !str_cmp( arg1, "west" ) )   ;
+    else if ( !str_cmp( arg1, "u" ) || !str_cmp( arg1, "up" ) )     ;
+    else if ( !str_cmp( arg1, "d" ) || !str_cmp( arg1, "down" ) )   ;
     else
     {
 	send_to_char("You can only spy people north, south, east, west, up or down.\n\r", ch);

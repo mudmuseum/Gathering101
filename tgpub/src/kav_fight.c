@@ -120,7 +120,7 @@ void improve_stance( CHAR_DATA *ch )
     else return;
     if (stance == ch->stance[stance]) return;
 
-         if (ch->stance[stance] == 1  ) sprintf(bufskill,"an apprentice of");
+    if      (ch->stance[stance] == 1  ) sprintf(bufskill,"an apprentice of");
     else if (ch->stance[stance] == 26 ) sprintf(bufskill,"a trainee of");
     else if (ch->stance[stance] == 51 ) sprintf(bufskill,"a student of");
     else if (ch->stance[stance] == 76 ) sprintf(bufskill,"fairly experienced in");
@@ -130,7 +130,7 @@ void improve_stance( CHAR_DATA *ch )
     else if (ch->stance[stance] == 176) sprintf(bufskill,"a master of");
     else if (ch->stance[stance] == 200) sprintf(bufskill,"a grand master of");
     else return;
-         if (stance == STANCE_VIPER   ) sprintf(stancename,"viper"   );
+    if      (stance == STANCE_VIPER   ) sprintf(stancename,"viper"   );
     else if (stance == STANCE_CRANE   ) sprintf(stancename,"crane"   );
     else if (stance == STANCE_CRAB    ) sprintf(stancename,"crab"    );
     else if (stance == STANCE_MONGOOSE) sprintf(stancename,"mongoose");
@@ -264,7 +264,7 @@ void do_skill( CHAR_DATA *ch, char *argument )
     if (IS_NPC(ch)) return;
 
     if ( arg[0] == '\0' )
-	sprintf(arg,ch->name);
+	sprintf(arg, "%s", ch->name);
 
     if ( ( victim = get_char_room( ch, arg ) ) == NULL )
     {
@@ -355,7 +355,7 @@ void do_throw( CHAR_DATA *ch, char *argument )
     OBJ_DATA        *obj;
     char            arg1      [MAX_INPUT_LENGTH];
     char            arg2      [MAX_INPUT_LENGTH];
-    char            buf       [MAX_INPUT_LENGTH];
+    char            buf       [MAX_STRING_LENGTH];
     char            revdoor   [MAX_INPUT_LENGTH];
     int             door;
 
@@ -553,7 +553,7 @@ void do_shoot( CHAR_DATA *ch, char *argument )
     OBJ_DATA        *ammo;
     char            arg1      [MAX_INPUT_LENGTH];
     char            arg2      [MAX_INPUT_LENGTH];
-    char            buf       [MAX_INPUT_LENGTH];
+    char            buf       [MAX_STRING_LENGTH];
     char            revdoor   [MAX_INPUT_LENGTH];
     int             door;
     bool	    missed;
@@ -1004,7 +1004,7 @@ void do_fightstyle( CHAR_DATA *ch, char *argument )
 {
     char            arg1     [MAX_INPUT_LENGTH];
     char            arg2     [MAX_INPUT_LENGTH];
-    char            buf      [MAX_INPUT_LENGTH];
+    char            buf      [MAX_INPUT_LENGTH*2];
     int             selection;
     int             value;
 
@@ -2488,7 +2488,7 @@ void special_hurl( CHAR_DATA *ch, CHAR_DATA *victim )
     ROOM_INDEX_DATA *to_room;
     EXIT_DATA       *pexit;
     EXIT_DATA       *pexit_rev;
-    char            buf       [MAX_INPUT_LENGTH];
+    char            buf       [MAX_INPUT_LENGTH*2];
     char            direction [MAX_INPUT_LENGTH];
     int             door;
     int             rev_dir;

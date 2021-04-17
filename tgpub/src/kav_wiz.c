@@ -408,7 +408,7 @@ void do_quest( CHAR_DATA *ch, char *argument )
     char arg1 [MAX_STRING_LENGTH];
     char arg2 [MAX_STRING_LENGTH];
     char arg3 [MAX_STRING_LENGTH];
-    char buf[MAX_STRING_LENGTH]; 
+    char buf[MAX_STRING_LENGTH*2]; 
     char logbuf[MAX_STRING_LENGTH];
     char endchar[3];
     OBJ_DATA *obj = NULL;
