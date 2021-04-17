@@ -52,8 +52,6 @@ void talk_channel( CHAR_DATA *ch, char *argument, int channel, const char *verb 
 {
     char buf[MAX_STRING_LENGTH];
     char buf2[MAX_STRING_LENGTH];
-         char      *pbuff;
-         char       buffer [ 4 * MAX_STRING_LENGTH ];
     DESCRIPTOR_DATA *d;
     int position;
 
@@ -255,7 +253,6 @@ void talk_channel( CHAR_DATA *ch, char *argument, int channel, const char *verb 
 	    	vch->position	= position;
 		continue;
 	    }
-   pbuff	= buffer;
 	    act( buf, ch, argument, vch, TO_VICT );
 	    vch->position	= position;
 	}
@@ -680,11 +677,11 @@ void do_say( CHAR_DATA *ch, char *argument )
 	if (!is_ok) continue;
 
 	if (IS_NPC(ch))
-	    sprintf(name, ch->short_descr);
+	    sprintf(name, "%s", ch->short_descr);
 	else if (!IS_NPC(ch) && IS_AFFECTED(ch,AFF_POLYMORPH))
-	    sprintf(name, ch->morph);
+	    sprintf(name, "%s", ch->morph);
 	else
-	    sprintf(name, ch->name);
+	    sprintf(name, "%s", ch->name);
 	name[0]=UPPER(name[0]);
 	sprintf(poly,"%s %s '%s'.\n\r", name,speaks,argument);
 	send_to_char(poly,to);
@@ -714,7 +711,7 @@ void room_text( CHAR_DATA *ch, char *argument)
 	 || is_in(argument, rt->input)
 	 || all_in(argument, rt->input)) 
 	{
-	    if ( rt->name != NULL         && rt->name != '\0'
+	    if ( rt->name != NULL         && *rt->name != '\0'
 	    &&   str_cmp(rt->name,"all")  && str_cmp(rt->name,"|all*") ) 
 	    	if (!is_in(ch->name, rt->name) ) continue;
 	    mobfound = TRUE;
@@ -801,7 +798,7 @@ void room_text( CHAR_DATA *ch, char *argument)
 		    hop = TRUE;
 		    break;
 		case RT_ACTION:
-		    sprintf(arg,argument);
+		    sprintf(arg, "%s", argument);
 		    argument = one_argument( arg, arg1 );
 		    argument = one_argument( arg, arg2 );
 		    if ( (mob = get_char_room(ch, arg2) ) == NULL ) continue;
@@ -1065,7 +1062,7 @@ void do_emote( CHAR_DATA *ch, char *argument )
     char *plast;
 
     char name   [80];
-    char poly   [MAX_INPUT_LENGTH];
+    char poly   [MAX_STRING_LENGTH+200];
     CHAR_DATA *to;
     bool is_ok;
 
@@ -1130,11 +1127,11 @@ void do_emote( CHAR_DATA *ch, char *argument )
 	if (!is_ok) continue;
 
 	if (IS_NPC(ch))
-	    sprintf(name, ch->short_descr);
+	    sprintf(name, "%s", ch->short_descr);
 	else if (!IS_NPC(ch) && IS_AFFECTED(ch,AFF_POLYMORPH))
-	    sprintf(name, ch->morph);
+	    sprintf(name, "%s", ch->morph);
 	else
-	    sprintf(name, ch->name);
+	    sprintf(name, "%s", ch->name);
 	name[0]=UPPER(name[0]);
 	sprintf(poly,"%s %s\n\r", name,buf);
 	send_to_char(poly,to);
@@ -1154,7 +1151,7 @@ void do_xemote( CHAR_DATA *ch, char *argument )
     char name   [80];
     char you    [80];
     char them   [80];
-    char poly   [MAX_INPUT_LENGTH];
+    char poly   [MAX_STRING_LENGTH+200];
     char arg    [MAX_INPUT_LENGTH];
     CHAR_DATA *to;
     CHAR_DATA *victim;
@@ -1277,11 +1274,11 @@ oldarg = argument;
 	if (!is_ok) continue;
 
 	if (IS_NPC(ch))
-	    sprintf(name, ch->short_descr);
+	    sprintf(name, "%s", ch->short_descr);
 	else if (!IS_NPC(ch) && IS_AFFECTED(ch,AFF_POLYMORPH))
-	    sprintf(name, ch->morph);
+	    sprintf(name, "%s", ch->morph);
 	else
-	    sprintf(name, ch->name);
+	    sprintf(name, "%s", ch->name);
 	name[0]=UPPER(name[0]);
 	sprintf(poly,"%s %s\n\r", name,buf);
 	send_to_char(poly,to);

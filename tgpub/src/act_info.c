@@ -454,7 +454,7 @@ void show_char_to_char_0( CHAR_DATA *victim, CHAR_DATA *ch )
                     if (victim->pcdata->stats[UNI_GEN] == 2)
                                         strcat( buf, "(Demon Lord) " );
                     else                strcat( buf, "(Demon) " );
-                                        break;
+                    break;
                 case CLASS_HIGHLANDER:  strcat( buf, "(Highlander) " );
                                         break;
 		case CLASS_MAGE:
@@ -464,7 +464,7 @@ void show_char_to_char_0( CHAR_DATA *victim, CHAR_DATA *ch )
                                         strcat( buf,"(Mage) " );
                     else if (victim->level == LEVEL_ARCHMAGE)
                                         strcat( buf,"(Archmage) " );
-                                        break;
+                    break;
         }
     }
 
@@ -919,7 +919,6 @@ void do_look( CHAR_DATA *ch, char *argument )
     ROOM_INDEX_DATA *location;
     char *pdesc;
     int door;
-    bool found;
 
     if ( ch->desc == NULL && (wizard = ch->wizard) == NULL) return;
 
@@ -994,7 +993,7 @@ void do_look( CHAR_DATA *ch, char *argument )
 	else if ( ( !IS_NPC(ch) && !IS_SET(ch->act, PLR_BRIEF) ) &&
 		( arg1[0] == '\0' || !str_cmp( arg1, "auto") ) )
 	{
-	    if (strlen(ch->hunting) > 2 && ch->hunting != NULL && ch->hunting != '\0')
+	    if (strlen(ch->hunting) > 2 && ch->hunting != NULL && *ch->hunting != '\0')
 		;
 	    else 
 		send_to_char( ch->in_room->description, ch );
@@ -1061,14 +1060,12 @@ void do_look( CHAR_DATA *ch, char *argument )
 	    char_from_room(ch);
 	    char_to_room(ch,pRoomIndex);
 
-	    found = FALSE;
 	    for ( portal = ch->in_room->contents; portal != NULL; portal = portal_next )
 	    {
 		portal_next = portal->next_content;
 		if ( ( obj->value[0] == portal->value[3]  )
 		    && (obj->value[3] == portal->value[0]) )
 		{
-		    found = TRUE;
 		    if (IS_AFFECTED(ch, AFF_SHADOWPLANE) &&
 			!IS_SET(portal->extra_flags, ITEM_SHADOWPLANE) )
 		    {
@@ -1422,7 +1419,7 @@ void do_exits( CHAR_DATA *ch, char *argument )
 
 void do_score( CHAR_DATA *ch, char *argument )
 {
-    char buf[MAX_STRING_LENGTH];
+    char buf[MAX_STRING_LENGTH*3];
     char ss1[MAX_STRING_LENGTH];
     char ss2[MAX_STRING_LENGTH];
     int a_c = char_ac(ch);
@@ -1915,11 +1912,11 @@ void do_help( CHAR_DATA *ch, char *argument )
 void do_who( CHAR_DATA *ch, char *argument )
 {
     char temp[MAX_STRING_LENGTH];
-    char buf[MAX_STRING_LENGTH];
+    char buf[MAX_STRING_LENGTH*5];
     char buf2[MAX_STRING_LENGTH];
     char kav[MAX_STRING_LENGTH];
     char legends[MAX_STRING_LENGTH];
-    char legendc[MAX_STRING_LENGTH];
+    char legendc[MAX_STRING_LENGTH*2];
     char nametitle[MAX_STRING_LENGTH];
     char openb[5];
     char closeb[5];
@@ -1927,7 +1924,6 @@ void do_who( CHAR_DATA *ch, char *argument )
     DESCRIPTOR_DATA *d;
     int iLevelLower;
     int iLevelUpper;
-    int nNumber;
     int nMatch;
     bool fClassRestrict;
     bool fImmortalOnly;
@@ -1951,7 +1947,6 @@ void do_who( CHAR_DATA *ch, char *argument )
     /*
      * Parse arguments.
      */
-    nNumber = 0;
     for ( ;; )
     {
 	char arg[MAX_STRING_LENGTH];
@@ -2013,7 +2008,7 @@ void do_who( CHAR_DATA *ch, char *argument )
     for ( d = descriptor_list; d != NULL; d = d->next )
     {
 	CHAR_DATA *wch;
-	char class[12] = " ";
+	char class[24] = " ";
 
 	/*
 	 * Check for match against restrictions.
@@ -2328,7 +2323,6 @@ void do_inventory( CHAR_DATA *ch, char *argument )
     OBJ_DATA *portal_next;
     ROOM_INDEX_DATA *pRoomIndex;
     ROOM_INDEX_DATA *location;
-    bool found;
 
     if (!IS_NPC(ch) && IS_HEAD(ch,LOST_HEAD))
         {send_to_char( "You are not a container.\n\r", ch ); return;}
@@ -2353,14 +2347,12 @@ void do_inventory( CHAR_DATA *ch, char *argument )
 	    char_from_room(ch);
 	    char_to_room(ch,pRoomIndex);
 
-	    found = FALSE;
 	    for ( portal = ch->in_room->contents; portal != NULL; portal = portal_next )
 	    {
 		portal_next = portal->next_content;
 		if ( ( obj->value[0] == portal->value[3]  )
 		    && (obj->value[3] == portal->value[0]) )
 		{
-		    found = TRUE;
 		    if (IS_AFFECTED(ch, AFF_SHADOWPLANE) &&
 			!IS_SET(portal->extra_flags, ITEM_SHADOWPLANE) )
 		    {
@@ -2848,7 +2840,7 @@ void do_description( CHAR_DATA *ch, char *argument )
     }
 
     send_to_char( "Your description is:\n\r", ch );
-    sprintf(bugbuf, "%d\r\n", strlen(ch->description));
+    sprintf(bugbuf, "%ld\r\n", strlen(ch->description));
     send_to_char( bugbuf , ch);
     send_to_char( ch->description ? ch->description : "(None).\n\r", ch );
     return;
