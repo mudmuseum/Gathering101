@@ -3495,7 +3495,7 @@ void interpret( CHAR_DATA *ch, char *argument )
 /*  ROOMTEXT_DATA *rt;
     char kavirarg[MAX_INPUT_LENGTH]; */
     char arg[MAX_STRING_LENGTH];
-    char argu[MAX_STRING_LENGTH];
+    char argu[MAX_STRING_LENGTH*3];
     char command[MAX_STRING_LENGTH];
     char logline[MAX_STRING_LENGTH];
     int cmd;
@@ -4312,8 +4312,9 @@ void do_disable (CHAR_DATA *ch, char *argument)
     /* command given */
     /* First check if it is one of the disabled commands */
     for (p = disabled_first; p ; p = p->next)
-	if (!str_cmp(argument, p->command->name)) break;
-	if (p) /* this command is disabled */
+	if (!str_cmp(argument, p->command->name)) 
+            break;
+    if (p) /* this command is disabled */
 	{
 	/* Optional: The level of the imm to enable the command must equal
 		or exceed level of the one that disabled it */
@@ -4329,7 +4330,7 @@ void do_disable (CHAR_DATA *ch, char *argument)
 	    else /* Find the node before this one */
 	    {
 		for (q = disabled_first; q->next != p; q = q->next); /* empty for */
-		    q->next = p->next;
+		q->next = p->next;
 	    }
 		
 	    free_string (p->disabled_by); /* free name of disabler */

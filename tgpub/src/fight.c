@@ -157,14 +157,13 @@ void multi_hit( CHAR_DATA *ch, CHAR_DATA *victim, int dt )
     int	      sn;
     int	      level;
     int       chance;
-    int       unarmed;
     int       wieldorig = 0;
     int       wieldtype = 0;
     int       maxcount;
     int       countup;
 
-    if( !break_hold_person)
-      send_to_char("You struggle but cannot break free from the spell you are under!\n\r", ch );
+//    if( !break_hold_person)
+//      send_to_char("You struggle but cannot break free from the spell you are under!\n\r", ch );
 
     if( is_affected( ch, gsn_hold_person ) )
       return;
@@ -262,7 +261,6 @@ void multi_hit( CHAR_DATA *ch, CHAR_DATA *victim, int dt )
 	}
     }
 
-    unarmed = 0;
 
     one_hit( ch, victim, dt, wieldtype );
 
@@ -614,7 +612,7 @@ void one_hit( CHAR_DATA *ch, CHAR_DATA *victim, int dt, int handtype)
     if ( dam <= 0 )
 	dam = 1;
 
-        damage( ch, victim, dam, dt );
+    damage( ch, victim, dam, dt );
 
     tail_chain( );
     if (!is_safe(ch,victim))
@@ -2135,7 +2133,6 @@ void group_gain( CHAR_DATA *ch, CHAR_DATA *victim )
 {
     char buf[MAX_STRING_LENGTH];
     CHAR_DATA *gch;
-    CHAR_DATA *lch;
     CHAR_DATA *mount;
     int xp;
     int members;
@@ -2159,8 +2156,6 @@ void group_gain( CHAR_DATA *ch, CHAR_DATA *victim )
 	bug( "Group_gain: members.", members );
 	members = 1;
     }
-
-    lch = (ch->leader != NULL) ? ch->leader : ch;
 
     for ( gch = ch->in_room->people; gch != NULL; gch = gch->next_in_room )
     {
@@ -2208,9 +2203,6 @@ int xp_compute( CHAR_DATA *gch, CHAR_DATA *victim )
 {
     int align;
     int xp;
-    int extra;
-    int level;
-    int number;
     int vnum;
     int victim_level; /* put to stop mass exp give outs Rotain */
 
@@ -2271,9 +2263,6 @@ int xp_compute( CHAR_DATA *gch, CHAR_DATA *victim )
      *   -1/8 for each target over  'par' (down to -100%)
      *   +1/8 for each target under 'par' (  up to + 25%)
      */
-    level  = URANGE( 0, victim_level, MAX_LEVEL - 1 );
-    number = UMAX( 1, kill_table[level].number );
-    extra  = victim->pIndexData->killed - kill_table[level].killed / number;
 /*  xp    -= xp * URANGE( -2, extra, 8 ) / 8;
     xp    -= xp * URANGE( -2, extra, 6 ) / 8; */
 
@@ -2318,6 +2307,8 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
     };
 
     char buf1[512], buf2[512], buf3[512];
+    char bufmgr[MAX_STRING_LENGTH];
+    char bufmgr2[MAX_STRING_LENGTH];
     const char *vs;
     const char *vp;
     const char *attack;
@@ -2325,6 +2316,8 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
     int damp;
     int bodyloc;
     bool critical = FALSE;
+    bool bufmgr_use = FALSE;
+    bool bufmgr2_use = FALSE;
     char punct;
 
          if ( dam ==   0 ) { vs = " miss";	vp = " misses";		}
@@ -2414,14 +2407,27 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	    }
         }
 
-	if ( !IS_NPC(ch) && ch->pcdata->legend >= 1 )
-	    sprintf(buf2, "%s (%d)", buf2, dam);
-	if (!IS_NPC(victim) && victim->pcdata->legend >= 1 )
-	    sprintf(buf3, "%s [%d]", buf3, dam);
+	if ( !IS_NPC(ch) && ch->pcdata->legend >= 1 ) {
+	    sprintf(bufmgr, "%s (%d)", buf2, dam);
+            bufmgr_use = TRUE;
+        }
+	if (!IS_NPC(victim) && victim->pcdata->legend >= 1 ) {
+	    sprintf(bufmgr2, "%s [%d]", buf3, dam);
+            bufmgr2_use = TRUE;
+        }
 
         act( buf1, ch, NULL, victim, TO_NOTVICT );
-        act( buf2, ch, NULL, victim, TO_CHAR );
-        act( buf3, ch, NULL, victim, TO_VICT );
+
+        if (bufmgr_use)
+            act( bufmgr, ch, NULL, victim, TO_CHAR );
+        else
+            act( buf2, ch, NULL, victim, TO_CHAR );
+
+        if (bufmgr2_use)
+            act ( bufmgr2, ch, NULL, victim, TO_VICT);
+        else
+            act( buf3, ch, NULL, victim, TO_VICT );
+
 	if (critical) critical_hit(ch,victim,dt,dam);
 	return;
     }
@@ -2485,7 +2491,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	attack  = attack_table[0];
     }
 
-    if ( attack == "slash" || attack == "slice" )
+    if ( !str_cmp(attack, "slash") || !str_cmp(attack, "slice" ))
     {
 	damp=number_range(1,8);
 	if ( damp == 1 )
@@ -2613,7 +2619,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	    }
 	}
     }
-    else if ( attack == "stab" || attack == "pierce" )
+    else if ( !str_cmp(attack, "stab") || !str_cmp(attack, "pierce" ))
     {
 	damp=number_range(1,5);
 	if ( damp == 1 )
@@ -2654,7 +2660,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 		SET_BIT(victim->loc_hp[0],LOST_EYE_L);
 	}
     }
-    else if ( attack == "blast" || attack == "pound" || attack == "crush" )
+    else if ( !str_cmp(attack, "blast") || !str_cmp(attack, "pound") || !str_cmp(attack, "crush" ))
     {
 	damp=number_range(1,3);
 	bodyloc = 0;
@@ -2712,7 +2718,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	    }
 	}
     }
-    else if ( !IS_NPC( ch ) && (attack == "bite" ||IS_VAMPAFF(ch,VAM_FANGS)))
+    else if ( !IS_NPC( ch ) && (!str_cmp(attack, "bite") ||IS_VAMPAFF(ch,VAM_FANGS)))
     {
 	act("You sink your teeth into $N's throat and tear out $S jugular vein.\n\rYou wipe the blood from your chin with one hand.", ch, NULL, victim, TO_CHAR);
 	act("$n sink $s teeth into $N's throat and tears out $S jugular vein.\n\r$n wipes the blood from $s chin with one hand.", ch, NULL, victim, TO_NOTVICT);
@@ -2723,7 +2729,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	if (!IS_BLEEDING(victim,BLEEDING_THROAT))
 	    SET_BIT(victim->loc_hp[6],BLEEDING_THROAT);
     }
-    else if ( !IS_NPC(ch) && (attack == "claw" || IS_VAMPAFF(ch,VAM_CLAWS)))
+    else if ( !IS_NPC(ch) && (!str_cmp(attack, "claw") || IS_VAMPAFF(ch,VAM_CLAWS)))
     {
 	damp=number_range(1,2);
 	if ( damp == 1 )
@@ -2771,7 +2777,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	    }
 	}
     }
-    else if ( attack == "whip" )
+    else if ( !str_cmp(attack, "whip" ))
     {
 	act("You entangle $N around the neck, and squeeze the life out of $s.", ch, NULL, victim, TO_CHAR);
 	act("$n entangle $N around the neck, and squeezes the life out of $s.", ch, NULL, victim, TO_NOTVICT);
@@ -2779,7 +2785,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim, int dam, int dt )
 	if (!IS_BODY(victim,BROKEN_NECK))
 	    SET_BIT(victim->loc_hp[1],BROKEN_NECK);
     }
-    else if ( attack == "suck" || attack == "grep" )
+    else if ( !str_cmp(attack, "suck") || !str_cmp(attack, "grep" ))
     {
 	act("You place your weapon on $N's head and suck out $S brains.", ch, NULL, victim, TO_CHAR);
 	act("$n places $s weapon on $N's head and suck out $S brains.", ch, NULL, victim, TO_NOTVICT);
@@ -3598,7 +3604,7 @@ void do_hurl( CHAR_DATA *ch, char *argument )
     ROOM_INDEX_DATA *to_room;
     EXIT_DATA       *pexit;
     EXIT_DATA       *pexit_rev;
-    char            buf       [MAX_INPUT_LENGTH];
+    char            buf       [MAX_STRING_LENGTH];
     char            direction [MAX_INPUT_LENGTH];
     char            arg1      [MAX_INPUT_LENGTH];
     char            arg2      [MAX_INPUT_LENGTH];
@@ -4405,7 +4411,7 @@ void crack_head( CHAR_DATA *ch, OBJ_DATA *obj, char *argument )
 	if ( ( pMobIndex = get_mob_index( 30002 ) ) == NULL ) return;
 	victim = create_mobile( pMobIndex );
 
-	sprintf( buf, capitalize(arg2) );
+	sprintf( buf, "%s", capitalize(arg2) );
 	free_string( victim->short_descr );
 	victim->short_descr = str_dup( buf );
 
@@ -4457,7 +4463,7 @@ void do_voodoo( CHAR_DATA *ch, char *argument )
 	return;
     }
 
-    sprintf(part2,obj->name);
+    sprintf(part2, "%s", obj->name);
     sprintf(part1,"%s voodoo doll",victim->name);
 
     if ( str_cmp(part1,part2) )

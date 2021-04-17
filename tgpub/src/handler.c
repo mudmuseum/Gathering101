@@ -494,9 +494,7 @@ bool is_affected( CHAR_DATA *ch, int sn )
 void affect_join( CHAR_DATA *ch, AFFECT_DATA *paf )
 {
     AFFECT_DATA *paf_old;
-    bool found;
 
-    found = FALSE;
     for ( paf_old = ch->affected; paf_old != NULL; paf_old = paf_old->next )
     {
 	if ( paf_old->type == paf->type )
@@ -898,7 +896,7 @@ void equip_char( CHAR_DATA *ch, OBJ_DATA *obj, int iWear )
     	if ( chch->desc != ch->desc) return;
     }
 
-    if (obj->chpoweron != NULL && obj->chpoweron != '\0'
+    if (obj->chpoweron != NULL && *obj->chpoweron != '\0'
 	&& str_cmp(obj->chpoweron,"(null)")
 	&& !IS_SET(obj->spectype, SITEM_TELEPORTER)
 	&& !IS_SET(obj->spectype, SITEM_TRANSPORTER) )
@@ -907,7 +905,7 @@ void equip_char( CHAR_DATA *ch, OBJ_DATA *obj, int iWear )
 	    if (IS_SET(obj->spectype, SITEM_ACTION))
 		kavitem(str_dup(obj->chpoweron),ch,obj,NULL,TO_ROOM);
 	}
-    if (obj->victpoweron != NULL && obj->victpoweron != '\0'
+    if (obj->victpoweron != NULL && *obj->victpoweron != '\0'
 	&& str_cmp(obj->victpoweron,"(null)")
 	&& !IS_SET(obj->spectype, SITEM_ACTION)
 	&& !IS_SET(obj->spectype, SITEM_TELEPORTER)
@@ -1141,7 +1139,7 @@ void unequip_char( CHAR_DATA *ch, OBJ_DATA *obj )
 
     if (!IS_NPC(ch) && (ch->desc != NULL && ch->desc->connected != CON_PLAYING)) return;
 
-    if (obj->chpoweroff != NULL && obj->chpoweroff != '\0'
+    if (obj->chpoweroff != NULL && *obj->chpoweroff != '\0'
 	&& str_cmp(obj->chpoweroff,"(null)")
 	&& !IS_SET(obj->spectype, SITEM_TELEPORTER)
 	&& !IS_SET(obj->spectype, SITEM_TRANSPORTER) )
@@ -1150,7 +1148,7 @@ void unequip_char( CHAR_DATA *ch, OBJ_DATA *obj )
 	    if (IS_SET(obj->spectype, SITEM_ACTION))
 		kavitem(str_dup(obj->chpoweroff),ch,obj,NULL,TO_ROOM);
 	}
-    if (obj->victpoweroff != NULL && obj->victpoweroff != '\0'
+    if (obj->victpoweroff != NULL && *obj->victpoweroff != '\0'
 	&& str_cmp(obj->victpoweroff,"(null)")
 	&& !IS_SET(obj->spectype, SITEM_ACTION)
 	&& !IS_SET(obj->spectype, SITEM_TELEPORTER)
