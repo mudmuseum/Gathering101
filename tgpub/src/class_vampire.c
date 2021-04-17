@@ -664,7 +664,7 @@ void do_tradition( CHAR_DATA *ch, char *argument )
     char      arg4 [MAX_INPUT_LENGTH];
     char      arg5 [MAX_INPUT_LENGTH];
     char      arg6 [MAX_INPUT_LENGTH];
-    char      buf  [MAX_INPUT_LENGTH];
+    char      buf  [MAX_STRING_LENGTH];
     char      buf2 [MAX_INPUT_LENGTH];
     char      buf3 [MAX_INPUT_LENGTH];
 
@@ -1782,7 +1782,7 @@ void do_feed( CHAR_DATA *ch, char *argument )
 {
     CHAR_DATA *victim;
     char      arg [MAX_INPUT_LENGTH];
-    char      buf [MAX_INPUT_LENGTH];
+    char      buf [MAX_STRING_LENGTH];
     char      bufch [MAX_INPUT_LENGTH];
     char      bufvi [MAX_INPUT_LENGTH];
     int       blood;
@@ -1825,10 +1825,10 @@ void do_feed( CHAR_DATA *ch, char *argument )
     ch->pcdata->condition[COND_THIRST] -= (blood * 2);
     victim->pcdata->condition[COND_THIRST] += blood;
 
-    if (IS_AFFECTED(ch,AFF_POLYMORPH)) sprintf(bufch,ch->morph);
-    else sprintf(bufch,ch->name);
-    if (IS_AFFECTED(victim,AFF_POLYMORPH)) sprintf(bufvi,victim->morph);
-    else sprintf(bufvi,victim->name);
+    if (IS_AFFECTED(ch,AFF_POLYMORPH)) sprintf(bufch, "%s", ch->morph);
+    else sprintf(bufch, "%s", ch->name);
+    if (IS_AFFECTED(victim,AFF_POLYMORPH)) sprintf(bufvi, "%s", victim->morph);
+    else sprintf(bufvi, "%s", victim->name);
     sprintf(buf,"You cut open your wrist and feed some blood to %s.",bufvi);
     act(buf,ch,NULL,victim,TO_CHAR);
     sprintf(buf,"%s cuts open $s wrist and feeds some blood to %s.",bufch,bufvi);

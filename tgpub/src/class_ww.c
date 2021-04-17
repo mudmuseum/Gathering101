@@ -419,7 +419,7 @@ void do_tribe( CHAR_DATA *ch, char *argument )
 	if ( !IS_CLASS(gch, CLASS_WEREWOLF) ) continue;
 	if ( strlen(gch->clan) > 16) continue;
 	if ( gch->clan != NULL && strlen(gch->clan) > 1 )
-	    sprintf(clan,gch->clan);
+	    sprintf(clan, "%s", gch->clan);
 	else if ( gch->pcdata->stats[UNI_GEN] == 1 )
 	    sprintf(clan,"All");
 	else
@@ -444,7 +444,7 @@ void do_bloodline( CHAR_DATA *ch, char *argument )
     char      gen2 [MAX_INPUT_LENGTH];
     char      gen3 [MAX_INPUT_LENGTH];
     char      gen4 [MAX_INPUT_LENGTH];
-    char      buf  [MAX_STRING_LENGTH];
+    char      buf  [MAX_STRING_LENGTH*2];
     char      buf2 [MAX_STRING_LENGTH];
     char   auspice [MAX_STRING_LENGTH];
 

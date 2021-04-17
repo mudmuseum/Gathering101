@@ -1050,7 +1050,6 @@ void adv_spell_damage( CHAR_DATA *ch, OBJ_DATA *book, OBJ_DATA *page, char *argu
     bool victim_target = FALSE;
     bool global_target = FALSE;
     bool next_page = FALSE;
-    bool parameter = FALSE;
     bool not_caster = FALSE;
     bool no_players = FALSE;
     bool cast_message = FALSE;
@@ -1115,7 +1114,7 @@ void adv_spell_damage( CHAR_DATA *ch, OBJ_DATA *book, OBJ_DATA *page, char *argu
     if (IS_SET(page->spectype, ADV_VICTIM_TARGET)) victim_target = TRUE;
     if (IS_SET(page->spectype, ADV_GLOBAL_TARGET)) global_target = TRUE;
     if (IS_SET(page->spectype, ADV_NEXT_PAGE    )) next_page     = TRUE;
-    if (IS_SET(page->spectype, ADV_PARAMETER    )) parameter     = TRUE;
+    if (IS_SET(page->spectype, ADV_PARAMETER    )) ;
     if (IS_SET(page->spectype, ADV_NOT_CASTER   )) not_caster    = TRUE;
     if (IS_SET(page->spectype, ADV_NO_PLAYERS   )) no_players    = TRUE;
     if (IS_SET(page->spectype, ADV_REVERSED     )) reversed      = TRUE;
@@ -1388,13 +1387,11 @@ void adv_spell_affect( CHAR_DATA *ch, OBJ_DATA *book, OBJ_DATA *page, char *argu
     bool object_target = FALSE;
     bool global_target = FALSE;
     bool next_page = FALSE;
-    bool parameter = FALSE;
     bool not_caster = FALSE;
     bool no_players = FALSE;
     bool cast_message = FALSE;
     bool message_one = FALSE;
     bool message_two = FALSE;
-    bool is_reversed = FALSE;
 
     if (ch->mana < mana_cost)
     {send_to_char("You have insufficient mana to chant this spell.\n\r",ch);return;}
@@ -1443,11 +1440,11 @@ if (ch->pcdata->powers[MAGE_CHAIN] >= 5)
     if (IS_SET(page->spectype, ADV_OBJECT_TARGET)) object_target = TRUE;
     if (IS_SET(page->spectype, ADV_GLOBAL_TARGET)) global_target = TRUE;
     if (IS_SET(page->spectype, ADV_NEXT_PAGE    )) next_page     = TRUE;
-    if (IS_SET(page->spectype, ADV_PARAMETER    )) parameter     = TRUE;
+    if (IS_SET(page->spectype, ADV_PARAMETER    )) ;
     if (IS_SET(page->spectype, ADV_NOT_CASTER   )) not_caster    = TRUE;
     if (IS_SET(page->spectype, ADV_NO_PLAYERS   )) no_players    = TRUE;
     if (IS_SET(page->spectype, ADV_REVERSED     )) 
-	{is_reversed = TRUE;bonuses = 0 - bonuses;}
+	{ bonuses = 0 - bonuses; }
         if (next_page)        ch->pcdata->powers[MAGE_CHAIN] += 1;
        if (IS_SET(ch->in_room->room_flags, ROOM_NO_TELEPORT) && IS_SET(page->spectype,
 ADV_OBJECT_TARGET) && IS_SET(page->spectype, ADV_REVERSED))
@@ -1686,9 +1683,6 @@ void adv_spell_action( CHAR_DATA *ch, OBJ_DATA *book, OBJ_DATA *page, char *argu
     bool second_object = FALSE;
     bool global_target = FALSE;
     bool next_page = FALSE;
-    bool parameter = FALSE;
-    bool not_caster = FALSE;
-    bool no_players = FALSE;
     bool cast_message = FALSE;
     bool message_one = FALSE;
     bool message_two = FALSE;
@@ -1745,9 +1739,9 @@ if (ch->pcdata->powers[MAGE_CHAIN] >= 5)
     if (IS_SET(page->spectype, ADV_OBJECT_TARGET)) object_target = TRUE;
     if (IS_SET(page->spectype, ADV_GLOBAL_TARGET)) global_target = TRUE;
     if (IS_SET(page->spectype, ADV_NEXT_PAGE    )) next_page     = TRUE;
-    if (IS_SET(page->spectype, ADV_PARAMETER    )) parameter     = TRUE;
-    if (IS_SET(page->spectype, ADV_NOT_CASTER   )) not_caster    = TRUE;
-    if (IS_SET(page->spectype, ADV_NO_PLAYERS   )) no_players    = TRUE;
+    if (IS_SET(page->spectype, ADV_PARAMETER    )) ;
+    if (IS_SET(page->spectype, ADV_NOT_CASTER   )) ;
+    if (IS_SET(page->spectype, ADV_NO_PLAYERS   )) ;
     if (IS_SET(page->spectype, ADV_SECOND_VICTIM)) second_victim = TRUE;
     if (IS_SET(page->spectype, ADV_SECOND_OBJECT)) second_object = TRUE;
     if (IS_SET(page->spectype, ADV_REVERSED     )) is_reversed   = TRUE;

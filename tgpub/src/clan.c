@@ -697,7 +697,7 @@ void do_scry( CHAR_DATA *ch, char *argument )
     if (!IS_ITEMAFF(ch, ITEMA_VISION) && IS_CLASS(ch, CLASS_VAMPIRE))
 	ch->pcdata->condition[COND_THIRST] -= number_range(15,25);
 
-    	if (!IS_NPC(victim) 
+    if (!IS_NPC(victim) 
 	&& IS_IMMUNE(victim,IMM_SHIELDED) 
 	&& !IS_ITEMAFF(ch, ITEMA_VISION) 
 	&& (IS_CLASS(victim, CLASS_VAMPIRE) || IS_CLASS(victim, CLASS_WEREWOLF)))
@@ -793,7 +793,7 @@ void do_readaura( CHAR_DATA *ch, char *argument )
     if (!IS_ITEMAFF(ch, ITEMA_VISION))
 	ch->pcdata->condition[COND_THIRST] -= number_range(40,50);
 
-    	if (!IS_NPC(victim) 
+    if (!IS_NPC(victim) 
 	&& IS_IMMUNE(victim,IMM_SHIELDED) 
 	&& !IS_ITEMAFF(ch, ITEMA_VISION) 
 	&& (IS_CLASS(victim, CLASS_VAMPIRE) || IS_CLASS(victim, CLASS_WEREWOLF)))
@@ -1308,7 +1308,7 @@ void reg_mend( CHAR_DATA *ch )
 void do_upkeep( CHAR_DATA *ch, char *argument )
 {
     char      arg [MAX_INPUT_LENGTH];
-    char      buf [MAX_INPUT_LENGTH];
+    char      buf [MAX_INPUT_LENGTH*2];
     char      buf2 [MAX_INPUT_LENGTH];
 
     argument = one_argument( argument, arg );
